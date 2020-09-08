@@ -81,7 +81,7 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 写	寫	xiě	to write; to compose	deck#2	due@2020-09-09 18:41:59
 月	月	yuè	moon; month; flesh (radical)	deck#4	due@2020-10-08 20:41:46
 号	號	hào	number; day of a month	deck#2	due@2020-09-09 18:43:40
-狗	狗	gǒu	dog
+狗	狗	gǒu	dog	deck#2	due@2020-09-09 21:48:09
 岁	歲	suì	years old; age	deck#2	due@2020-09-09 18:43:31
 看见	看見	kànjiàn	see; catch sight of	deck#2	due@2020-09-09 18:38:47
 打电话	打電話	dǎ diànhuà	make a phone call	deck#3	due@2020-09-15 20:42:43
@@ -97,7 +97,7 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 块	塊	kuài	lump; piece; sum of money	deck#3	due@2020-09-15 20:56:01
 女儿	女兒	nǚ'ér	daughter	deck#2	due@2020-09-09 18:42:59
 小姐	小姐	xiǎojie	young lady; miss; Ms.	deck#2	due@2020-09-09 20:57:01
-衣服	衣服	yīfu	clothes
+衣服	衣服	yīfu	clothes	deck#2	due@2020-09-09 21:48:12
 水	水	shuǐ	water	deck#2	due@2020-09-09 18:43:10
 学校	學校	xuéxiào	school	deck#2	due@2020-09-09 20:57:24
 电影	電影	diànyǐng	movie; film	deck#2	due@2020-09-09 20:57:12
@@ -109,7 +109,7 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 飞机	飛機	fēijī	airplane	deck#2	due@2020-09-09 19:04:24
 二	二	èr	two	deck#4	due@2020-10-08 20:55:27
 电视	電視	diànshì	television; TV	deck#2	due@2020-09-09 18:38:17
-读	讀	dú	to read; to study
+读	讀	dú	to read; to study	deck#2	due@2020-09-09 21:48:13
 后面	后面	hòumian	back; behind	deck#2	due@2020-09-09 20:52:25
 昨天	昨天	zuótiān	yesterday	deck#2	due@2020-09-09 20:56:58
 睡觉	睡覺	shuì jiào	to sleep; go to bed	deck#2	due@2020-09-09 20:57:41
@@ -124,7 +124,7 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 下午	下午	xiàwǔ	afternoon	deck#2	due@2020-09-09 20:54:35
 学习	學習	xuéxí	learn; to study	deck#2	due@2020-09-09 18:39:19
 冷	冷	lěng	cold	deck#3	due@2020-09-15 20:28:43
-不客气	不客氣	bú kèqi	you're welcome; don't be polite
+不客气	不客氣	bú kèqi	you're welcome; don't be polite	deck#2	due@2020-09-09 21:48:19
 前面	前面	qiánmiàn	in front	deck#2	due@2020-09-09 20:55:59
 八	八	bā	eight	deck#2	due@2020-09-09 20:28:19
 中国	中國	Zhōngguó	China	deck#2	due@2020-09-09 20:27:57
@@ -136,7 +136,7 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 茶	茶	chá	tea	deck#3	due@2020-09-15 20:55:43
 九	九	jiǔ	nine	deck#2	due@2020-09-09 18:39:10
 商店	商店	shāngdiàn	shop; store	deck#2	due@2020-09-09 20:57:54
-椅子	椅子	yǐzi	chair
+椅子	椅子	yǐzi	chair	deck#2	due@2020-09-09 21:48:20
 同学	同學	tóngxué	fellow student; schoolmate	deck#2	due@2020-09-09 20:56:36
 一点儿	一點兒	yìdiǎnr	a bit; a few	deck#3	due@2020-09-15 20:55:47
 苹果	蘋果	píngguǒ	apple	deck#2	due@2020-09-09 20:55:08
@@ -144,13 +144,13 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 中午	中午	zhōngwǔ	noon; midday	deck#3	due@2020-09-15 20:57:35
 上午	上午	shàngwǔ	late morning (before noon)	deck#2	due@2020-09-09 20:28:01
 水果	水果	shuǐguǒ	fruit	deck#3	due@2020-09-15 20:56:14
-杯子	杯子	bēizi	cup; glass
+杯子	杯子	bēizi	cup; glass	deck#2	due@2020-09-09 21:48:08
 下雨	下雨	xiàyǔ	to rain	deck#3	due@2020-09-15 20:41:13
 米饭	米飯	mǐfàn	(cooked) rice	deck#2	due@2020-09-09 20:56:53
 北京	北京	Běijīng	Beijing	deck#3	due@2020-09-15 20:41:51
 汉语	漢語	Hànyǔ	Chinese language	deck#3	due@2020-09-15 20:43:14
 #METADATA:
-#--decks immediate,daily,weekly,monthly,quarterly
-#--intervals 0,1440,10080,43200,172800
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
 #--showcolumns SIMPLIFIED
 #--showcolumns TRADITIONAL,PINYIN,TRANSLATION
