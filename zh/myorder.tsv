@@ -7,7 +7,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 1	八	bā	eight
 
-1 	爸爸	bàbà	father
+1	爸爸	bàbà	father
 3	爷爷	yéyé	grandfather	我跟爷爷同名。
 
 
@@ -16,11 +16,11 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 1	本	běn	book (n), original (a)
 4	本来	běnlài	at first (adv), original (a)
-5	根本	gēnběn	at all (adv) 	根本没有下雨
+5	根本	gēnběn	at all (adv)	根本没有下雨
 5	基本	jīběn	basic/basically/essential
 3	体育	tǐyù	sport	他爱好体育，尤其喜欢踢足球。
 2	休息	xiūxi	rest (v)	他们休息一会儿。
-3+	休假	xiūjiǎ	vacation/holiday/leave from duty	 老板不让我休假。
+3+	休假	xiūjiǎ	vacation/holiday/leave from duty	老板不让我休假。
 
 
 3	米	mǐ	rice
@@ -36,16 +36,16 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	继续	jìxù	continue	你们要继续努力。
 
 
-1	吃	chī	to eat 	我喜欢吃面包。
+1	吃	chī	to eat	我喜欢吃面包。
 1+	吃饭	chīfàn	eat (a meal)	我每天晚上都吃饭。
 1*	吃饱	chībǎo	eat till full	我吃饱了。
 1	饭店	fàndiàn	restaurant,hotel	这家饭店菜很好吃。
 1+	晚饭	wǎnfàn	dinner	现在是晚饭的时候。
-1	商店 	shāngdiàn	shop/store	我要去商店买花。
+1	商店	shāngdiàn	shop/store	我要去商店买花。
 
 !	业	yè	business/industry/job
-5	商业	shāngyè 	commerce
-3+	学业	xuéyè	 	studies
+5	商业	shāngyè	commerce
+3+	学业	xuéyè	-	studies
 3	作业	zuòyè	homework	我有很多作业要做。
 5	工业	gōngyè	industry
 4	职业	zhíyè	occupation/profession
@@ -79,7 +79,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	苦	kǔ	bitter/suffer from
 
 1	电脑	diànnǎo	computer	脑=brain
-1	电视	diànshì	television	他把电视关掉	  	视=look at
+1	电视	diànshì	television	他把电视关掉	-	视=look at
 1	电影	diànyǐng	film	我要跟我朋友去看电影	影=shadow
 1+	电话	diànhuà	telephone
 3+	视频	shìpín	video	我可以用你的电脑编辑视频吗？
@@ -93,7 +93,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 3	东	dōng	east
 -	东方	dōngfāng	oriental, the Orient/east
-5 	方	fāng	direction
+5	方	fāng	direction
 3	南	nán	south
 3	北	běi	north
 1	北京	běijīng	Beijing	北京是中国的首都
@@ -113,9 +113,9 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 &	夕	xī	dusk
 2	外	wài	outside/out/foreign	房子外面没有人。
-1	多	duō	many	 这里好多人啊！
-1	多少	duōshǎo	how much/many?	 这多少钱？
-4	许多	xǔduō	many	城市有许多商店。 	许=promise/praise/allow
+1	多	duō	many	这里好多人啊！
+1	多少	duōshǎo	how much/many?	这多少钱？
+4	许多	xǔduō	many	城市有许多商店。	许=promise/praise/allow
 4	够	gòu	enough	你的钱够吗？
 1	岁	suì	age/years	我的弟弟13岁。
 &	冬	dōng	winter	常常我会在冬天的时候生病。
@@ -123,7 +123,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	疼	téng	pain/hurts	总是在一个地方疼。
 
 
-1 	儿子	érzi	son
+1	儿子	érzi	son
 1	二	èr	two
 
 
@@ -165,15 +165,15 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 1	好	hǎo	good	你是一个好人。
 
-1	号 	hào	number
-4	号码	hàomǎ	number	 这是我的电话号码
+1	号	hào	number
+4	号码	hàomǎ	number	这是我的电话号码
 
 1	喝	hē	to drink	你想喝什么？
 3	渴	kě	thirsty	你为什么总觉得很渴？
 
 
 1	很	hěn	very
-3	跟	gēn	with, follow (v), heel (n)	我根我男朋友一起去旅行。
+3	跟	gēn	with, follow (v), heel (n)	我跟我男朋友一起去旅行。
 2	眼睛	yǎnjing	eye	他的眼睛是很漂亮的。
 3	眼镜	yǎnjìng	glasses	他把他的眼镜放在桌上。
 3	银行	yínháng	bank	这里离银行很远吗？
@@ -187,7 +187,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	旁面/边	pángbian	beside/side	坐在他旁边的是他的老板。
 &	两边	liǎngbiān	on both sides	路两边有许多树。
 
-3	一边	yībiān	at the same time	  他一边笑一边喝茶。
+3	一边	yībiān	at the same time	他一边笑一边喝茶。
 
 3	元	yuán	first, measure word for money, coin
 2	远	yuǎn	far	你的家离我的很远。
@@ -208,9 +208,9 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 1	回	huí	return (v) reply (v)	父母马上回家了
 1	回来	huílái	return (v) come back	她回来到我们家
-3	回答	huídá	answer (v/n)	你的回答是非常好。   	答=answer
+3	回答	huídá	answer (v/n)	你的回答是非常好。	答=answer
 -	回到	huídào	get back to	这是我第三回到北京。
-4	回忆	huíyì	to recall 	他喜爱回忆他的父亲。
+4	回忆	huíyì	to recall	他喜爱回忆他的父亲。
 2	问	wèn	to ask (v), question(n)	他总是喜欢问各种问题。
 2	问题	wèntí	question (n), problem (n)	我不懂这个问题。
 2	题	tí	subject, topic
@@ -220,18 +220,18 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 5	墙	qiáng	wall	墙上有一幅画。
 
-2	房间	fángjiān 	room	 她的房间真小。
-5	屋子	wūzi	room	  我们在他的屋子里看电影。
+2	房间	fángjiān	room	她的房间真小。
+5	屋子	wūzi	room	我们在他的屋子里看电影。
 3+	房子	fángzi	house, apartment	老师的房子很高。
 3	厨房	chúfáng	kitchen	我妈在厨房里做饭。
 
 2	时间	shíjiān	time	这节课多长时间？
 3	中间	zhōngjiān	centre/middle
 1	时候	shíhou	time
-1 	的	de	(posessive particle)
+1	的	de	(posessive particle)
 
 
-3+	同	tóng	same/with/together/as..as 	我同我哥哥一样高
+3+	同	tóng	same/with/together/as..as	我同我哥哥一样高
 4	同时	tóngshí	at the same time, besides
 1	同学	tóngxué	classmate/fellow student	我是你的大学同学。
 3	同事	tóngshì	colleague	他和我是同事。
@@ -240,19 +240,19 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	字典	zìdiǎn	dictionary	请把字典还给我。
 5	经典	jīngdiǎn	classics
 
-1 	会	huì	to be able to, to assemble
+1	会	huì	to be able to, to assemble
 -	会见	huìjiàn	to meet
-3	会议	huìyì 	meeting	会议什么时候开始？
+3	会议	huìyì	meeting	会议什么时候开始？
 3	机会	jīhuì	opportunity/chance	给我一次机会吧！
 4	社会	shèhuì	society
 &	都会	dūhuì	big city,community
 3	一会儿	yīhuìr	in an instant/soon, a while	我需要休息一会儿。
-& 	会员	huìyuán	member
+&	会员	huìyuán	member
 
 5	念	niàn	read(aloud)/study/miss/idea
 4	尝	cháng	taste/ever	尝起来好吃
 
-4	合适	héshì	appropriate/suitable/fit	 你穿这件衬衫合适吗？
+4	合适	héshì	appropriate/suitable/fit	你穿这件衬衫合适吗？
 5	合作	hézuò	cooperate	为什么你不合作呢？
 4	盒子	hézi	box/case	这两个盒子一样大。
 
@@ -263,7 +263,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	刀	dāo	knife
 3	万	wàn	ten thousand	他有2万元.
 4	能力	nénglì	ability
-3	努力	nǔlì	to try hard  	他学习非常努力。	努=make an effort
+3	努力	nǔlì	to try hard	他学习非常努力。	努=make an effort
 3	穷	qióng	poor	他家很穷
 3	为(了）	weì(le)	for	他做这个是为了钱。
 4	一切	yíqiè	all/everything	我们一切都好，谢谢。
@@ -278,7 +278,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 1	叫	jiào	shout,call,order	你叫什么名字？
 2	笑	xiào	to laugh/smile
-3	哭	kū	to cry 	你哭什么？
+3	哭	kū	to cry	你哭什么？
 &	唱	chàng	to sing	我不会唱歌。
 4	感冒	gǎnmào	have a cold	今天我感冒了，所以不唱歌。
 
@@ -294,7 +294,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 4	火	huǒ	fire
 &	头	tóu	head/hair
-&	头发 	tóufa	hair (head)	我的头发很长。
+&	头发	tóufa	hair (head)	我的头发很长。
 &	实	shí	solid/true/reality
 3	其实	qíshí	actually	其实我不明白你的问题。
 3	其他/其它	qítā	other/else/the rest	其他人都很忙。
@@ -331,10 +331,10 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	开心	kāixīn	happy	我们觉得很开心。
 
 3	结束	jiéshù	to end/to finish	他们决定结束关系。
-3	结婚	jiéhūn	to get married 	她决定和他结婚。	结=tie,婚=marriage
+3	结婚	jiéhūn	to get married	她决定和他结婚。	结=tie,婚=marriage
 4	结果	jiéguǒ	outcome/result/conclusion/in the end	比赛结果如何？
 
-1	看	kàn	to look 	你在看什么？
+1	看	kàn	to look	你在看什么？
 1	看见	kànjiàn	to see	他看见了你的父母
 2+	看书	kànshū	to read (a book)/study	她整个上午都在看书。
 2+	看到	kàndão	to see/to notice
@@ -362,8 +362,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2+	怕	pà	fear/afraid	我非常怕马
 3	担心	dānxīn	worry	我不告诉你，但是我很担心你。
 
-3	害怕	hàipà	to be afraid	 这小孩害怕黑暗。
-4	害羞	hàixiū	to be shy	 和姐姐相比，她比较害羞。
+3	害怕	hàipà	to be afraid	这小孩害怕黑暗。
+4	害羞	hàixiū	to be shy	和姐姐相比，她比较害羞。
 
 3	老	lǎo	old	(animate)
 1	老师	lǎoshī	teacher
@@ -435,7 +435,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	毛	máo	hair
 2+	笔	bǐ	pen
 2+	手	shǒu	hand
-2	手机	shǒujī	mobile phone	我的手机在桌子上。	 (机=machine)
+2	手机	shǒujī	mobile phone	我的手机在桌子上。	(机=machine)
 2	手表	shǒubiào	wristwatch	(表=meter/watch/model)
 
 1	果	guǒ	fruit	他把水果放进冰箱里
@@ -472,16 +472,16 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	呢	ne	a particle used for emphasis in a question
 
 1	能	néng	be able to, capable (a), ability (n)
-2	可能	kěnéng	possible, possibility, maybe/possibly	  让我给你钱是不可能的。
+2	可能	kěnéng	possible, possibility, maybe/possibly	让我给你钱是不可能的。
 
 1	你	nǐ	you
 
-3	口 	kǒu	mouth
+3	口	kǒu	mouth
 4	入口	rùkǒu	entrance
 5	人口	rénkǒu	population
 5	出口	chūkǒu	exit
 2	门(口)	ménkǒu	door/gate
-3	只	zhǐ	only, MW for one of a pair 	我只认识他。 	(一只手）
+3	只	zhǐ	only, MW for one of a pair	我只认识他。	(一只手）
 4	只好	zhǐhǎo	have to/be forced to/need to	他们只好用冷水洗。
 4+	品	pǐn	quality/item/product/grade
 
@@ -491,7 +491,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	牛	niú	cow	你喜欢喝牛奶吗？
 4+	牢	láo	pen/prison	他在牢里面。
 2	千	qián	one thousand
-!	干	 	gàn	dry/shield
+!	干	-	gàn	dry/shield
 3	干净	gānjìng	clean/neat/tidy	你的房间非常干净。
 5	干燥	gānzào	dry	北方的冬令寒冷干燥。。
 4	干杯	gānbēi	drink a toast/cheers
@@ -514,14 +514,14 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	自行车	zìxíngchē	bike
 
 3+	公共	gōnggòng	public
-4	共同 	gōngtóng	common/together	共同的朋友
+4	共同	gōngtóng	common/together	共同的朋友
 3	一共	yīgòng	altogether	我一共看了九本书。
 4+	共产党	gōngchǎndǎng	the Communist Party
 
 !	女	nǚ	woman/female	她是很力的女人。
 1	女儿	nǚér	daughter	我们想要一个女儿。
-3	安静	ānjìng	quiet/peaceful  	房间是安静和干净。  	(安=peace/quiet/calm)
-4	安全	ānquán	safe/secure/security	安全是重要的。  	 (syn: 平安， píngān, 5)
+3	安静	ānjìng	quiet/peaceful	房间是安静和干净。	(安=peace/quiet/calm)
+4	安全	ānquán	safe/secure/security	安全是重要的。	(syn: 平安， píngān, 5)
 4+	按	àn	according to	按我告诉你的做
 
 
@@ -533,7 +533,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 4	钥匙	yàoshi	key	我把钥匙丢了。
 
-5	亮	liàng	bright/clear	房间亮起来了。	 (syn: 明）
+5	亮	liàng	bright/clear	房间亮起来了。	(syn: 明）
 1	漂亮	piàoliang	good-looking,pretty	你女儿真漂亮。
 
 !	戈	gē	weapon/axe
@@ -553,7 +553,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	心情	xīnqíng	mood/frame of mind
 2	事情	shìqíng	matter/event/business/thing     安全是最重要的事情。  (事=thing)
 4	情况	qíngkuàng	situation	情况可能有变。	(况=situation, syn: 状况 zhuàngkuàng)
-4	精彩	jīngcǎi	wonderful/brilliant	 昨天晚上的演出相当精彩。
+4	精彩	jīngcǎi	wonderful/brilliant	昨天晚上的演出相当精彩。
 4	猜	cāi	guess/suspect	我让你猜3次
 3	故事	gùshi	story	我相信那个故事。
 4	建议	jiànyì	propose	我能提个建议吗？
@@ -561,7 +561,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 1	热	rè	hot/warm	今天天气很热。
 3	热情	rèqíng	passion (n), enthousiastic (a)	她对客人非常热情。
-6	热门	rèmén 	popular	这是很热门的节目。
+6	热门	rèmén	popular	这是很热门的节目。
 
 
 1	去	qù	to go / past (a)	我明年去中国。
@@ -613,15 +613,15 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	必须	bìxū	must	你必须等这儿。	必=certainly
 
 1	是	shì	to be	我是他的老师。
-2	走	zǒu	to walk/go 	他必须得走  .
+2	走	zǒu	to walk/go	他必须得走  .
 !	足	zú	foot
-3	一定	yīdìng	certainly	  他一定是最漂亮的。
+3	一定	yīdìng	certainly	他一定是最漂亮的。
 !	起	qǐ	to rise/form
 2	一起	yìqǐ	together, the same place	我根你一起去西班牙。
 3+	起立	qǐlì	to stand up
-2+	起来	qǐlái	to get up	 请起来，来客人了。
-2	起床	qǐchuáng	to get out of bed	 我每天早上6点起床。
-3	起飞	qǐfēi	take off (flying)	 飞机起飞了。
+2+	起来	qǐlái	to get up	请起来，来客人了。
+2	起床	qǐchuáng	to get out of bed	我每天早上6点起床。
+3	起飞	qǐfēi	take off (flying)	飞机起飞了。
 
 1	对不起	duìbùqǐ	sorry	对不起，我错了。
 
@@ -631,7 +631,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	拉	lā	pull/transport/help	出租车司机拉我到了机场。
 3	接	jiē	receive/connect/catch	他接到一封信 / 他会来接我们。
 4	倍	bèi	double/times
-4	陪	péi	go with/accompany/assist	 我陪你走回家
+4	陪	péi	go with/accompany/assist	我陪你走回家
 
 3	接受	jiēshòu	accept/receive	你当然应该接受
 
@@ -652,7 +652,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	岁	suì	years old	我32岁
 4	死	sì	to die; dead;
 4	梦	mèng	dream	她梦到自己是电影明星
-5	梦想	mèngxiǎng	dream 	他梦想着开一家自己的公司。
+5	梦想	mèngxiǎng	dream	他梦想着开一家自己的公司。
 
 3	碗	wǎn	bowl	请来碗面条。
 
@@ -691,7 +691,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	先	xiān	earlier/late/first	先让我考虑一下。
 1	先生	xiānsheng	mister
 6	先进	xiānjìn	advanced	这种先进的工艺十分难学。
-6	先前	xiānqián	the past	 她先前住在北京。
+6	先前	xiānqián	the past	她先前住在北京。
 3	选择	xuǎnzé	to choose	红色和蓝色，你选择哪颜色？
 
 1	学生	xuésheng	student	学生在大学学习汉语。
@@ -709,7 +709,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 2	因为	yīnwèi	because
 3+	困	kùn	sleepy	我很困，我去床。
-4	原因	yuányīn	reason	 	人们知道原因吗？
+4	原因	yuányīn	reason	-	人们知道原因吗？
 4	原来	yuánlái	original/all along	他爷爷原来是财主
 
 3+	园	yuán	garden/park
@@ -740,11 +740,11 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 1	谢谢	xièxiè	thanks	谢谢你教我西班牙语。
 
-1	星期	xīngqī	week	这星期我很忙。	 syn: 周
+1	星期	xīngqī	week	这星期我很忙。	syn: 周
 1+	星	xīng	star
 3+	期待	qīdài	look forward to	还是有一个东西我特别期待。
 
-！	周	zhōu	circle/week 	他上周看书了。
+！	周	zhōu	circle/week	他上周看书了。
 3	周末	zhōumò	weekend	你周末过得怎么样？
 3	周围	zhōuwéi	vicinity/environment	周围的人也很高兴。
 
@@ -753,7 +753,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	第一	dìyī	first
 
 5+	牙	yá	tooth	让牙医看看你的牙。
-1	衣服	yīfu	clothes	 	把衣服脱掉！
+1	衣服	yīfu	clothes	-	把衣服脱掉！
 5++农场	nóngchǎng	farm	农场里有牛、马和羊
 2	穿	chuān	to wear/put on	她总穿着黑衣服。
 6	袭击	xíjī	attack	他被狼袭击了？
@@ -792,7 +792,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	词	cí	word	这个词语我不懂。
 3	句子	jùzi	sentence	不要翻译这个句子！
 4	语言	yǔyán	language
-？	信	xìn	letter (n), to believe (v) 	  谁会信呢？
+？	信	xìn	letter (n), to believe (v)	谁会信呢？
 3+	英语	yīngyǔ	English
 3+	法语	fǎyǔ	French
 4	语法	yǔfǎ	grammar
@@ -803,7 +803,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	花	huā	flower/spent(v)	这花颜色很漂亮。
 3+	华	huá	magnificent,prosperous,grey,Chinese
 
-1	坐	zuò	to sit	 请坐那儿。
+1	坐	zuò	to sit	请坐那儿。
 
 1	做	zuò	to do/make	我不知道我在做什么
 
@@ -816,7 +816,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	只要	zhǐyào	so long as
 4	要是	yàoshì	if
 
-2	知道	zhīdào	to know	 我真的不知道  	道=road/way
+2	知道	zhīdào	to know	我真的不知道	道=road/way
 4	知识	zhīshi	knowledge
 3	街道	jiēdào	street	街道有许多商店。
 
@@ -844,7 +844,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	计划	jìhuà	plan/project/program	你周末有什么计划吗？
 
 1	杯子	bēizi	cup/glass	我把杯子打破了
-4	怀疑 	huáiyí	doubt/suspect	我怀疑她没说实话
+4	怀疑	huáiyí	doubt/suspect	我怀疑她没说实话
 5	怀孕	huáiyùn	be pregnant	我有消息要告诉你，我怀孕了！
 2	还	hái	still/yet
 3	还是	háishi	or
@@ -900,7 +900,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	胡子	húzi	moustache/beard	你的胡子太长了，我不喜欢
 
 2	别	bié	other  / don't ..!
-&	别的	biéde	other,others (pron), otherwise	  	他不想要别的东西了。
+&	别的	biéde	other,others (pron), otherwise	-	他不想要别的东西了。
 3	特别	tèbié	peculiar/exceptional (a, adv), especially	他的房间很特别。
 3	别人	biérén	others
 
@@ -931,13 +931,13 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	砍	kǎn	chop/cut	你上山多砍一些树
 &	炊	chuī	to cook
 3	饮料	yǐnliào	drink (n)	她点了三杯饮料。
-&	欧州	oūzhōu	Europe         	我的学生有三分之一是来自欧洲。
+&	欧州	oūzhōu	Europe	我的学生有三分之一是来自欧洲。
 
 
 3	又	yòu	again, also, both, another	今天他又来了。/ 我现在有累锇
 3	双	shuāng	two/double/ MW for pairs
 4	反对	fǎnduì	to oppose	王子反对国王。
-5	反应 	fǎnyìng	to react/respond	她反应特别快。
+5	反应	fǎnyìng	to react/respond	她反应特别快。
 5	反正	fǎnzhèng	anyway	反正必须有人去，就让我去吧！
 1+	饭	fàn	rice/meal
 
@@ -951,8 +951,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 6	攻克	gōngkè	capture/conquer	我可以攻克英语!
 
 
-3	才	cái	just,really (adv), not until now/only, ability (n), 	我才到家，电话就响了
-6	才干	cáigàn	ability	 我们相信他的才干。 	(SYN: 才能)
+3	才	cái	just,really (adv), not until now/only, ability (n),	我才到家，电话就响了
+6	才干	cáigàn	ability	我们相信他的才干。	(SYN: 才能)
 4	之	zhī	literary possessive particle
 4	之前	zhíqián	before	你走之前，我去看你，好吗？
 
@@ -1022,7 +1022,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	秋	qiú	autumn	秋天的时候，天气是很冷的。
 
 4	行	xíng;háng	walk/do/OK/travel/conduct;row	你向东开就行。
-5	行为	xíngwéi	behaviour	 他行为合法。
+5	行为	xíngwéi	behaviour	他行为合法。
 
 4	光	guāng	light (abstract), just (adv)	月光
 
@@ -1071,7 +1071,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 ！	市	shì	city/market
 4	节	jié	joint/item MW/festival	这节课多长时间？
 3	带	dài	to take/bring/lead, belt/tire	你带电脑了吗？
-3	节日	jiérì	festival/holiday	这是我最喜欢的节日。 	节=joint/save/item/festival
+3	节日	jiérì	festival/holiday	这是我最喜欢的节日。	节=joint/save/item/festival
 3	节目	jiémù	programme	你喜欢看什么样的电视节目？
 !	季节	jìjié	season	秋天是我最喜欢的季节。
 
@@ -1089,7 +1089,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	相反	xiāngfǎn	opposite
 5	相当	xiāngdāng	quite/match/appropriate	我相当喜欢它。
 
-4	互相 	hùxiāng	eachother/mutually	他们互相不认识
+4	互相	hùxiāng	eachother/mutually	他们互相不认识
 
 
 2	哥哥	gege	older brother	我的哥哥有九个朋友。
@@ -1103,7 +1103,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	运气	yùnqì	luck (good or bad)	我只有坏运气。
 3	层	céng	MW:layer/floor/step	这幢大楼有3层。
 4	活动	huódòng	activity	政府不能无视非法活动。
-4	感动 	gǎndòng 	moved/touched (emotionally)	他被她的爱所感动。
+4	感动	gǎndòng	moved/touched (emotionally)	他被她的爱所感动。
 3	动物	dòngwù	animal	猫是非常可爱的动物。
 4	植物	zhíwù	plant	这些动物都吃植物。
 3	礼物	lǐwù	gift	动物是礼物。
@@ -1123,7 +1123,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	跳	tiào	jump/beat(heart)/bounce	我的心还在跳的快死了
 2	跳舞	tiàowǔ	dance	她喜欢跳舞。	（跳=jump)
 
-4	杂志	zázhì	magazine	 我喜欢读杂志。
+4	杂志	zázhì	magazine	我喜欢读杂志。
 
 
 2	颜色	yánsè	color	这是我最喜欢的颜色。
@@ -1156,7 +1156,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	页	yè	page
 5	则	zé	rule/standard/then/but
 2	贵	guì	expensive	你卖的东子是太贵的。
-! 	员	yuán	member
+!	员	yuán	member
 5	圆	yuán	round	她的脸很圆。
 2	便宜	piányi	cheap	我们的衣服真的很便宜。	(宜=suitable)
 3	见面	jiànmiàn	meeting/to meet	我八点会跟你见面。
@@ -1165,7 +1165,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 &	田	tián	field
 4	由	yóu	due to, by (prep) (spanish por)	云是由水气组成的。
-4	由于	yóuyú	as a result of	  由于种种原因
+4	由于	yóuyú	as a result of	由于种种原因
 &	油	yóu	oil	水比油重。
 !	甲	jiǎ	helmet/armour/first
 !	申	shēn	to explain (radical)
@@ -1183,7 +1183,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	画	huà	painting	墙上有一幅画。
 &	福	fú	good fortune
 4	幸福	xìngfú	happiness/happy
-5	幸亏	xìngkuī	fortunately	 幸亏只是个梦
+5	幸亏	xìngkuī	fortunately	幸亏只是个梦
 
 
 3	掉	diù	fall/lose	早上我掉了钱。
@@ -1211,7 +1211,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	旅馆	lǚguǎn	hotel	这家旅馆变成他们的了。
 2	宾馆	bīnguǎn	hotel	这是一家五星级的宾馆。
 &	食堂	shítáng	canteen/diner	我中午不做饭，吃食堂。
-3	图书馆	túshūguǎn	library	 	他们总在图书馆看书。
+3	图书馆	túshūguǎn	library	-	他们总在图书馆看书。
 4	使	shǐ	use/make	他不会使电脑。他使父母失生气。
 4	大使馆	dàshǐguǎn	embassy	大使馆在首都
 &	馆子	guǎnzi	restaurant	我可没钱经常出去下馆子。
@@ -1225,7 +1225,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	成	chéng	become/accomplish/mature/OK
 4	成为	chéngwéi	to become	他想成为一名老师。
 5	市场	shìchǎng	market	他在市场买了些鸡蛋。
-3	超市	cháoshì	supermarket	        我在超市买了些香蕉。
+3	超市	cháoshì	supermarket	我在超市买了些香蕉。
 4	超过	cháoguò	surpass/leave behind
 
 3	或者	huǒzhè	or	你想去游泳或者骑马？
@@ -1286,8 +1286,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	了解	liǎojiě	understand	我了解他的感觉。
 6	解放	jiěfàng	liberate
 
-3	更	gèng	more/even more/further	 天更黑了。/ 她更漂亮了。
-3	历史	lìshǐ	history	 他喜欢历史。
+3	更	gèng	more/even more/further	天更黑了。/ 她更漂亮了。
+3	历史	lìshǐ	history	他喜欢历史。
 
 4	而	ér	and/but
 3	而且	érqiě	moreover	他会讲英语，而且讲得好
@@ -1298,7 +1298,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	当心	dāngxīn	be careful	你如果不当心, 会受伤的	(SYN: 小心）
 
 &	风	fēng	wind
-4	刚	gāng	just   	我刚才吃饭了。	（SYN: 刚才, gāngcái）
+4	刚	gāng	just	我刚才吃饭了。	（SYN: 刚才, gāngcái）
 &	网	wǎng	net
 5	风景	fēngjǐng	scenery	风景很美。
 5	风险	fēngxiǎn	risk	是一个很大的风险
@@ -1319,7 +1319,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	极其	jíqí	extremely	她的房子卖得极其便宜。
 
 3	奇怪	qíguài	strange/odd	他是很奇怪的人。
-3	骑	qí	ride 	(骑自行车，骑马）
+3	骑	qí	ride	(骑自行车，骑马）
 
 
 4	转	zhuàn	turn
@@ -1332,7 +1332,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 
 
-&	床	 	chuáng	bed	   这个床非常小。
+&	床	-	chuáng	bed	这个床非常小。
 &	宋	sòng	Song (name/dynasty)
 
 3	船	chuán	boat	我在等船来。	(syn 6: 舟 zhōu，MW for ships: 艘 ，sōu)
@@ -1366,7 +1366,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	裤子	kùzi	pants	我买了两条裤子。
 4	指	zhǐ	finger/refer to/point to	我没指他。
 
-4	台	tái	tower/table/taiwan/MW for machines	 这台电脑要多少钱？
+4	台	tái	tower/table/taiwan/MW for machines	这台电脑要多少钱？
 6	台风	táifēng	typhoon/hurricane
 5	治疗	zhìliáo	cure (n/v)	送他去医院，他需要医生治疗。
 6	治安	zhì'ān	security	这个地方治安很坏
@@ -1439,5 +1439,8 @@ G	没有···那么/这么···	méiyǒu..nàme..	is not as .. as ..	今天的
 5G	与其···，不如···	yǔqí...bùrú....	Rather than ...., it's better to ...	与其每天吃快餐，不如在家自己做饭。
 4G	即使···，也···	jíshǐ...,yě...	Even if ..., still...	即使在忙，也要休息。
 3G	越··越···	yuè...yuè...	The more...,the more ...
-#--showcolumns HANZI
+#METADATA:
+#--decks immediate,daily,weekly,monthly,quarterly,yearly
+#--intervals 0,1440,10080,43200,129600,518400
+#--showcolumns HANZI,EXAMPLE
 #--showcolumns EXAMPLE,PINYIN,MEANING,LEVEL
