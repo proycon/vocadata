@@ -38,7 +38,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 1	吃	chī	to eat	我喜欢吃面包。
 1+	吃饭	chīfàn	eat (a meal)	我每天晚上都吃饭。
-1*	吃饱	chībǎo	eat till full	我吃饱了。
+1*	吃饱	chībǎo	eat till full	我吃饱了。	deck#4	due@2020-10-09 21:26:49
 1	饭店	fàndiàn	restaurant,hotel	这家饭店菜很好吃。
 1+	晚饭	wǎnfàn	dinner	现在是晚饭的时候。
 1	商店	shāngdiàn	shop/store	我要去商店买花。
@@ -494,7 +494,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 !	干	-	gàn	dry/shield
 3	干净	gānjìng	clean/neat/tidy	你的房间非常干净。
 5	干燥	gānzào	dry	北方的冬令寒冷干燥。。
-4	干杯	gānbēi	drink a toast/cheers
+4	干杯	gānbēi	drink a toast/cheers	deck#3	due@2020-09-16 21:26:44
 !	于	yú	in/from/to	这位老人生于1899年。
 3	半	bàn	half	四点半
 2	羊	yáng	sheep	我听见羊
@@ -649,7 +649,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 !	话	huà	speech/talk/words	你得注意他说的话。
 3	刮风	guāfēng	wind blows	今天刮风。	due@2020-09-09 21:02:24
 
-1	岁	suì	years old	我32岁
+1	岁	suì	years old	我32岁	deck#4	due@2020-10-09 21:26:33
 4	死	sì	to die; dead;
 4	梦	mèng	dream	她梦到自己是电影明星
 5	梦想	mèngxiǎng	dream	他梦想着开一家自己的公司。
@@ -953,7 +953,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 3	才	cái	just,really (adv), not until now/only, ability (n),	我才到家，电话就响了
 6	才干	cáigàn	ability	我们相信他的才干。	(SYN: 才能)
-4	之	zhī	literary possessive particle
+4	之	zhī	literary possessive particle	deck#3	due@2020-09-16 21:26:39
 4	之前	zhíqián	before	你走之前，我去看你，好吗？
 
 2	孩子	háizi	child	我们的孩子回来了。
@@ -1002,7 +1002,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	美国	měiguó	USA	美国是很大的国家
 &	美元	měiyuán	US dollar	你给我有没有些美元？
 
-2	送	sòng	to send / to see sb off	你可以送我一封信吗？
+2	送	sòng	to send / to see sb off	你可以送我一封信吗？	deck#3	due@2020-09-16 21:31:17
 
 2	长	cháng/zhǎng	long/length;to grow	墙很长。; 孩子长得很好。
 3	张	zhāng	to open/stretch/extend (MW for sheets/paper/furniture)
@@ -1029,7 +1029,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 
 
-2	妻子	qīzi	wife	别告诉我的妻子！
+2	妻子	qīzi	wife	别告诉我的妻子！	deck#3	due@2020-09-16 21:27:34
 2	丈夫	zhàngfu	husband	我的丈夫是医生。
 &	父母	fùmǔ	parents
 
@@ -1129,7 +1129,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	颜色	yánsè	color	这是我最喜欢的颜色。
 2	红(色)	hóng(sè)	red	她的脸红了。
 2	蓝(色)	lán(sè)	blue	我男朋友有一双蓝眼睛。
-2	绿(色)	lǘ(sè)	green	你们喝绿茶吗？
+2	绿(色)	lǘ(sè)	green	你们喝绿茶吗？	deck#2	due@2020-09-10 21:31:22
 2	黄(色)	huáng(sè)	yellow	我喜欢吃黄色的香蕉。
 5	紫(色)	zǐ(sè)	purple
 
@@ -1195,7 +1195,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	演员	yǎnyuán	actor	我听说她是个有名的演员。
 4	演出	yǎnchū	perform/act/performance	昨天晚上的演出相当精彩。
 
-2	游泳	yǒuyǒng	to swim	小鸭游泳得不好
+2	游泳	yǒuyǒng	to swim	小鸭游泳得不好	deck#2	due@2020-09-10 21:31:30
 3	游戏	yóuxì	game	他在玩游戏。
 &	游人	yóurén	tourist	deck#2	due@2020-09-10 21:11:27
 &	游客	yóukè	tourist	大街上很多游客。
@@ -1257,7 +1257,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	借	jiè	lend/borrow/excuse	我从图书馆借了几本书。
 
 
-2	洗	xǐ	to wash	我每天都洗头发。
+2	洗	xǐ	to wash	我每天都洗头发。	deck#4	due@2020-10-09 21:26:35
 3	洗手间	xǐshǒujiān	toilet	洗手间在哪里？	deck#4	due@2020-10-09 21:10:29
 3	洗澡	xǐzǎo	to bathe/take a shower	我洗了澡。
 5	操场	cāochǎng	sports-field	他每天在操场踢足球。
@@ -1316,7 +1316,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 6	及早	jízǎo	as soon as possible	有病要及早治。	deck#2	due@2020-09-10 21:08:24
 5	及格	jígé	pass/succeed	他英语考试没及格。
 3	极	jí	very/extremely	他觉得极累。
-5	极其	jíqí	extremely	她的房子卖得极其便宜。
+5	极其	jíqí	extremely	她的房子卖得极其便宜。	deck#2	due@2020-09-10 21:30:23
 
 3	奇怪	qíguài	strange/odd	他是很奇怪的人。
 3	骑	qí	ride	(骑自行车，骑马）
@@ -1340,7 +1340,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 
 
 5	片	piàn	piece/area/slice(v)/brief(a)
-3	照片	zhàopiàn	photo	这张照片很美。
+3	照片	zhàopiàn	photo	这张照片很美。	deck#3	due@2020-09-16 21:27:14
 3	照相机	zhàoxiàngjī	camera	这个照相机很大。	(相=appearance)
 
 5	沙滩	shātān	beach	沙滩上的人非常少。
@@ -1362,7 +1362,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	腿	tuǐ	leg	我的脚和腿疼。
 4	胳膊	gēbo	arm	她伤了胳膊。
 5+	肚	dǔ	belly	他的大啤酒肚。
-5+	鞋子	xiézi	shoes	我只有一双鞋子。
+5+	鞋子	xiézi	shoes	我只有一双鞋子。	deck#3	due@2020-09-16 21:31:35
 3	裤子	kùzi	pants	我买了两条裤子。
 4	指	zhǐ	finger/refer to/point to	我没指他。
 
@@ -1435,10 +1435,11 @@ G	既然···，就/也/那	jìrán...jiù/yě/nà	since (reason)/as..., then..
 G	先···，再···	xiān...zài	First..., then...	我想先洗个燥，在去吃饭。
 G	不管···，都/也	bùguǎn..dōu/yě	No matter.., (result)	不管明天天气如何，我们都要去爬山。
 5G	趁···，···	chén...	Since (reason), (opportunity)	趁火车还没来，我先去上个厕所。
-G	没有···那么/这么···	méiyǒu..nàme..	is not as .. as ..	今天的天气没有昨天的那么好。
+G	没有···那么/这么···	méiyǒu..nàme..	is not as .. as ..	今天的天气没有昨天的那么好。	deck#2	due@2020-09-10 21:28:31
 5G	与其···，不如···	yǔqí...bùrú....	Rather than ...., it's better to ...	与其每天吃快餐，不如在家自己做饭。
 4G	即使···，也···	jíshǐ...,yě...	Even if ..., still...	即使在忙，也要休息。
 3G	越··越···	yuè...yuè...	The more...,the more ...
+#METADATA:
 #METADATA:
 #METADATA:
 #--decks immediate,daily,weekly,monthly,quarterly,yearly
