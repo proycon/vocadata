@@ -1,48 +1,37 @@
 LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
-1	爱	aì	love	我爱你
+1	爱	aì	love
 1+	爱人	aìrén	partner
-1+	爱好	aìhǎo	hobby	我的爱好是唱歌。
+1+	爱好	aìhǎo	hobby
 3	可爱	kěài	adorable	deck#4	due@2020-10-09 21:16:49
 5	恋爱	liànài	love (v)
-
 1	八	bā	eight
-
 1	爸爸	bàbà	father
-3	爷爷	yéyé	grandfather	我跟爷爷同名。
-
-
+3	爷爷	yéyé	grandfather	deck#2	due@2020-09-11 12:45:59
 1	不	bù	no/not	deck#5	due@2020-12-08 21:08:28
-1	不客气	búkèqi	you're welcome
-
+1	不客气	búkèqi	you're welcome	deck#2	due@2020-09-11 12:47:27
 1	本	běn	book (n), original (a)
 4	本来	běnlài	at first (adv), original (a)
-5	根本	gēnběn	at all (adv)	根本没有下雨
+5	根本	gēnběn	at all (adv)
 5	基本	jīběn	basic/basically/essential
-3	体育	tǐyù	sport	他爱好体育，尤其喜欢踢足球。
-2	休息	xiūxi	rest (v)	他们休息一会儿。
-3+	休假	xiūjiǎ	vacation/holiday/leave from duty	老板不让我休假。
-
-
+3	体育	tǐyù	sport
+2	休息	xiūxi	rest (v)
+3+	休假	xiūjiǎ	vacation/holiday/leave from duty
 3	米	mǐ	rice
 1	米饭	mǐfàn	cooked rice
-1	菜	cài	vegetable/dish
-3	菜单	càidān	menu	他给我菜单。
-1	茶	chá	tea	桌子上有一杯茶。
+1	菜	cài	vegetable/dish	deck#2	due@2020-09-11 12:52:27
+3	菜单	càidān	menu
+1	茶	chá	tea
 2	咖啡	kāfēi	coffee	你想喝茶还是咖啡？	deck#4	due@2020-10-09 21:17:59
 3	条	tiáo	item/article
-2	面条	miàntiáo	noodles	我想吃面条。
-3	面包	miànbāo	bread	这个面包太大了。
-
-4	继续	jìxù	continue	你们要继续努力。
-
-
-1	吃	chī	to eat	我喜欢吃面包。
-1+	吃饭	chīfàn	eat (a meal)	我每天晚上都吃饭。
+2	面条	miàntiáo	noodles
+3	面包	miànbāo	bread
+4	继续	jìxù	continue
+1	吃	chī	to eat	deck#5	due@2020-12-09 12:47:42
+1+	吃饭	chīfàn	eat (a meal)
 1*	吃饱	chībǎo	eat till full	我吃饱了。	deck#4	due@2020-10-09 21:26:49
-1	饭店	fàndiàn	restaurant,hotel	这家饭店菜很好吃。
-1+	晚饭	wǎnfàn	dinner	现在是晚饭的时候。
-1	商店	shāngdiàn	shop/store	我要去商店买花。
-
+1	饭店	fàndiàn	restaurant,hotel
+1+	晚饭	wǎnfàn	dinner
+1	商店	shāngdiàn	shop/store
 !	业	yè	business/industry/job
 5	商业	shāngyè	commerce	deck#2	due@2020-09-10 21:04:02
 3+	学业	xuéyè	-	studies
@@ -51,1396 +40,1056 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	职业	zhíyè	occupation/profession
 6	事业	shìyè	activity/undertaking/career
 !	亚	yà	Asia
-5	碰	pèng	hit/bump into/take a chance	我在街上碰到了一位老同学。
-
-3+	工艺	gōngyì	technology	这种先进的工艺十分难学。
-4	艺术	yìshù	art	她对艺术懂得很多
-
+5	碰	pèng	hit/bump into/take a chance
+3+	工艺	gōngyì	technology
+4	艺术	yìshù	art
 2	公司	gōngsī	company
 2	公斤	gōngjīn	kilogram	deck#2	due@2020-09-10 20:59:36
-4	公里	gōnglǐ	kilometer	大约一公里远。
-3	办公室	bànggōngshì	office	在办公室有很多人。
-3	办法	bànfǎ	method/way	我们找到了办法解决问题
-
-
+4	公里	gōnglǐ	kilometer
+3	办公室	bànggōngshì	office
+3	办法	bànfǎ	method/way
 4	法律	fǎlǜ	law
 5	法院	fǎyuàn	court
-5	合法	héfǎ	legal	他行为合法
-6	非法	fēifǎ	illegal	他们非法结婚。
-
-1	大	dà	big	你比我大。
+5	合法	héfǎ	legal
+6	非法	fēifǎ	illegal
+1	大	dà	big
 2	大家	dàjiā	everybody
 2+	大学	dàxué	university	deck#4	due@2020-10-09 21:09:33
 !	犬	quǎn	dog (radical)
-
 &	占	zhàn;zhān	occupy;divine
-1	点	diàn	a little/o'clock	他早上8点上课, 现在已经九点了
+1	点	diàn	a little/o'clock
 &	古	gǔ	ancient
 4	苦	kǔ	bitter/suffer from
-
 1	电脑	diànnǎo	computer	脑=brain
 1	电视	diànshì	television	他把电视关掉	-	视=look at
 1	电影	diànyǐng	film	我要跟我朋友去看电影	影=shadow
 1+	电话	diànhuà	telephone
-3+	视频	shìpín	video	我可以用你的电脑编辑视频吗？
-
-1	四	sì	four	你有四块钱马？
+3+	视频	shìpín	video
+1	四	sì	four
 3	西	xī	west	deck#4	due@2020-10-09 21:18:11
 1	东西	dōngxi	thing
 3+	酒	jiǔ	wine/alcohol
-3+	啤酒	píjiǔ	beer	我喝了一瓶啤酒。
-
-
+3+	啤酒	píjiǔ	beer
 3	东	dōng	east
 -	东方	dōngfāng	oriental, the Orient/east
 5	方	fāng	direction	deck#2	due@2020-09-10 20:58:37
 3	南	nán	south
 3	北	běi	north
-1	北京	běijīng	Beijing	北京是中国的首都
-
-
-1	都	dōu	all/even/already	谁都知道你是谁
+1	北京	běijīng	Beijing
+1	都	dōu	all/even/already
 3+	都会	dūhuì	big city,community
-3+	首都	shǒudū	capital	北京是中国的首都
-
-
-1	买	mǎi	to buy	我没买东西。
-2	卖	mài	to sell	他下周卖他的房子。
-1	读	dú	to read	老师要读那本书。
-
+3+	首都	shǒudū	capital
+1	买	mǎi	to buy
+2	卖	mài	to sell
+1	读	dú	to read
 1	对不起	duìbuqǐ	sorry
-
-
 &	夕	xī	dusk
-2	外	wài	outside/out/foreign	房子外面没有人。
-1	多	duō	many	这里好多人啊！
-1	多少	duōshǎo	how much/many?	这多少钱？
+2	外	wài	outside/out/foreign
+1	多	duō	many
+1	多少	duōshǎo	how much/many?
 4	许多	xǔduō	many	城市有许多商店。	许=promise/praise/allow
-4	够	gòu	enough	你的钱够吗？
-1	岁	suì	age/years	我的弟弟13岁。
-&	冬	dōng	winter	常常我会在冬天的时候生病。
-3	终于	zhōngyú	finally/at last	我终于可以睡觉了。
-3	疼	téng	pain/hurts	总是在一个地方疼。
-
-
+4	够	gòu	enough
+1	岁	suì	age/years
+&	冬	dōng	winter
+3	终于	zhōngyú	finally/at last
+3	疼	téng	pain/hurts
 1	儿子	érzi	son
 1	二	èr	two
-
-
-3	分	fēn	divide	请把面包分成三份。
-4	份	fèn	part/portion(MW)	请把面包分成三份。
-1	分钟	fēnzhōng	minute	你需要休息10分钟。
-4	部分	bùfēn	part (n)	我付了大部分
+3	分	fēn	divide
+4	份	fèn	part/portion(MW)
+1	分钟	fēnzhōng	minute	deck#4	due@2020-10-10 12:51:59
+4	部分	bùfēn	part (n)
 4	全部	quánbù	whole (adj)
-
 2	完	wán	whole/complete
-3	完成	wánchéng	to finish/complete	我及时完成了报告。
-2	玩	wán	to play	他在玩游戏。
-
-2	高	gāo	high/all	这栋房子很高。
+3	完成	wánchéng	to finish/complete
+2	玩	wán	to play
+2	高	gāo	high/all
 1	高兴	gāoxìng	happy,enjoy (v)	我们的孩子玩得很高兴。	deck#2	due@2020-09-10 21:00:15
-3	提高	tígāo	to raise/improve	他提高他的声音。
-
-
-3	总（是）	zǒng(shì)	always	在我生病时，妈妈总是给我一杯茶。
-&	聪明	cōngmíng	clever	他确实聪明。
-
+3	提高	tígāo	to raise/improve
+3	总（是）	zǒng(shì)	always	deck#4	due@2020-10-10 12:52:02
+&	聪明	cōngmíng	clever
 1	个	ge	generic measure word
-
-1	工作	gōngzuò	work (n)	他每天都做工作
-
-1	狗	gǒu	dog	我爱狗和猫。
-5	猪	zhū	pig	农场里有猪、马，牛和狗。
-1	猫	māo	cat	猫喜欢吃鱼。
-&	狼	láng	wolf	他被狼袭击了？
-5	狮子	shīzi	lion	他们可以像狮子一样地打斗
-5	猴子	hóuzi	monkey	看那只猴子多可爱。
-4	老虎	lǎohǔ	tiger	小老虎看起来像是一只猫。
-3	熊猫	xióngmāo	panda	这是我第一次在动物园里看到熊猫宝宝。
-3+	熊	xióng	bear	熊可能攻击她。
-
-4	逛	guàng	stroll	我们在城里逛了逛。
-
-1	汉语	hànyǔ	Chinese	汉语是很难的语言。
-
-1	好	hǎo	good	你是一个好人。
-
+1	工作	gōngzuò	work (n)
+1	狗	gǒu	dog
+5	猪	zhū	pig
+1	猫	māo	cat
+&	狼	láng	wolf
+5	狮子	shīzi	lion
+5	猴子	hóuzi	monkey
+4	老虎	lǎohǔ	tiger
+3	熊猫	xióngmāo	panda
+3+	熊	xióng	bear
+4	逛	guàng	stroll
+1	汉语	hànyǔ	Chinese
+1	好	hǎo	good
 1	号	hào	number
-4	号码	hàomǎ	number	这是我的电话号码
-
-1	喝	hē	to drink	你想喝什么？
+4	号码	hàomǎ	number
+1	喝	hē	to drink
 3	渴	kě	thirsty	你为什么总觉得很渴？	deck#3	due@2020-09-16 21:02:48
-
-
-1	很	hěn	very
-3	跟	gēn	with, follow (v), heel (n)	我跟我男朋友一起去旅行。
-2	眼睛	yǎnjing	eye	他的眼睛是很漂亮的。
-3	眼镜	yǎnjìng	glasses	他把他的眼镜放在桌上。
-3	银行	yínháng	bank	这里离银行很远吗？
-
-1	后面/边	hòumiàn/bian	behind, later (adv)	桌子后面
+1	很	hěn	very	deck#5	due@2020-12-09 12:46:57
+3	跟	gēn	with, follow (v), heel (n)
+2	眼睛	yǎnjing	eye
+3	眼镜	yǎnjìng	glasses
+3	银行	yínháng	bank
+1	后面/边	hòumiàn/bian	behind, later (adv)
 -	右	yòu	right
 -	左	zuǒ	left
 2	右面/边	yòumiān/bian	the right
 2	左面/边	zuǒmiān/bian	the left
 1	前面/边	qiánmiān/bian	in front of/before	我在学校前面等你。	deck#4	due@2020-10-09 21:18:04
-2	旁面/边	pángbian	beside/side	坐在他旁边的是他的老板。
-&	两边	liǎngbiān	on both sides	路两边有许多树。
-
-3	一边	yībiān	at the same time	他一边笑一边喝茶。
-
+2	旁面/边	pángbian	beside/side
+&	两边	liǎngbiān	on both sides
+3	一边	yībiān	at the same time	deck#2	due@2020-09-11 12:45:33
 3	元	yuán	first, measure word for money, coin
-2	远	yuǎn	far	你的家离我的很远。
+2	远	yuǎn	far
 2	近	jìn	close	公园离商店很近。	deck#3	due@2020-09-16 21:08:47
-2	进	jìn	to enter/come in	我看见她进了房间。
+2	进	jìn	to enter/come in
 2	进入	jìnrù	to enter/come in	(入=enter/join)
-3	讲	jiǎng	to speak/explain/discuss	他在给我们讲电脑的用。
+3	讲	jiǎng	to speak/explain/discuss
 5	进步	jìnbù	improve/progress/advanced
-
-
-2	到	dào	to arrive/go	他们应该九点前会到。
-4	到处	dàochù	all places	到处都是书。
-3	迟到	chídào	be late	对不起，我迟到。
-5	迟早	chízǎo	sooner or later	她迟早会离开。
-
+2	到	dào	to arrive/go
+4	到处	dàochù	all places
+3	迟到	chídào	be late
+5	迟早	chízǎo	sooner or later
 3	班	bān	class/team/squad/shift	他们应该上班。	(上班=go to work)
-3	刻	kè	quarter (time)	现在是十点一刻
-
-1	回	huí	return (v) reply (v)	父母马上回家了
+3	刻	kè	quarter (time)
+1	回	huí	return (v) reply (v)
 1	回来	huílái	return (v) come back	她回来到我们家	deck#3	due@2020-09-16 20:57:20
 3	回答	huídá	answer (v/n)	你的回答是非常好。	答=answer
--	回到	huídào	get back to	这是我第三回到北京。
-4	回忆	huíyì	to recall	他喜爱回忆他的父亲。
-2	问	wèn	to ask (v), question(n)	他总是喜欢问各种问题。
-2	问题	wèntí	question (n), problem (n)	我不懂这个问题。
+-	回到	huídào	get back to
+4	回忆	huíyì	to recall
+2	问	wèn	to ask (v), question(n)
+2	问题	wèntí	question (n), problem (n)
 2	题	tí	subject, topic
-3	向	xiàng	to, direction (n)	火车正开向我。
-4	方向	fāngxiàng	direction (n)	哪个方向是东？
-4	响	xiǎng	loud/sound(n+v)/ring(v)	我的电话响了
-
-5	墙	qiáng	wall	墙上有一幅画。
-
-2	房间	fángjiān	room	她的房间真小。
-5	屋子	wūzi	room	我们在他的屋子里看电影。
-3+	房子	fángzi	house, apartment	老师的房子很高。
-3	厨房	chúfáng	kitchen	我妈在厨房里做饭。
-
-2	时间	shíjiān	time	这节课多长时间？
+3	向	xiàng	to, direction (n)
+4	方向	fāngxiàng	direction (n)
+4	响	xiǎng	loud/sound(n+v)/ring(v)
+5	墙	qiáng	wall
+2	房间	fángjiān	room
+5	屋子	wūzi	room
+3+	房子	fángzi	house, apartment
+3	厨房	chúfáng	kitchen
+2	时间	shíjiān	time
 3	中间	zhōngjiān	centre/middle
 1	时候	shíhou	time
-1	的	de	(posessive particle)
-
-
-3+	同	tóng	same/with/together/as..as	我同我哥哥一样高
+1	的	de	(posessive particle)	deck#5	due@2020-12-09 12:46:03
+3+	同	tóng	same/with/together/as..as
 4	同时	tóngshí	at the same time, besides
-1	同学	tóngxué	classmate/fellow student	我是你的大学同学。
-3	同事	tóngshì	colleague	他和我是同事。
-
+1	同学	tóngxué	classmate/fellow student
+3	同事	tóngshì	colleague
 3	词典	cídiǎn	dictionary	你用完词典了吗？	词=word,典=standard
-3	字典	zìdiǎn	dictionary	请把字典还给我。
+3	字典	zìdiǎn	dictionary
 5	经典	jīngdiǎn	classics
-
 1	会	huì	to be able to, to assemble	deck#4	due@2020-10-09 21:11:31
 -	会见	huìjiàn	to meet
-3	会议	huìyì	meeting	会议什么时候开始？
-3	机会	jīhuì	opportunity/chance	给我一次机会吧！
+3	会议	huìyì	meeting
+3	机会	jīhuì	opportunity/chance
 4	社会	shèhuì	society
 &	都会	dūhuì	big city,community
-3	一会儿	yīhuìr	in an instant/soon, a while	我需要休息一会儿。
+3	一会儿	yīhuìr	in an instant/soon, a while
 &	会员	huìyuán	member
-
 5	念	niàn	read(aloud)/study/miss/idea
-4	尝	cháng	taste/ever	尝起来好吃
-
-4	合适	héshì	appropriate/suitable/fit	你穿这件衬衫合适吗？
-5	合作	hézuò	cooperate	为什么你不合作呢？
-4	盒子	hézi	box/case	这两个盒子一样大。
-
-1	几	jǐ	how much/many/a few	你有几个朋友？
-3	几乎	jīhǔ	almost	这几乎是新的。
+4	尝	cháng	taste/ever
+4	合适	héshì	appropriate/suitable/fit
+5	合作	hézuò	cooperate
+4	盒子	hézi	box/case
+1	几	jǐ	how much/many/a few
+3	几乎	jīhǔ	almost
 1	九	jiǔ	nine
 -	力	lì	force (n),strength (n), power (n)
 4	刀	dāo	knife
 3	万	wàn	ten thousand	他有2万元.
 4	能力	nénglì	ability
 3	努力	nǔlì	to try hard	他学习非常努力。	努=make an effort	deck#3	due@2020-09-16 21:16:17
-3	穷	qióng	poor	他家很穷
-3	为(了）	weì(le)	for	他做这个是为了钱。
+3	穷	qióng	poor
+3	为(了）	weì(le)	for
 4	一切	yíqiè	all/everything	我们一切都好，谢谢。	deck#2	due@2020-09-10 21:00:24
-5	伤害	shānghài	injure/hurt	她伤害了胳膊。
-4	伤心	shāngxīn	sad/saddened	我很伤心
-
-1	家	jiā	family, home	你家有几个人？
-3	国家	guójiā	state	在你国家吃米饭吗？
+5	伤害	shānghài	injure/hurt
+4	伤心	shāngxīn	sad/saddened
+1	家	jiā	family, home
+3	国家	guójiā	state
 5	家庭	jiātíng	family	庭=hall
 6	人家	rénjiā	household,family
-3	刻	kè	quarter/carve/moment	现在是十点一刻。
-
-1	叫	jiào	shout,call,order	你叫什么名字？
-2	笑	xiào	to laugh/smile
-3	哭	kū	to cry	你哭什么？
-&	唱	chàng	to sing	我不会唱歌。
-4	感冒	gǎnmào	have a cold	今天我感冒了，所以不唱歌。
-
-2	歌	gē	song	她唱歌很好听。
-
-1	今天	jīntiān	today	他今天很忙。
-1	昨天	zuótiān	yesterday	昨天是星期日。
-1	明天	míngtiān	tomorrow	我们明天去首都。
-1	天气	tiānqì	weather	今天的天气很晴。
+3	刻	kè	quarter/carve/moment
+1	叫	jiào	shout,call,order
+2	笑	xiào	to laugh/smile	deck#4	due@2020-10-10 12:51:40
+3	哭	kū	to cry
+&	唱	chàng	to sing
+4	感冒	gǎnmào	have a cold
+2	歌	gē	song
+1	今天	jīntiān	today
+1	昨天	zuótiān	yesterday
+1	明天	míngtiān	tomorrow
+1	天气	tiānqì	weather
 4	空	kōng	empty (a), sky (n)
 4	空气	kōngqì	air	deck#3	due@2020-09-16 21:18:08
-5	天空	tiānkōng	sky	天空上有一架飞机。
-
+5	天空	tiānkōng	sky
 4	火	huǒ	fire
 &	头	tóu	head/hair
-&	头发	tóufa	hair (head)	我的头发很长。
+&	头发	tóufa	hair (head)	deck#4	due@2020-10-10 12:51:55
 &	实	shí	solid/true/reality
-3	其实	qíshí	actually	其实我不明白你的问题。
-3	其他/其它	qítā	other/else/the rest	其他人都很忙。
-4	尤其	yóuqí	especially	他爱好体育，尤其喜欢踢足球。
-1	太	tài	too/so/such	太黑了，我看不见。
-3	太阳	tàiyáng	sun	今天的太阳好大啊！
+3	其实	qíshí	actually
+3	其他/其它	qítā	other/else/the rest
+4	尤其	yóuqí	especially
+1	太	tài	too/so/such
+3	太阳	tàiyáng	sun
 6	太空	tàikōng	space
-
 5	直	zhí	straight/simply
-3	一直	yīzhí	always/constantly/straight	他一直很高兴。
-
-5+	谈话	tánhuà	chat	她正在和她大学的老师谈话。
-
-1	飞机	fēijī	airplane	我在天上看见一架飞机
+3	一直	yīzhí	always/constantly/straight
+5+	谈话	tánhuà	chat
+1	飞机	fēijī	airplane
 -	飞机场	fēijīchǎng	airport	到飞机场多远？	场=ground/scene/field
-
 !	厂	chǎng	factory
 4	广告	guǎnggào	advertisement
-5	广场	guǎngchǎng	square/plaza	广场上满是人
+5	广场	guǎngchǎng	square/plaza
 5	产生	chǎnshēng	produce/develop/cause
-5	产品	chǎnpǐn	product	这种产品质量特别好。
+5	产品	chǎnpǐn	product
 6	产业	chǎnyè	industry
 !	严	yǎn	tight/strict/severe
-4	严重	yǎnzhòng	serious	他的病情非常严重。
-4	严格	yǎngé	strict	老师的要求非常严格。
-
-
-4	窗户	chuānghu	window	他打开了窗户。
-3	邻居	línjū	neighbour	我的邻居很可爱。
-
-1	开	kāi	to open	不要开门。
-2	开始	kāishǐ	to begin/to start, beginning (n)	我现在要开始看书。
-？	开车	kāichē	to drive	我哥哥会开车。
-4	开心	kāixīn	happy	我们觉得很开心。
-
-3	结束	jiéshù	to end/to finish	他们决定结束关系。
+4	严重	yǎnzhòng	serious
+4	严格	yǎngé	strict
+4	窗户	chuānghu	window
+3	邻居	línjū	neighbour
+1	开	kāi	to open
+2	开始	kāishǐ	to begin/to start, beginning (n)
+？	开车	kāichē	to drive
+4	开心	kāixīn	happy
+3	结束	jiéshù	to end/to finish
 3	结婚	jiéhūn	to get married	她决定和他结婚。	结=tie,婚=marriage
-4	结果	jiéguǒ	outcome/result/conclusion/in the end	比赛结果如何？
-
-1	看	kàn	to look	你在看什么？
-1	看见	kànjiàn	to see	他看见了你的父母
-2+	看书	kànshū	to read (a book)/study	她整个上午都在看书。
+4	结果	jiéguǒ	outcome/result/conclusion/in the end
+1	看	kàn	to look	deck#4	due@2020-10-10 14:02:58
+1	看见	kànjiàn	to see
+2+	看书	kànshū	to read (a book)/study
 2+	看到	kàndão	to see/to notice
 2+	看来	kànlái	to seem, view (n)
-2	着	zhe	continuous/ongoing aspect particle	这家饭店还开着 。
-3	着急	zháojí	worried/worry	你别着急，医生马上就来了。
-3	春	chún	spring	春天下很多雨。
-3	夏	xià	summer	你这个夏天干了些什么？
-3	差	chà;chā;chāi	mistaken/poor;difference;send	这些鞋的质量很差
-
+2	着	zhe	continuous/ongoing aspect particle
+3	着急	zháojí	worried/worry
+3	春	chún	spring
+3	夏	xià	summer
+3	差	chà;chā;chāi	mistaken/poor;difference;send
 1	块	kuài	lump/piece (MW)
-2	快	kuài	fast/quick/soon	我可以跑得很快。
-2	快乐	kuàile	happy/joyous	新年快乐！
-3	筷子	kuàizi	chopsticks	我们用筷子吃饭。
-3	决定	juédìng	to decide	我决定买一辆汽车。
-
+2	快	kuài	fast/quick/soon
+2	快乐	kuàile	happy/joyous
+3	筷子	kuàizi	chopsticks
+3	决定	juédìng	to decide
 3	米	mǐ	rice	这种米很好吃。	deck#4	due@2020-10-09 21:09:45
-1	来	lái	to come	你会来荷兰国吗？
-4	将来	jiānglái	future	在不远的将来
-
-
-3	旧	jiù	old	(inanimate)	我的房子很旧。
+1	来	lái	to come
+4	将来	jiānglái	future
+3	旧	jiù	old	(inanimate)
 1+	但	dàn	but/only
-2	但是	dànshì	but	我想睡觉， 但是我不困。
-2+	怕	pà	fear/afraid	我非常怕马
-3	担心	dānxīn	worry	我不告诉你，但是我很担心你。
-
-3	害怕	hàipà	to be afraid	这小孩害怕黑暗。
-4	害羞	hàixiū	to be shy	和姐姐相比，她比较害羞。
-
+2	但是	dànshì	but
+2+	怕	pà	fear/afraid
+3	担心	dānxīn	worry
+3	害怕	hàipà	to be afraid
+4	害羞	hàixiū	to be shy
 3	老	lǎo	old	(animate)
-1	老师	lǎoshī	teacher
-5	老板	lǎobǎn	boss	这家公司的老板是谁？
-
-4	律师	lǜshì	lawyer	我想见我的律师。
-
-2	新	xīn	new	我有新的自行车。
-3	新闻	xīnwén	news	我每天早上都会看新闻。	(闻=hear/smell)
-3	新鲜	xīnxiān	fresh (food etc)/new/novel	这些苹果很新鲜。
+1	老师	lǎoshī	teacher	deck#4	due@2020-10-10 12:45:44
+5	老板	lǎobǎn	boss
+4	律师	lǜshì	lawyer
+2	新	xīn	new
+3	新闻	xīnwén	news	我每天早上都会看新闻。	(闻=hear/smell)	deck#2	due@2020-09-11 12:47:00
+3	新鲜	xīnxiān	fresh (food etc)/new/novel
 4	重新	chóngxīn	again
-4	重	zhòng	heavy/weight/strong/important	水比油重。
-3	重要	zhòngyào	important	董汉语是非常重要的。
-4	重视	zhòngshì	to value/attach importance	她总是很重视丈夫的意见。
+4	重	zhòng	heavy/weight/strong/important
+3	重要	zhòngyào	important
+4	重视	zhòngshì	to value/attach importance
 4	严重	yánzhòng	serious	严=tight/strict/severe
-3	懂	dǒng	understand	我不董为什么这个包这么重。
-
+3	懂	dǒng	understand
 1	睡觉	shuìjiào	sleep	我困了，想睡觉。	deck#3	due@2020-09-16 21:11:20
-2	觉得	juéde	feel/think	我觉得他是很漂亮。
-4	感觉	gǎnjué	feeling	我感觉好极了	syn: 感情
-6	发觉	fājué	discover	禁止她发觉有错误。	syn: 发现
-3	发烧	fāshāo	fever	我昨晚发烧了。
-4	发生	fāshēng	happen	这是什么时候发生的？
-
-1	学习	xuéxi	to learn/study	我在大学学习汉语
-1	学校	xuéxiào	school	学校离我的家不远。
-3	教	jiāo	to teach	老师教我们语法。
-2	教室	jiàoshì	classroom	老师在教室里。
+2	觉得	juéde	feel/think
+4	感觉	gǎnjué	feeling	我感觉好极了
+6	发觉	fājué	discover	禁止她发觉有错误。
+3	发烧	fāshāo	fever
+4	发生	fāshēng	happen
+1	学习	xuéxi	to learn/study
+1	学校	xuéxiào	school
+3	教	jiāo	to teach
+2	教室	jiàoshì	classroom
 4	教育	jiàoyu	education
-
 !	现	xiàn	present/reveal/ready
-1	现在	xiànzài	now	我现在在北京住
-4	现金	xiànjīn	cash	他用现金买的电视。
-3	发现	fāxiàn	discover	他发现了一个新油田	syn: 发觉
-4	出现	chǔxiàn	appear	两个男人突然出现在门口。
-
+1	现在	xiànzài	now
+4	现金	xiànjīn	cash
+3	发现	fāxiàn	discover	他发现了一个新油田	due@2020-09-10 12:45:51
+4	出现	chǔxiàn	appear
 5	表现	biǎoxiàn	show/perform/performance
-4	表扬	biǎoyáng	praise	报纸表扬了他们。
-
-
-
+4	表扬	biǎoyáng	praise
 1	了	le	past particle	deck#5	due@2020-12-08 21:16:57
-
 1	冷	lěng	cold
 1	水	shǔi	water
 2+	冰	bīng	ice
-3+	冰箱	bīngxiāng	refrigerator	我把牛奶放进冰箱里
+3+	冰箱	bīngxiāng	refrigerator
 3+	水平	shuǐpíng	standard/level/horizontal	你的英语水平如何？	deck#3	due@2020-09-16 21:09:25
 4+	永	yǒng	forever/everlasting
-
-
-
 1	六	liù	six
-
-1	妈妈	māma	mother	我爱我的妈妈
+1	妈妈	māma	mother
 1	吗	ma	question particle
-3	马	mǎ	horse	她想骑马
-3	鸟	niǎo	bird	我们听见一只小鸟在唱歌。
+3	马	mǎ	horse
+3	鸟	niǎo	bird
 3+	鸡	jì	chicken
 2	鸡蛋	jìdàn	chicken egg
 3+	鸭	yā	duck
-
 1+	中	zhōng	centre/middle
-1	中国	zhōngguó	China	中国到底有多少人口？
+1	中国	zhōngguó	China	deck#5	due@2020-12-09 12:46:49
 3	种	zhǒng;zhòng	species/seed/courage;sow
 5	种类	zhǒnglèi	type
 2+	种种	zhǒngzhǒng	various/all sorts of
-
 4	毛	máo	hair
 2+	笔	bǐ	pen
 2+	手	shǒu	hand
 2	手机	shǒujī	mobile phone	我的手机在桌子上。	(机=machine)
 2	手表	shǒubiào	wristwatch	(表=meter/watch/model)
-
 1	果	guǒ	fruit	他把水果放进冰箱里	deck#3	due@2020-09-16 21:14:51
-3	如果	rúguǒ	if	如果我是你，我也会这么做。
+3	如果	rúguǒ	if
 5	如何	rúhé	how/what	他的汉语水平如何？	deck#2	due@2020-09-10 20:59:59
 4	比如	bǐrú	for example/such as
-1	苹果	píngguǒ	apple	这个苹果很好吃。
-3	果汁	guǒzhī	juice	你喜欢喝什么样的果汁？
-2	课	kè	subject/class/lesson	这节课多长时间？
+1	苹果	píngguǒ	apple
+3	果汁	guǒzhī	juice
+2	课	kè	subject/class/lesson
 3+	课文	kèwén	text	我读课文。	deck#2	due@2020-09-10 21:00:34
-4	辣	là	spicy/hot	这菜很辣。
-
-3	关	guān	to close, to turn off	别忘记关窗户。
-3	关系	guānxi	relation/reason/impact	我跟我父母的关系是很好。
+4	辣	là	spicy/hot
+3	关	guān	to close, to turn off
+3	关系	guānxi	relation/reason/impact
 1	没关系	méiguānxi	it doesn't matter
-3	关心	guānxīn	to concern/to worry	他非常关心他儿子的将来。
-3	关于	guānyú	about/regarding	我想跟你讨论关于钱的问题。
-
+3	关心	guānxīn	to concern/to worry
+3	关于	guānyú	about/regarding
 1	没有	méiyǒu	not have
 `
-
-1	名字	míngzi	name	你叫什么名字？
-3	有名	yǒumíng	famous	我听说她是个有名的演员。
-
-
+1	名字	míngzi	name
+3	有名	yǒumíng	famous
 1	哪	nǎ	which/any/how
 1	哪儿	nǎ'er	where
-1	那	nà	that
+1	那	nà	that	deck#4	due@2020-10-10 12:47:30
 1+	那儿	nà'er	there
 1	这	zhè	this
 1+	这儿	zhè'er	here	deck#3	due@2020-09-16 21:06:06
-
-
 1	呢	ne	a particle used for emphasis in a question
-
 1	能	néng	be able to, capable (a), ability (n)
-2	可能	kěnéng	possible, possibility, maybe/possibly	让我给你钱是不可能的。
-
+2	可能	kěnéng	possible, possibility, maybe/possibly
 1	你	nǐ	you
-
 3	口	kǒu	mouth
 4	入口	rùkǒu	entrance	deck#3	due@2020-09-16 21:16:46
 5	人口	rénkǒu	population
 5	出口	chūkǒu	exit
 2	门(口)	ménkǒu	door/gate
-3	只	zhǐ	only, MW for one of a pair	我只认识他。	(一只手）
-4	只好	zhǐhǎo	have to/be forced to/need to	他们只好用冷水洗。
+3	只	zhǐ	only, MW for one of a pair	我只认识他。
+4	只好	zhǐhǎo	have to/be forced to/need to
 4+	品	pǐn	quality/item/product/grade
-
-1	年	nián	year	今年是2018年
+1	年	nián	year
 !	车	chē	vehicle/car
 !	午	wǔ	noon
-2	牛	niú	cow	你喜欢喝牛奶吗？
-4+	牢	láo	pen/prison	他在牢里面。
+2	牛	niú	cow
+4+	牢	láo	pen/prison
 2	千	qián	one thousand
 !	干	-	gàn	dry/shield
-3	干净	gānjìng	clean/neat/tidy	你的房间非常干净。
-5	干燥	gānzào	dry	北方的冬令寒冷干燥。。
+3	干净	gānjìng	clean/neat/tidy
+5	干燥	gānzào	dry
 4	干杯	gānbēi	drink a toast/cheers	deck#3	due@2020-09-16 21:26:44
-!	于	yú	in/from/to	这位老人生于1899年。
-3	半	bàn	half	四点半
-2	羊	yáng	sheep	我听见羊
-
-
-3	一样	yīyàng	same	房子都一样。/ 这里的天气跟我城市的不一样。
-
-3	胖	pàng	fat	你觉得我胖吗？
-3	瘦	shòu	thin	人们都说我很瘦，可我觉得我胖了。
-
-
-1	出租车	chūzūchē	taxi	这个城市很难打到出租车
+!	于	yú	in/from/to
+3	半	bàn	half	deck#3	due@2020-09-17 12:52:09
+2	羊	yáng	sheep	deck#2	due@2020-09-11 12:52:25
+3	一样	yīyàng	same
+3	胖	pàng	fat
+3	瘦	shòu	thin
+1	出租车	chūzūchē	taxi
 1+	汽车	qìchē	car
 1+	火车	huǒchē	train (火 = fire)
-2	火车站	huǒchēzhàn	train station	火车站在哪儿？
+2	火车站	huǒchēzhàn	train station
 2	公共汽车	gōnggóngqìchē	public bus
 3	自行车	zìxíngchē	bike
-
 3+	公共	gōnggòng	public
-4	共同	gōngtóng	common/together	共同的朋友
-3	一共	yīgòng	altogether	我一共看了九本书。
+4	共同	gōngtóng	common/together
+3	一共	yīgòng	altogether
 4+	共产党	gōngchǎndǎng	the Communist Party
-
-!	女	nǚ	woman/female	她是很力的女人。
-1	女儿	nǚér	daughter	我们想要一个女儿。
+!	女	nǚ	woman/female
+1	女儿	nǚér	daughter
 3	安静	ānjìng	quiet/peaceful	房间是安静和干净。	(安=peace/quiet/calm)
-4	安全	ānquán	safe/secure/security	安全是重要的。	(syn: 平安， píngān, 5)
-4+	按	àn	according to	按我告诉你的做
-
-
-1	朋友	péngyou	friend	她们都是我的朋友。
-3	明白	míngbai	to understand	我不明白你说什么。
+4	安全	ānquán	safe/secure/security	安全是重要的。	(syn: 平安， píngān, 5)	deck#2	due@2020-09-11 12:47:54
+4+	按	àn	according to
+1	朋友	péngyou	friend
+3	明白	míngbai	to understand
 3	用	yòng	to use/ need	用杯子喝啤酒 ; 我不会用汉语说这句话	deck#4	due@2020-10-09 20:56:54
 3+	有用	yǒuyòng	useful/helpful
 6	用户	yònghù	user
-
-4	钥匙	yàoshi	key	我把钥匙丢了。
-
-5	亮	liàng	bright/clear	房间亮起来了。	(syn: 明）
-1	漂亮	piàoliang	good-looking,pretty	你女儿真漂亮。
-
+4	钥匙	yàoshi	key
+5	亮	liàng	bright/clear	房间亮起来了。
+1	漂亮	piàoliang	good-looking,pretty	deck#4	due@2020-10-10 12:51:44
 !	戈	gē	weapon/axe
-1	我	wǒ	I,me	我找很多钱。
-1	钱	qián	money	他们有很多钱。
-2	找	zhǎo	to look for/search  我找很多钱。
+1	我	wǒ	I,me
+1	钱	qián	money
+2	找	zhǎo
 2+	找到	zhǎodào	to find
-3	饿	è	hungry	我饿了，想吃苹果。
+3	饿	è	hungry
 3+	俄国	éguó	Russia
-
-
-1	请	qǐng	ask/request,invite	请给我菜单。
+1	请	qǐng	ask/request,invite
 2	晴	qíng	fine (mostly weather)	今天的天气很晴	deck#3	due@2020-09-16 21:17:57
-3	清楚	qíngchu	clear, understand (v)	你没听清楚。
-2+	情	qíng	feeling,kindness,passion,love
+3	清楚	qíngchu	clear, understand (v)
+2+	情	qíng	feeling,kindness,passion,love	deck#2	due@2020-09-11 12:46:52
 4	爱情	aìqíng	love
 4	心情	xīnqíng	mood/frame of mind
 2	事情	shìqíng	matter/event/business/thing     安全是最重要的事情。  (事=thing)
 4	情况	qíngkuàng	situation	情况可能有变。	(况=situation, syn: 状况 zhuàngkuàng)
-4	精彩	jīngcǎi	wonderful/brilliant	昨天晚上的演出相当精彩。
-4	猜	cāi	guess/suspect	我让你猜3次
-3	故事	gùshi	story	我相信那个故事。
-4	建议	jiànyì	propose	我能提个建议吗？
+4	精彩	jīngcǎi	wonderful/brilliant
+4	猜	cāi	guess/suspect
+3	故事	gùshi	story
+4	建议	jiànyì	propose
 5	建设	jiànshè	build
-
 1	热	rè	hot/warm	今天天气很热。	deck#4	due@2020-10-09 21:08:17
-3	热情	rèqíng	passion (n), enthousiastic (a)	她对客人非常热情。
-6	热门	rèmén	popular	这是很热门的节目。
-
-
-1	去	qù	to go / past (a)	我明年去中国。
-4	丢	diù	to lose/throw away	因为我丢了我的雨伞，所以我不出去。
-2	出	chū	to exit / go out	客人现在要出去了。
-
-1	人	rén	person/people	我是个男人。
+3	热情	rèqíng	passion (n), enthousiastic (a)
+6	热门	rèmén	popular
+1	去	qù	to go / past (a)
+4	丢	diù	to lose/throw away	due@2020-09-10 12:45:53
+2	出	chū	to exit / go out
+1	人	rén	person/people
 1	认识	rènshi	to know (connaître)	他们认识你吗？	deck#3	due@2020-09-16 21:13:07
 3	认为	rènwéi	to think	我认为你说得对。	(syn: 以为 yǐwéi 4)
-3	认真	rènzhēn	serious	我是认真的。
+3	认真	rènzhēn	serious
 6	认可	rènkě	endorse/approve
-
 4	各	gè	each/particular
-5	各自	gèzì	each (their own)	这对夫妇各自休假去了。
-6+	各种	gèzhǒng	of various kinds	他总是喜欢问各种问题。
-3	客人	kèrén	guest, customer	今天他是我的客人。
-4	客厅	kètīng	living room	请把桌子放在客厅的中间。
-6	客户	kèhù	customer	我们再次和客户谈话。
-5+	客气	kèqi	polite	他对人总是那么客气。
-4	价格	jiágè	price	一条面包的价格
-2	介绍	jièshào	to introduce	我想介绍你给我父母认识。
-
-4	假	jiǎ;jià	false/artificial/if/borrow;vacation	这张票是假的
-
+5	各自	gèzì	each (their own)
+6+	各种	gèzhǒng	of various kinds
+3	客人	kèrén	guest, customer
+4	客厅	kètīng	living room
+6	客户	kèhù	customer
+5+	客气	kèqi	polite
+4	价格	jiágè	price
+2	介绍	jièshào	to introduce
+4	假	jiǎ;jià	false/artificial/if/borrow;vacation
 1	三	sān	three
-
-1	上	shàng	go up/on/last	桌子上有两杯红酒。
+1	上	shàng	go up/on/last
 1	上午	shàngwǔ	morning
-2	晚上	wǎnshàng	evening
+2	晚上	wǎnshàng	evening	deck#4	due@2020-10-10 12:46:18
 2	上班	shàngbān	go to work
-
 2	件	jiàn	MW for things, clothes, and items
-
-1	谁	shéi	who/someone	他是谁？
+1	谁	shéi	who/someone
 2	准备	zhǔnbèi	to prepare	我需要准备几个杯子?	deck#2	due@2020-09-10 21:01:25
-5	准时	zhǔnshí	on time	飞机准时起飞
-2	往	wǎng	to go (in a direction); towards; in the past	飞机正飞往北京。
-
-
+5	准时	zhǔnshí	on time
+2	往	wǎng	to go (in a direction); towards; in the past
 1	什么	shénme	what/something/anything
 2	为什么	wèishénme	why
-
-1	十	shí	ten	我三十五岁。
+1	十	shí	ten
 ！	土	tǔ	soil/ground/land
 ！	士	shì	soldier/scholar
-4	压力	yālì	pressure/burden/stress	压力是健康的敌人。
-
+4	压力	yālì	pressure/burden/stress
 ！	心	xīn	heart
 3	必须	bìxū	must	你必须等这儿。	必=certainly
-
-1	是	shì	to be	我是他的老师。
+1	是	shì	to be	deck#4	due@2020-10-10 12:45:37
 2	走	zǒu	to walk/go	他必须得走  .
 !	足	zú	foot	deck#2	due@2020-09-10 21:04:06
-3	一定	yīdìng	certainly	他一定是最漂亮的。
+3	一定	yīdìng	certainly
 !	起	qǐ	to rise/form
-2	一起	yìqǐ	together, the same place	我根你一起去西班牙。
+2	一起	yìqǐ	together, the same place
 3+	起立	qǐlì	to stand up
-2+	起来	qǐlái	to get up	请起来，来客人了。
-2	起床	qǐchuáng	to get out of bed	我每天早上6点起床。
-3	起飞	qǐfēi	take off (flying)	飞机起飞了。
-
-1	对不起	duìbùqǐ	sorry	对不起，我错了。
-
+2+	起来	qǐlái	to get up
+2	起床	qǐchuáng	to get out of bed
+3	起飞	qǐfēi	take off (flying)
+1	对不起	duìbùqǐ	sorry
 !	立	lì	stand/upright/immediately
-3	站	zhàn	to stand/station	他忽然站了起来。
-3	位	wèi	MW for people	他有三位同事。
-4	拉	lā	pull/transport/help	出租车司机拉我到了机场。
-3	接	jiē	receive/connect/catch	他接到一封信 / 他会来接我们。
+3	站	zhàn	to stand/station
+3	位	wèi	MW for people
+4	拉	lā	pull/transport/help
+3	接	jiē	receive/connect/catch
 4	倍	bèi	double/times
-4	陪	péi	go with/accompany/assist	我陪你走回家
-
-3	接受	jiēshòu	accept/receive	你当然应该接受
-
+4	陪	péi	go with/accompany/assist
+3	接受	jiēshòu	accept/receive
 !	文	wén	writing
-
 1	书	shū	to write (v), book (n), letter (n)
-
-
-1	说	shuō	to say/speak	他说他觉得不舒服。
+1	说	shuō	to say/speak
 2	说话	shuōhuà	to talk/to chat
-2	告诉	gàosù	to tell	我告诉你我昨天看见了什么。
-
+2	告诉	gàosù	to tell
 !	舌	shé	tongue
-!	活	huó	live/life	她活得很好。
-!	话	huà	speech/talk/words	你得注意他说的话。
+!	活	huó	live/life
+!	话	huà	speech/talk/words
 3	刮风	guāfēng	wind blows	今天刮风。	due@2020-09-09 21:02:24
-
 1	岁	suì	years old	我32岁	deck#4	due@2020-10-09 21:26:33
 4	死	sì	to die; dead;
-4	梦	mèng	dream	她梦到自己是电影明星
-5	梦想	mèngxiǎng	dream	他梦想着开一家自己的公司。
-
-3	碗	wǎn	bowl	请来碗面条。
-
-2	也	yě	also	他也爱我们的世界。
-3	世界	shìjiè	world	世界也是他的。
-1	他	tā	he	他也是中国人。
+4	梦	mèng	dream
+5	梦想	mèngxiǎng	dream
+3	碗	wǎn	bowl
+2	也	yě	also
+3	世界	shìjiè	world
+1	他	tā	he
 1	他们	tāmen	they
 1	她	tā	she
 2	它	tā	it
-3	地	de	particle	他安静地看着我。
+3	地	de	particle
 3	地	dì	place,land,earth,location
-3	地方	dìfang	place,location,room	这是非常美的地方。
+3	地方	dìfang	place,location,room	deck#4	due@2020-10-10 12:46:56
 3	地图	dìtú	map	这张地图很大。	deck#2	due@2020-09-10 20:56:50
-5	地区	dìqū	district/area	北京地区普降大雨。
-
-1	听	tīng	to listen	我们正在听歌。
-
-
+5	地区	dìqū	district/area
+1	听	tīng	to listen
 1	喂	wéi	hello (on phone)
-
-
-1	五	wǔ	five	现在五点了。
-
-
-1	喜欢	xǐhuan	to like	你喜不喜欢我都没关系。
-
-1	下	xià	down/under/last	猫在桌子下。
-1	下午	xiàwǔ	afternoon	医生明天下午有空。
-1	下雨	xiàyǔ	rain (v)	现在在下雨。
-2	一下	yíxià	at once
-
-
-4	无	wú	without/no/not	除了书桌之外，这个房间别无他物。
-4+	无视	wúshì	ignore/disregard	他们无视狗。
-4	无论	wúlùn	no matter what	无论他做什么我都相信他。
-3	先	xiān	earlier/late/first	先让我考虑一下。
+1	五	wǔ	five	deck#5	due@2020-12-09 12:46:12
+1	喜欢	xǐhuan	to like
+1	下	xià	down/under/last
+1	下午	xiàwǔ	afternoon
+1	下雨	xiàyǔ	rain (v)
+2	一下	yíxià	at once	deck#2	due@2020-09-11 12:47:33
+4	无	wú	without/no/not
+4+	无视	wúshì	ignore/disregard
+4	无论	wúlùn	no matter what
+3	先	xiān	earlier/late/first
 1	先生	xiānsheng	mister
-6	先进	xiānjìn	advanced	这种先进的工艺十分难学。
-6	先前	xiānqián	the past	她先前住在北京。
-3	选择	xuǎnzé	to choose	红色和蓝色，你选择哪颜色？
-
-1	学生	xuésheng	student	学生在大学学习汉语。
-2	生日	shēngrì	birthday	生日快乐！
+6	先进	xiānjìn	advanced
+6	先前	xiānqián	the past
+3	选择	xuǎnzé	to choose
+1	学生	xuésheng	student
+2	生日	shēngrì	birthday
 4	生活	shēnghuó	life/live
 2	生病	shēngbìng	get ill/sick	因为她生病了，所以她会去医院。	deck#3	due@2020-09-16 21:01:55
-3	生气	shēngqì	get angry	我很生气，因为我掉了钱。
-
-1	医生	yīshēng	doctor	我想做医生。
-1	医院	yīyuàn	hospital	这座城市有医院吗？
-
-2	药	yào	medicine	你每天应该吃药。
-4	大约	dàyuē	approximately/probably	他大约在上网。
-4	约会	yuēhuì	(make an) appointment	他约会已经迟到了。
-
+3	生气	shēngqì	get angry
+1	医生	yīshēng	doctor	deck#4	due@2020-10-10 14:03:25
+1	医院	yīyuàn	hospital
+2	药	yào	medicine
+4	大约	dàyuē	approximately/probably
+4	约会	yuēhuì	(make an) appointment
 2	因为	yīnwèi	because
-3+	困	kùn	sleepy	我很困，我去床。
-4	原因	yuányīn	reason	-	人们知道原因吗？
+3+	困	kùn	sleepy
+4	原因	yuányīn	reason	-
 4	原来	yuánlái	original/all along	他爷爷原来是财主	deck#3	due@2020-09-16 21:13:48
-
 3+	园	yuán	garden/park
-
-1	想	xiǎng	think, want to	你想做什么？
+1	想	xiǎng	think, want to
 5	思想	sīxiǎng	thought/idea
-2	意思	yìsi	meaning/idea/interest	这个汉字是什么意思？
+2	意思	yìsi	meaning/idea/interest
 4	意见	yìjiàn	opinion/objection	按我的意见..
 3+	有意思	yǒuyìsi	interesting	deck#3	due@2020-09-16 21:10:36
 5	思考	sīkǎo	think (cognitive process)
-4	考虑	kǎolǚ	consider	这个问题需要慎重考虑。
-3	注意	zhùyì	be careful/pay attention	我得注意你说的话。
-4	主意	zhǔyi	plan/idea/decision	他给我们出了个好主意。
-
+4	考虑	kǎolǚ	consider
+3	注意	zhùyì	be careful/pay attention
+4	主意	zhǔyi	plan/idea/decision
 1	小	xiǎo	small
 1	小姐	xiǎojiě	miss
-2	小时	xiǎoshí	hour	他每天都会看书一小时。
+2	小时	xiǎoshí	hour
 4	小说	xiǎoshūo	novel
-5	小学	xiǎoxué	school	我的儿子在小学里。
+5	小学	xiǎoxué	school
 3	小心	xiǎoxīn	careful	你应该要更小心。	deck#2	due@2020-09-10 21:15:33
-1	少	shǎo	few/little	商店里的人非常少。
-5	吵	chǎo	noisy/quarrel	太吵了，我听不见她在说什么。
-5	抄	chāo	copy	我把作业写在黑板上了，抄一下吧。
-
-1	些	xiē	some/a little (MW)	我想买些苹果。
-
-1	写	xiě	to write	他写了一封信。
-
-1	谢谢	xièxiè	thanks	谢谢你教我西班牙语。
-
-1	星期	xīngqī	week	这星期我很忙。	syn: 周
+1	少	shǎo	few/little
+5	吵	chǎo	noisy/quarrel
+5	抄	chāo	copy
+1	些	xiē	some/a little (MW)
+1	写	xiě	to write
+1	谢谢	xièxiè	thanks
+1	星期	xīngqī	week	这星期我很忙。
 1+	星	xīng	star
-3+	期待	qīdài	look forward to	还是有一个东西我特别期待。
-
-！	周	zhōu	circle/week	他上周看书了。
-3	周末	zhōumò	weekend	你周末过得怎么样？
-3	周围	zhōuwéi	vicinity/environment	周围的人也很高兴。
-
+3+	期待	qīdài	look forward to
+！	周	zhōu	circle/week	deck#3	due@2020-09-17 12:47:47
+3	周末	zhōumò	weekend
+3	周围	zhōuwéi	vicinity/environment
 1	一	yī	one
 1	一点儿	yìdiǎnr	a little bit/some
 2	第一	dìyī	first
-
-5+	牙	yá	tooth	让牙医看看你的牙。
-1	衣服	yīfu	clothes	-	把衣服脱掉！
-5++农场	nóngchǎng	farm	农场里有牛、马和羊
-2	穿	chuān	to wear/put on	她总穿着黑衣服。
-6	袭击	xíjī	attack	他被狼袭击了？
-
+5+	牙	yá	tooth
+1	衣服	yīfu	clothes	-
+5++农场	nóngchǎng	farm
+2	穿	chuān	to wear/put on
+6	袭击	xíjī	attack
 !	求	qiú	request/demand	deck#2	due@2020-09-10 20:57:15
-4	要求	qiú	request/demand	工人们都要求很多钱。
+4	要求	qiú	request/demand
 3+	球	qiú	ball/sphere	球是圆的。	deck#2	due@2020-09-10 21:06:39
-4+	足球	zúqiú	football	我在操场踢足球。
-4+	篮球	lánqiú	basketball	小时候我经常打篮球。
-
-
-1	椅子	yǐzi	chair	这把椅子很舒服。
-1	桌子	zhuōzi	table	桌子上有一杯水。
-
-1	有	yǒu	to have	我有一个儿子。
-
-1	月	yuè	moon/month	你一个月读几本书？
-3	月亮	yuèliàng	moon	今晚月亮不会出来了。
-
+4+	足球	zúqiú	football
+4+	篮球	lánqiú	basketball
+1	椅子	yǐzi	chair
+1	桌子	zhuōzi	table
+1	有	yǒu	to have
+1	月	yuè	moon/month
+3	月亮	yuèliàng	moon
 2	再	zài	again/then/until
-1	再见	zàijiàn	goodbye	明天再见！
-
-1	在	zài	at
-1	住	zhù	live	女王住在哪里？
+1	再见	zàijiàn	goodbye
+1	在	zài	at	deck#4	due@2020-10-10 14:03:30
+1	住	zhù	live
 !	主	zhǔ	master/main/owner/host
-3	主要	zhùyào	major/main (a)	我的主要工作是教法语。
-
-
+3	主要	zhùyào	major/main (a)
 1	怎么	zěnme	how
-1	怎么样	zěnmeyang	how	你觉得她怎么样？
-
-
-
-
+1	怎么样	zěnmeyang	how
 1	字	zì	character
-3	词	cí	word	这个词语我不懂。
-3	句子	jùzi	sentence	不要翻译这个句子！
-4	语言	yǔyán	language
-？	信	xìn	letter (n), to believe (v)	谁会信呢？
+3	词	cí	word
+3	句子	jùzi	sentence
+4	语言	yǔyán	language	deck#2	due@2020-09-11 12:45:36
+？	信	xìn	letter (n), to believe (v)
 3+	英语	yīngyǔ	English
 3+	法语	fǎyǔ	French
 4	语法	yǔfǎ	grammar
-
-
 3	文化	wénhuà	culture	在我们的文化中,他很奇怪的人。	deck#2	due@2020-09-10 21:02:56
-3	变化	biànhuà	change (v/n)	这个城市的变化很大。
-3	花	huā	flower/spent(v)	这花颜色很漂亮。
-3+	华	huá	magnificent,prosperous,grey,Chinese
-
-1	坐	zuò	to sit	请坐那儿。
-
-1	做	zuò	to do/make	我不知道我在做什么
-
-2	就	jiù	then, just;only; at once	我就想睡觉。
+3	变化	biànhuà	change (v/n)
+3	花	huā	flower/spent(v)
+3+	华	huá	magnificent,prosperous,grey,Chinese	deck#2	due@2020-09-11 12:48:12
+1	坐	zuò	to sit
+1	做	zuò	to do/make
+2	就	jiù	then, just;only; at once	deck#4	due@2020-10-10 14:03:15
 &	就是	jiùshì	exactly, really, only, even if
-
 2	要	yào	want/should/need
-3	需要	xūyào	need	我需要坐下来。
+3	需要	xūyào	need
 3	要求	yàoqiú	to demand,request
 4	只要	zhǐyào	so long as
 4	要是	yàoshì	if
-
 2	知道	zhīdào	to know	我真的不知道	道=road/way
 4	知识	zhīshi	knowledge
-3	街道	jiēdào	street	街道有许多商店。
-
-4	道歉	dàoqiàn	apologize	我向你们道歉。
-
+3	街道	jiēdào	street
+4	道歉	dàoqiàn	apologize
 3	楼	lóu	building
-
-2	吧	ba	suggestion particle
-3	把	bǎ	hold/take (also shifts obj before verb)	他把苹果放进冰箱里
-3	爬上	páshàng	climb	那个小孩爬上了一棵大树。
-
-2	对	duì	correct, towards，yes	那个回答不可能是对的。
-3	讨厌	tǎoyàn	to hate/dislike/disgusting	我讨厌冬天，因为冬天很冷。
-3	讨论	tǎolùn	discuss/discussion	我想跟你讨论关于钱的问题。
-6	评论	pínglùn	comment/review	下一页还有一些评论。
-5	议论	yìlùn	discuss/talk	同事的议论让他很伤心。
-&	付	fù	hand over/pay	我付了大部分
-4	付款	fùkuǎn	to pay	我们会尽快安排付款
-2	过	guò	past/completion participle	我没看过这本书。
+2	吧	ba	suggestion particle	deck#4	due@2020-10-10 12:48:00
+3	把	bǎ	hold/take (also shifts obj before verb)
+3	爬上	páshàng	climb
+2	对	duì	correct, towards，yes	deck#2	due@2020-09-11 12:45:29
+3	讨厌	tǎoyàn	to hate/dislike/disgusting
+3	讨论	tǎolùn	discuss/discussion
+6	评论	pínglùn	comment/review
+5	议论	yìlùn	discuss/talk
+&	付	fù	hand over/pay
+4	付款	fùkuǎn	to pay
+2	过	guò	past/completion participle
 3	过去	guòqù	the past
-4	衬衫	chènshān	shirt	我要换衬衫。
-
+4	衬衫	chènshān	shirt
 &	计	jì	calculate
 5	计算	jìsuàn	calculate/plan/scheme
-4	计划	jìhuà	plan/project/program	你周末有什么计划吗？
-
-1	杯子	bēizi	cup/glass	我把杯子打破了
-4	怀疑	huáiyí	doubt/suspect	我怀疑她没说实话
-5	怀孕	huáiyùn	be pregnant	我有消息要告诉你，我怀孕了！
+4	计划	jìhuà	plan/project/program
+1	杯子	bēizi	cup/glass
+4	怀疑	huáiyí	doubt/suspect
+5	怀孕	huáiyùn	be pregnant
 2	还	hái	still/yet
 3	还是	háishi	or
 3	还	huán	to return, to repay
 6	还原	huányuán	restore/reduce
 3	坏	huài	bad/broken/spoilt	他说汉语说得很坏。	deck#3	due@2020-09-16 21:08:52
-
-
 2	让	ràng	let,by (prep, spanish por)	让我帮助你们	deck#3	due@2020-09-16 21:13:31
-
-2	给	gěi	give	你能给我一杯啤酒吗？
-
+2	给	gěi	give
 2	得	děǐ	must/need to;
-2	得	de	complement particle	我跑的很快。
-
-2	真	zhēn	real/true	你真漂亮！
+2	得	de	complement particle
+2	真	zhēn	real/true
 4	真正	zhēnzhèng	true
-
 !	止	zhǐ	stop/end/only
 !	正	zhèng	straight/upright
-4	正式	zhèngshì	official	新建的图书馆正式开放了。
-4	正常	zhèngcháng	normal	昨晚一切正常。
+4	正式	zhèngshì	official
+4	正常	zhèngcháng	normal
 5	政府	zhèngfǔ	government	是政府的错误	deck#2	due@2020-09-10 21:06:03
-4	禁止	jìnzhǐ	forbid/prohibit	医生禁止他吸烟。
-
-&	吸烟	xīyān	to smoke	医生禁止他吸烟。
-
-
-3	声音	shēngyīn	voice/sound	你的声音很好听。
-5	声调	shēngdiào	tone	他讲话的声调低。
-3	音乐	yīnyuè	music	你喜欢什么样的音乐？
+4	禁止	jìnzhǐ	forbid/prohibit
+&	吸烟	xīyān	to smoke
+3	声音	shēngyīn	voice/sound	deck#2	due@2020-09-11 12:45:28
+5	声调	shēngdiào	tone
+3	音乐	yīnyuè	music
 5	拼音	pīnyīn	pinyin
 4	普遍	pǔbiàn	common/commonly
 4+	普通	pǔtōng	common/ordinary
-3	普通话	pǔtōnghuà	Mandarin	我会说一点普通话。
+3	普通话	pǔtōnghuà	Mandarin	due@2020-09-10 12:45:53
 5	首	shǒu	head/leader/first
-4	首先	shǒuxiān	first/to begin with	明天我首先做这件事
-
-2	可以	kěyǐ	possible	别人能做到的，你也可以。
-2	所以	suǒyǐ	so/therefore	他对我很好，所以我很喜欢他。
-3	以前	yǐqián	before (temporal)	我中午以前有空。
-&	以后	yǐhòu	after (temporal)	他走了以后，我很哭。
-4	以为	yǐwèi	to think	我以为我是对的。
-5	以来	yǐlái	since	这一个月以来，她每天病。
-5	以及	yǐjí	..as well as..	学校开设了英文班、法文班以及德文班。
-
+4	首先	shǒuxiān	first/to begin with
+2	可以	kěyǐ	possible
+2	所以	suǒyǐ	so/therefore
+3	以前	yǐqián	before (temporal)
+&	以后	yǐhòu	after (temporal)
+4	以为	yǐwèi	to think
+5	以来	yǐlái	since
+5	以及	yǐjí	..as well as..
 &	前边	qiánbiàn	in front of
 &	前进	qiánjìn	advance/make progress
-5	偷	tōu	steal	我真的想偷一个车。
-
-3	河	hé	river	我去河里游泳了。
-&	湖	hú	lake	这个湖介于两座山之间。
-&	胡子	húzi	moustache/beard	你的胡子太长了，我不喜欢
-
+5	偷	tōu	steal
+3	河	hé	river
+&	湖	hú	lake
+&	胡子	húzi	moustache/beard
 2	别	bié	other  / don't ..!
 &	别的	biéde	other,others (pron), otherwise	-	他不想要别的东西了。	deck#2	due@2020-09-10 21:17:28
-3	特别	tèbié	peculiar/exceptional (a, adv), especially	他的房间很特别。
+3	特别	tèbié	peculiar/exceptional (a, adv), especially
 3	别人	biérén	others
-
 2	已经	yǐjing	already	已经是时候回去了。	(已=already/stop)
 3	记得	jìde	to remember	我记得你了。	syn: 记忆	deck#3	due@2020-09-16 21:16:55
 3	忘记	wàngjì	to forget	我我永远不忘记你。	忘=forget
 4	记者	jìzhě	journalist
-3	经过	jìngguò	to pass	学生每次回家都会经过一条河。
+3	经过	jìngguò	to pass
 4	经济	jīngjì	economy
-4	轻	qīng	light/gently	她的包现在很轻了。
-3	年轻	niánqīng	young	她很年轻。
-
+4	轻	qīng	light/gently
+3	年轻	niánqīng	young
 4	停	tíng	stop/park	他们就是让我们停	deck#3	due@2020-09-16 21:03:25
-
-2	从	cóng	from	你从哪个城市来吗？
-4	从来	cónglái	always/never	我从来不董你的问题。
-
-2	最	zuì	most (superlative marker)	我的汽车是最快的。
-3	最近	zuìjìn	recently	最近我很不开心。
-3	最后	zuìhòu	final/finally	最后，我们决定去看电影。
+2	从	cóng	from
+4	从来	cónglái	always/never
+2	最	zuì	most (superlative marker)
+3	最近	zuìjìn	recently	deck#4	due@2020-10-10 12:48:15
+3	最后	zuìhòu	final/finally
 4	最好	zuìhǎo	best	deck#3	due@2020-09-16 21:01:58
-
-
-3	久	jiǔ	long (temporal)	他在这儿等了很久。
-&	欠	qiàn	to owe/lack/yawn	我们欠你多少钱？
-2	次	cì	times (MW), order	我每天跑三次步。
-&	吹	chuī	to blow	风从东边吹来。
-5	砍	kǎn	chop/cut	你上山多砍一些树
+3	久	jiǔ	long (temporal)
+&	欠	qiàn	to owe/lack/yawn
+2	次	cì	times (MW), order	deck#4	due@2020-10-10 12:52:33
+&	吹	chuī	to blow
+5	砍	kǎn	chop/cut
 &	炊	chuī	to cook
-3	饮料	yǐnliào	drink (n)	她点了三杯饮料。
-&	欧州	oūzhōu	Europe	我的学生有三分之一是来自欧洲。
-
-
+3	饮料	yǐnliào	drink (n)
+&	欧州	oūzhōu	Europe
 3	又	yòu	again, also, both, another	今天他又来了。/ 我现在有累锇	deck#3	due@2020-09-16 21:01:50
 3	双	shuāng	two/double/ MW for pairs
-4	反对	fǎnduì	to oppose	王子反对国王。
-5	反应	fǎnyìng	to react/respond	她反应特别快。
-5	反正	fǎnzhèng	anyway	反正必须有人去，就让我去吧！
+4	反对	fǎnduì	to oppose
+5	反应	fǎnyìng	to react/respond
+5	反正	fǎnzhèng	anyway
 1+	饭	fàn	rice/meal
-
 5	数	shǔ	to count
-3	数学	shǔxué	math	我很喜欢数学。
-3	放	fàng	put/release/let go/send out	把书放在那里。
-3	放心	fàngxīn	relax	放心吧！
-4	放松	fàngsōng	relax	想去放松一下？
-6	放大	fàngdà	enlarge/turn up/zoom	把照片放大
-6	攻击	gōngjī	attack/assault	他们攻击他。
+3	数学	shǔxué	math
+3	放	fàng	put/release/let go/send out
+3	放心	fàngxīn	relax
+4	放松	fàngsōng	relax
+6	放大	fàngdà	enlarge/turn up/zoom
+6	攻击	gōngjī	attack/assault
 6	攻克	gōngkè	capture/conquer	我可以攻克英语!
-
-
-3	才	cái	just,really (adv), not until now/only, ability (n),	我才到家，电话就响了
+3	才	cái	just,really (adv), not until now/only, ability (n),
 6	才干	cáigàn	ability	我们相信他的才干。	(SYN: 才能)
 4	之	zhī	literary possessive particle	deck#3	due@2020-09-16 21:26:39
-4	之前	zhíqián	before	你走之前，我去看你，好吗？
-
-2	孩子	háizi	child	我们的孩子回来了。
-
-2	两	liǎng	two/both	他们两个人都是好学生。
+4	之前	zhíqián	before
+2	孩子	háizi	child
+2	两	liǎng	two/both
 3	辆	liàng	MW for vehicles
-4	满	mǎn	full/complete	广场上满是人
+4	满	mǎn	full/complete
 3	满意	mǎnyì	to be satisfied	我非常满意。	(SYN: 满足)
-5	满足	mǎnzú	to satisfy/be satisfied	他对生活很满足。
-
-2	错	cuò	mistake/error/incorrect	你的回答是错的。
+5	满足	mǎnzú	to satisfy/be satisfied
+2	错	cuò	mistake/error/incorrect
 4	错误	cuòwù	mistake
-3	借	jiè	borrow/lend	他们需要借二千块钱。
+3	借	jiè	borrow/lend
 &	音	yīn	sound
-
-
-
-2	等	děng	wait	我们在这儿等了很久。
+2	等	děng	wait
 &	等等	děngděng	and so on
-
-
 &	堂	táng	hall
 &	常	cháng	often
 2	非常	fēicháng	very/exceptionally/extremely
 &	常常	chángcháng	often
-3	经常	jīngcháng	often,daily	我们经常去图书馆看书。
-
+3	经常	jīngcháng	often,daily
 !	非	fēi	wrong/blame/not be
 &	排	pái	row/MW/put in order
-4	安排	ānpái	arrange	今晚你有安排吗？
-6	罪犯	zuìfàn	criminal	警察找罪犯。
-
-2	希望	xīwàng	to hope	我希望你觉得舒服
-
+4	安排	ānpái	arrange
+6	罪犯	zuìfàn	criminal
+2	希望	xīwàng	to hope
 1	七	qī	seven
 &	匕	bǐ	dagger
-2	比	bǐ	comparison particle	她比我聪明 (cf: 北）
+2	比	bǐ	comparison particle
 3	比赛	bǐsài	match/competition	他想参加比赛。	deck#2	due@2020-09-10 21:02:44
-3	比较	bǐjiào	compare	和姐姐相比，她比较漂亮。
+3	比较	bǐjiào	compare
 &	它	tā	it
-
-
-
-
 &	美	měi	beautiful	这幅画太美了。	deck#3	due@2020-09-16 21:17:30
-&	美国	měiguó	USA	美国是很大的国家
-&	美元	měiyuán	US dollar	你给我有没有些美元？
-
+&	美国	měiguó	USA
+&	美元	měiyuán	US dollar
 2	送	sòng	to send / to see sb off	你可以送我一封信吗？	deck#3	due@2020-09-16 21:31:17
-
-2	长	cháng/zhǎng	long/length;to grow	墙很长。; 孩子长得很好。
+2	长	cháng/zhǎng	long/length;to grow
 3	张	zhāng	to open/stretch/extend (MW for sheets/paper/furniture)
-3	矮	ǎi	short, low	我比我的爱人很多。
-3	低	dī	low	飞机飞得很低。
-3	短	duǎn	short/owe	句子很短。
-
+3	矮	ǎi	short, low
+3	低	dī	low
+3	短	duǎn	short/owe
 &	母	mǔ	mother
 2	每	měi	each/every
 &	每天	měitiān	daily
 2+	海	hǎi	sea/ocean
-
-2	帮助	bāngzhú	to help	这个药会帮助他们。
-2	帮忙	bāngmáng	to help	我想请你帮忙我。
-2	忙	máng	busy	我很忙。
-3	灯	dēng	light/lamp	他灯关了。
-3	秋	qiú	autumn	秋天的时候，天气是很冷的。
-
-4	行	xíng;háng	walk/do/OK/travel/conduct;row	你向东开就行。
-5	行为	xíngwéi	behaviour	他行为合法。
-
-4	光	guāng	light (abstract), just (adv)	月光
-
-
-
-
+2	帮助	bāngzhú	to help
+2	帮忙	bāngmáng	to help
+2	忙	máng	busy
+3	灯	dēng	light/lamp
+3	秋	qiú	autumn
+4	行	xíng;háng	walk/do/OK/travel/conduct;row
+5	行为	xíngwéi	behaviour
+4	光	guāng	light (abstract), just (adv)
 2	妻子	qīzi	wife	别告诉我的妻子！	deck#3	due@2020-09-16 21:27:34
-2	丈夫	zhàngfu	husband	我的丈夫是医生。
+2	丈夫	zhàngfu	husband
 &	父母	fùmǔ	parents
-
-2	离	lí	leave/depart/go away	我家离你的很近
-3	离开	líkāi	leave/depart	我想离开这个城市。
-
-
-3	难	nán	difficult/hard	学习葡萄牙语真的很难。
-2	慢	mán	slow	他说话很慢。
-3	容易	róngyì	easy	学习阿拉伯语很不容易。
-
-
-2	虽然	suīrán	although/even though	虽然下雨，但是不冷。
-3	突然	tūrán	suddenly	她突然笑了起来。
-5	忽然	hūrán	suddenly	忽然天气很热了。
-
-2	身体	shēntǐ	health/body	你的身体怎么样？
-
-2	票	piào	ticket; banknote; vote	我们已经票了。
+2	离	lí	leave/depart/go away
+3	离开	líkāi	leave/depart
+3	难	nán	difficult/hard
+2	慢	mán	slow
+3	容易	róngyì	easy	due@2020-09-10 12:45:34
+2	虽然	suīrán	although/even though
+3	突然	tūrán	suddenly
+5	忽然	hūrán	suddenly
+2	身体	shēntǐ	health/body
+2	票	piào	ticket; banknote; vote
 2	累	léi	tired
-5	某	mǒu	certain/particular/some	找出某种办法解决问题。
-
-2	黑	hēi	dark,black	外面很黑。
+5	某	mǒu	certain/particular/some
+2	黑	hēi	dark,black
 2	白	bái	white,bright
 2	百	bǎi	hundred
 2	日	rì	sun/day/date	deck#4	due@2020-10-09 21:11:30
 ！	目	mù	eye/item
-3	耳(朵)	ěr(duo)	ear	我有眼睛，也有耳朵。
-3	自(己)	zì(jǐ)	(one)self/own	每个人有自己的意见。
-
-4	自然	zìrán	nature/natural/naturally	自然是真的。
-4	自信	zìxìn	self-confident	我相当自信。
-5	自豪	zìháo	proud	我为我妈妈感到自豪
+3	耳(朵)	ěr(duo)	ear
+3	自(己)	zì(jǐ)	(one)self/own
+4	自然	zìrán	nature/natural/naturally
+4	自信	zìxìn	self-confident
+5	自豪	zìháo	proud
 5	自从	zìcóng	since
-5	自由	zìyóu	free/freedom	我们必须为自由而斗争。
-
+5	自由	zìyóu	free/freedom
 5	闻	wén	hear/smell/news
-
 ！	市	shì	city/market
-4	节	jié	joint/item MW/festival	这节课多长时间？
-3	带	dài	to take/bring/lead, belt/tire	你带电脑了吗？
+4	节	jié	joint/item MW/festival
+3	带	dài	to take/bring/lead, belt/tire
 3	节日	jiérì	festival/holiday	这是我最喜欢的节日。	节=joint/save/item/festival
-3	节目	jiémù	programme	你喜欢看什么样的电视节目？
-!	季节	jìjié	season	秋天是我最喜欢的季节。
-
-
-2	休息	xiūxi	to rest	我必须休息一会儿。
+3	节目	jiémù	programme
+!	季节	jìjié	season
+2	休息	xiūxi	to rest
 4	信息	xìnxī	information
-4	消息	xiāoxi	news	报纸有好消息。
+4	消息	xiāoxi	news
 5	消失	xiāoshī	to disappear/vanish
-
-1	和	hé	and	你和我是好朋友。
-4	租	zū	rent/rent out	这些房子租一个星期一百美元。
-3	相同	xiāngtóng	same/identical	他们两个人有相同的爱好。
-3	相信	xiāngxìn	believe (v)	我相信我的姐姐。
-3+	相比	xiāngbǐ	compared to	和肉相比，我更喜欢吃鱼。
+1	和	hé	and
+4	租	zū	rent/rent out
+3	相同	xiāngtóng	same/identical
+3	相信	xiāngxìn	believe (v)
+3+	相比	xiāngbǐ	compared to
 4	相反	xiāngfǎn	opposite
-5	相当	xiāngdāng	quite/match/appropriate	我相当喜欢它。
-
-4	互相	hùxiāng	eachother/mutually	他们互相不认识
-
-
-2	哥哥	gege	older brother	我的哥哥有九个朋友。
+5	相当	xiāngdāng	quite/match/appropriate
+4	互相	hùxiāng	eachother/mutually
+2	哥哥	gege	older brother
 2	姐姐	jiějie	older sister
 2	弟弟	dìdì	younger brother
 2	妹妹	mèimei	younger sister	我妹妹每天晚上看电视。	deck#3	due@2020-09-16 20:57:22
-
-
-4	云	yún	cloud	那一片云看起来像一个马。
-2	运动	yùndòng	(physical) exercise,sports,movement	他每天都会运动一小时。
-&	运气	yùnqì	luck (good or bad)	我只有坏运气。
+4	云	yún	cloud
+2	运动	yùndòng	(physical) exercise,sports,movement
+&	运气	yùnqì	luck (good or bad)
 3	层	céng	MW:layer/floor/step	这幢大楼有3层。	deck#2	due@2020-09-10 21:02:30
-4	活动	huódòng	activity	政府不能无视非法活动。
-4	感动	gǎndòng	moved/touched (emotionally)	他被她的爱所感动。
-3	动物	dòngwù	animal	猫是非常可爱的动物。
-4	植物	zhíwù	plant	这些动物都吃植物。
-3	礼物	lǐwù	gift	动物是礼物。
-4	礼貌	lǐmào	manners/polite	他对她很不礼貌。
-
+4	活动	huódòng	activity
+4	感动	gǎndòng	moved/touched (emotionally)
+3	动物	dòngwù	animal
+4	植物	zhíwù	plant
+3	礼物	lǐwù	gift
+4	礼貌	lǐmào	manners/polite
 !	包	bāo	wrap/include/surround/bag/parcel	我找不到我的包了。	deck#2	due@2020-09-10 21:10:53
-3	饱	bǎo	full	我吃饱了。
-2	报纸	bàozhǐ	newspaper	这个报纸是谁的？
-&	纸	zhǐ	paper	他给我一张纸。
-5	报告	bàogào	report (v/n)	有问题就报告。 / 我及时完成了报告。
-
-5	报道	bàodao	report (v/n)	我及时完成了报道。
-4	报名	bàomíng	register/sign up/registration	你可以报名参加数学比赛。
-
+3	饱	bǎo	full
+2	报纸	bàozhǐ	newspaper
+&	纸	zhǐ	paper
+5	报告	bàogào	report (v/n)
+5	报道	bàodao	report (v/n)
+4	报名	bàomíng	register/sign up/registration
 2	路	lù	road/path	路两边有许多树。	deck#3	due@2020-09-16 21:09:48
-2	跑步	pǎobù	to run	他每天中午以前会去公园里跑步。
-&	跳	tiào	jump/beat(heart)/bounce	我的心还在跳的快死了
+2	跑步	pǎobù	to run	deck#2	due@2020-09-11 12:46:10
+&	跳	tiào	jump/beat(heart)/bounce
 2	跳舞	tiàowǔ	dance	她喜欢跳舞。	（跳=jump)
-
-4	杂志	zázhì	magazine	我喜欢读杂志。
-
-
-2	颜色	yánsè	color	这是我最喜欢的颜色。
-2	红(色)	hóng(sè)	red	她的脸红了。
-2	蓝(色)	lán(sè)	blue	我男朋友有一双蓝眼睛。
+4	杂志	zázhì	magazine
+2	颜色	yánsè	color
+2	红(色)	hóng(sè)	red
+2	蓝(色)	lán(sè)	blue
 2	绿(色)	lǘ(sè)	green	你们喝绿茶吗？	deck#2	due@2020-09-10 21:31:22
-2	黄(色)	huáng(sè)	yellow	我喜欢吃黄色的香蕉。
+2	黄(色)	huáng(sè)	yellow
 5	紫(色)	zǐ(sè)	purple
-
-3	脸	liǎn	face	她的脸很圆。
-3	检查	jiǎnchá	examine/inspect	明天我要检查身体。
-3+	查	chá	inspect/investigate	我们刚刚上网查了这个东西。
-
-2	姓	xìng	family name/surname	你姓什么？
-
+3	脸	liǎn	face
+3	检查	jiǎnchá	examine/inspect
+3+	查	chá	inspect/investigate
+2	姓	xìng	family name/surname	deck#4	due@2020-10-10 12:45:49
 &	雨	yǔ	rain
-&	雨伞	yǔsǎn	umbrella	我买一把新雨伞。
+&	雨伞	yǔsǎn	umbrella
 2	雪	xuě	snow
 2	零	líng	zero
-
 !	示	shì	show
-3	表示	biǎoshì	show/express/indicate/attitude	我向他表示了感谢。
-3	除了	chúle	except/apart from	除了他每个人都在这里。
-3G	除了···以外	chúle...yiwai	except/apart from	除了他以外，人都在这里。
+3	表示	biǎoshì	show/express/indicate/attitude
+3	除了	chúle	except/apart from
+3G	除了···以外	chúle...yiwai	except/apart from
 4	国际	guójì	international
-
-2	肉	ròu	meat/flesh	我们昨天晚上吃了羊肉
+2	肉	ròu	meat/flesh
 4	内	nèi	inside
 &	贝	bèi	shell(fish)
 4	页	yè	page
 5	则	zé	rule/standard/then/but
-2	贵	guì	expensive	你卖的东子是太贵的。
+2	贵	guì	expensive
 !	员	yuán	member
-5	圆	yuán	round	她的脸很圆。
+5	圆	yuán	round
 2	便宜	piányi	cheap	我们的衣服真的很便宜。	(宜=suitable)	deck#2	due@2020-09-10 20:56:26
-3	见面	jiànmiàn	meeting/to meet	我八点会跟你见面。
-4	质量	zhìliàng	quality	这些鞋的质量很差。
+3	见面	jiànmiàn	meeting/to meet	deck#2	due@2020-09-11 12:45:31
+4	质量	zhìliàng	quality
 3	习惯	xíguàn	be used to/habit	我习惯早起。	(SYN: 惯于)
-
 &	田	tián	field
-4	由	yóu	due to, by (prep) (spanish por)	云是由水气组成的。
-4	由于	yóuyú	as a result of	由于种种原因
-&	油	yóu	oil	水比油重。
+4	由	yóu	due to, by (prep) (spanish por)
+4	由于	yóuyú	as a result of
+&	油	yóu	oil
 !	甲	jiǎ	helmet/armour/first
 !	申	shēn	to explain (radical)
 &	神	shén	God
-!	早	zǎo	early	我最早下午三点能到。
-3	草	cǎo	grass	我坐在草地上吧。
-1	里	lǐ	in(side), MW of length	我在房子里看电视。
-2	男	nán	male	他是我的男朋友。
-&	细	xì	thin	看他的胳膊，太细了。
+!	早	zǎo	early
+3	草	cǎo	grass
+1	里	lǐ	in(side), MW of length
+2	男	nán	male
+&	细	xì	thin
 5	细节	xìjié	details
-
-&	单词	dāncí	word	这个单词是什么意思？
-3	简单	jiǎndān	simple	这个课太简单了。
+&	单词	dāncí	word
+3	简单	jiǎndān	simple
 3	电子邮件	diànzǐyóujiàn	e-mail
-3	画	huà	painting	墙上有一幅画。
-&	福	fú	good fortune
+3	画	huà	painting	deck#5	due@2020-12-09 12:52:05
+&	福	fú	good fortune	deck#2	due@2020-09-11 14:03:12
 4	幸福	xìngfú	happiness/happy
-5	幸亏	xìngkuī	fortunately	幸亏只是个梦
-
-
-3	掉	diù	fall/lose	早上我掉了钱。
-
-3	鼻子	bízi	nose	他的鼻子很长。
-
-2	鱼	yú	fish	这条河里鱼多。
-
-4	演员	yǎnyuán	actor	我听说她是个有名的演员。
-4	演出	yǎnchū	perform/act/performance	昨天晚上的演出相当精彩。
-
+5	幸亏	xìngkuī	fortunately
+3	掉	diù	fall/lose
+3	鼻子	bízi	nose
+2	鱼	yú	fish
+4	演员	yǎnyuán	actor
+4	演出	yǎnchū	perform/act/performance
 2	游泳	yǒuyǒng	to swim	小鸭游泳得不好	deck#2	due@2020-09-10 21:31:30
-3	游戏	yóuxì	game	他在玩游戏。
+3	游戏	yóuxì	game
 &	游人	yóurén	tourist	deck#2	due@2020-09-10 21:11:27
-&	游客	yóukè	tourist	大街上很多游客。
-4	永远	yǒngyuǎn	eternal/always/ever	我永远不忘记你。
-
-2	牛奶	niùnǎi	cow-milk	他的公司卖牛奶。
+&	游客	yóukè	tourist
+4	永远	yǒngyuǎn	eternal/always/ever
+2	牛奶	niùnǎi	cow-milk
 3	奶奶	nǎinǎi	grandmother
-
-
-
-4	旅行	lǚxíng	to travel	他根我的父母去路行。
-2	旅游	lǚyóu	tour	我到北京旅游。
-&	旅馆	lǚguǎn	hotel	这家旅馆变成他们的了。
-2	宾馆	bīnguǎn	hotel	这是一家五星级的宾馆。
-&	食堂	shítáng	canteen/diner	我中午不做饭，吃食堂。
-3	图书馆	túshūguǎn	library	-	他们总在图书馆看书。
-4	使	shǐ	use/make	他不会使电脑。他使父母失生气。
-4	大使馆	dàshǐguǎn	embassy	大使馆在首都
-&	馆子	guǎnzi	restaurant	我可没钱经常出去下馆子。
-&	馆舍	guǎnshe	hotel/inn
+4	旅行	lǚxíng	to travel
+2	旅游	lǚyóu	tour
+&	旅馆	lǚguǎn	hotel
+2	宾馆	bīnguǎn	hotel
+&	食堂	shítáng	canteen/diner
+3	图书馆	túshūguǎn	library	-
+4	使	shǐ	use/make
+4	大使馆	dàshǐguǎn	embassy
+&	馆子	guǎnzi	restaurant
+&	馆舍	guǎnshe	hotel/inn	due@2020-09-10 12:45:34
 5	宿舍	sùshè	dormitory	宿舍有很多张床	(宿=stay, 舍=house)
-
-2	阴	yīn	yin (yang), the moon, cloudy weather	今天是阴天。
-
-3	城市	chéngshì	city	他的城市离这儿不远。
+2	阴	yīn	yin (yang), the moon, cloudy weather
+3	城市	chéngshì	city	deck#2	due@2020-09-11 14:03:20
 5	成人	chéngrén	adult
 &	成	chéng	become/accomplish/mature/OK
-4	成为	chéngwéi	to become	他想成为一名老师。
-5	市场	shìchǎng	market	他在市场买了些鸡蛋。
-3	超市	cháoshì	supermarket	我在超市买了些香蕉。
+4	成为	chéngwéi	to become
+5	市场	shìchǎng	market
+3	超市	cháoshì	supermarket
 4	超过	cháoguò	surpass/leave behind
-
-3	或者	huǒzhè	or	你想去游泳或者骑马？
-4	感谢	gǎnxiè	thank/gratitude	非常感谢你
-
+3	或者	huǒzhè	or
+4	感谢	gǎnxiè	thank/gratitude
 &	打	dā	to hit/play/hold/open/do/send
-3	打扫	dǎsǎo	to clean/to sweep	你应该打扫你的房间。
-1	打电话	dǎdiànhuà	to make a phonecall	医生现在打电话
-3	打算	dǎsuàn	to plan/to intend	我打算下个月休假
-&	打斗	dǎdòu	to fight	男孩们打斗了。
-
-4	挂	guà	connect/hang (up)	把它挂回墙上去。
-
-6	斗争	dòuzhēng	combat/fight/struggle	我们必须为自由而斗争。
+3	打扫	dǎsǎo	to clean/to sweep
+1	打电话	dǎdiànhuà	to make a phonecall
+3	打算	dǎsuàn	to plan/to intend
+&	打斗	dǎdòu	to fight
+4	挂	guà	connect/hang (up)
+6	斗争	dòuzhēng	combat/fight/struggle
 5	争取	zhēngqǔ	strive for
-5	争论	zhēnglùn	argue	跟父母争论可不大合适。
-5	战争	zhànzhēng	war	他在战争中作战。
-
-3	树	shù	tree	路两边有许多树。
-
-3	练习	liànxí	to practise/exercise	我在练习用词典。
-5	训练	xùnliàn	training	狗很容易训练
-
-
-4	紧张	jǐnzhāng	nervous/intense	他紧张地坐了下来。
-5	紧急	jǐnjí	urgent	在紧急情况下
-
-
-3	借	jiè	lend/borrow/excuse	我从图书馆借了几本书。
-
-
+5	争论	zhēnglùn	argue
+5	战争	zhànzhēng	war
+3	树	shù	tree
+3	练习	liànxí	to practise/exercise
+5	训练	xùnliàn	training
+4	紧张	jǐnzhāng	nervous/intense
+5	紧急	jǐnjí	urgent
+3	借	jiè	lend/borrow/excuse
 2	洗	xǐ	to wash	我每天都洗头发。	deck#4	due@2020-10-09 21:26:35
 3	洗手间	xǐshǒujiān	toilet	洗手间在哪里？	deck#4	due@2020-10-09 21:10:29
-3	洗澡	xǐzǎo	to bathe/take a shower	我洗了澡。
-5	操场	cāochǎng	sports-field	他每天在操场踢足球。
-
-5	勿	wù	not/don't (imperative)	请勿动手！
+3	洗澡	xǐzǎo	to bathe/take a shower
+5	操场	cāochǎng	sports-field
+5	勿	wù	not/don't (imperative)
 4	场	chǎng	field/ground/stage/scene
-4	汤	tāng	soup	汤很好闻。
+4	汤	tāng	soup
 &	物	wù	thing/creature/matter/property/content
-
-？	厕所	cèsuǒ	toilet	厕所在你的右边。
-
+？	厕所	cèsuǒ	toilet
 &	虫(子）	chóng(zi)	insect
 !	色	sè	colour/kind/quality
 &	象	xiàng	elephant/imitate/appearance
-3	像	xiàng	be like/appear	他好像很开心。那一片云看起来像一个马。
-？	晚	wǎn	late	对不起，我来晚了。
-3	换	huàn	change/exchange	我拿书换你的杂志。
-
-6	蚂蚁	mǎyǐ	ant	桌子上有很多蚂蚁。
-
-3	拿	ná	to seize/catch/get/take	你能帮我拿那个包吗？
-3	放	fàng	to put/place/release/free	她把课本放在桌子上。
-
-3	解决	jiějué	solve	我能解决这个问题。
-4	解释	jiěshì	explain	让我来解释
-3	了解	liǎojiě	understand	我了解他的感觉。
+3	像	xiàng	be like/appear
+？	晚	wǎn	late
+3	换	huàn	change/exchange
+6	蚂蚁	mǎyǐ	ant
+3	拿	ná	to seize/catch/get/take
+3	放	fàng	to put/place/release/free
+3	解决	jiějué	solve
+4	解释	jiěshì	explain
+3	了解	liǎojiě	understand
 6	解放	jiěfàng	liberate
-
-3	更	gèng	more/even more/further	天更黑了。/ 她更漂亮了。
-3	历史	lìshǐ	history	他喜欢历史。
-
+3	更	gèng	more/even more/further
+3	历史	lìshǐ	history
 4	而	ér	and/but
-3	而且	érqiě	moreover	他会讲英语，而且讲得好
-6	而已	éryǐ	nothing more/that's all	它只是一只猫而已。
-4	当	dāng	should (aux v)	你有问题，当问就问。
-4	当时	dāngshī	at that time, then	当他睡觉时，他看了他。
-3	当然	dāngrán	of course	我当然爱你。
-5	当心	dāngxīn	be careful	你如果不当心, 会受伤的	(SYN: 小心）
-
+3	而且	érqiě	moreover
+6	而已	éryǐ	nothing more/that's all
+4	当	dāng	should (aux v)
+4	当时	dāngshī	at that time, then
+3	当然	dāngrán	of course
+5	当心	dāngxīn	be careful	你如果不当心, 会受伤的
 &	风	fēng	wind
-4	刚	gāng	just	我刚才吃饭了。	（SYN: 刚才, gāngcái）
+4	刚	gāng	just	我刚才吃饭了。
 &	网	wǎng	net
-5	风景	fēngjǐng	scenery	风景很美。
-5	风险	fēngxiǎn	risk	是一个很大的风险
-5	疯狂	fēngkuáng	crazy/fierce/mad	美国有这个疯狂的网站
-
-3	马上	mǎshàng	immediately	我必须马上走。
+5	风景	fēngjǐng	scenery
+5	风险	fēngxiǎn	risk
+5	疯狂	fēngkuáng	crazy/fierce/mad
+3	马上	mǎshàng	immediately
 5	立刻	lìkè	immediately/as soon as
-
-3	应该	yīnggāi	should	你应该多吃点水果。
-5	答应	dāyìng	answer/agree/promise	我答应借他钱。
+3	应该	yīnggāi	should
+5	答应	dāyìng	answer/agree/promise
 5	应用	yìngyòng	apply/application
-
-!	及	jí	reach/and/on time/as good as	现在去看电影还来得及。
-4	及时	jíshí	on time	这场雨下得很及时。
+!	及	jí	reach/and/on time/as good as
+4	及时	jíshí	on time
 6	及早	jízǎo	as soon as possible	有病要及早治。	deck#2	due@2020-09-10 21:08:24
-5	及格	jígé	pass/succeed	他英语考试没及格。
-3	极	jí	very/extremely	他觉得极累。
+5	及格	jígé	pass/succeed
+3	极	jí	very/extremely
 5	极其	jíqí	extremely	她的房子卖得极其便宜。	deck#2	due@2020-09-10 21:30:23
-
-3	奇怪	qíguài	strange/odd	他是很奇怪的人。
-3	骑	qí	ride	(骑自行车，骑马）
-
-
+3	奇怪	qíguài	strange/odd
+3	骑	qí	ride
 4	转	zhuàn	turn
 5	转变	zhuǎnbiàn	transform/change/convert
 4	专业	zhuānyè	field of study/profession
 5	专家	zhuānjiā	specialist/expert
-2	考试	kǎoshì	test/exam (n/v)	我必须参加考试。
-3	试	shì	to try/test	我可以试一下这双鞋吗？
-
-
-
-
-&	床	-	chuáng	bed	这个床非常小。
+2	考试	kǎoshì	test/exam (n/v)
+3	试	shì	to try/test
+&	床	-	chuáng	bed
 &	宋	sòng	Song (name/dynasty)
-
 3	船	chuán	boat	我在等船来。	(syn 6: 舟 zhōu，MW for ships: 艘 ，sōu)
-3	一般	yìbān	ordinary/same	早饭你一般都吃什么？
-
-
+3	一般	yìbān	ordinary/same
 5	片	piàn	piece/area/slice(v)/brief(a)
 3	照片	zhàopiàn	photo	这张照片很美。	deck#3	due@2020-09-16 21:27:14
 3	照相机	zhàoxiàngjī	camera	这个照相机很大。	(相=appearance)
-
-5	沙滩	shātān	beach	沙滩上的人非常少。
-
-3	香蕉	xiāngjiāo	banana	我们买了些香蕉。
-2	西瓜	xīguā	melon	这个西瓜很好吃。
-
-3	被	bèi	passive marker	热狗被吃了。
-4	支持	zhīchí	support	我需要你的支持！
-4	皮肤	pífū	skin	她的皮肤很滑。
+5	沙滩	shātān	beach
+3	香蕉	xiāngjiāo	banana
+2	西瓜	xīguā	melon
+3	被	bèi	passive marker
+4	支持	zhīchí	support
+4	皮肤	pífū	skin
 6+	波浪	bōlàng	wave
-5	玻璃	bōli	glass	是玻璃做的
-4	技术	jìshù	technology/skill	其它学校也有类似的技术。
-
-5	类型	lèixíng	type	3D技术有好几种类型。
-6	类似	lèisì	similar	人脑和电脑常被认为是类似的。
-
-3	脚	jiǎo	foot	我的脚和腿疼。
-3	腿	tuǐ	leg	我的脚和腿疼。
-4	胳膊	gēbo	arm	她伤了胳膊。
-5+	肚	dǔ	belly	他的大啤酒肚。
+5	玻璃	bōli	glass
+4	技术	jìshù	technology/skill
+5	类型	lèixíng	type
+6	类似	lèisì	similar
+3	脚	jiǎo	foot
+3	腿	tuǐ	leg
+4	胳膊	gēbo	arm
+5+	肚	dǔ	belly
 5+	鞋子	xiézi	shoes	我只有一双鞋子。	deck#3	due@2020-09-16 21:31:35
-3	裤子	kùzi	pants	我买了两条裤子。
-4	指	zhǐ	finger/refer to/point to	我没指他。
-
-4	台	tái	tower/table/taiwan/MW for machines	这台电脑要多少钱？
+3	裤子	kùzi	pants
+4	指	zhǐ	finger/refer to/point to
+4	台	tái	tower/table/taiwan/MW for machines
 6	台风	táifēng	typhoon/hurricane
-5	治疗	zhìliáo	cure (n/v)	送他去医院，他需要医生治疗。
-6	治安	zhì'ān	security	这个地方治安很坏
-
-
-3	舒服	shūfú	comfortable	我觉得很舒服。
+5	治疗	zhìliáo	cure (n/v)
+6	治安	zhì'ān	security
+3	舒服	shūfú	comfortable
 2	服务员	fúwùyuán	waiter	这家饭店的服务员很干净。	deck#2	due@2020-09-10 20:59:22
-
-3+	加	jiā	add/increase	我喜欢在咖啡里加牛奶。
+3+	加	jiā	add/increase
 3+	架	jià	to construct/to support/frame
 3	参加	cānjiā	participate/take part in	我必须参加考试。	deck#3	due@2020-09-16 21:17:52
-
-4	翻译	fānyì	translate/translator	不要翻译这个句子！
-
-4	保护	bǎohù	protect/defend	父亲一直保护着全家人。
-4	保证	bǎozhèng	ensure/guarantee	我向你保证，那是真的。
-5	保持	bǎochí	maintain/hold	保持目视前方
-
-5	尽快	jǐnkuài	as soon as possible	请尽快给我打电话。
-4	尽管	jǐnguǎn	even though..	尽管在下大雨，他还是要出去
-5	尽力	jǐnlì	try one’s hardest (努力)	她尽力帮助他。
-5	尽量	jǐnliàng	to the best of one's ability	你尽量早点来。
-
-4	取	qǔ	take/obtain/adopt/choose	他的狗能帮他取报纸。
-3	取消	qǔxiāo	cancel	今天的会见取消了。
-6	取缔	qǔdì	ban	杂志被取缔了。
-3	敢	gǎn	dare	我不敢看电影。
-3+	兴趣	xìngqù	interesting	我有兴趣接着听
-
-5	敌人	dírén	enemy	压力是健康的敌人
-5	枪	qiāng	gun/spear	他总是带着枪。
-
-3	角	jiǎo	corner/angle/horn	在右下角
-5	确定	quèdìng	determine/definite	天气状况并不确定。
-4	确实	quèshí	true/really	他确实聪明。
-5	确认	quèrèn	confirm/check	我在字典里确认了一下拼音
-4	通过	tōngguò	pass/ by means of	他站到一边，让她通过。
-4	通知	tōngzhī	inform/notify/notification	我会通知你他的身体状况。
-5	通常	tōngcháng	normal	我通常早起床。
-4	交通	jiāotōng	communication/traffic	请注意交通安全。
-4	交	jiāo	pay/hand in/cross/entrust	这个月的房租你交了吗？
-
+4	翻译	fānyì	translate/translator
+4	保护	bǎohù	protect/defend
+4	保证	bǎozhèng	ensure/guarantee
+5	保持	bǎochí	maintain/hold
+5	尽快	jǐnkuài	as soon as possible
+4	尽管	jǐnguǎn	even though..
+5	尽力	jǐnlì	try one’s hardest (努力)
+5	尽量	jǐnliàng	to the best of one's ability
+4	取	qǔ	take/obtain/adopt/choose
+3	取消	qǔxiāo	cancel
+6	取缔	qǔdì	ban
+3	敢	gǎn	dare
+3+	兴趣	xìngqù	interesting
+5	敌人	dírén	enemy
+5	枪	qiāng	gun/spear
+3	角	jiǎo	corner/angle/horn
+5	确定	quèdìng	determine/definite
+4	确实	quèshí	true/really
+5	确认	quèrèn	confirm/check
+4	通过	tōngguò	pass/ by means of
+4	通知	tōngzhī	inform/notify/notification
+5	通常	tōngcháng	normal
+4	交通	jiāotōng	communication/traffic
+4	交	jiāo	pay/hand in/cross/entrust
 3	健康	jiànkāng	healthy/health	奶奶身体很健康。	deck#2	due@2020-09-10 21:17:24
-
 5+	财	cái	wealth
 5	财产	cáichǎn	property/belonging
-6	财富	cáifù	wealth	健康是最大的财富。
+6	财富	cáifù	wealth
 6	财政	cáizhèng	finance
-
-4	警察	jǐngchá	police	他想成为一名警察。
-6	警告	jǐnggào	warn	我们被警告远离草坪。
-
-5	威胁	wēixié	threaten	他用一把刀威胁她。
+4	警察	jǐngchá	police
+6	警告	jǐnggào	warn
+5	威胁	wēixié	threaten
 6	威力	wēilì	power
-
 4+	军	jūn	army/military
 6	军队	jūnduì	army/troops
-
-G	一···就	yī...jiú	as soon as	我一告诉他，他就生气了
-G	连···都	lián...dōu	even	我太忙了连吃饭的时间都没有。
-G	不是···就是···	bùshi...jiùshi	If it's not..then it's...	这里的天气不是太冷，就是太热。
-G	不但···而且···	bùdàn...érqiě	not only...but also	not only...but also...	他不但会说英文，而且会说中文。
-G	从···起，···	cóng...qǐ	from (time)	从现在起，我要努力工作。
-G	只有···，才···	zhǐyǒu...cái	only if..., then...	只有努力学习，才能说中文。
-G	既然···，就/也/那	jìrán...jiù/yě/nà	since (reason)/as..., then..	既然生病了，就别去上班了。
-G	先···，再···	xiān...zài	First..., then...	我想先洗个燥，在去吃饭。
-G	不管···，都/也	bùguǎn..dōu/yě	No matter.., (result)	不管明天天气如何，我们都要去爬山。
-5G	趁···，···	chén...	Since (reason), (opportunity)	趁火车还没来，我先去上个厕所。
+G	一···就	yī...jiú	as soon as
+G	连···都	lián...dōu	even
+G	不是···就是···	bùshi...jiùshi	If it's not..then it's...
+G	不但···而且···	bùdàn...érqiě	not only...but also	not only...but also...
+G	从···起，···	cóng...qǐ	from (time)
+G	只有···，才···	zhǐyǒu...cái	only if..., then...
+G	既然···，就/也/那	jìrán...jiù/yě/nà	since (reason)/as..., then..
+G	先···，再···	xiān...zài	First..., then...
+G	不管···，都/也	bùguǎn..dōu/yě	No matter.., (result)
+5G	趁···，···	chén...	Since (reason), (opportunity)
 G	没有···那么/这么···	méiyǒu..nàme..	is not as .. as ..	今天的天气没有昨天的那么好。	deck#2	due@2020-09-10 21:28:31
-5G	与其···，不如···	yǔqí...bùrú....	Rather than ...., it's better to ...	与其每天吃快餐，不如在家自己做饭。
-4G	即使···，也···	jíshǐ...,yě...	Even if ..., still...	即使在忙，也要休息。
+5G	与其···，不如···	yǔqí...bùrú....	Rather than ...., it's better to ...
+4G	即使···，也···	jíshǐ...,yě...	Even if ..., still...
 3G	越··越···	yuè...yuè...	The more...,the more ...
-#METADATA:
-#METADATA:
 #METADATA:
 #--decks immediate,daily,weekly,monthly,quarterly,yearly
 #--intervals 0,1440,10080,43200,129600,518400
