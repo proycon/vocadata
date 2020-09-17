@@ -1,6 +1,6 @@
 SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 的	的	de	indicates possession, like adding 's to a noun	deck#5	due@2021-01-06 20:42:55
-我	我	wǒ	I; me	deck#3	due@2020-09-15 20:29:00
+我	我	wǒ	I; me	deck#5	due@2020-12-16 14:15:14
 你	你	nǐ	you (singular)	deck#5	due@2021-01-06 20:54:58
 是	是	shì	be; is; are; am	deck#5	due@2020-12-10 19:49:28
 了	了	le	indicates a completed or finished action	deck#5	due@2020-12-10 19:39:11
@@ -9,13 +9,13 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 他	他	tā	he; him	deck#4	due@2020-10-11 19:41:11
 我们	我們	wǒmen	we; us	deck#4	due@2020-10-08 20:41:48
 好	好	hǎo	good	deck#5	due@2021-01-06 20:57:56
-有	有	yǒu	have	deck#3	due@2020-09-15 20:55:10
-这	這	zhè	this	deck#3	due@2020-09-15 20:44:05
+有	有	yǒu	have	deck#4	due@2020-10-17 14:08:43
+这	這	zhè	this	deck#5	due@2020-12-16 14:13:04
 会	會	huì	know how to	deck#4	due@2020-10-11 19:40:53
 吗	嗎	ma	indicates a yes/no question (added to a statement)	deck#4	due@2020-10-08 20:54:44
-什么	什麼	shénme	what? (replaces the noun to turn a statement into a question)	deck#3	due@2020-09-15 18:41:33
-说	說	shuō	speak	deck#3	due@2020-09-15 20:43:52
-她	她	tā	she	deck#3	due@2020-09-15 20:20:03
+什么	什麼	shénme	what? (replaces the noun to turn a statement into a question)	deck#5	due@2020-12-16 14:13:25
+说	說	shuō	speak	deck#4	due@2020-10-17 14:15:01
+她	她	tā	she	deck#5	due@2020-12-16 14:14:39
 想	想	xiǎng	think; believe; suppose; would like to	deck#5	due@2020-12-10 19:49:30
 一	一	yī	one; once; a	deck#6	due@2021-09-06 19:48:16
 很	很	hěn	very; quite	deck#4	due@2020-10-11 19:39:00
@@ -24,30 +24,30 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 来	來	lái	come; arrive; ever since; next	deck#4	due@2020-10-08 20:54:53
 都	都	dōu	all; both	deck#4	due@2020-10-11 19:49:15
 个	個	ge	general measure word	deck#4	due@2020-10-08 20:43:47
-能	能	néng	can; be able	deck#3	due@2020-09-15 20:57:37
-去	去	qù	go; to leave	deck#3	due@2020-09-15 20:52:34
+能	能	néng	can; be able	deck#4	due@2020-10-17 14:16:23
+去	去	qù	go; to leave	deck#5	due@2020-12-16 14:15:22
 和	和	hé	and; with	deck#4	due@2020-10-11 19:41:10
 做	做	zuò	do; make	deck#4	due@2020-10-11 19:41:48
 上	上	shàng	above; up	deck#5	due@2020-12-10 19:47:41
 没有	沒有	méiyǒu	not have; there is not	deck#4	due@2020-10-11 19:40:38
-看	看	kàn	see; look at; to watch	deck#3	due@2020-09-15 20:57:26
+看	看	kàn	see; look at; to watch	deck#5	due@2020-12-16 14:12:51
 怎么	怎麼	zěnme	how?	deck#4	due@2020-10-11 19:43:05
-现在	現在	xiànzài	now	deck#3	due@2020-09-15 20:55:53
+现在	現在	xiànzài	now	deck#4	due@2020-10-17 14:16:40
 点	點	diǎn	a dot; a little; o'clock	deck#4	due@2020-10-11 19:41:35
 呢	呢	ne	indicates a question; how about...?;	deck#4	due@2020-10-11 19:43:10
-太	太	tài	too (much)	deck#3	due@2020-09-15 20:20:13
+太	太	tài	too (much)	deck#5	due@2020-12-16 14:11:01
 里	裡	lǐ	inside; Chinese mile (~.5 km)	deck#4	due@2020-10-08 20:57:58
 听	聽	tīng	listen; hear	deck#4	due@2020-10-11 19:42:30
 谁	誰	shéi	who	deck#4	due@2020-10-11 19:42:45
-多	多	duō	many	deck#3	due@2020-09-15 20:56:38
+多	多	duō	many	deck#4	due@2020-10-17 14:12:37
 时候	時候	shíhou	time	deck#3	due@2020-09-18 19:41:33
 下	下	xià	fall; below	deck#5	due@2021-01-06 20:55:38
 谢谢	謝謝	xièxie	thank you	deck#5	due@2020-12-10 19:43:14
 先生	先生	xiānsheng	Mr.; Sir	deck#4	due@2020-10-11 19:43:08
-喜欢	喜歡	xǐhuan	to like	deck#3	due@2020-09-15 20:57:48
-大	大	dà, dài	big; large	deck#3	due@2020-09-15 20:29:32
-东西	東西	dōngxi	things; stuff	deck#3	due@2020-09-15 20:57:19
-小	小	xiǎo	small; young	deck#3	due@2020-09-15 18:43:36
+喜欢	喜歡	xǐhuan	to like	deck#4	due@2020-10-17 14:18:32
+大	大	dà, dài	big; large	deck#5	due@2020-12-16 14:10:30
+东西	東西	dōngxi	things; stuff	deck#4	due@2020-10-17 14:14:32
+小	小	xiǎo	small; young	deck#5	due@2020-12-16 14:13:52
 叫	叫	jiào	to be called	deck#3	due@2020-09-18 19:49:51
 爱	愛	ài	love	deck#4	due@2020-10-11 19:48:18
 年	年	nián	year	deck#4	due@2020-10-11 19:39:36
@@ -57,7 +57,7 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 钱	錢	qián	money; coin	deck#4	due@2020-10-11 19:49:26
 吃	吃	chī	eat	deck#5	due@2020-12-10 19:49:55
 开	開	kāi	to open; to start; to operate (a vehicle)	deck#4	due@2020-10-11 19:41:05
-家	家	jiā	family; home	deck#3	due@2020-09-15 20:57:55
+家	家	jiā	family; home	deck#4	due@2020-10-17 14:14:53
 哪	哪	nǎa	which; how	deck#4	due@2020-10-11 19:38:52
 朋友	朋友	péngyou	friend	deck#4	due@2020-10-11 19:40:30
 妈妈	媽媽	māma	mom; mum	deck#4	due@2020-10-11 19:40:08
@@ -66,16 +66,16 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 爸爸	爸爸	bàba	Dad	deck#4	due@2020-10-11 19:48:02
 些	些	xiē	some; few; several	deck#4	due@2020-10-11 19:48:14
 怎么样	怎麼樣	zěnmeyàng	how about?; how is/was it?	deck#4	due@2020-10-11 19:49:44
-对不起	對不起	duìbuqǐ	sorry	deck#3	due@2020-09-15 18:40:53
+对不起	對不起	duìbuqǐ	sorry	deck#4	due@2020-10-17 14:17:15
 住	住	zhù	to live; reside; to stop	deck#4	due@2020-10-11 19:38:49
 三	三	sān	three	deck#5	due@2020-12-10 19:40:58
-高兴	高興	gāoxìng	happy; glad	deck#2	due@2020-09-16 18:03:55
+高兴	高興	gāoxìng	happy; glad	deck#3	due@2020-09-24 14:18:23
 买	買	mǎi	to buy	deck#4	due@2020-10-11 19:49:00
 医生	醫生	yīshēng	doctor	deck#4	due@2020-10-11 19:38:59
-哪儿	哪兒	nǎr	where? (Beijing accent)	deck#3	due@2020-09-15 20:56:17
+哪儿	哪兒	nǎr	where? (Beijing accent)	deck#4	due@2020-10-17 14:18:14
 字	字	zì	letter; character	deck#4	due@2020-10-11 19:41:43
-名字	名字	míngzi	name	deck#3	due@2020-09-15 20:54:50
-认识	認識	rènshi	recognize; know (a person)	deck#3	due@2020-09-15 20:55:19
+名字	名字	míngzi	name	deck#4	due@2020-10-17 14:09:17
+认识	認識	rènshi	recognize; know (a person)	deck#4	due@2020-10-17 14:17:21
 坐	坐	zuò	sit	deck#4	due@2020-10-11 19:39:39
 喝	喝	hē	to drink	deck#4	due@2020-10-11 19:41:04
 写	寫	xiě	to write; to compose	deck#4	due@2020-10-11 19:38:55
@@ -84,17 +84,17 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 狗	狗	gǒu	dog	deck#4	due@2020-10-11 19:40:56
 岁	歲	suì	years old; age	deck#4	due@2020-10-11 19:43:15
 看见	看見	kànjiàn	see; catch sight of	deck#4	due@2020-10-11 19:49:39
-打电话	打電話	dǎ diànhuà	make a phone call	deck#3	due@2020-09-15 20:42:43
+打电话	打電話	dǎ diànhuà	make a phone call	deck#4	due@2020-10-17 14:15:44
 喂	喂	wèi	hello (on the phone)	deck#3	due@2020-09-18 19:49:36
 儿子	兒子	érzi	son	deck#4	due@2020-10-08 20:20:23
 漂亮	漂亮	piàoliang	pretty; beautiful	deck#3	due@2020-09-18 19:47:36
 分钟	分鐘	fēnzhōng	minute; (measure word for time)	deck#3	due@2020-09-18 19:48:23
 再见	再見	zàijiàn	goodbye; see you later	deck#4	due@2020-10-11 19:43:02
 本	本	běn	measure word for books	deck#4	due@2020-10-11 19:41:00
-明天	明天	míngtiān	tomorrow	deck#3	due@2020-09-15 20:52:48
+明天	明天	míngtiān	tomorrow	deck#4	due@2020-10-17 14:10:50
 少	少	shǎo	few; little	deck#4	due@2020-10-11 19:42:28
-多少	多少	duōshao	how much?; how many?	deck#3	due@2020-09-15 20:43:46
-块	塊	kuài	lump; piece; sum of money	deck#3	due@2020-09-15 20:56:01
+多少	多少	duōshao	how much?; how many?	deck#4	due@2020-10-17 14:16:45
+块	塊	kuài	lump; piece; sum of money	deck#3	due@2020-09-24 14:17:33
 女儿	女兒	nǚ'ér	daughter	deck#4	due@2020-10-11 19:41:41
 小姐	小姐	xiǎojie	young lady; miss; Ms.	deck#3	due@2020-09-18 19:40:35
 衣服	衣服	yīfu	clothes	deck#3	due@2020-09-18 19:49:47
@@ -103,7 +103,7 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 电影	電影	diànyǐng	movie; film	deck#4	due@2020-10-11 19:42:16
 书	書	shū	book; letter	deck#4	due@2020-10-11 19:48:20
 四	四	sì	four	deck#4	due@2020-10-08 20:55:51
-五	五	wǔ	five	deck#3	due@2020-09-15 20:43:30
+五	五	wǔ	five	deck#4	due@2020-10-17 14:17:52
 医院	醫院	yīyuàn	hospital	deck#3	due@2020-09-18 19:41:24
 没关系	沒關系	méi guānxi	it doesn't matter; never mind	deck#3	due@2020-09-18 19:39:20
 飞机	飛機	fēijī	airplane	deck#4	due@2020-10-11 19:39:10
@@ -113,42 +113,44 @@ SIMPLIFIED	TRADITIONAL	PINYIN	TRANSLATION
 后面	后面	hòumian	back; behind	deck#4	due@2020-10-11 19:48:55
 昨天	昨天	zuótiān	yesterday	deck#4	due@2020-10-11 19:41:40
 睡觉	睡覺	shuì jiào	to sleep; go to bed	deck#4	due@2020-10-11 19:49:22
-六	六	liù	six	deck#3	due@2020-09-15 20:54:56
-老师	老師	lǎoshī	teacher	deck#3	due@2020-09-15 18:41:57
+六	六	liù	six	deck#4	due@2020-10-17 14:14:24
+老师	老師	lǎoshī	teacher	deck#4	due@2020-10-17 14:18:29
 星期	星期	xīngqī	week	deck#4	due@2020-10-11 19:41:16
 十	十	shí	ten	deck#5	due@2020-12-10 19:40:57
 猫	貓	māo	cat	deck#4	due@2020-10-11 19:41:08
 电脑	電腦	diànnǎo	computer	deck#3	due@2020-09-18 19:41:19
 热	熱	rè	heat; hot	deck#4	due@2020-10-11 19:43:12
-学生	學生	xuésheng	student	deck#3	due@2020-09-15 20:55:25
+学生	學生	xuésheng	student	deck#4	due@2020-10-17 14:12:27
 下午	下午	xiàwǔ	afternoon	deck#3	due@2020-09-18 19:41:29
 学习	學習	xuéxí	learn; to study	deck#4	due@2020-10-11 19:42:47
-冷	冷	lěng	cold	deck#3	due@2020-09-15 20:28:43
+冷	冷	lěng	cold	deck#4	due@2020-10-17 14:14:52
 不客气	不客氣	bú kèqi	you're welcome; don't be polite	deck#3	due@2020-09-18 19:46:02
 前面	前面	qiánmiàn	in front	deck#4	due@2020-10-11 19:49:03
 八	八	bā	eight	deck#4	due@2020-10-11 19:41:26
 中国	中國	Zhōngguó	China	deck#5	due@2020-12-10 19:40:36
 七	七	qī	seven	deck#4	due@2020-10-11 19:39:02
 菜	菜	cài	dish (type of food); vegetables	deck#3	due@2020-09-22 18:05:07
-桌子	桌子	zhuōzi	table; desk	deck#3	due@2020-09-15 20:55:29
+桌子	桌子	zhuōzi	table; desk	deck#4	due@2020-10-17 14:14:41
 出租车	出租車	chūzūchē	taxi; cab	deck#3	due@2020-09-22 18:04:22
-天气	天氣	tiānqì	weather	deck#3	due@2020-09-15 20:43:25
-茶	茶	chá	tea	deck#3	due@2020-09-15 20:55:43
+天气	天氣	tiānqì	weather	deck#3	due@2020-09-24 14:12:10
+茶	茶	chá	tea	deck#4	due@2020-10-17 14:18:07
 九	九	jiǔ	nine	deck#4	due@2020-10-11 19:42:50
 商店	商店	shāngdiàn	shop; store	deck#4	due@2020-10-11 19:40:02
 椅子	椅子	yǐzi	chair	deck#4	due@2020-10-11 19:42:42
 同学	同學	tóngxué	fellow student; schoolmate	deck#4	due@2020-10-11 19:40:52
-一点儿	一點兒	yìdiǎnr	a bit; a few	deck#3	due@2020-09-15 20:55:47
+一点儿	一點兒	yìdiǎnr	a bit; a few	deck#4	due@2020-10-17 14:12:18
 苹果	蘋果	píngguǒ	apple	deck#3	due@2020-09-18 19:41:54
-饭店	飯店	fàndiàn	restaurant; hotel	deck#3	due@2020-09-15 20:55:36
-中午	中午	zhōngwǔ	noon; midday	deck#3	due@2020-09-15 20:57:35
+饭店	飯店	fàndiàn	restaurant; hotel	deck#3	due@2020-09-24 14:13:22
+中午	中午	zhōngwǔ	noon; midday	deck#4	due@2020-10-17 14:17:23
 上午	上午	shàngwǔ	late morning (before noon)	deck#3	due@2020-09-22 18:04:12
-水果	水果	shuǐguǒ	fruit	deck#3	due@2020-09-15 20:56:14
+水果	水果	shuǐguǒ	fruit	deck#4	due@2020-10-17 14:16:10
 杯子	杯子	bēizi	cup; glass	deck#3	due@2020-09-18 19:48:51
-下雨	下雨	xiàyǔ	to rain	deck#3	due@2020-09-15 20:41:13
+下雨	下雨	xiàyǔ	to rain	deck#4	due@2020-10-17 14:17:57
 米饭	米飯	mǐfàn	(cooked) rice	deck#3	due@2020-09-18 19:49:12
-北京	北京	Běijīng	Beijing	deck#3	due@2020-09-15 20:41:51
-汉语	漢語	Hànyǔ	Chinese language	deck#3	due@2020-09-15 20:43:14
+北京	北京	Běijīng	Beijing	deck#4	due@2020-10-17 14:14:27
+汉语	漢語	Hànyǔ	Chinese language	deck#6	due@2021-09-12 14:14:02
+#METADATA:
+#METADATA:
 #--decks immediate,daily,weekly,monthly,quarterly,yearly
 #--intervals 0,1440,10080,43200,129600,518400
 #--showcolumns SIMPLIFIED
