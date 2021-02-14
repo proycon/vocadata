@@ -5,11 +5,11 @@
 я	I	Я говорю|I speak/am speaking/say	deck#6	due@2021-09-07 10:10:44
 он	he	Он говорит|He speaks/is speaking/says	deck#6	due@2021-12-07 15:47:57
 что	what, that	Я говорю, что он на работе|I say that he is at work	deck#6	due@2021-09-07 10:10:44
-с (со)	(+inst) with; (+g) from, off	чай с лимоном; со стола|tea with lemon; from (off) the table	deck#5	due@2020-12-31 19:23:12
+с (со)	(+inst) with; (+g) from, off	чай с лимоном; со стола|tea with lemon; from (off) the table	deck#5	due@2021-05-15 17:57:25
 это	this, that, it	Это наш клуб; Это верно|This is our club; That’s true	deck#6	due@2021-09-07 10:10:45
 быть (i) (pres: есть)	to be; there is, there are	Быть или не быть?; Есть кофе?|To be or not to be?; Is there any coffee?	deck#6	due@2021-12-07 15:13:03
 а	and, but (slight contrast)	Она в Москве, а он в Петербурге|She is in Moscow, and (but) he is in St Petersburg	deck#6	due@2021-09-07 10:10:49
-весь (f вся, n всё, pl все)	all	весь стол; вся Москва|the whole table; all of Moscow	deck#5	due@2021-01-12 21:09:58
+весь (f вся, n всё, pl все)	all	весь стол; вся Москва|the whole table; all of Moscow	deck#6	due@2022-02-09 17:43:05
 они	they	Они в Москве|They are in Moscow	deck#6	due@2021-09-07 10:10:57
 она	she	Она со мной|She is with me	deck#6	due@2021-12-07 15:30:41
 как	how, as, like	Как он говорит? как я, как ты|How does he speak? like me, like you	deck#6	due@2021-09-07 10:10:57
@@ -24,8 +24,8 @@
 ты	you (familiar)	Ты говоришь|You are speaking	deck#6	due@2021-09-07 10:11:09
 по (+d)	along; around; according to	по улице; по городу; по плану|along the street; around the town; according to	deck#5	due@2021-03-12 15:11:13
 из (изо) (+g)	out of, from	из дома|out of the house	deck#6	due@2021-09-07 10:11:12
-о (об/обо) (+pr)	about, concerning	Он говорит о Москве|He is speaking about Moscow	deck#5	due@2020-12-31 19:22:41
-свой	one’s own	Он говорит о своей работе|He is talking about his own work	deck#5	due@2021-01-12 21:11:00
+о (об/обо) (+pr)	about, concerning	Он говорит о Москве|He is speaking about Moscow	deck#6	due@2022-02-09 17:45:23
+свой	one’s own	Он говорит о своей работе|He is talking about his own work	deck#5	due@2021-05-15 18:25:40
 так	so	так быстро|so quickly	deck#6	due@2021-12-07 15:18:42
 один (f одна, n одно)	one	один стол|one table	deck#6	due@2021-09-07 10:11:19
 вот	here, there (pointing)	Вот дом|There is the house	deck#6	due@2021-09-07 10:11:20
@@ -42,27 +42,27 @@
 уже	already	Он уже знает об этом|He already knows about this	deck#6	due@2021-12-07 15:36:23
 знать (i) (+a)	to know	Я знаю её|I know her	deck#6	due@2021-12-07 15:33:44
 да	yes; and, but	Да, это правда; он да я|Yes, that’s true; he and I	deck#6	due@2021-12-07 15:12:51
-какой	what (kind of)	Какой у Ивана дом?|What kind of house has Ivan got?	deck#5	due@2021-01-13 20:01:10
-когда	when	Когда вы были в Москве?|When were you in Moscow?	deck#5	due@2021-01-12 21:07:19
+какой	what (kind of)	Какой у Ивана дом?|What kind of house has Ivan got?	deck#5	due@2021-05-15 18:19:09
+когда	when	Когда вы были в Москве?|When were you in Moscow?	deck#6	due@2022-02-09 17:31:37
 другой	different, other	в другом доме|in a different (another) house	deck#6	due@2021-12-07 15:17:51
-первый	first	в первом доме|in the first house	deck#5	due@2020-12-31 19:04:43
+первый	first	в первом доме|in the first house	deck#6	due@2022-02-09 17:57:32
 чтобы	in order to	чтобы говорить по-русски|in order to speak Russian	deck#6	due@2021-12-07 15:27:44
 его	his, its	Это его книга?|Is this his book?	deck#5	due@2021-01-12 21:24:25
 год	year	в этом году|this year	deck#6	due@2021-12-07 15:07:56
 кто	who	Я знаю, кто он|I know who he is	deck#6	due@2021-12-07 15:27:16
-дело	matter, business	Это моё дело|This is my business	deck#5	due@2021-01-12 21:07:55
+дело	matter, business	Это моё дело|This is my business	deck#5	due@2021-05-15 17:42:42
 нет	no; (+g) there is no	Нет работы|There is no work	deck#6	due@2021-09-07 08:58:59
 её	her	Вот её дом|There’s her house	deck#6	due@2021-12-07 15:47:30
 очень	very	очень большой город|a very large town	deck#6	due@2021-12-07 15:37:21
 большой	large	большие города|large towns	deck#6	due@2021-12-07 15:17:58
 новый	new	С Новым годом!|Happy New Year	deck#6	due@2021-12-07 15:06:14
-становиться/стать (+inst)	to become; to stand; p: begin	Он стал говорить; Она стала инженером|He began to speak; She became an engineer	deck#3	due@2020-10-25 20:01:03
+становиться/стать (+inst)	to become; to stand; p: begin	Он стал говорить; Она стала инженером|He began to speak; She became an engineer	deck#3	due@2021-02-21 17:45:15
 работа	work	Он говорит о своей работе|He is speaking about his work	deck#6	due@2021-12-07 15:47:03
 сейчас	now, right now	Он сейчас в Москве|He’s in Moscow at the moment	deck#6	due@2021-09-07 10:12:13
 время (n)	time	в то время; во время войны; много времени|at that time; during the war; a lot of time	deck#6	due@2021-12-07 15:38:01
 человек (pl люди)	person	Она хороший человек|She is a good person	deck#5	due@2021-03-12 15:34:49
 идти/пойти	to go (on foot)	Я иду по улице; Куда ты идёшь?|I am walking along the street; Where are you going?; Я пошёл домой|I went home	deck#6	due@2021-12-07 15:11:05
-если	if	Если она хочет, я тоже хочу|If she wants (to), I want (to) too	deck#5	due@2020-12-31 19:22:00
+если	if	Если она хочет, я тоже хочу|If she wants (to), I want (to) too	deck#6	due@2022-02-09 18:14:24
 два (f две)	two	два часа; две машины|two o’clock; two cars	deck#6	due@2021-12-07 15:48:16
 мой	my	Вот мой дом|There is my house	deck#6	due@2021-12-07 15:35:23
 жизнь (f)	life	Наша жизнь хорошая|Our life is good	deck#6	due@2021-12-07 15:17:11
@@ -79,7 +79,7 @@
 раз	once; a time	один раз; два раза; шесть раз|once; twice; six times	deck#6	due@2021-12-07 15:23:46
 день (m)	day	только один день; два дня|only one day; two days	deck#6	due@2021-12-07 15:59:38
 или	or	Быть или не быть|To be or not to be	deck#6	due@2021-09-07 10:19:59
-город	town, city	Они работают в этом городе|They work in this town	deck#5	due@2020-12-31 19:16:39
+город	town, city	Они работают в этом городе|They work in this town	deck#6	due@2022-02-09 17:49:24
 там	there	Жизнь там хорошая.|Life is good there	deck#6	due@2021-09-07 10:20:01
 слово	word	Я скажу одно слово|I shall say one word	deck#6	due@2021-12-07 15:20:32
 глаз	eye	два глаза; большие глаза|two eyes; large eyes	deck#6	due@2021-12-07 15:35:51
@@ -90,8 +90,8 @@
 даже	even	Даже Иван знает это|Even Ivan knows that	deck#5	due@2020-12-31 19:23:15
 думать/по-	to think	Они думают о жизни|They think about life; Она не подумала о нём|She didn’t think about him	deck#5	due@2020-12-31 19:09:00
 хорошо	well; it is good	Очень хорошо!|Very good!	deck#6	due@2021-12-07 15:29:12
-можно	it is possible	Можно идти?|Is it possible to go?	deck#5	due@2020-12-31 19:15:46
-тут	here (like здесь)	Иван тут, в нашем доме|Ivan is here, in our house	deck#5	due@2021-01-12 21:18:30
+можно	it is possible	Можно идти?|Is it possible to go?	deck#5	due@2021-05-15 18:21:12
+тут	here (like здесь)	Иван тут, в нашем доме|Ivan is here, in our house	deck#6	due@2022-02-09 18:19:25
 тысяча	thousand	две тысячи слов|two thousand words	deck#5	due@2021-03-12 15:37:39
 ли	whether [question word]	Знаете ли вы Ивана? Я не знаю, здесь ли он|Do you know Ivan? I don’t know whether he’s here	deck#6	due@2021-12-07 15:11:35
 вода	water	водка с водой; пить воду|vodka with water; to drink water	deck#6	due@2021-12-07 15:45:34
@@ -104,11 +104,11 @@
 спрашивать/спросить (+a о +pr)	to ask (s.o. about sth)	i Он спрашивает о войне|He asks about the war; p Я спросил его, знает ли он Ивана|I asked him whether he knew Ivan	deck#5	due@2021-03-12 15:03:35
 без (+g)	without	без молока|without milk	deck#5	due@2020-12-31 19:21:49
 делать/с- (+a)	to do, make	Мы ничего не делаем|We are doing nothing; Он сделал всю работу|He did all the work	deck#5	due@2020-12-31 19:19:00
-три	three	три часа|three o’clock/three hours	deck#5	due@2021-01-12 21:26:53
+три	three	три часа|three o’clock/three hours	deck#6	due@2022-02-09 17:48:31
 всё	all; all the time	Он всё говорит о работе|He talks about work all the time	deck#6	due@2021-09-07 15:44:48
 то	that; then	то есть; Если он здесь, то я уйду|that is (=i.e.); If he’s here, then I’ll leave	deck#6	due@2021-12-07 15:23:17
 жить/по-	to live; p: live for a while	i Я хочу жить там, где она живёт|I want to live where she lives; p поживу, поживёшь, past пожил, пожила, пожило	deck#5	due@2021-03-12 15:39:26
-труд	labour	с трудом|with difficulty	deck#3	due@2020-12-19 15:22:18
+труд	labour	с трудом|with difficulty	deck#4	due@2021-03-16 17:40:41
 сам (f сама, n само, pl сами)	self	Он всё сделал сам|He did everything himself	deck#5	due@2021-03-12 15:28:26
 хороший	good	Это хорошее вино|This is good wine	deck#6	due@2021-12-07 15:32:26
 второй	second	второй день нового года|the second day of the New Year	deck#5	due@2021-01-12 21:10:43
@@ -116,16 +116,16 @@
 место	place	Здесь нет места|There is no place/room here	deck#6	due@2021-12-07 15:24:31
 после (+g)	after	После работы мы идём домой|After work we go home	deck#6	due@2021-12-07 15:24:41
 страна	country	в нашей стране|in our country	deck#6	due@2021-12-07 15:32:34
-должен (f должна, n должно, pl должны)	ought, obliged, must	Она должна идти; Мы должны быть там в десять|She must (is obliged to) go; We ought to be there at ten	deck#5	due@2020-12-31 19:12:52
+должен (f должна, n должно, pl должны)	ought, obliged, must	Она должна идти; Мы должны быть там в десять|She must (is obliged to) go; We ought to be there at ten	deck#5	due@2021-05-15 17:57:00
 больше	more	Он знает больше; больше хлеба|He knows more; more bread	deck#6	due@2021-12-07 15:09:15
 ваш	your	Дом ваш|The house is yours	deck#6	due@2021-12-07 15:57:52
 дверь (f)	door	за дверью|behind the door	deck#5	due@2021-01-12 21:27:59
-друг (pl друзья)	friend	Мы с другом были в Москве|My friend and I were in Moscow	deck#5	due@2020-12-31 19:05:10
+друг (pl друзья)	friend	Мы с другом были в Москве|My friend and I were in Moscow	deck#5	due@2021-05-15 17:56:56
 машина	machine; car	Мы смотрели на вашу машину|We were looking at your car	deck#6	due@2021-12-07 15:47:29
 комната	room	В комнате холодно|It’s cold in the room	deck#5	due@2021-01-12 21:24:53
 учиться (i)	to study	Иван учится в университете|Ivan studies at university	deck#6	due@2021-12-07 15:45:57
-над (+inst)	above	над домом|above the house	deck#4	due@2021-01-11 15:20:10
-голова	head	над вашей головой|above your head	deck#4	due@2021-01-11 15:34:19
+над (+inst)	above	над домом|above the house	deck#4	due@2021-03-16 17:40:34
+голова	head	над вашей головой|above your head	deck#4	due@2021-03-16 17:54:12
 почему	why	Почему вы не знаете?|Why don’t you know?	deck#6	due@2021-12-07 15:47:17
 земля	earth, land	жизнь на земле|life on earth	deck#5	due@2021-01-12 21:27:46
 стол	table	Он сидит за столом|He is sitting behind (at) the table	deck#6	due@2021-12-07 15:12:53
@@ -135,23 +135,23 @@
 сидеть/по-	to sit (p: sit for a while)	Кто сидит в комнате?|Who is sitting in the room?; p посижу, посидишь	deck#5	due@2021-03-12 15:18:45
 мальчик	boy	В комнате сидят мальчики|The boys are sitting in the room	deck#6	due@2021-09-07 15:46:24
 девушка	girl	К Ивану пришла девушка|A girl has come to (see) Ivan	deck#6	due@2021-09-07 15:46:26
-лето (g pl лет)	summer; (after numbers) years	лётом; тысяча лет|in the summer; 1,000 years	deck#5	due@2020-12-31 19:19:26
+лето (g pl лет)	summer; (after numbers) years	лётом; тысяча лет|in the summer; 1,000 years	deck#5	due@2021-05-15 18:24:24
 сегодня	today	Сегодня надо работать|Today one must work	deck#6	due@2021-12-07 15:21:23
 сторона	side	на этой стороне|on this side	deck#5	due@2021-03-12 15:27:09
-совсем	completely	Машина совсем новая|The car is completely new	deck#3	due@2020-10-17 16:22:07
-маленький	small	Они живут в маленьком доме|They live in a small house	deck#5	due@2021-01-12 21:12:25
+совсем	completely	Машина совсем новая|The car is completely new	deck#4	due@2021-03-16 18:07:00
+маленький	small	Они живут в маленьком доме|They live in a small house	deck#6	due@2022-02-09 17:47:44
 несколько (+g)	a few, some	несколько девушек|a few girls	deck#5	due@2021-03-12 15:48:01
-вдруг	suddenly	Вдруг он спросил о Сталине|Suddenly he asked about Stalin	deck#3	due@2020-10-21 21:17:56
+вдруг	suddenly	Вдруг он спросил о Сталине|Suddenly he asked about Stalin	deck#4	due@2021-03-16 18:13:07
 ни	not a	ни ... ни ...; Не было ни одного|neither ... nor ...; There wasn’t a single one	deck#5	due@2020-12-31 19:09:05
 лицо	face; person	Я знаю ваше лицо|I know your face	deck#5	due@2021-03-12 15:49:57
-конечно	of course	Конечно нет!|Of course not!	deck#5	due@2021-01-12 21:11:02
+конечно	of course	Конечно нет!|Of course not!	deck#6	due@2022-02-09 18:05:43
 народ	(the) people	русский народ|the Russian people	deck#4	due@2021-01-11 15:10:19
 начинать/начать	to begin	Мы начинаем понимать|We are beginning to understand; Он начал говорить|He began to speak	deck#5	due@2021-03-12 15:30:59
 пять	five	Он живёт здесь уже пять лет|He has been living here for five years already	deck#6	due@2021-12-07 15:09:07
 ведь	you know (expecting agreement)	Ведь он мой друг!|He’s my friend, you know!	deck#2	due@2020-10-06 17:20:23
-вопрос	question	трудные вопросы|difficult questions	deck#5	due@2020-12-31 19:14:14
-писать/на- (+a)	to write	Мальчик пишет|The boy is writing; я напишу, ты напишешь|I’ll write, you’ll write	deck#5	due@2021-01-12 21:14:05
-письмо	letter	Я пишу письмо|I am writing a letter	deck#5	due@2021-01-12 21:25:12
+вопрос	question	трудные вопросы|difficult questions	deck#5	due@2021-05-15 17:51:14
+писать/на- (+a)	to write	Мальчик пишет|The boy is writing; я напишу, ты напишешь|I’ll write, you’ll write	deck#5	due@2021-05-15 18:16:55
+письмо	letter	Я пишу письмо|I am writing a letter	deck#6	due@2022-02-09 17:34:27
 при (+pr)	in the presence/time of; attached to	при мне; при Сталине; при заводе|in my presence; under Stalin; attached to the factory	deck#5	due@2021-03-12 15:06:54
 мать (f)	mother	машина моей матери|my mother’s car	deck#6	due@2021-12-07 15:31:09
 нужно	(it is) necessary	Мне нужно идти|I must go	deck#5	due@2021-03-12 15:11:38
@@ -165,15 +165,15 @@
 улица	street	Она живёт на нашей улице|She lives in our street	deck#5	due@2021-01-12 21:09:06
 решать/решить (+inf/+a)	to decide; solve	Она решила уйти; Кто решит задачу?|She decided to leave; Who will solve the problem?	deck#5	due@2021-03-12 15:34:38
 книга	book	На столе лежат пять книг|There are five books on the table	deck#6	due@2021-12-07 15:46:07
-всегда	always	Всегда так|It is always like that	deck#5	due@2021-01-12 21:11:10
+всегда	always	Всегда так|It is always like that	deck#6	due@2022-02-09 17:25:13
 голос	voice; vote	Голос у неё хороший|She has a good voice	deck#5	due@2021-03-12 15:47:28
 значить (i)	to mean	Что это значит?|What does this mean?	deck#5	due@2021-03-12 15:59:12
-сразу	at once	Она ответила сразу|She answered at once	deck#3	due@2020-10-30 18:15:06
+сразу	at once	Она ответила сразу|She answered at once	deck#3	due@2021-02-21 18:19:22
 лишь	only (=только)	Это лишь одна из причин|That’s only one of the reasons	deck#2	due@2020-10-05 15:34:40
 минута	minute	Я приду через три минуты|I shall come in three minutes’ time	deck#6	due@2021-09-07 15:49:38
-снова	again	Он начал снова|He began again	deck#5	due@2021-01-12 21:14:49
+снова	again	Он начал снова|He began again	deck#6	due@2022-02-09 17:32:18
 окно	window	Окно открыто|The window is open	deck#6	due@2021-12-07 15:59:13
-бы	would (conditional particle)	Если бы она знала, она бы помогла|If she had known, she would have helped	deck#5	due@2021-01-12 21:14:55
+бы	would (conditional particle)	Если бы она знала, она бы помогла|If she had known, she would have helped	deck#6	due@2022-02-09 18:12:26
 уходить/уйти	to leave (on foot)	Вы уходите?|Are you leaving?; Он ушёл из университета|He has left the university	deck#5	due@2021-03-12 15:46:59
 девятьсот	nine hundred	тысяча девятьсот пятый год|(the year) 1905	deck#4	due@2021-01-11 15:05:39
 последний	last	в последней комнате|in the last room	deck#5	due@2021-03-12 15:08:37
@@ -183,63 +183,63 @@
 просто	simply	Они просто не знают|They simply don’t know	deck#6	due@2021-12-07 15:24:04
 видеть/увидеть	to see	Я увижу её; Она увидела отца|I’ll see her; She saw her father	deck#5	due@2021-01-12 21:25:44
 же	emphasizes preceding word	Как же так?; Где же она? тот же дом|But how can that be?; Where on earth is she?; the same house	deck#5	due@2021-03-12 15:47:22
-третий	third	Кто живёт в третьей квартире?|Who lives in flat number 3?	deck#5	due@2021-01-12 21:06:03
+третий	third	Кто живёт в третьей квартире?|Who lives in flat number 3?	deck#6	due@2022-02-09 17:31:12
 потому/потому что	that is why because	Я ушёл, потому что он там|I left because he is there	deck#5	due@2021-01-12 21:24:18
 никто	nobody	Никто не знает|Nobody knows	deck#6	due@2021-12-07 15:37:11
-ждать/подо- (+a or g)	to wait (for)	я жду; он ждёт; Ждите ответа!|I am waiting; he is waiting; Wait for an answer! /p подожду, подождёшь	deck#4	due@2021-01-11 15:24:58
+ждать/подо- (+a or g)	to wait (for)	я жду; он ждёт; Ждите ответа!|I am waiting; he is waiting; Wait for an answer! /p подожду, подождёшь	deck#4	due@2021-03-16 17:56:42
 сколько (+g)	how many, how much	Сколько лет?|How many years?	deck#6	due@2021-12-07 15:23:37
 высокий	high, tall	высокая девушка|a tall girl	deck#5	due@2021-03-12 15:58:35
 лучше	better	Он говорит лучше, чем вы|Не speaks better than you	deck#6	due@2021-12-07 15:10:27
 получать/получить (+a)	to receive, get	Ты получишь письмо завтра|You will receive the letter tomorrow	deck#5	due@2021-03-12 15:16:16
 почти	almost	почти год|almost a year	deck#5	due@2021-03-12 15:38:36
 лес	wood, forest	В лесу тихо|It’s quiet in the forest	deck#5	due@2021-01-12 21:23:49
-конец	end	конец света; в конце года|the end of the world; at the end of the year	deck#5	due@2021-01-12 21:24:04
-нога	leg/foot	Ох, мой ноги|Oh, my feet	deck#5	due@2021-02-07 21:34:55
+конец	end	конец света; в конце года|the end of the world; at the end of the year	deck#5	due@2021-05-15 18:19:27
+нога	leg/foot	Ох, мой ноги|Oh, my feet	deck#5	due@2021-05-15 18:09:27
 собственный	(one’s) own	собственными глазами|with one’s own eyes	deck#3	due@2020-10-21 21:22:58
-сто	hundred	сто долларов; больше ста|a hundred dollars; more than a hundred	deck#5	due@2021-01-12 21:27:12
+сто	hundred	сто долларов; больше ста|a hundred dollars; more than a hundred	deck#5	due@2021-05-15 18:29:00
 художник	artist	молодые художники|young artists	deck#2	due@2020-10-15 21:09:40
 четыре	four	четыре времени года|four seasons	deck#6	due@2021-12-07 15:07:31
 пока	while	пока он здесь|while he is here	deck#5	due@2021-03-12 15:22:54
-пока не	until	пока он не придёт|until he comes	deck#3	due@2020-10-21 21:15:10
+пока не	until	пока он не придёт|until he comes	deck#3	due@2021-02-21 17:42:38
 слушать/по- (+a)	to listen to	Он слушает музыку|He is listening to music	deck#4	due@2021-01-11 15:41:28
 путь (m)	way, journey	по пути|on the way	deck#5	due@2021-03-12 15:36:19
 белый	white	белые дома|white houses	deck#5	due@2021-03-12 15:50:36
 республика	republic	федеральная республика|federal republic	deck#5	due@2021-01-12 21:27:07
-быстро	quickly	Мы шли быстро|We were walking quickly	deck#5	due@2021-01-12 21:12:50
+быстро	quickly	Мы шли быстро|We were walking quickly	deck#5	due@2021-05-15 18:00:05
 куда	where (whither)	Куда они пошли?|Where have they gone?	deck#5	due@2021-01-12 21:25:36
 главный	main	Вот главная улица|Here is the main street	deck#5	due@2021-03-12 15:03:50
 дети (pl)	children	У них нет детей|They have no children	deck#5	due@2021-01-12 21:14:36
-рассказывать/рассказать	to tell, talk (about)	i Он рассказывал о войне|He was talking about the war; p Я расскажу вам историю; Он рассказал нам о них|I’ll tell you a story; He talked about them	deck#4	due@2021-01-11 15:39:16
+рассказывать/рассказать	to tell, talk (about)	i Он рассказывал о войне|He was talking about the war; p Я расскажу вам историю; Он рассказал нам о них|I’ll tell you a story; He talked about them	deck#5	due@2021-05-15 17:18:34
 совет	advice; council	хороший совет|a good piece of advice	deck#5	due@2021-03-12 15:05:28
 газета	newspaper	Мы читали газету|We were reading the newspaper	deck#6	due@2021-12-07 15:31:26
 понимать/понять (+a)	to understand	Никто не понимает|Nobody understands; Вы меня не поняли|You haven’t understood me	deck#5	due@2021-01-12 21:14:45
 пора	it is time; time, season	Пора идти|It is time to go	deck#2	due@2020-10-05 20:13:47
-твой	your (familiar)	Я получил твоё письмо|I have received your letter	deck#5	due@2021-01-12 21:19:39
+твой	your (familiar)	Я получил твоё письмо|I have received your letter	deck#6	due@2022-02-09 18:07:01
 бывать (i)	to be (repeatedly)	Он часто бывает здесь|He is often here	deck#4	due@2021-01-11 15:46:32
 находить/найти (+a)	to find	i: нахожу, находишь; Она нашла книгу?|Did she find the book?	deck#5	due@2021-03-12 15:35:37
 песня	song	песня о лёте|a song about summer	deck#5	due@2021-03-12 15:43:28
 имя (n)	(first) name	Как ваше имя?|What is your name? g sg имени	deck#6	due@2021-12-07 15:35:39
 партия	party (political)	лидер партии|party leader	deck#6	due@2021-12-07 15:28:03
-вечер	evening	летние вечера|summer evenings	deck#5	due@2021-01-12 21:09:26
+вечер	evening	летние вечера|summer evenings	deck#5	due@2021-05-15 18:15:11
 опять	again	Почему вы опять здесь?|Why are you here again?	deck#5	due@2021-03-12 15:04:18
-иметь (i) (+a)	to have (with non-concrete object)	иметь право что-то сделать|to have the right to do something	deck#3	due@2020-10-17 16:31:23
-между (+inst)	between	между городом и лесом|between the town and the wood	deck#5	due@2021-01-12 21:16:05
-настоящий	real, true; present, current	настоящий друг; настоящее время|a real friend; the present time	deck#3	due@2020-10-25 20:09:37
-план	plan	Какие у вас планы?|What are your plans?	deck#5	due@2021-01-12 21:25:22
+иметь (i) (+a)	to have (with non-concrete object)	иметь право что-то сделать|to have the right to do something	deck#4	due@2021-03-16 17:58:16
+между (+inst)	between	между городом и лесом|between the town and the wood	deck#6	due@2022-02-09 17:41:00
+настоящий	real, true; present, current	настоящий друг; настоящее время|a real friend; the present time	deck#4	due@2021-03-16 18:01:08
+план	plan	Какие у вас планы?|What are your plans?	deck#6	due@2022-02-09 17:42:53
 правда	truth	Он сказал правду|He told the truth	deck#5	due@2021-03-12 15:17:50
 сорок	forty	сорок человек|forty people	deck#5	due@2021-03-12 15:36:15
-ходить/с-	to go there and back	ходить в школу; Вчера мы ходили в кино; Я ходил по городу|to attend school; We went to the cinema yesterday; I walked round the town; p: схожу, сходишь	deck#4	due@2021-01-11 16:08:47
-ходить/пo-	to walk around	ходить в школу; Вчера мы ходили в кино; Я ходил по городу|to attend school; We went to the cinema yesterday; I walked round the town	deck#5	due@2021-01-12 21:16:02
+ходить/с-	to go there and back	ходить в школу; Вчера мы ходили в кино; Я ходил по городу|to attend school; We went to the cinema yesterday; I walked round the town; p: схожу, сходишь	deck#5	due@2021-05-15 17:36:38
+ходить/пo-	to walk around	ходить в школу; Вчера мы ходили в кино; Я ходил по городу|to attend school; We went to the cinema yesterday; I walked round the town	deck#5	due@2021-05-15 17:43:38
 узнавать/узнать (+a)	to recognize; find out	i узнаю, узнаёшь; Я узнаю её; Мы узнали, где она живёт|I shall recognize her; We found out where she lives	deck#3	due@2020-11-16 21:38:08
 поле	field	работать в поле|to work in the field	deck#5	due@2021-03-12 15:44:46
-ночь (f)	night	Спокойной ночи!|Peaceful night (Goodnight)	deck#5	due@2021-01-12 21:08:17
+ночь (f)	night	Спокойной ночи!|Peaceful night (Goodnight)	deck#6	due@2022-02-09 17:16:51
 входить/войти	to enter	Входите!|Come in!; я войду; я вошёл|I shall enter; I entered	deck#5	due@2021-03-12 15:37:31
 красный	red	Красная площадь|Red Square	deck#6	due@2021-12-07 15:44:04
 более	more	более интересная книга|a more interesting book	deck#5	due@2021-03-12 15:49:10
 урок	lesson	уроки русского языка|Russian lessons	deck#5	due@2021-03-12 15:33:07
-нельзя	it is not allowed; it is impossible	Вам нельзя курить здесь|You can’t smoke here	deck#4	due@2021-01-11 15:43:14
+нельзя	it is not allowed; it is impossible	Вам нельзя курить здесь|You can’t smoke here	deck#5	due@2021-05-15 17:33:54
 тело	body	части тела|parts of the body	deck#5	due@2021-03-12 15:23:22
-рядом	alongside	Она сидела рядом со мной|She was sitting next to me	deck#3	due@2020-10-21 21:14:31
+рядом	alongside	Она сидела рядом со мной|She was sitting next to me	deck#3	due@2021-02-21 18:11:31
 лежать/по-	to lie, (p) lie for a while	i Газета лежит на столе|The paper is lying on the table; p p полежу, полежишь	deck#5	due@2021-03-12 15:22:08
 про (+a)	about (=о +pr) (coll)	Он слышал про эту книгу|Не has heard about this book	deck#5	due@2021-03-12 15:42:31
 интересный	interesting	интересные друзья|interesting friends	deck#6	due@2021-12-07 15:33:45
@@ -251,43 +251,43 @@
 начальник	head, boss	Им нельзя говорить с начальником|They can’t speak to the boss	deck#4	due@2021-01-11 15:32:07
 разный	various, different	в разных странах|in various countries	deck#5	due@2021-03-12 15:28:53
 тридцать	thirty	тридцать художников|thirty artists	deck#6	due@2021-12-07 15:24:30
-десять	ten	в десяти республиках|in ten republics	deck#5	due@2021-01-12 21:14:34
-мир	world; peace	мир во всём мире|peace in the whole world	deck#5	due@2021-01-12 21:17:12
+десять	ten	в десяти республиках|in ten republics	deck#6	due@2022-02-09 17:28:00
+мир	world; peace	мир во всём мире|peace in the whole world	deck#6	due@2022-02-09 17:42:51
 картина	picture	книга с картинами|a book with pictures	deck#5	due@2021-03-12 15:31:49
 комитет	committee	Центральный комитет|the Central Committee	deck#5	due@2021-01-12 21:14:52
 мысль (f)	thought	интересная мысль|an interesting thought	deck#3	due@2020-10-17 16:21:59
 гость (m)	guest	принимать гостей|to receive guests	deck#5	due@2021-03-12 15:04:50
 старший	elder, senior	старший сын|elder son	deck#5	due@2021-03-12 15:09:36
 вид	view, look; species	вид на море; вид спорта|sea view; type of sport	deck#5	due@2021-03-12 15:46:49
-среди (+g)	among	среди друзей|among friends	deck#4	due@2021-01-11 15:23:29
+среди (+g)	among	среди друзей|among friends	deck#4	due@2021-03-16 17:43:10
 случай	case, occurrence, chance	В таком случае я пойду к начальнику|In that case I shall go to the boss	deck#3	due@2020-10-17 16:28:24
 народный	people’s	народная песня|folk song	deck#5	due@2021-03-12 15:21:19
-помнить/вс- (+a/о +pr)	to remember	Я помню её; Ты помнишь об этом?|I remember her; Do you remember that?	deck#4	due@2021-01-11 15:28:37
+помнить/вс- (+a/о +pr)	to remember	Я помню её; Ты помнишь об этом?|I remember her; Do you remember that?	deck#4	due@2021-03-16 18:11:58
 просить/по- (+a +inf)	to request, ask (s.o. to do sth)	Прошу вас не курить; Он просит вас зайти|I ask you not to smoke; He asks you to call; p: попрошу, попросишь; Я попросил его войти I asked him to come in	deck#3	due@2020-10-25 20:09:32
 пусть	let	Пусть идёт, если хочет|Let him go if he wants to	deck#3	due@2020-10-21 21:10:01
 разговор	conversation	разговор о погоде|conversation about the weather	deck#5	due@2021-03-12 15:33:47
 двор	yard, court	сидеть во дворе|to sit in the yard	deck#4	due@2021-01-11 15:20:10
 долго	for a long time	Она сидела долго|She sat for a long time	deck#5	due@2021-03-12 15:17:04
-месяц	month; moon	три месяца; пять месяцев|3 months; 5 months	deck#5	due@2021-01-12 21:07:00
-возвращаться/вернуться	to come back	p я вернусь, ты вернёшься|I’ll return, you’ll return	deck#3	due@2020-10-21 21:20:25
+месяц	month; moon	три месяца; пять месяцев|3 months; 5 months	deck#6	due@2022-02-09 17:48:29
+возвращаться/вернуться	to come back	p я вернусь, ты вернёшься|I’ll return, you’ll return	deck#4	due@2021-03-16 18:21:27
 союз	union	профсоюз|trade union	deck#5	due@2021-01-12 21:17:18
 война	war	во время войны|during the war	deck#5	due@2021-01-12 21:07:31
 хотя	although	Они вернутся, хотя не хотят|They will return although they don’t want to	deck#5	due@2021-03-12 15:49:33
 берег	bank, shore	на берегу; берега реки|on the shore; banks of a river	deck#5	due@2021-03-12 15:03:28
 целый	whole	Он ничего не делал целый день|He did nothing all day	deck#3	due@2020-12-19 15:48:44
 группа	group	Они вернулись группами|They returned in groups	deck#6	due@2021-12-07 15:41:18
-скоро	soon	Я скоро вернусь|I shall come back soon	deck#5	due@2021-02-07 21:37:15
+скоро	soon	Я скоро вернусь|I shall come back soon	deck#6	due@2022-02-09 18:27:45
 студент	student	Разговор со студентами|A talk with the students	deck#6	due@2021-12-07 15:36:57
 товарищ	comrade	школьные товарищи|schoolmates	deck#5	due@2021-03-12 15:37:25
 часть (f)	part	части света|parts of the world	deck#5	due@2021-03-12 15:09:27
-спать/по-	to sleep	я сплю, ты спишь|I am asleep, you are asleep	deck#5	due@2021-01-12 21:17:15
+спать/по-	to sleep	я сплю, ты спишь|I am asleep, you are asleep	deck#6	due@2022-02-09 17:25:58
 полный	full	жить полной жизнью|to live a full life	deck#5	due@2021-03-12 15:18:52
 сюда	here (hither)	Идите сюда!|Come here!	deck#4	due@2021-01-11 15:43:25
-приезжать/приехать	to arrive (by transport)	Через два месяца он приедет в Лондон|In two months time, he will come to London	deck#4	due@2021-01-11 15:48:30
+приезжать/приехать	to arrive (by transport)	Через два месяца он приедет в Лондон|In two months time, he will come to London	deck#4	due@2021-03-16 17:58:12
 оно	it	- Где письмо? - Вот оно|- Where’s the letter? -There it is	deck#6	due@2021-12-07 15:16:47
 женщина	woman	русские женщины|Russian women	deck#6	due@2021-12-07 15:08:56
-собрание	meeting, collection	на собрании|at a meeting	deck#3	due@2020-10-30 18:11:51
-подходить/подойти (к +d)	to approach; (+d) to suit	i: подхожу, подходишь; Она подошла к нам|She came up to us	deck#3	due@2020-10-21 21:16:28
+собрание	meeting, collection	на собрании|at a meeting	deck#3	due@2021-02-21 18:02:01
+подходить/подойти (к +d)	to approach; (+d) to suit	i: подхожу, подходишь; Она подошла к нам|She came up to us	deck#3	due@2021-02-21 17:47:25
 дерево (pl деревья)	tree	деревья; много деревьев|trees; many trees	deck#5	due@2021-03-12 15:58:57
 сад	garden	в нашем саду|in our garden	deck#5	due@2021-03-12 15:09:45
 чуть	hardly, just	чуть видно; Он чуть не упал|barely visible; He nearly fell	deck#3	due@2020-12-23 22:40:12
@@ -295,28 +295,28 @@
 заниматься (i) (+inst)	to occupy oneself	заниматься языками|to study languages	deck#5	due@2021-03-12 15:09:23
 папа (m)	dad; Pope	папа римский|the Pope (in Rome)	deck#6	due@2021-09-07 15:56:42
 помощь (f)	help	Им нужна помощь|They need help	deck#5	due@2021-03-12 15:35:45
-прошлый	past	в прошлом году|last year	deck#3	due@2020-10-21 21:21:23
+прошлый	past	в прошлом году|last year	deck#3	due@2021-02-21 18:13:37
 прямо	directly, straight	Идите прямо!|Go straight on!	deck#5	due@2021-03-12 15:45:05
 лучший	better; best	лучший друг; Всего лучшего!|best friend; All the best!	deck#5	due@2021-03-12 15:06:09
 мастер	master	мастер своего дела|an expert at one’s job	deck#4	due@2021-01-11 15:43:14
 секретарь (m)	secretary	секретарь директора|director’s secretary	deck#6	due@2021-12-07 15:56:43
 стена	wall	стены дома|walls of a house	deck#5	due@2021-03-12 15:39:30
-оказываться/оказаться (+inst)	to turn out (to be); to find oneself	Оказалось, что он уже вернулся|It turned out that he had already returned	deck#3	due@2020-10-17 16:10:05
+оказываться/оказаться (+inst)	to turn out (to be); to find oneself	Оказалось, что он уже вернулся|It turned out that he had already returned	deck#3	due@2021-02-21 17:50:27
 сын (pl сыновья)	son	его сыновья; пять сыновей|his sons; five sons	deck#5	due@2021-01-12 21:12:18
 брат	brother	мой братья; пять братьев|my brothers; five brothers	deck#5	due@2020-12-31 19:20:38
 зачем	why, for what	Зачем он пришёл?|Why has he come?	deck#5	due@2021-01-12 21:13:14
 играть/сыграть	to play	Они играют в футбол|They are playing football	deck#5	due@2021-03-12 15:49:41
 институт	institute; institution	у нас в институте|at our institute	deck#6	due@2021-09-07 15:57:33
-пятый	fifth	пятый автобус|No. 5 bus	deck#5	due@2020-12-31 19:20:36
+пятый	fifth	пятый автобус|No. 5 bus	deck#5	due@2021-05-15 17:46:44
 раньше	earlier	Он приедет раньше нас|He will arrive before us	deck#5	due@2021-03-12 15:23:41
 тихо	quiet	В саду было тихо|It was quiet in the garden	deck#5	due@2021-03-12 15:09:55
-чёрный	black	чёрный хлеб|black bread	deck#5	due@2021-01-12 21:12:53
-великий	great	Пётр Великий|Peter the Great	deck#4	due@2021-01-11 15:28:40
-завтра	tomorrow	Завтра будет собрание|There will be a meeting tomorrow	deck#5	due@2020-12-31 19:22:06
+чёрный	black	чёрный хлеб|black bread	deck#6	due@2022-02-09 17:38:19
+великий	great	Пётр Великий|Peter the Great	deck#4	due@2021-03-16 17:43:12
+завтра	tomorrow	Завтра будет собрание|There will be a meeting tomorrow	deck#6	due@2022-02-09 17:23:40
 широкий	wide	широкие улицы|wide streets	deck#5	due@2021-03-12 15:09:59
 мало (+g)	few; not much	мало книг|few books	deck#5	due@2021-03-12 15:38:12
 наконец	in the end	Наконец она узнала правду|In the end she learned the truth	deck#5	due@2021-03-12 15:03:38
-плечо	shoulder	плечи|shoulders	deck#4	due@2021-01-11 15:28:57
+плечо	shoulder	плечи|shoulders	deck#4	due@2021-03-16 17:58:37
 разве	really	Разве он здесь?|Is he really here?	deck#2	due@2020-10-11 16:17:33
 разве… не	surely	Разве вы не знаете?|Surely you know?	deck#2	due@2020-10-17 18:56:33
 снег	snow	в снегу|in the snow	deck#6	due@2021-12-07 15:35:53
@@ -326,16 +326,16 @@
 язык	language; tongue	на русском языке|in Russian	deck#6	due@2021-12-07 15:05:29
 приходить/прийти	to arrive (on foot)	Приходите к нам|Come and see us; Я пришёл первым|I arrived first	deck#4	due@2021-01-15 22:39:26
 русский	Russian; a Russian	русская песня|Russian song	deck#6	due@2021-09-07 15:58:29
-недавно	recently	Он был здесь недавно|He was here recently	deck#4	due@2021-01-11 15:46:23
+недавно	recently	Он был здесь недавно|He was here recently	deck#5	due@2021-05-15 17:31:40
 советский	Soviet (adj)	Советский Союз|Soviet Union	deck#6	due@2021-09-07 15:58:30
 некоторый	some, a certain	до некоторой степени|to a certain extent	deck#5	due@2021-03-12 15:22:32
 продолжать/продолжить	to continue	Продолжайте!|Go on!	deck#5	due@2021-03-12 15:35:57
 член	member	член клуба|club member	deck#5	due@2021-03-12 15:12:54
 поэтому	consequently	Я занят, поэтому не приду|I’m busy so I won’t come	deck#5	due@2021-03-12 15:37:15
-замечать/заметить (+a)	to notice	Никто не заметит|No one will notice	deck#4	due@2021-01-11 15:33:02
+замечать/заметить (+a)	to notice	Никто не заметит|No one will notice	deck#4	due@2021-03-16 18:12:46
 квартира	flat, apartment	В квартире три комнаты|The flat has three rooms	deck#6	due@2021-12-07 15:07:18
 уметь/с- (+inf)	to know how to; be able to, manage to	Его отец умеет говорить на пяти языках|His father can speak five languages. p: сумею, сумеешь	deck#3	due@2020-10-17 16:23:39
-свет	light; world	солнечный свет; вокруг света|sunlight; round the world	deck#5	due@2021-01-12 21:10:21
+свет	light; world	солнечный свет; вокруг света|sunlight; round the world	deck#5	due@2021-05-15 18:11:36
 назад	back, ago	смотреть назад; два года (тому) назад|to look back; two years ago	deck#5	due@2021-03-12 15:29:20
 школьник	schoolboy	три школьника|three schoolboys	deck#5	due@2021-03-12 15:41:13
 домой	home, homewards	Мы идём домой|We are going home	deck#5	due@2021-01-12 21:24:38
@@ -351,49 +351,49 @@
 дорогой	dear, expensive	дорогие книги|expensive books	deck#5	due@2021-03-12 15:16:45
 история	history; story	история России|history of Russia	deck#6	due@2021-12-07 15:32:29
 молчать/за-	to be silent; p: to fall silent	я молчу, ты молчишь|I say nothing, you say nothing; p: замолчу, замолчишь	deck#4	due@2021-01-11 15:16:38
-солнце	sun	сидеть на солнце|nothing to sit in the sun	deck#5	due@2021-01-12 21:27:49
+солнце	sun	сидеть на солнце|nothing to sit in the sun	deck#5	due@2021-05-15 18:01:47
 дома	at home	Павел дома?|Is Pavel at home?	deck#6	due@2021-12-07 15:57:23
 море	sea	открытое море; моря|the open sea; seas	deck#6	due@2021-12-07 15:50:35
 огромный	enormous	У него огромная квартира|He has an enormous flat	deck#5	due@2021-03-12 15:27:54
 ученик	pupil	ученики школы No. 5|the pupils of school no. 5	deck#5	due@2021-03-12 15:08:48
 чувство	feeling	чувство юмора|sense of humour	deck#5	due@2021-03-12 15:08:02
-петь/с- (+a)	to sing	я пою, ты поёшь|I sing, you sing; p спою, споёшь	deck#3	due@2020-10-17 16:26:50
-борьба	struggle	борьба за власть|struggle for power	deck#4	due@2021-01-15 22:44:16
+петь/с- (+a)	to sing	я пою, ты поёшь|I sing, you sing; p спою, споёшь	deck#4	due@2021-03-16 18:28:42
+борьба	struggle	борьба за власть|struggle for power	deck#4	due@2021-03-16 18:19:31
 речь (f)	speech	выступить с речью|to make a speech; русская речь|Russian speech (=spoken Russian)	deck#3	due@2020-10-17 16:32:59
-ехать/по-	to go (by transport)	Я еду на машине, а ты едешь на автобусе|I’m going by car, and you’re going by bus; я поеду, ты поедешь|I’ll go, you’ll go	deck#5	due@2021-01-12 21:11:05
+ехать/по-	to go (by transport)	Я еду на машине, а ты едешь на автобусе|I’m going by car, and you’re going by bus; я поеду, ты поедешь|I’ll go, you’ll go	deck#6	due@2022-02-09 18:02:03
 хлеб	bread	много хлеба|a lot of bread	deck#5	due@2021-03-12 15:24:39
 движение	movement, motion	уличное движение|son to the park traffic	deck#5	due@2021-03-12 15:17:48
 праздник	holiday, festival	праздник Первого мая|May Day holiday	deck#3	due@2020-10-25 20:12:57
-внимание	attention	обращать внимание на +а|to pay attention to/note	deck#5	due@2021-01-12 21:06:09
-считать/счесть	(+a +inst) consider (sth/s.o. to be sth)	Я считаю это нужным|I consider this necessary /p сочту, сочтёшь, past счёл, сочла	deck#4	due@2021-01-11 15:39:04
-считать/со-	to count	считать до десяти|to count to ten	deck#3	due@2020-12-19 16:09:54
-иногда	sometimes	Он иногда помогает мне|He sometimes helps me	deck#4	due@2021-01-11 15:30:05
-кричать/за-	to shout	я кричу, ты кричишь|I shout, you shout; p: закричу, закричишь	deck#4	due@2021-01-11 15:16:22
+внимание	attention	обращать внимание на +а|to pay attention to/note	deck#6	due@2022-02-09 17:26:11
+считать/счесть	(+a +inst) consider (sth/s.o. to be sth)	Я считаю это нужным|I consider this necessary /p сочту, сочтёшь, past счёл, сочла	deck#4	due@2021-03-16 18:15:06
+считать/со-	to count	считать до десяти|to count to ten	deck#4	due@2021-03-16 18:01:30
+иногда	sometimes	Он иногда помогает мне|He sometimes helps me	deck#5	due@2021-05-15 18:12:53
+кричать/за-	to shout	я кричу, ты кричишь|I shout, you shout; p: закричу, закричишь	deck#5	due@2021-05-15 17:25:25
 фабрика	factory	Он работает на новой фабрике|He works at the new factory	deck#5	due@2021-03-12 15:44:11
 успевать/успеть (+inf)	to have time, to be in time	Вы успеете это сделать?|Will you have time to do this?	deck#2	due@2020-10-07 17:15:34
 действительно	really, actually	Это действительно так|It really is so	deck#2	due@2020-10-11 16:27:02
 именно	namely, exactly	Где именно?|Where exactly?	deck#2	due@2020-10-11 16:29:25
-общий	general (adj)	общее собрание; в общем|general meeting; in general	deck#4	due@2021-01-11 15:44:43
-всякий	any	во всяком случае|in any case, всякий раз	deck#3	due@2020-10-17 16:25:48
+общий	general (adj)	общее собрание; в общем|general meeting; in general	deck#4	due@2021-03-16 17:54:55
+всякий	any	во всяком случае|in any case, всякий раз	deck#3	due@2021-02-21 18:23:57
 директор	director	директор завода; директора|factory manager; managers	deck#6	due@2021-12-07 15:23:16
-красивый	beautiful	красивая девушка|beautiful girl	deck#5	due@2020-12-31 19:17:26
+красивый	beautiful	красивая девушка|beautiful girl	deck#6	due@2022-02-09 17:31:15
 номер	number; hotel room	номера|numbers	deck#6	due@2021-12-07 15:34:21
-около (+g)	near; about	около дома; около тысячи рублей|near the house; about 1,000 roubles	deck#4	due@2021-01-11 15:17:08
+около (+g)	near; about	около дома; около тысячи рублей|near the house; about 1,000 roubles	deck#4	due@2021-03-16 18:06:28
 парень (m)	lad, boy	Все парни считают её красивой|All the boys think her beautiful	deck#5	due@2021-03-12 15:18:50
-хозяйство	economy	народное хозяйство|national economy	deck#3	due@2020-10-17 16:24:00
+хозяйство	economy	народное хозяйство|national economy	deck#3	due@2021-02-21 18:19:43
 вокруг (+g)	around	вокруг света|around the world	deck#3	due@2020-10-25 20:17:47
 душа	soul	русская душа; от всей Души|Russian soul; with all one’s heart	deck#5	due@2021-02-07 21:37:31
 четвёртый	fourth	в четвёртом номере журнала|in the fourth number of the journal	deck#2	due@2020-10-07 17:19:31
 шесть	six	шесть учеников|six pupils	deck#6	due@2021-12-07 15:12:36
 поднимать/поднять (+a)	to raise, lift	Я подниму руку; Ты поднимешь этот вопрос?|I shall raise my hand; Will you raise this question?	deck#3	due@2020-10-17 16:18:58
 взгляд	look, view	с первого взгляда|at first sight	deck#5	due@2021-03-12 15:42:40
-инженер	engineer	шесть инженеров|six engineers	deck#5	due@2021-01-12 21:15:42
+инженер	engineer	шесть инженеров|six engineers	deck#5	due@2021-05-15 18:19:35
 также	as well	Иван, а также Борис|Ivan and also Boris	deck#5	due@2021-01-12 21:10:46
 тяжёлый	heavy	тяжёлая промышленность|heavy industry	deck#5	due@2021-03-12 15:36:00
-цветок (pl цветы)	flower	два цветка; красивые цветы|two flowers; nice flowers	deck#4	due@2021-01-11 15:33:56
+цветок (pl цветы)	flower	два цветка; красивые цветы|two flowers; nice flowers	deck#4	due@2021-03-16 18:20:05
 брать/взять (+a)	to take	i Я беру книгу, а ты берёшь газету|I take a book, and you take a paper; p Я возьму такси; Ты возьмёшь эту книгу?|I shall take a taxi; Will you take this book?	deck#4	due@2021-01-11 15:17:45
 видно	evident, visible	Конца ещё не видно|The end is not yet in sight	deck#4	due@2021-01-11 15:34:37
-воздух	air	в воздухе|in the air	deck#3	due@2020-10-25 20:15:59
+воздух	air	в воздухе|in the air	deck#4	due@2021-03-16 17:55:16
 давно	(since) long ago	Мы давно здесь|We have been here a long time	deck#4	due@2021-01-11 15:31:41
 забывать/забыть (+a or o +pr)	to forget	p Я забуду его, ты тоже забудешь о нём|I’ll forget him, you’ll forget about him too	deck#5	due@2021-03-12 15:08:51
 из-за (+g)	from behind; because of	из-за дождя|because of the rain	deck#5	due@2021-03-12 15:33:05
@@ -402,13 +402,13 @@
 стройка	building; building site	работать на стройке|to work on a building site	deck#2	due@2020-10-11 16:13:10
 жена	wife	жёны|wives	deck#6	due@2021-12-07 15:44:23
 молоко	milk	бутылка молока|bottle of milk	deck#6	due@2021-12-07 15:58:29
-ставить/по- (+a)	to place, put (in a standing position)	i: ставлю, ставишь; Я поставлю машину здесь; Он поставит бутылку на стол|I will park my car here; He will put the bottle on the table	deck#3	due@2020-11-16 21:35:27
-однако	however	Однако, он забыл|However, he forgot	deck#3	due@2020-10-21 21:25:00
+ставить/по- (+a)	to place, put (in a standing position)	i: ставлю, ставишь; Я поставлю машину здесь; Он поставит бутылку на стол|I will park my car here; He will put the bottle on the table	deck#3	due@2021-02-21 18:05:11
+однако	however	Однако, он забыл|However, he forgot	deck#3	due@2021-02-21 17:31:35
 угол	corner	Он стоит на углу|He is standing at the corner	deck#4	due@2021-01-11 15:43:41
 бумага	paper	писать на красной бумаге|to write on red paper	deck#5	due@2021-03-12 15:35:26
 принимать/принять (+a)	to take, accept, receive	Президент примет его завтра; Я приму меры|The president will see him tomorrow; I shall take measures	deck#2	due@2020-12-17 22:44:45
-длинный	long	длинная улица|long street	deck#4	due@2021-01-11 15:57:48
-занятие	occupation; (pl) classes	занятия в университете|university studies	deck#3	due@2020-10-21 21:30:33
+длинный	long	длинная улица|long street	deck#4	due@2021-03-16 18:28:57
+занятие	occupation; (pl) classes	занятия в университете|university studies	deck#3	due@2021-02-21 17:17:10
 чистый	clean, pure	чистые руки|clean hands	deck#4	due@2021-01-11 15:22:26
 садиться/сесть	to sit down; get into (transport)	я сажусь, ты садишься|I sit down, you sit down; я сяду, ты сядешь; Сядем на автобус|I’ll sit down, you’ll sit down; Let’s take a bus	deck#5	due@2021-03-12 15:36:52
 часто	often	Я бываю здесь часто|I come here often	deck#6	due@2021-12-07 15:45:11
@@ -417,22 +417,22 @@
 вставать/встать	to get up, stand up	i: встаю, встаёшь; p: Я встану в восемь часов; Ты встанешь в семь|I shall get up at eight; You’ll get up at seven	deck#5	due@2021-02-07 21:34:52
 игра	game	олимпийские игры|Olympic Games	deck#5	due@2021-03-12 15:12:21
 кружок	circle, club	член литературного кружка|member of a literary group	deck#2	due@2020-10-17 18:58:43
-хозяин (pl хозяева)	master, boss, owner, host	хозяева своей страны|masters of one’s own country	deck#3	due@2020-10-17 16:32:56
+хозяин (pl хозяева)	master, boss, owner, host	хозяева своей страны|masters of one’s own country	deck#3	due@2021-02-21 17:51:46
 никакой	(absolutely) no	Нет никакого сомнения; Он ни к какому выводу не пришёл|There is no doubt at all; He came to no conclusion	deck#5	due@2021-03-12 15:27:52
 дядя (m)	uncle	дядя Ваня|Uncle Vanya	deck#5	due@2021-03-12 15:47:40
 живой	alive, lively	живой ум|lively mind	deck#5	due@2021-03-12 15:12:24
 деревня	village; countryside	много деревень; жить в деревне|many villages; to live in the countryside	deck#5	due@2021-03-12 15:28:14
-образ	manner, way, shape, image	образ жизни; таким образом; образ правления|way of life; thus; form of government	deck#3	due@2020-10-30 18:08:57
-порядок	order	Всё в порядке|Everything is alright	deck#3	due@2020-10-17 16:24:58
+образ	manner, way, shape, image	образ жизни; таким образом; образ правления|way of life; thus; form of government	deck#3	due@2021-02-21 17:22:59
+порядок	order	Всё в порядке|Everything is alright	deck#4	due@2021-03-16 18:07:07
 строитель (m)	construction worker, builder	стать строителем|to become a construction worker	deck#2	due@2020-10-07 17:26:16
-успех	success	иметь успех; успехи|to be successful; progress/success	deck#4	due@2021-01-11 15:28:45
+успех	success	иметь успех; успехи|to be successful; progress/success	deck#5	due@2021-05-15 17:26:00
 приносить/принести (+a)	to bring	i: приношу, приносишь; Я принесу хлеб; Он принёс книгу|I shall bring the bread; He brought the book	deck#4	due@2021-01-11 15:58:46
 слишком	too, too much	слишком долго|too long	deck#6	due@2021-12-07 15:17:59
 добрый	good, kind	Доброе утро!|Good morning!	deck#6	due@2021-12-07 15:08:52
 прежде	before	прежде всего|first of all	deck#5	due@2021-03-12 15:29:01
 рассказ	story	рассказы Чехова|Chekhov’s short stories	deck#5	due@2021-03-12 15:40:28
 семья	family	десять семей|ten families	deck#6	due@2021-12-07 15:50:09
-утро	morning	в восемь часов утра|at eight o’clock in the morning	deck#5	due@2021-01-12 21:27:56
+утро	morning	в восемь часов утра|at eight o’clock in the morning	deck#6	due@2022-02-09 17:17:49
 лагерь (m)	camp	концентрационные лагеря|concentration camps	deck#5	due@2021-03-12 15:03:30
 знакомый	familiar; an acquaintance	Я не знаком с ним; мои знакомые|I don’t know him; my acquaintances	deck#5	due@2021-03-12 15:49:43
 армия	army	Британская армия|the British Army	deck#6	due@2021-12-07 15:26:57
@@ -442,7 +442,7 @@
 сначала	at first; from the beginning	начать сначала|to begin from the beginning	deck#5	due@2021-03-12 15:09:26
 техника	technology	западная техника|Western technology	deck#6	due@2021-12-07 15:06:38
 деньги (f) (pl)	money	много денег|a lot of money	deck#6	due@2021-12-07 15:43:35
-доклад	report	сделать доклад|to make a report	deck#3	due@2020-10-21 21:18:02
+доклад	report	сделать доклад|to make a report	deck#4	due@2021-03-16 18:19:50
 оба (f обе)	both	оба доклада; обеими руками|both reports; with both hands	deck#5	due@2021-03-12 15:27:03
 седьмой	seventh	седьмое нёбо|seventh heaven	deck#6	due@2021-12-07 15:21:18
 поздно	late	Он пришёл очень поздно|Не came very late	deck#5	due@2021-03-12 15:31:08
@@ -450,57 +450,57 @@
 встреча	meeting	встреча со студентами|a meeting with the students	deck#5	due@2021-03-12 15:48:47
 возможность (f)	possibility	возможность поехать в Россию|a chance to go to Russia	deck#6	due@2021-12-07 15:39:58
 культура	culture	министерство культуры|ministry of culture	deck#6	due@2021-12-07 15:47:23
-следовать/по-	to follow (+d); to be required	i Я следую за ней; Вам следует помочь им|I am following her; You ought to help them; p последую, последуешь	deck#3	due@2020-10-17 16:30:48
+следовать/по-	to follow (+d); to be required	i Я следую за ней; Вам следует помочь им|I am following her; You ought to help them; p последую, последуешь	deck#4	due@2021-03-16 18:24:08
 команда	team, crew; command	футбольная команда|football team	deck#5	due@2021-03-12 15:40:48
 ну	well	Ну вот ...; Ну хорошо|Well, then ...; All right then	deck#5	due@2021-03-12 15:08:39
 очередь (f)	queue, turn	стоять в очереди|stand in a queue/wait in line	deck#2	due@2020-10-16 20:12:29
 личный	personal	личный опыт|personal experience	deck#2	due@2020-10-11 16:33:15
 школа	school	средняя школа|secondary school	deck#6	due@2021-12-07 15:59:03
 расти/вы-	to grow	Он рос быстро; Он растёт|He grew quickly; He is growing	deck#5	due@2021-03-12 15:08:00
-колхоз	collective farm	в колхозе|on a collective farm	deck#5	due@2021-01-12 21:18:26
+колхоз	collective farm	в колхозе|on a collective farm	deck#6	due@2022-02-09 17:36:20
 причина	reason (+g for), cause	по этой причине; причина войны|for that reason; reason for/cause of war	deck#4	due@2021-01-11 15:11:48
 ребята	children, boys (coll)	Ребята играют во дворе|The children play in the courtyard	deck#5	due@2021-03-12 15:10:04
-девочка	little girl	Девочке пять лет|The little girl is five years old	deck#5	due@2021-01-12 21:21:36
+девочка	little girl	Девочке пять лет|The little girl is five years old	deck#5	due@2021-05-15 18:00:57
 многий	many	Многие так думают|Many (people) think so	deck#6	due@2021-12-07 15:48:33
 организация	organization	новые организации|new organizations	deck#5	due@2021-03-12 15:38:21
 мама	mother; mummy	молодые мамы|young mothers	deck#6	due@2021-12-07 15:26:59
 станция	station	Поезд остановился на станции|The train stopped at the station	deck#5	due@2021-03-12 15:49:08
 туда	there (thither)	Я пойду туда завтра|I shall go there tomorrow	deck#6	due@2021-12-07 15:39:10
 уж/уже	already; really	не так уж много|not so very many	deck#6	due@2021-12-07 15:45:32
-совершенно	completely, perfectly, absolutely, quite	Совершенно правильно|Absolutely right	deck#3	due@2020-12-19 16:09:19
+совершенно	completely, perfectly, absolutely, quite	Совершенно правильно|Absolutely right	deck#3	due@2021-02-21 17:44:41
 спокойно	calmly, quietly	Он спокойно взял все доллары|He calmly took all the dollars	deck#5	due@2021-03-12 15:25:41
 хотеться/за- (+d)	to want, feel like; p: to start to want	Мне хотелось бы поговорить с ней|I should like to talk to her; p захочется	deck#5	due@2021-03-12 15:24:06
 всё-таки	all the same, for all that	Всё-таки он не прав|Nevertheless he is wrong		
 чем	than	Я знаю больше, чем вы|I know more than you do	deck#5	due@2021-02-07 21:36:26
-будто	as though, as if, allegedly	Говорят, будто он ушёл|They claim he has left|Она смотрела на дверь, будто ожидала кого-то.	deck#3	due@2020-10-25 20:01:06
+будто	as though, as if, allegedly	Говорят, будто он ушёл|They claim he has left|Она смотрела на дверь, будто ожидала кого-то.	deck#4	due@2021-03-16 17:57:29
 мнение	opinion	по моему мнению|in my opinion	deck#5	due@2021-03-12 15:44:08
 впервые	for the first time	Я здесь впервые|I haven’t been here before	deck#4	due@2021-01-11 15:23:05
 любой	any (any you like)	Можно взять любую книгу|You may take any book	deck#5	due@2021-03-12 15:09:02
-медленно	slowly	Говорите медленно, пожалуйста|Please speak slowly	deck#5	due@2021-01-12 21:15:19
+медленно	slowly	Говорите медленно, пожалуйста|Please speak slowly	deck#6	due@2022-02-09 17:40:42
 друг друга	each other	помогать друг другу|to help each other	deck#6	due@2021-12-07 15:33:42
 приходиться/прийтись (+d)	to have to	Ей приходится молчать; Нам приходилось помогать им|She has to keep quiet; We had to help them; Нам пришлось уйти; Вам придётся идти к начальнику|We had to leave; You’ll have to go to the boss	deck#2	due@2020-10-11 16:14:42
 начало	beginning	в начале года|at the beginning of the year	deck#5	due@2021-03-12 15:11:41
 похожий	resembling, similar	Они похожи друг на друга|They are alike	deck#4	due@2021-01-11 15:18:26
 зал	hall	читальный зал|reading room	deck#5	due@2021-03-12 15:48:51
 держать (i)	to hold, keep	Вы держите молоко в холодном месте?|Do you keep the milk in a cold place?	deck#5	due@2021-03-12 15:37:13
-предприятие	enterprise, factory	мелкое предприятие|a small business	deck#3	due@2020-10-25 20:02:40
+предприятие	enterprise, factory	мелкое предприятие|a small business	deck#4	due@2021-03-16 17:40:25
 спортивный	sporting	спортивный зал|gymnasium/sports hall	deck#5	due@2021-01-12 21:20:57
 весёлый	cheerful, merry	весёлое настроение|cheerful mood	deck#3	due@2020-12-23 22:43:04
-здравствовать (i)	to be healthy, prosper	Да здравствуют мир и дружба!|Long live peace and friendship!	deck#3	due@2020-10-25 20:17:27
+здравствовать (i)	to be healthy, prosper	Да здравствуют мир и дружба!|Long live peace and friendship!	deck#3	due@2021-02-21 18:07:48
 Здравствуй(те)	Hello/How are you?	Здравствуй, Наташа|Hello, Natasha	deck#6	due@2021-12-07 15:18:55
 вперёд	forward; in advance	шаг вперёд|a step forward	deck#3	due@2020-10-17 16:23:20
-зелёный	green	зелёная книга|a green book	deck#5	due@2020-12-31 19:21:54
+зелёный	green	зелёная книга|a green book	deck#5	due@2021-05-15 18:15:43
 нёбо	sky, heaven	небеса|the heavens	deck#5	due@2021-03-12 15:38:10
 встречать/встретить (+a)	to meet	Я встречу вас на вокзале; Ты встретишь Новый год с нами?|I shall meet you at the station; Will you see the New Year in with us?	deck#6	due@2021-12-07 15:24:36
 отношение (к +d)	attitude, relation (to); (pl) relations	его отношение к вам; англо-русские отношения|his attitude to you; Anglo-Russian relations	deck#5	due@2021-03-12 15:21:03
 бабушка	grandmother	много бабушек|many grandmothers	deck#6	due@2021-12-07 15:58:40
-детский	children’s	детский сад|kindergarten	deck#4	due@2021-01-11 15:15:29
-останавливаться/остановиться	to stop	p: Я остановлюсь перед домом; Он не остановится|I shall stop in front of the house; He will not stop	deck#3	due@2020-10-21 21:29:07
+детский	children’s	детский сад|kindergarten	deck#5	due@2021-05-15 17:18:31
+останавливаться/остановиться	to stop	p: Я остановлюсь перед домом; Он не остановится|I shall stop in front of the house; He will not stop	deck#4	due@2021-03-16 17:57:17
 ответ	answer	ответ на вопрос|answer to a question	deck#6	due@2021-12-07 15:36:38
-восемь	eight	в восьми школах|in eight schools	deck#5	due@2020-12-31 19:23:14
-доска	board	писать на доске|to write on the board	deck#3	due@2020-10-17 16:11:59
+восемь	eight	в восьми школах|in eight schools	deck#6	due@2022-02-09 18:13:30
+доска	board	писать на доске|to write on the board	deck#3	due@2021-02-21 17:41:28
 появляться/появиться	to appear	Скоро появится его жена|His wife will soon appear	deck#2	due@2020-10-16 20:08:40
-неделя	week	восемь недель|eight weeks	deck#5	due@2021-01-12 21:24:34
+неделя	week	восемь недель|eight weeks	deck#5	due@2021-05-15 18:10:25
 завод	factory	Он работает на заводе |Не works in a factory	deck#5	due@2021-03-12 15:28:09
 форма	form	форма правления|form of government	deck#6	due@2021-12-07 15:35:46
 являться (i) (+inst)	to be (sth) (formal)	Он является директором|He is the director	deck#2	due@2020-10-17 18:53:51
@@ -508,22 +508,22 @@
 герой	hero	герой войны|war hero	deck#5	due@2021-01-12 21:29:15
 кроме (+g)	except, besides	кроме меня; кроме того|except me; moreover/in addition	deck#5	due@2021-03-12 15:32:42
 подниматься/подняться	to rise, climb	Я поднимусь на третий этаж; Они поднимутся на гору|I shall climb to the 3rd floor; They will climb the hill	deck#2	due@2020-12-17 22:36:33
-съезд	congress	дворец съездов|palace of congresses	deck#3	due@2020-10-25 19:56:42
+съезд	congress	дворец съездов|palace of congresses	deck#3	due@2021-02-21 17:49:22
 точно	exactly; punctually	точно в час|at one o’clock precisely	deck#5	due@2021-03-12 15:06:17
-ход	movement	на полном ходу; ход событий|at full speed; course of events	deck#3	due@2020-10-21 21:24:32
-равно	equal, alike (adv)	Всё равно; Не всё ли равно?|It’s all the same; What difference does it make?	deck#3	due@2020-10-21 21:26:07
+ход	movement	на полном ходу; ход событий|at full speed; course of events	deck#4	due@2021-03-16 17:59:12
+равно	equal, alike (adv)	Всё равно; Не всё ли равно?|It’s all the same; What difference does it make?	deck#3	due@2021-02-21 18:25:40
 шаг	step	сделать шаг вперёд|to take a step forward	deck#5	due@2021-03-12 15:07:01
 клуб	club	клуб художников|artist’s club	deck#6	due@2021-12-07 15:20:33
-крупный	large, important	крупные промышленные центры|large industrial centres	deck#3	due@2020-10-21 21:07:11
+крупный	large, important	крупные промышленные центры|large industrial centres	deck#3	due@2021-02-21 17:52:14
 вспоминать/вспомнить (+a or о +pr)	to remember, recall	Ты вспомнишь о ней?|Will you remember her?	deck#4	due@2021-01-11 15:12:17
 небольшой	small	Суздаль - город небольшой|Suzdal' is not a large town	deck#5	due@2020-12-31 19:14:21
-художественный	artistic	художественная литература|belles-lettres, fiction (artistic literature)	deck#4	due@2021-01-11 15:28:01
+художественный	artistic	художественная литература|belles-lettres, fiction (artistic literature)	deck#4	due@2021-03-16 17:40:19
 кто-то	someone	Кто-то вошёл|Someone came in	deck#5	due@2021-03-12 15:16:25
-нравиться/по- (+d)	to please (s. o.)	Она нам нравится|We like her; p: понравлюсь, понравишься	deck#5	due@2021-01-12 21:07:47
+нравиться/по- (+d)	to please (s. o.)	Она нам нравится|We like her; p: понравлюсь, понравишься	deck#6	due@2022-02-09 17:40:15
 школьный	school (adj)	школьные годы|school years	deck#5	due@2021-03-12 15:20:48
 государство	state	глава государства|head of state	deck#6	due@2021-12-07 15:06:16
 американский	American	американская армия|American army	deck#6	due@2021-09-07 19:47:20
-строить/по- (+a)	to build	Мы строим новую жизнь|We are building a new life	deck#4	due@2021-01-11 15:14:30
+строить/по- (+a)	to build	Мы строим новую жизнь|We are building a new life	deck#4	due@2021-03-16 18:07:26
 восьмой	eighth	на восьмом съезде партии|at the eighth party congress	deck#5	due@2021-03-12 15:08:07
 немного (+g)	a little, not much	Денег осталось совсем немного|There is very little money left	deck#6	due@2021-12-07 15:39:06
 пауза	pause	сделать паузу|to pause	deck#6	due@2021-12-07 15:42:32
@@ -531,7 +531,7 @@
 далеко	far	Иван живёт далеко от нас|Ivan lives far from us	deck#5	due@2021-01-12 21:07:41
 затем	after that, then	Они выпили и затем продолжали разговор|They had a drink and then continued their talk	deck#3	due@2020-10-30 18:02:06
 здание	building	новые здания|new buildings	deck#5	due@2021-03-12 15:41:20
-однажды	once, one day	однажды вечером|one evening	deck#3	due@2020-10-25 20:00:22
+однажды	once, one day	однажды вечером|one evening	deck#3	due@2021-02-21 17:41:06
 птица	bird	Птицы летят на юг|The birds are flying south.	deck#5	due@2021-01-12 21:29:25
 самолёт	aeroplane	на самолёте|by plane	deck#6	due@2021-12-07 15:07:22
 семь	seven	семь новых зданий; с семью друзьями|seven new buildings; with seven friends	deck#6	due@2021-12-07 15:41:55
@@ -542,18 +542,18 @@
 решение	decision; solution	принять решение|to take a decision	deck#5	due@2021-03-12 15:19:14
 вечером	in the evening	Он приедет вечером|He will come in the evening	deck#5	due@2021-03-12 15:25:55
 готовый	ready	Вы готовы?|Are you ready?	deck#5	due@2021-03-12 15:40:19
-стараться/по- (+inf)	to try	Она старалась открыть дверь|She was trying to open the door	deck#4	due@2021-01-15 22:44:12
+стараться/по- (+inf)	to try	Она старалась открыть дверь|She was trying to open the door	deck#3	due@2021-02-21 18:13:26
 например	for example	Есть хорошие книги, «Война и мир», например|There are good books, “War and Peace”, for example	deck#5	due@2021-03-12 15:49:31
 простой	simple	простые люди|ordinary people	deck#5	due@2021-03-12 15:50:54
 учить/вы- (+a)	to learn (sth)	Я учу новые русские слова|I am learning new Russian words	deck#5	due@2021-03-12 15:37:42
 учить/на- (+а +d)	to teach (s.o. sth)	Он учит её русскому языку|He is teaching her Russian; p научу, научишь	deck#3	due@2020-10-30 18:01:29
-иной	other	иными словами; тот или иной|in other words; one or other	deck#3	due@2020-10-25 19:58:50
+иной	other	иными словами; тот или иной|in other words; one or other	deck#3	due@2021-02-21 17:45:38
 результат	result	результаты нашей работы|results of our work	deck#6	due@2021-09-07 19:49:36
 доктор	doctor	доктора|doctors	deck#6	due@2021-09-07 19:49:38
-случаться/случиться	to happen	Он спросил, что случилось|He asked what happened	deck#3	due@2020-10-17 16:22:58
+случаться/случиться	to happen	Он спросил, что случилось|He asked what happened	deck#4	due@2021-03-16 18:25:27
 называть/назвать (+a +inst)	to call, name (s.o. sth)	Никто не называл её красивой|No-one called her beautiful p назову, назовёшь	deck#5	due@2021-03-12 15:20:05
 важный	important	важные люди|important people	deck#5	due@2021-03-12 15:10:56
-знание	knowledge	знания русского языка|knowledge of Russian	deck#3	due@2020-10-30 18:10:07
+знание	knowledge	знания русского языка|knowledge of Russian	deck#4	due@2021-03-16 17:39:27
 улыбаться/улыбнуться (+d)	to smile (at)	Она не улыбнётся|She will not smile	deck#5	due@2021-03-12 15:05:02
 плохо	badly	Он плохо знает английский язык|He doesn’t know English well	deck#5	due@2021-03-12 15:46:16
 учиться/на- (+inf)	to learn (to do sth)	Он научился говорить по-русски|He learned to speak Russian	deck#5	due@2021-03-12 15:45:48
@@ -561,38 +561,38 @@
 оставаться/остаться	to stay	i: Она остаётся на ночь; Оставалось пять минут|She is staying the night; There were five minutes left; p: Я останусь здесь|I shall stay here	deck#3	due@2020-10-21 21:28:26
 наука	science; scholarship	общественные науки|social sciences	deck#5	due@2021-03-12 15:40:10
 камень (m)	stone	из камня; много камней|made of stone; many stones	deck#3	due@2020-10-25 20:00:11
-против (+g)	against; opposite	против войны; против школы|against war; opposite the school	deck#5	due@2021-01-12 21:16:10
-развитие	development	общественное развитие|social development	deck#4	due@2021-01-11 15:33:40
+против (+g)	against; opposite	против войны; против школы|against war; opposite the school	deck#5	due@2021-05-15 17:56:30
+развитие	development	общественное развитие|social development	deck#4	due@2021-03-16 18:22:20
 бог	God	Боже мой!|My goodness!	deck#6	due@2021-12-07 15:47:47
-общество	society	развитие общества|development of society	deck#3	due@2020-10-17 16:29:49
+общество	society	развитие общества|development of society	deck#4	due@2021-03-16 17:32:25
 ничего	nothing; all right, not too bad; never mind	-Как дела? -Ничего; -Простите -Ничего|- How are things? - All right; - I’m sorry - It doesn’t matter	deck#6	due@2021-12-07 15:12:38
 условие	condition	хорошие условия|good conditions	deck#2	due@2020-10-16 20:07:32
-господин (pl господа)	gentleman; Mr	Дамы и господа! Это господин Смит|Ladies and Gentlemen! This is Mr Smith	deck#3	due@2020-10-17 16:32:43
+господин (pl господа)	gentleman; Mr	Дамы и господа! Это господин Смит|Ladies and Gentlemen! This is Mr Smith	deck#4	due@2021-03-16 18:05:48
 солдат	soldier	много солдат|many soldiers	deck#6	due@2021-09-07 20:10:01
 революция	revolution	Октябрьская революция|the October Revolution	deck#6	due@2021-12-07 15:23:07
 начинаться/начаться	to begin	Занятия начинаются на следующей неделе|Classes begin next week; Собрание скоро начнётся|The meeting will soon begin	deck#5	due@2021-03-12 15:27:07
 область (f)	oblast, province; area, field (of activity)	g pl областей	deck#5	due@2021-03-12 15:18:48
 что-то	something; (coll) somewhat, somehow	g чего-то	deck#6	due@2021-12-07 15:26:58
-власть (f)	power	g pl властей; власти authorities	deck#4	due@2021-01-11 15:29:29
+власть (f)	power	g pl властей; власти authorities	deck#4	due@2021-03-16 17:56:53
 судьба	fate	nom pl судьбы, g pl судеб	deck#3	due@2020-10-17 16:32:21
-действие	act, action	Его действия показались нам странными|основа для практических действий	deck#4	due@2021-01-15 22:42:32
+действие	act, action	Его действия показались нам странными|основа для практических действий	deck#3	due@2021-02-21 17:48:26
 энергия	energy		deck#6	due@2021-12-07 15:47:20
-ряд	row, line, series	nom pl ряды; pr в ряду: row, line; pr в ряде: series	deck#3	due@2020-12-23 22:45:39
+ряд	row, line, series	nom pl ряды; pr в ряду: row, line; pr в ряде: series	deck#3	due@2021-02-21 17:54:06
 находиться/найтись	to be situated; to be found, turn up	i нахожусь, находишься; p: найдусь, найдёшься; past нашёлся, нашлась	deck#5	due@2021-03-12 15:15:39
 положение	position		deck#5	due@2021-03-12 15:42:23
-глядеть/по- (на +a)	to look (at)	i: гляжу, глядишь; p: погляжу, поглядишь	deck#3	due@2020-10-25 20:17:32
+глядеть/по- (на +a)	to look (at)	i: гляжу, глядишь; p: погляжу, поглядишь	deck#3	due@2021-02-21 17:19:43
 век	century; age, era	nom pl века; в прошлом веке last century	deck#5	due@2021-03-12 15:07:20
 миллион	million		deck#6	due@2021-12-07 15:34:30
-общественный	social, public	общественное мнение public opinion	deck#3	due@2020-10-17 16:15:01
-основной	basic, fundamental, main, principal	Я объяснил основные причины	deck#3	due@2020-10-25 19:57:12
+общественный	social, public	общественное мнение public opinion	deck#4	due@2021-03-16 18:03:01
+основной	basic, fundamental, main, principal	Я объяснил основные причины	deck#3	due@2021-02-21 17:39:18
 генерал	general (noun)		deck#6	due@2021-12-07 15:27:25
 интерес	interest	интерес к языкам interest in languages	deck#6	due@2021-09-07 20:12:14
 легко	easily; it is easy		deck#5	due@2021-03-12 15:35:35
-материал	material		deck#5	due@2021-01-12 21:27:55
-цель (f)	target, purpose	с целью +g with the object of	deck#4	due@2021-01-11 15:14:55
+материал	material		deck#5	due@2021-05-15 17:50:09
+цель (f)	target, purpose	с целью +g with the object of	deck#4	due@2021-03-16 17:55:55
 огонь (m)	fire; light	g sg огня; nom pl. огни	deck#5	due@2021-03-12 15:46:06
 закон	law		deck#4	due@2021-01-11 15:31:24
-природа	nature	закон природы law of nature	deck#4	due@2021-01-15 22:42:54
+природа	nature	закон природы law of nature	deck#4	due@2021-03-16 18:13:00
 масса	mass	трудящиеся массы the working masses	deck#5	due@2021-03-12 15:04:29
 бой	battle	pr sg бою, nom pl бой, g pl боёв	deck#3	due@2020-10-21 21:09:29
 политический	political		deck#5	due@2021-01-12 21:19:12
@@ -600,32 +600,32 @@
 волна	wave	nom pl волны, g pl волн, d pl волнам	deck#3	due@2020-10-21 21:16:17
 процесс	process; trial, lawsuit		deck#5	due@2021-03-12 15:38:05
 научный	scientific, scholarly		deck#4	due@2021-01-11 15:24:01
-различный	different, various		deck#3	due@2020-10-22 20:13:21
+различный	different, various		deck#4	due@2021-03-16 17:45:21
 мировой	world (adj)		deck#3	due@2020-10-30 18:10:44
 система	system		deck#5	due@2020-12-31 19:23:30
 лист	leaf (of plant); sheet (of paper)	(nom pl листья, g pl листьев) leaf (of plant); (nom pl листы, g pl листов) sheet (of paper); g sg листа	deck#5	due@2021-03-12 15:11:04
 хоть	even if, if only, even, although	Заходи хоть на минуту Drop in if only for a moment	deck#5	due@2021-03-12 15:44:19
 ребёнок	child	g sg ребёнка; nom pl дети, g pl детей	deck#6	due@2021-12-07 15:58:53
-связь (f)	connection, link, communication	отделение связи post office; в связи с +inst in connection with; торговые связи trade links	deck#3	due@2020-10-17 15:41:49
+связь (f)	connection, link, communication	отделение связи post office; в связи с +inst in connection with; торговые связи trade links	deck#4	due@2021-03-16 17:50:15
 вообще	in general		deck#5	due@2021-03-12 15:21:11
 верить/по-	to believe (+d) s.o. or sth, (в +a ) in s.o. or sth	i: верю, веришь	deck#5	due@2021-03-12 15:04:38
 мужчина (m)	man	двое мужчин two men	deck#6	due@2021-12-07 15:24:33
-что-нибудь	anything	g чего-нибудь	deck#5	due@2021-01-12 21:15:01
+что-нибудь	anything	g чего-нибудь	deck#6	due@2022-02-09 17:55:20
 представлять/представить (+a)	to present, introduce	p: представлю, представишь; представить себе to imagine	deck#5	due@2021-03-12 15:20:56
 искать/по- (+a or +g)	to search for, to look for	i: ищу, ищешь	deck#5	due@2021-03-12 15:39:45
-писатель (m)	writer		deck#5	due@2021-01-12 21:09:09
+писатель (m)	writer		deck#5	due@2021-05-15 18:13:40
 промышленность (f)	industry	Российская атомная промышленность	deck#2	due@2020-10-11 16:26:07
-учёный (m) (adj)	learned, scholarly; (as noun) scholar, scientist		deck#3	due@2020-10-25 19:56:38
-верно	right, faithfully, truly, correctly; it is true		deck#3	due@2020-10-25 20:10:33
+учёный (m) (adj)	learned, scholarly; (as noun) scholar, scientist		deck#3	due@2021-02-21 18:05:52
+верно	right, faithfully, truly, correctly; it is true		deck#3	due@2021-02-21 18:19:18
 служить/по-	to serve	i служу, служишь/p послужу, послужишь; послужить примером to serve as an example	deck#3	due@2020-10-25 20:08:14
-правительство	government	правительство страны	deck#4	due@2021-01-11 15:23:52
+правительство	government	правительство страны	deck#4	due@2021-03-16 18:00:53
 экономический	economic		deck#6	due@2021-12-07 15:44:54
 есть/съ- (+a)	to eat	i: ем, ешь, ест, едим, едите, едят, past ел, ела; p съем, съешь, съест, съедим, съедите, съедят, past съел, съела	deck#5	due@2021-03-12 15:56:57
 рабочий (m) (adj)	(blue collar) worker; working	жизнь рабочего life of a worker; рабочий класс working class	deck#5	due@2021-03-12 15:29:17
-современный	modern, contemporary		deck#3	due@2020-10-25 20:08:45
+современный	modern, contemporary		deck#4	due@2021-03-16 18:14:35
 работник	worker, s.o. who works	партийные работники party workers	deck#5	due@2021-03-12 15:40:24
 чёрт	devil	g sg чёрта, nom pl черти, g pl чертей	deck#5	due@2021-03-12 15:50:08
-качество	quality		deck#3	due@2020-12-19 15:12:44
+качество	quality		deck#3	due@2021-02-21 17:47:55
 международный	international		deck#6	due@2021-12-07 15:11:37
 офицер	officer		deck#6	due@2021-12-07 15:05:16
 проблема	problem		deck#6	due@2021-12-07 15:39:29
@@ -634,59 +634,59 @@
 корабль (m)	ship	g sg корабля	deck#5	due@2021-03-12 15:38:03
 класс	class; classroom	рабочий класс working class	deck#6	due@2021-12-07 15:17:49
 километр	kilometre		deck#6	due@2021-09-07 20:15:46
-число	number; date	nom pl числа, g pl чисел	deck#4	due@2021-01-11 15:18:19
-база	base; depot	на базе +g on the basis of	deck#4	due@2021-01-11 15:33:36
+число	number; date	nom pl числа, g pl чисел	deck#5	due@2021-05-15 17:27:26
+база	base; depot	на базе +g on the basis of	deck#4	due@2021-03-16 17:57:03
 палец	finger; toe	g sg пальца	deck#5	due@2021-03-12 15:10:22
-количество	quantity		deck#3	due@2020-10-17 16:26:30
+количество	quantity		deck#4	due@2021-03-16 17:28:17
 коммунист	communist		deck#6	due@2021-09-07 20:16:15
-победа	victory	победа во Второй мировой войне	deck#4	due@2021-01-11 15:46:43
+победа	victory	победа во Второй мировой войне	deck#5	due@2021-05-15 17:26:16
 река	river	a sg реку, g sg реки, nom pl реки, d pl рекам	deck#4	due@2021-01-11 15:25:39
 пить/вы- (+a or +g)	to drink, have an alcoholic drink	выпивать i/пить i; i: пью, пьёшь, past пил, пила, пило; p: выпью, выпьешь	deck#5	due@2021-03-12 15:39:34
 человеческий	human (adj)		deck#5	due@2021-03-12 15:58:22
 гора	mountain, hill	a sg гору, g sg горы, nom pl горы, g pl гор, d pl горам; в гору uphill	deck#5	due@2021-03-12 15:05:41
-милый	nice, dear		deck#4	due@2021-01-11 15:15:18
+милый	nice, dear		deck#4	due@2021-03-16 17:42:57
 политика (no pl)	politics; policy, policies		deck#6	due@2021-12-07 15:24:12
-производство	production	производство машин car production	deck#4	due@2021-01-11 15:28:22
+производство	production	производство машин car production	deck#3	due@2021-02-21 18:10:57
 национальный	national; ethnic	национальное меньшинство ethnic minority	deck#6	due@2021-09-07 20:17:05
 холодный	cold		deck#6	due@2021-12-07 15:13:04
-государственный	state (adj)		deck#5	due@2021-01-12 21:18:22
+государственный	state (adj)		deck#5	due@2021-05-15 18:01:18
 откуда	from where	Откуда он знает? How does he know?	deck#6	due@2021-12-07 15:40:39
-сложный	complicated, complex		deck#4	due@2021-01-11 15:24:16
+сложный	complicated, complex		deck#3	due@2021-02-21 17:51:54
 богатый	rich		deck#5	due@2021-03-12 15:26:34
-бросать/бросить (+a)	to throw; drop, abandon, give up	p: брошу, бросишь | я бросаю мяч	deck#3	due@2020-12-23 22:38:09
-строительство	construction		deck#3	due@2020-10-25 19:58:37
-значение	meaning, importance		deck#3	due@2020-12-19 15:07:47
+бросать/бросить (+a)	to throw; drop, abandon, give up	p: брошу, бросишь | я бросаю мяч	deck#4	due@2021-03-16 17:27:31
+строительство	construction		deck#4	due@2021-03-16 18:16:38
+значение	meaning, importance		deck#4	due@2021-03-16 17:37:34
 председатель (m)	chairman		deck#5	due@2021-03-12 15:12:30
 характер	character		deck#6	due@2021-12-07 15:25:08
 необходимый	essential		deck#2	due@2020-10-11 16:20:51
-смеяться/за-/рас- (над +inst)	to laugh (at)	i: смеюсь, смеёшься	deck#4	due@2021-01-11 15:06:36
-бороться (i) (с +inst)	to struggle (against)	i: борюсь, борешься; за +a for	deck#3	due@2020-12-19 15:10:37
+смеяться/за-/рас- (над +inst)	to laugh (at)	i: смеюсь, смеёшься	deck#4	due@2021-03-16 17:37:56
+бороться (i) (с +inst)	to struggle (against)	i: борюсь, борешься; за +a for	deck#4	due@2021-03-16 18:22:13
 изделие	(manufactured) article		deck#2	due@2020-10-05 15:16:34
-особый	special		deck#3	due@2020-12-23 22:41:04
+особый	special		deck#3	due@2021-02-21 17:53:46
 смерть (f)	death	nom pl смерти, g pl смертей	deck#5	due@2021-03-12 15:50:34
 статья	article (newspaper, journal)	g pl статей	deck#2	due@2020-10-07 17:27:40
 счёт	bill, account; count, score	nom pl счета; счёты abacus	deck#5	due@2021-03-12 15:05:12
 весьма	very, extremely		deck#2	due@2020-10-16 20:08:09
-сельский	rural, country	сельское хозяйство agriculture	deck#3	due@2020-11-16 21:41:24
+сельский	rural, country	сельское хозяйство agriculture	deck#3	due@2021-02-21 17:36:16
 средство	means; (pl) resources	транспортные средства means of transport	deck#2	due@2020-10-07 17:28:39
 подобный	similar		deck#2	due@2020-10-17 18:52:38
 пример	example		deck#5	due@2021-03-12 15:36:10
 революционный	revolutionary		deck#6	due@2021-12-07 15:36:44
-скорость (f)	speed	nom pl скорости, g pl скоростей	deck#4	due@2021-01-11 15:46:11
+скорость (f)	speed	nom pl скорости, g pl скоростей	deck#5	due@2021-05-15 17:26:03
 факт	fact		deck#5	due@2020-12-31 19:22:55
 малый	small		deck#5	due@2021-03-12 15:07:17
 чай	tea	nom pl чай, g pl чаёв	deck#6	due@2021-12-07 15:27:01
 тёмный	dark		deck#5	due@2021-03-12 15:33:50
 явление	phenomenon		deck#2	due@2020-10-16 20:07:47
 состоять (i) (из +g)	to consist (of)	состоит	deck#3	due@2020-12-19 15:58:17
-ясно	clearly; it is clear		deck#5	due@2021-01-12 21:19:55
-точка	dot, point; full stop	g pl точек; точка зрения point of view	deck#3	due@2020-10-17 16:25:06
-стоить (i)	to cost, to be worth	стоит; Сколько это стоит? How much is this?	deck#3	due@2020-10-17 16:29:07
+ясно	clearly; it is clear		deck#6	due@2022-02-09 17:24:37
+точка	dot, point; full stop	g pl точек; точка зрения point of view	deck#4	due@2021-03-16 18:06:22
+стоить (i)	to cost, to be worth	стоит; Сколько это стоит? How much is this?	deck#3	due@2021-02-21 17:39:36
 ум	mind, intellect	g sg ума	deck#5	due@2021-02-07 21:37:08
-вполне	fully, entirely		deck#4	due@2021-01-11 15:04:17
-событие	event	это праздничное событие	deck#3	due@2020-10-21 21:10:53
+вполне	fully, entirely		deck#4	due@2021-03-16 18:02:31
+событие	event	это праздничное событие	deck#3	due@2021-02-21 18:00:43
 существовать (i)	to exist	существую, существуешь	deck#5	due@2021-03-12 15:14:26
-кабинет	study, office		deck#3	due@2020-10-17 16:12:09
+кабинет	study, office		deck#4	due@2021-03-16 18:07:13
 спасибо	thank you		deck#6	due@2021-09-07 20:25:01
 враг	enemy	g sg врага	deck#5	due@2021-03-12 15:19:44
 глубокий	deep	Глубокий анализ	deck#5	due@2021-03-12 15:37:19
@@ -697,25 +697,25 @@
 приводить/привести (+a)	to bring (s.o.); (к +d) lead to	i: привожу, приводишь; p: приведу, приведёшь, past привёл, привела	deck#3	due@2020-10-21 21:07:25
 английский	English; British (adj)		deck#6	due@2021-12-07 15:04:48
 температура	temperature		deck#6	due@2021-09-07 20:25:54
-состояние	state, condition; fortune		deck#3	due@2020-10-21 21:12:02
-счастье	happiness, luck		deck#3	due@2020-10-25 20:01:16
-смысл	sense, meaning	Некоторые слова могут иметь различный смысл	deck#3	due@2020-10-17 16:31:48
+состояние	state, condition; fortune		deck#3	due@2021-02-21 17:49:05
+счастье	happiness, luck		deck#4	due@2021-03-16 18:27:04
+смысл	sense, meaning	Некоторые слова могут иметь различный смысл	deck#4	due@2021-03-16 17:47:41
 рубль (m)	rouble	g sg рубля	deck#5	due@2021-03-12 15:34:28
 вчера	yesterday		deck#6	due@2021-12-07 15:22:52
 правый	right; right-wing	прав -а -о -ы (short forms) Она права She’s right	deck#5	due@2021-03-12 15:45:21
 автор	author		deck#6	due@2021-12-07 15:34:20
 большинство	majority		deck#4	due@2021-01-11 15:41:43
-известно	it is (well) known		deck#4	due@2021-01-11 15:22:38
-мелкий	small, petty, fine	мелкий песок	deck#3	due@2020-10-21 21:25:33
-течение	flow, current; course	в течение +g during, in the course of	deck#4	due@2021-01-11 15:20:27
-оружие	arms, weapons	no pl	deck#4	due@2021-01-11 15:58:26
-муж	husband	nom pl мужья, g pl мужей, d pl мужьям	deck#4	due@2021-01-11 15:33:32
+известно	it is (well) known		deck#4	due@2021-03-16 17:58:22
+мелкий	small, petty, fine	мелкий песок	deck#3	due@2021-02-21 18:02:27
+течение	flow, current; course	в течение +g during, in the course of	deck#5	due@2021-05-15 17:17:53
+оружие	arms, weapons	no pl	deck#4	due@2021-03-16 18:27:49
+муж	husband	nom pl мужья, g pl мужей, d pl мужьям	deck#5	due@2021-05-15 17:41:17
 происходить/произойти	to happen; to originate	i: происхожу, происходишь; p: произойдёт, past произошло	deck#2	due@2020-10-16 20:12:55
 свободный	free		deck#5	due@2021-03-12 15:44:13
 идея	idea		deck#5	due@2021-01-12 21:19:58
 усилие	effort	приложить все усилия to make every effort	deck#2	due@2020-10-17 18:52:23
 линия	line		deck#5	due@2021-03-12 15:20:00
-искусство	art		deck#5	due@2021-01-12 21:26:46
+искусство	art		deck#5	due@2021-05-15 17:48:09
 состав	composition, make-up	В их состав входят представители традиционных лидеров	deck#4	due@2021-01-11 15:57:26
 капитализм	capitalism		deck#6	due@2021-09-07 20:29:45
 литература	literature		deck#6	due@2021-09-07 20:29:46
@@ -726,9 +726,9 @@
 наиболее	(the) most		deck#2	due@2020-12-17 22:40:54
 рост	growth, increase; height		deck#4	due@2021-01-11 15:12:59
 американец	American (noun)	g sg американца	deck#6	due@2021-09-07 20:30:39
-корень (m)	root	g sg корня, nom pl корни, g pl корней	deck#3	due@2020-10-21 21:21:44
+корень (m)	root	g sg корня, nom pl корни, g pl корней	deck#3	due@2021-02-21 18:00:17
 немец	German (noun)	g sg немца	deck#5	due@2021-01-12 21:15:27
-небо	serious		deck#3	due@2020-12-19 16:09:10
+небо	serious		deck#3	due@2021-02-21 17:32:16
 свойство	characteristic, property		deck#2	due@2020-10-16 20:07:43
 взглядывать/взглянуть (на +a)	to look, glance (at)	p: взгляну, взглянешь	deck#3	due@2020-10-17 16:24:13
 высоко	high (up); highly; it is high		deck#5	due@2021-03-12 15:37:09
@@ -736,36 +736,36 @@
 стекло	glass (material)	nom pl стёкла, g pl стёкол, d pl стёклам; двойные стёкла double glazing	deck#4	due@2021-01-11 15:43:46
 театр	theatre		deck#6	due@2021-09-07 20:31:32
 надежда	hope		deck#4	due@2021-01-11 15:29:11
-довольно	fairly, rather; contentedly; (+g) enough		deck#3	due@2020-12-19 15:15:12
+довольно	fairly, rather; contentedly; (+g) enough		deck#4	due@2021-03-16 17:36:24
 край	edge; region, area	pr sg в краю, nom pl края, g pl краёв	deck#5	due@2021-03-12 15:03:57
-мужик	(Russian) peasant	g sg мужика	deck#3	due@2020-12-19 15:24:23
-степь (f)	steppe	pr sg о степи, в степи; nom pl степи, g pl степей	deck#3	due@2020-10-17 16:10:45
-цвет	colour; blossom; prime	nom pl цвета; в цвету in blossom	deck#3	due@2020-10-21 21:17:43
-дед	grandfather		deck#4	due@2021-01-11 15:04:26
+мужик	(Russian) peasant	g sg мужика	deck#3	due@2021-02-21 18:09:58
+степь (f)	steppe	pr sg о степи, в степи; nom pl степи, g pl степей	deck#3	due@2021-02-21 17:48:06
+цвет	colour; blossom; prime	nom pl цвета; в цвету in blossom	deck#4	due@2021-03-16 17:19:58
+дед	grandfather		deck#4	due@2021-03-16 17:43:28
 основа	base, foundation, core	основа для практических действий	deck#3	due@2020-10-17 16:33:22
 рано	early; it is early		deck#5	due@2021-03-12 15:31:07
 технический	technical; engineering		deck#6	due@2021-12-07 15:30:44
 счастливый	happy, lucky	short forms счастлив, счастлива	deck#3	due@2020-10-21 21:25:03
 круг	circle	pr sg в кругу, nom pl круги	deck#5	due@2021-03-12 15:24:10
 момент	moment; feature (of a situation)	важные моменты ситуации important features of the situation	deck#6	due@2021-09-07 20:32:22
-необходимо	it is essential; it is necessary		deck#3	due@2020-12-19 15:42:04
-дочь (f)	daughter	g, d, pr sg дочери, inst sg дочерью, nom pl дочери, g pl дочерей, d pl дочерям, inst pl дочерьми, pr pl дочерях	deck#5	due@2021-01-12 21:12:41
+необходимо	it is essential; it is necessary		deck#3	due@2021-02-21 17:24:52
+дочь (f)	daughter	g, d, pr sg дочери, inst sg дочерью, nom pl дочери, g pl дочерей, d pl дочерям, inst pl дочерьми, pr pl дочерях	deck#5	due@2021-05-15 18:22:22
 использовать (i/p) (+a)	to make use of	использую	deck#5	due@2021-03-12 15:36:59
-министр	minister (government)		deck#5	due@2020-12-31 19:23:35
+министр	minister (government)		deck#6	due@2022-02-09 17:25:56
 синий	dark blue		deck#5	due@2021-03-12 15:45:55
-передавать/передать (+a)	to pass, hand over; transmit, convey	i: передаю, передаёшь; p: передам -дашь -даст -дадим -дадите -дадут, f past передала	deck#4	due@2021-01-11 15:11:19
+передавать/передать (+a)	to pass, hand over; transmit, convey	i: передаю, передаёшь; p: передам -дашь -даст -дадим -дадите -дадут, f past передала	deck#4	due@2021-03-16 17:58:31
 программа	programme		deck#6	due@2021-12-07 15:17:53
 десяток	ten; a decade	g sg десятка	deck#5	due@2021-03-12 15:25:25
-кровь (f)	blood	pr sg о крови, в крови; g pl кровей	deck#4	due@2021-01-11 15:49:20
-отдавать/отдать (+a)	to give back; to give away; to return	i: отдаю, отдаёшь; p: отдам, отдашь, отдаст, отдадим, отдадите, отдадут; f past отдала	deck#3	due@2020-10-21 21:24:28
-отдельный	separate, individual		deck#3	due@2020-12-19 16:09:40
+кровь (f)	blood	pr sg о крови, в крови; g pl кровей	deck#4	due@2021-03-16 18:05:33
+отдавать/отдать (+a)	to give back; to give away; to return	i: отдаю, отдаёшь; p: отдам, отдашь, отдаст, отдадим, отдадите, отдадут; f past отдала	deck#4	due@2021-03-16 17:58:59
+отдельный	separate, individual		deck#3	due@2021-02-21 18:02:37
 свобода	freedom		deck#5	due@2021-03-12 15:29:42
 хватать/хватить (+g)	(3rd pers +g) to be enough, suffice	i: Времени не хватает There isn’t enough time; p: хватит; Времени хватит There will be enough time	deck#5	due@2021-03-12 15:50:03
-внутренний	inner, interior, internal		deck#3	due@2020-10-17 16:28:31
+внутренний	inner, interior, internal		deck#4	due@2021-03-16 17:31:06
 выступать/выступить	to appear in public; protrude; to speak (publicly)	выступать с речью to make a speech; p: выступлю, выступишь	deck#2	due@2020-10-17 18:52:08
 как-то	somehow; (coll) once, at one time		deck#5	due@2021-03-12 15:41:15
-занимать/занять (+a)	to occupy	p: займу, займёшь, past занял, заняла, заняло	deck#4	due@2021-01-11 15:10:10
-представитель (m)	representative	представители разных стран	deck#3	due@2020-10-21 21:05:59
+занимать/занять (+a)	to occupy	p: займу, займёшь, past занял, заняла, заняло	deck#4	due@2021-03-16 17:41:14
+представитель (m)	representative	представители разных стран	deck#3	due@2021-02-21 17:31:00
 фронт	front (war)	nom pl фронты, g pl фронтов	deck#5	due@2021-03-12 15:04:09
 богатство	wealth, riches		deck#5	due@2021-03-12 15:56:42
 желать/по- (+g)	to want, wish (for)		deck#4	due@2021-01-15 22:42:25
@@ -777,56 +777,56 @@
 сотня	a hundred	g pl сотен		
 страшный	terrible, dreadful		deck#5	due@2021-03-12 15:35:43
 весна	spring (season)	nom pl вёсны, g pl вёсен, d pl вёснам	deck#5	due@2021-03-12 15:23:20
-действовать/по-	to act, function, affect	i: действую, действуешь	deck#4	due@2021-01-11 15:19:52
+действовать/по-	to act, function, affect	i: действую, действуешь	deck#5	due@2021-05-15 17:17:41
 пол	floor; sex	(pr sg на полу, nom pl полы) floor; (nom pl полы, g pl полов) sex	deck#2	due@2020-10-11 16:18:40
 процент	percent, percentage	пять процентов 5 per cent; проценты interest	deck#6	due@2021-12-07 15:09:43
 родина	homeland, native land	на родине in one’s homeland	deck#5	due@2021-03-12 15:27:30
-сцена	stage (theatre); scene		deck#3	due@2020-10-17 16:08:41
+сцена	stage (theatre); scene		deck#3	due@2021-02-21 17:34:16
 значительный	significant		deck#3	due@2020-10-21 21:13:08
-метр	metre (measurement)		deck#3	due@2020-10-17 16:29:02
-чужой	someone else’s; foreign, strange	чужой язык	deck#3	due@2020-10-17 16:33:36
-воля	will; freedom, liberty		deck#3	due@2020-10-25 20:00:16
+метр	metre (measurement)		deck#4	due@2021-03-16 18:24:12
+чужой	someone else’s; foreign, strange	чужой язык	deck#3	due@2021-02-21 17:26:37
+воля	will; freedom, liberty		deck#3	due@2021-02-21 17:37:39
 зуб	tooth	nom pl зубы, g pl зубов	deck#5	due@2021-03-12 15:21:06
-менее	less	тем не менее none the less	deck#4	due@2021-01-11 15:20:21
+менее	less	тем не менее none the less	deck#5	due@2021-05-15 17:25:45
 метод	method		deck#6	due@2021-12-07 15:45:13
-прощать/простить (+a)	to forgive (s.o. or sth), pardon	p: прощу, простишь; Простате! Excuse mе	deck#3	due@2020-10-30 18:03:32
-связывать/связать (+a)	to tie; to connect, bind	i вязать or связывать; p свяжу, свяжешь	deck#4	due@2021-01-11 15:59:43
-яркий	bright		deck#4	due@2021-01-11 15:11:22
-песок	sand	g sg песка	deck#3	due@2020-10-21 21:08:05
+прощать/простить (+a)	to forgive (s.o. or sth), pardon	p: прощу, простишь; Простате! Excuse mе	deck#4	due@2021-03-16 17:42:16
+связывать/связать (+a)	to tie; to connect, bind	i вязать or связывать; p свяжу, свяжешь	deck#3	due@2021-02-21 17:34:09
+яркий	bright		deck#4	due@2021-03-16 18:29:35
+песок	sand	g sg песка	deck#3	due@2021-02-21 18:09:20
 уровень (m)	level; standard	g sg уровня	deck#3	due@2020-11-16 21:40:28
 исторический	historical; historic		deck#5	due@2020-12-31 19:07:16
-источник	source		deck#3	due@2020-10-30 18:10:22
+источник	source		deck#3	due@2021-02-21 17:58:44
 половина	half		deck#5	due@2021-03-12 15:19:41
 служба	service		deck#4	due@2021-01-11 15:26:43
 ладно	harmoniously; all right (unenthusiastic agreement)	Ладно, пусть будет по-твоему All right, have it your own way	deck#5	due@2021-03-12 15:37:02
 мешать/по- (+d)	to disturb, hinder, prevent; (+a) stir		deck#2	due@2020-12-17 22:45:25
-село	village	nom pl сёла; на селе in the country	deck#3	due@2020-12-19 16:09:02
+село	village	nom pl сёла; на селе in the country	deck#3	due@2021-02-21 18:13:50
 впрочем	however, but; or rather	Впрочем, это значит ничего	deck#2	due@2020-10-15 21:08:10
-горячий	hot		deck#3	due@2020-12-19 15:57:41
-образование	education; formation		deck#3	due@2020-11-16 21:39:08
+горячий	hot		deck#4	due@2021-03-16 18:07:10
+образование	education; formation		deck#4	due@2021-03-16 18:01:53
 тонна	ton (1,000 kilogrammes)		deck#6	due@2021-12-07 15:27:19
 вызывать/вызвать (+a)	to summon; cause	p: вызову, вызовешь		
 морской	sea, marine; naval		deck#5	due@2021-03-12 15:25:59
 остальной	the rest (of)	Где остальные? Where are the others?		
-семя (n)	seed	g sg семени, nom pl семена, g pl семян, d pl семенам	deck#3	due@2020-10-17 16:20:00
+семя (n)	seed	g sg семени, nom pl семена, g pl семян, d pl семенам	deck#4	due@2021-03-16 17:32:55
 сильно	strongly; very much		deck#5	due@2021-03-12 15:08:42
 тонкий	thin, slender; fine, subtle		deck#2	due@2020-10-11 16:12:45
 флот	fleet		deck#6	due@2021-12-07 15:42:25
-беседа	talk, discussion		deck#4	due@2021-01-11 15:49:39
+беседа	talk, discussion		deck#4	due@2021-03-16 17:51:20
 данный	given	данные data	deck#5	due@2021-03-12 15:05:46
 достаточно	sufficiently; (+g) enough		deck#5	due@2021-01-12 21:24:56
-единственный	only, sole		deck#3	due@2020-10-21 21:07:38
+единственный	only, sole		deck#3	due@2021-02-21 17:34:25
 лампа	lamp		deck#5	due@2020-12-31 19:18:28
 продукция	production, output		deck#5	due@2021-03-12 15:19:25
 центр	centre		deck#6	due@2021-12-07 15:31:17
 вовсе	at all	вовсе не not at all	deck#3	due@2020-10-21 21:20:32
 западный	western		deck#5	due@2021-03-12 15:20:02
 корреспондент	correspondent		deck#6	due@2021-12-07 15:27:23
-пожалуй	perhaps, probably	вы, пожалуй, слишком заняты	deck#3	due@2020-12-19 16:09:46
+пожалуй	perhaps, probably	вы, пожалуй, слишком заняты	deck#3	due@2021-02-21 18:06:39
 прочий	other	и прочее (abbr и пр. or и проч.) etcetera; между прочим by the way	deck#2	due@2020-10-06 22:19:37
 страшно	terribly; it is terrible		deck#5	due@2021-03-12 15:08:22
 возле (+g)	by, near		deck#2	due@2020-10-17 18:58:52
-вон	out, away; over there	Вон отсюда! Get out! вон там over there	deck#3	due@2020-10-25 20:00:40
+вон	out, away; over there	Вон отсюда! Get out! вон там over there	deck#4	due@2021-03-16 18:09:17
 партийный	party (adj)	партийное руководство party leadership	deck#5	due@2021-03-12 15:46:40
 телефон	telephone		deck#6	due@2021-12-07 15:47:42
 удаваться/удаться (+d)	to succeed	i: удаётся; Ему всё удаётся He’s successful at everything; p: удастся, past удалось; Ей удалось найти место She managed to find a seat	deck#3	due@2020-10-21 21:21:01
@@ -836,43 +836,43 @@
 пытаться/по- (+inf)	to attempt		deck#5	due@2021-03-12 15:18:47
 стих	line of poetry	g sg стиха; стихи verses, poetry	deck#6	due@2021-09-23 19:41:19
 период	period		deck#5	due@2021-01-12 21:06:18
-убивать/убить (+a)	to kill; to murder	p: убью, убьёшь	deck#4	due@2021-01-11 15:50:16
+убивать/убить (+a)	to kill; to murder	p: убью, убьёшь	deck#4	due@2021-03-16 17:40:30
 дружба	friendship		deck#5	due@2021-03-12 15:58:38
 едва	hardly, scarcely, only just	едва (ли) не nearly, almost		
 неужели	really? is it possible?	Неужели он не знает? Does he really not know?		
 степень (f)	degree, extent	g pl степеней	deck#3	due@2020-11-16 21:40:32
-боевой	fighting, battle		deck#3	due@2020-10-17 16:31:16
-войска (n, pl)	troops, army	sg войско	deck#3	due@2020-10-21 21:25:19
+боевой	fighting, battle		deck#3	due@2021-02-21 17:30:16
+войска (n, pl)	troops, army	sg войско	deck#3	due@2021-02-21 17:49:17
 карта	map, card		deck#5	due@2021-01-12 21:28:59
-направление	direction		deck#3	due@2020-10-25 20:03:11
-человечество	mankind		deck#4	due@2021-01-11 15:07:14
-вроде (+g)	like, such as	что-то вроде песка something like sand	deck#3	due@2020-10-30 18:14:22
+направление	direction		deck#3	due@2021-02-21 18:14:16
+человечество	mankind		deck#5	due@2021-05-15 17:25:22
+вроде (+g)	like, such as	что-то вроде песка something like sand	deck#3	due@2021-02-21 17:50:06
 громадный	enormous			
 лёгкий	light, easy		deck#6	due@2021-12-07 15:58:39
 пользоваться/вос- (+inst)	to use, make use of	i: пользуюсь, пользуешься; p воспользуюсь	deck#5	due@2021-03-12 15:45:30
-предложение	offer, suggestion; sentence (grammar)	предложение принимается	deck#3	due@2020-10-17 16:30:21
-элемент	element		deck#5	due@2021-01-12 21:17:10
+предложение	offer, suggestion; sentence (grammar)	предложение принимается	deck#3	due@2021-02-21 17:45:34
+элемент	element		deck#6	due@2022-02-09 17:34:18
 являться/явиться	to appear	p: явлюсь, явишься	deck#2	due@2020-10-06 17:13:25
 вероятно	probably		deck#3	due@2020-10-25 20:08:17
 печь/ис- (+a)	to bake	i: пеку, печёшь, пекут; past пёк, пекла	deck#2	due@2020-12-17 22:42:08
 печь (f)	stove	pr sg о печи, в печи; g pl печей		
 казаться/по-	to seem, to appear, to show oneself	i: казаться or показываться; Кажется, всё хорошо|It seems all is fine; покажусь, покажешься	deck#3	due@2020-10-17 16:29:32
 умный	intelligent		deck#4	due@2021-01-11 15:15:00
-глава	head, chief; chapter	nom pl главы	deck#4	due@2021-01-11 15:41:36
+глава	head, chief; chapter	nom pl главы	deck#4	due@2021-03-16 18:16:41
 плакать/за-	to cry, weep, p: to begin to cry	i: плачу, плачешь; p заплачу, заплачешь	deck#4	due@2021-01-11 15:29:07
 сквозь (+a)	through			
-способ	way, method	Традиционный способ	deck#3	due@2020-10-21 21:29:54
+способ	way, method	Традиционный способ	deck#3	due@2021-02-21 17:55:42
 способный	able, capable	Он способен бегать часами без остановок	deck#2	due@2020-10-16 20:13:39
 церковь (f)	church	g sg церкви, inst sg церковью, nom pl церкви, g pl церквей, d pl церквам	deck#5	due@2021-01-12 21:15:07
 часы (m, pl)	watch, clock	g pl часов	deck#5	due@2021-03-12 15:27:05
-честь (f)	honour	pr sg о чести, в чести, g pl честей	deck#4	due@2021-01-11 15:46:02
+честь (f)	honour	pr sg о чести, в чести, g pl честей	deck#3	due@2021-02-21 18:10:22
 открытый	open (adj)		deck#5	due@2021-03-12 15:27:00
 память (f)	memory	no pl	deck#3	due@2020-12-19 16:09:34
 понятно	understandably; I see! I understand!		deck#5	due@2021-03-12 15:25:10
 совещание	meeting, conference	на совещании at a meeting	deck#2	due@2020-10-06 22:14:36
-замечательный	remarkable, splendid		deck#3	due@2020-12-19 15:39:43
+замечательный	remarkable, splendid		deck#3	due@2021-02-21 17:21:55
 знаменитый	famous		deck#3	due@2020-10-17 16:28:01
-предмет	object, article; subject, topic		deck#3	due@2020-12-19 15:06:52
+предмет	object, article; subject, topic		deck#3	due@2021-02-21 17:52:03
 слеза	tear	nom pl слёзы, g pl слёз, d pl слезам; слёзы радости tears of joy	deck#2	due@2020-10-07 17:16:57
 где-то	somewhere		deck#6	due@2021-12-07 15:15:37
 дно	bottom (of sea, river, well, vessel)	nom pl донья, g pl доньев; на дне моря at the bottom of the sea	deck#2	due@2020-10-07 17:22:51
@@ -883,37 +883,37 @@
 карман	pocket			
 музей	museum		deck#6	due@2021-12-07 15:09:05
 падать/пасть	to fall	пасть: паду, падёшь; past пал, пала/упасть: упаду, упадёшь; past упал упала	deck#4	due@2021-01-11 15:27:50
-ясный	clear		deck#4	due@2021-01-11 15:40:35
+ясный	clear		deck#5	due@2021-05-15 17:38:41
 поверхность (f)	surface		deck#3	due@2020-10-21 21:21:39
-близко	it is near, it is not far; near, close; closely		deck#5	due@2020-12-31 19:07:27
+близко	it is near, it is not far; near, close; closely		deck#5	due@2021-05-15 18:13:44
 заявлять/заявить (о +pr)	to announce	i заявляю, заявляешь; p: заявлю, заявишь	deck#3	due@2020-10-21 21:10:29
 золотой	gold, golden		deck#5	due@2021-03-12 15:49:34
-колено	knee	nom pl колени, g pl коленей; колен in set phrases: встать с колен to get up from one’s knees	deck#3	due@2020-10-17 16:19:20
+колено	knee	nom pl колени, g pl коленей; колен in set phrases: встать с колен to get up from one’s knees	deck#3	due@2021-02-21 18:24:01
 равный	equal (adj)		deck#2	due@2020-10-16 20:08:05
 следующий	following, next		deck#5	due@2021-03-12 15:10:02
-снимать/снять (+a)	to take off; remove; rent	p: сниму, снимешь, f past сняла|Го сударства не должны снимать с себя моральную ответственность перед людьми	deck#3	due@2020-12-23 22:37:07
+снимать/снять (+a)	to take off; remove; rent	p: сниму, снимешь, f past сняла|Го сударства не должны снимать с себя моральную ответственность перед людьми	deck#3	due@2021-02-21 17:25:43
 страх	fear	страх смерти	deck#5	due@2021-03-12 15:10:42
 тёплый	warm		deck#5	due@2021-03-12 15:45:25
 высота	height	nom pl высоты	deck#5	due@2021-03-12 15:03:40
 музыка	music		deck#6	due@2021-09-07 20:47:02
 остров	island	nom pl острова	deck#5	due@2021-03-12 15:27:10
-относиться/отнестись (к +d)	to relate to; to regard, treat	i: отношусь, относишься; p отнесусь, отнесёшься, past отнёсся, отнеслась	deck#4	due@2021-01-11 15:11:33
+относиться/отнестись (к +d)	to relate to; to regard, treat	i: отношусь, относишься; p отнесусь, отнесёшься, past отнёсся, отнеслась	deck#4	due@2021-03-16 17:30:52
 переставать/перестать (+inf)	to cease, stop	i перестаю, перестаёшь; p перестану, перестанешь|он перестал работать	deck#2	due@2020-10-16 20:11:43
 столь	so	столь важно so important		
 мирный	peace, peaceful	мирный договор peace treaty	deck#5	due@2021-03-12 15:47:56
-трудный	difficult		deck#5	due@2021-01-12 21:11:19
+трудный	difficult		deck#6	due@2022-02-09 17:36:30
 долгий	long (in time)		deck#5	due@2021-03-12 15:09:00
 железный	iron (adj)		deck#4	due@2021-01-11 15:50:51
 прямой	straight, direct		deck#4	due@2021-01-11 15:10:40
-социальный	social	социальное положение social status	deck#5	due@2021-01-12 21:18:15
-волос	(a) hair	nom pl волосы, g pl волос, d pl волосам	deck#4	due@2021-01-11 15:44:36
+социальный	social	социальное положение social status	deck#6	due@2022-02-09 17:23:36
+волос	(a) hair	nom pl волосы, g pl волос, d pl волосам	deck#5	due@2021-05-15 17:32:58
 воспитание	upbringing		deck#2	due@2020-12-17 22:41:13
-дитя (n)	child	g, d, pr sg дитяти; inst дитятею; nom pl дети, g pl детей, d pl детям, inst pl детьми, pr pl детях	deck#3	due@2020-12-19 15:03:45
+дитя (n)	child	g, d, pr sg дитяти; inst дитятею; nom pl дети, g pl детей, d pl детям, inst pl детьми, pr pl детях	deck#3	due@2021-02-21 18:00:48
 покупать/купить (+a)	to buy	p: куплю, купишь	deck#5	due@2021-03-12 15:10:49
 луна	moon	nom pl луны	deck#6	due@2021-09-07 20:48:10
-пускать/пустить (+a)	to allow; let in; let go	p: пущу, пустишь	deck#3	due@2020-10-30 18:09:22
+пускать/пустить (+a)	to allow; let in; let go	p: пущу, пустишь	deck#3	due@2021-02-21 18:15:38
 вместо (+g)	instead of		deck#4	due@2021-01-11 15:37:49
-несмотря (на +a)	in spite of		deck#3	due@2020-10-25 20:11:57
+несмотря (на +a)	in spite of		deck#3	due@2021-02-21 17:29:58
 кулак	fist; kulak (rich peasant)	g sg кулака		
 кухня	kitchen	g pl кухонь	deck#5	due@2021-03-12 15:35:25
 любовь (f)	love	g sg любви; inst sg любовью, d sg/pr sg любви	deck#6	due@2021-12-07 15:24:28
@@ -937,20 +937,20 @@
 тётя	aunt	g pl тётей	deck#5	due@2021-03-12 15:29:37
 центральный	central		deck#6	due@2021-12-07 15:09:32
 всего	in all, altogether; only		deck#5	due@2021-03-12 15:28:50
-вывод	conclusion, deduction	сделать вывод to draw a conclusion	deck#3	due@2020-10-21 21:10:16
+вывод	conclusion, deduction	сделать вывод to draw a conclusion	deck#3	due@2021-02-21 17:58:51
 выполнять/выполнить (+a)	to carry out, fulfil	i: выполняю, выполняешь	deck#3	due@2020-10-30 18:08:52
 зерно	grain, seed	nom pl зёрна, g pl зёрен, d pl зёрнам; кофе в зёрнах coffee beans		
-молодёжь (f)	young people		deck#4	due@2021-01-11 15:38:42
+молодёжь (f)	young people		deck#4	due@2021-03-16 18:16:30
 эх	eh! oh! (expressing regret, annoyance, reproach, amazement)		deck#6	due@2021-12-07 15:58:51
 возможно	possibly; possible; it is possible		deck#5	due@2021-03-12 15:29:18
-глубоко	deep; deeply, it is deep		deck#3	due@2020-10-25 20:07:28
+глубоко	deep; deeply, it is deep		deck#4	due@2021-03-16 17:27:49
 добиваться/добиться (+g)	to obtain, achieve; to strive for; to get	p: добьюсь, добьёшься	deck#2	due@2020-10-07 17:28:24
 местный	local		deck#5	due@2021-03-12 15:07:38
 растение	plant		deck#2	due@2020-12-17 22:37:55
 старик	old man	g sg старика	deck#5	due@2021-03-12 15:42:56
 поход	campaign; walking tour, expedition; cruise			
-спина	back [noun]	a sg спину, nom pl спины	deck#4	due@2021-01-11 15:26:55
-судить (i/p) (о +pr)	to judge; (+a) try (s.o.)	сужу, судишь; судя по +d judging by	deck#3	due@2020-10-25 20:04:08
+спина	back [noun]	a sg спину, nom pl спины	deck#4	due@2021-03-16 17:43:24
+судить (i/p) (о +pr)	to judge; (+a) try (s.o.)	сужу, судишь; судя по +d judging by	deck#4	due@2021-03-16 18:11:09
 умирать/умереть	to die	p: умру, умрёшь, past умер, умерла, умерло	deck#4	due@2021-01-11 15:33:14
 экономика	economics; economy		deck#5	due@2021-03-12 15:49:06
 больной	ill; sore; (as noun) patient, invalid		deck#5	due@2021-03-12 15:30:43
@@ -958,7 +958,7 @@
 ниже	lower, below		deck#5	due@2021-03-12 15:22:45
 океан	ocean		deck#6	due@2021-12-07 15:44:15
 запас	stock, supply; reserve	большой запас слов a large vocabulary		
-земной	earthly, terrestrial	земной шар the globe	deck#3	due@2020-12-23 22:42:03
+земной	earthly, terrestrial	земной шар the globe	deck#3	due@2021-02-21 18:14:16
 министерство	ministry (government)		deck#5	due@2021-03-12 15:46:56
 обязательно	without fail, definitely		deck#2	due@2020-10-11 16:11:34
 польза	use; benefit		deck#2	due@2020-10-11 15:49:05
@@ -966,12 +966,12 @@
 создавать/создать (+a)	to create	i: создаю, создаёшь; p: -ам -ашь -аст -адим -адите -адут	deck#2	due@2020-12-17 22:39:11
 вновь	anew, again; newly		deck#5	due@2021-03-12 15:28:18
 зависеть (i) (от +g)	to depend (on)	завишу, зависишь	deck#3	due@2020-10-25 20:17:41
-плод	fruit	g sg плода; приносить плоды to bear fruit	deck#3	due@2020-12-19 15:32:13
+плод	fruit	g sg плода; приносить плоды to bear fruit	deck#3	due@2021-02-21 18:27:10
 радио (n) (indecl)	radio		deck#6	due@2021-12-07 15:58:34
 разнообразный	various, varied		deck#2	due@2020-10-16 20:09:50
-существование	existence		deck#4	due@2021-01-11 15:13:09
+существование	existence		deck#4	due@2021-03-16 17:45:51
 бывший	former		deck#5	due@2021-03-12 15:40:52
-касаться/коснуться (+g)	to touch; to concern	что касается +g as for, with regard to	deck#3	due@2020-10-25 20:13:34
+касаться/коснуться (+g)	to touch; to concern	что касается +g as for, with regard to	deck#3	due@2021-02-21 17:50:33
 никак	in no way; by no means		deck#5	due@2021-03-12 15:15:33
 основание	foundation, basis; founding		deck#3	due@2020-10-22 20:09:58
 приказывать/приказать (+d)	to order, command s.o.	p: прикажу, прикажешь	deck#3	due@2020-12-23 22:36:43
@@ -979,7 +979,7 @@
 солнечный	sun, solar; sunny		deck#4	due@2021-01-11 15:24:58
 стремиться (i) (к +d)	to strive (for)	i: стремлюсь, стремишься	deck#2	due@2020-10-07 17:28:09
 газ	gas		deck#6	due@2021-12-07 15:09:46
-орудие	instrument; implement; (field) gun, piece of ordnance		deck#3	due@2020-10-30 18:14:14
+орудие	instrument; implement; (field) gun, piece of ordnance		deck#3	due@2021-02-21 18:19:59
 радость (f)	joy		deck#5	due@2021-03-12 15:57:02
 том	volume (book)	nom pl тома	deck#5	due@2021-03-12 15:10:30
 честный	honest		deck#3	due@2020-10-17 16:19:41
@@ -996,10 +996,10 @@
 гораздо	much (with comparatives)	гораздо лучше much better		
 капитал	capital (financial)		deck#5	due@2021-03-12 15:32:53
 плохой	bad		deck#5	due@2021-03-12 15:27:45
-площадь (f)	square; area	g pl площадей	deck#5	due@2020-12-31 19:07:20
+площадь (f)	square; area	g pl площадей	deck#6	due@2022-02-09 17:36:40
 поезд	train	nom pl поезда	deck#5	due@2021-03-12 15:24:38
 профессор	professor	nom pl профессора	deck#5	due@2021-03-12 15:20:24
-серьёзно	seriously		deck#5	due@2021-02-07 21:34:48
+серьёзно	seriously		deck#6	due@2022-02-09 17:23:38
 соль (f)	salt	g pl солей	deck#2	due@2020-10-05 15:32:08
 сон	sleep; dream	g sg сна	deck#5	due@2021-03-12 15:35:54
 тень (f)	shade; shadow	pr sg в тени, g pl теней	deck#5	due@2021-03-12 15:07:27
@@ -1011,48 +1011,48 @@
 пшеница	wheat			
 столько (+g)	so much, so many		deck#5	due@2021-03-12 15:18:53
 эпоха	epoch, age		deck#4	due@2021-01-11 15:04:07
-давай(те)	let’s (do sth)	(+1st person pl р or i inf) Давайте выпьем Let’s have a drink	deck#4	due@2021-01-15 22:45:51
+давай(те)	let’s (do sth)	(+1st person pl р or i inf) Давайте выпьем Let’s have a drink	deck#4	due@2021-03-16 17:51:24
 беда	misfortune	pl беды ; беда в том, что ... the trouble is that...		
 дальний	distant, remote		deck#3	due@2020-10-17 16:27:48
 закрывать/закрыть (+a)	to close, shut; to cover	p: закрою, закроешь	deck#5	due@2021-03-12 15:20:44
 звезда	star	nom pl звёзды, g pl звёзд	deck#5	due@2021-03-12 15:37:35
 обычный	usual		deck#5	due@2021-03-12 15:56:47
 проводить/провести (+a)	to lead, conduct; spend (time)	i: провожу, проводишь; p: проведу, проведёшь, past провёл, провела	deck#3	due@2020-12-19 16:08:31
-разговаривать (i)	to converse, talk		deck#4	due@2021-01-11 15:38:48
+разговаривать (i)	to converse, talk		deck#4	due@2021-03-16 18:25:36
 размер	size, scale, extent	размеры proportions, dimensions	deck#5	due@2021-03-12 15:47:51
-разрешать/разрешить (+d of person)	to allow, permit; solve	p: разрешу, разрешишь	deck#3	due@2020-12-19 16:08:20
+разрешать/разрешить (+d of person)	to allow, permit; solve	p: разрешу, разрешишь	deck#3	due@2021-02-21 18:00:03
 нечего	there is nothing	d нечему; inst нечем; pr не о чем; Нечего делать There is nothing to do	deck#5	due@2021-03-12 15:12:37
 атмосфера	atmosphere		deck#5	due@2021-03-12 15:04:21
 лодка	boat, rowing boat	g pl лодок	deck#5	due@2021-03-12 15:10:59
-название	name; title (book)		deck#3	due@2020-10-21 21:10:55
+название	name; title (book)		deck#4	due@2021-03-16 18:22:27
 правильный	correct, right		deck#5	due@2021-03-12 15:08:58
-пустой	empty		deck#3	due@2020-10-17 16:27:13
-скорее	quicker; rather	скорее всего most probably	deck#3	due@2020-10-17 16:19:43
+пустой	empty		deck#3	due@2021-02-21 18:16:08
+скорее	quicker; rather	скорее всего most probably	deck#4	due@2021-03-16 17:22:15
 дальнейший	further	в дальнейшем henceforth	deck#5	due@2021-03-12 15:04:57
 журнал	magazine, periodical; journal, register		deck#5	due@2021-03-12 15:50:26
-либо	or	либо ..., либо either..., or	deck#4	due@2021-01-11 15:47:46
+либо	or	либо ..., либо either..., or	deck#5	due@2021-05-15 17:38:54
 телевизор	television (set)	смотреть телевизор to watch television	deck#5	due@2020-12-30 20:14:42
 ракета	rocket		deck#5	due@2020-12-30 20:14:44
 способность (f)	ability	У него была способность вдохновлять людей	deck#2	due@2020-10-17 18:59:13
-академия	academy		deck#5	due@2021-02-07 21:36:48
+академия	academy		deck#5	due@2021-05-15 18:14:22
 впечатление	impression		deck#2	due@2020-10-16 20:07:28
 древний	ancient		deck#2	due@2020-12-17 22:45:59
 иметься (i)	to be, be available	(3rd pers only) имеется, имеются	deck#2	due@2020-10-06 22:30:57
-ожидать (i) (+a or +g)	to wait (for); to expect	no p	deck#4	due@2021-01-11 15:49:52
+ожидать (i) (+a or +g)	to wait (for); to expect	no p	deck#4	due@2021-03-16 17:40:12
 след	footprint; trace, vestige	nom pl следы		
 удар	blow, strike		deck#3	due@2020-12-23 22:47:31
 внешний	exterior	внешняя политика foreign policy		
 нож	knife	g sg ножа	deck#5	due@2021-03-12 15:20:29
 грудь (f)	breast	pr sg о груди в груди, g pl грудей		
 крайний	extreme			
-наоборот	on the contrary, vice versa, the other way round		deck#4	due@2021-01-11 15:47:34
+наоборот	on the contrary, vice versa, the other way round		deck#4	due@2021-03-16 18:16:12
 передовой	advanced; progressive	передовая статья leading article		
-принцип	principle		deck#4	due@2021-01-11 15:18:13
+принцип	principle		deck#5	due@2021-05-15 18:12:24
 тайна	secret, mystery		deck#3	due@2020-11-16 21:42:22
 тихий	quiet, calm		deck#5	due@2021-03-12 15:26:37
 устанавливать/установить (+a)	to set up, establish	p: установлю, установишь	deck#2	due@2020-10-11 15:42:02
-электрический	electric		deck#5	due@2020-12-30 20:16:08
-верный	faithful, correct, reliable, sure		deck#3	due@2020-10-21 21:20:45
+электрический	electric		deck#6	due@2022-02-09 17:25:14
+верный	faithful, correct, reliable, sure		deck#3	due@2021-02-21 18:05:30
 ворота (nom pl)	gate, gates	g pl ворот		
 дворец	palace	g sg дворца		
 золото	gold		deck#5	due@2021-03-12 15:45:36
@@ -1061,19 +1061,19 @@
 специалист	specialist		deck#5	due@2020-12-30 20:16:47
 длина	length	длиной в два метра two metres long	deck#3	due@2020-12-19 15:48:25
 наблюдать (i) (+a)	to observe, watch	за +inst to watch over	deck#2	due@2020-10-11 15:52:05
-немедленно	immediately, forthwith		deck#4	due@2021-01-11 15:32:19
+немедленно	immediately, forthwith		deck#5	due@2021-05-15 17:26:09
 немецкий	German (adj)		deck#5	due@2021-03-12 15:05:00
 повышение	rise, increase; promotion		deck#2	due@2020-10-11 16:13:38
 получаться/получиться	to turn out, work out, result	p: получится	deck#2	due@2020-12-17 22:43:38
 соглашаться/согласиться	to agree (c +inst) with, (на +a) to	p: соглашусь, согласишься	deck#5	due@2021-03-12 15:38:29
 участие	participation; sympathy	принимать участие в +pr to take part in		
-весело	merrily, cheerfully	Нам было весело We enjoyed ourselves	deck#3	due@2020-12-23 22:47:10
+весело	merrily, cheerfully	Нам было весело We enjoyed ourselves	deck#3	due@2021-02-21 18:25:21
 левый	left; left-wing		deck#5	due@2021-03-12 15:45:44
-московский	Moscow (adj)		deck#5	due@2020-12-30 20:18:33
-постоянный	constant, permanent	постоянный адрес permanent address	deck#3	due@2020-10-21 21:20:49
-приказ	command, order	отдать приказ to issue an order	deck#3	due@2020-12-19 16:08:37
+московский	Moscow (adj)		deck#6	due@2022-02-09 17:26:12
+постоянный	constant, permanent	постоянный адрес permanent address	deck#3	due@2021-02-21 18:02:54
+приказ	command, order	отдать приказ to issue an order	deck#4	due@2021-03-16 18:00:23
 роман	novel; love affair, romance		deck#5	due@2020-12-30 20:18:54
-смех	laughter, laugh		deck#3	due@2020-10-21 21:17:59
+смех	laughter, laugh		deck#3	due@2021-02-21 18:12:20
 твёрдый	hard, firm, solid			
 тон	tone, musical tone; colour tone, tint	(nom pl тоны, g pl тонов) tone, musical tone; (nom pl тона, g pl тонов) colour tone, tint		
 абсолютно	absolutely		deck#5	due@2021-03-12 15:40:16
@@ -1090,75 +1090,75 @@
 серый	grey	серый волк grey wolf	deck#3	due@2020-12-19 15:30:56
 анализ	analysis		deck#5	due@2021-03-12 15:17:29
 влияние	influence	оказать влияние на +а to influence s.o. or sth	deck#2	due@2020-10-06 17:15:08
-молчать/по-	to be silent for a while	p: помолчу, помолчишь	deck#3	due@2020-10-21 21:08:20
+молчать/по-	to be silent for a while	p: помолчу, помолчишь	deck#4	due@2021-03-16 17:44:54
 руководство	leadership; guide, manual			
 атомный	atomic	атомная электростанция atomic power station	deck#5	due@2020-12-30 20:20:24
 граница	frontier; limit	за границей abroad	deck#5	due@2021-03-12 15:46:34
 защита	defence	no pl; в защиту кого-нибудь in defence of s.o.	deck#5	due@2021-03-12 15:21:21
 кусок	piece	g sg куска; кусок сахара sugar lump		
-молчание	silence	Молчание - знак согласия Silence gives consent	deck#3	due@2020-12-23 22:36:16
+молчание	silence	Молчание - знак согласия Silence gives consent	deck#4	due@2021-03-16 18:09:11
 наверное	probably		deck#3	due@2020-10-21 21:12:58
-неожиданно	unexpectedly		deck#4	due@2021-01-11 15:47:14
+неожиданно	unexpectedly		deck#4	due@2021-03-16 18:06:46
 пара	pair, couple	пара сапог a pair of boots	deck#5	due@2021-03-12 15:37:53
 платок	shawl, kerchief	g sg платка; носовой платок handkerchief		
 практический	practical	практический опыт practical experience	deck#5	due@2020-12-30 20:20:41
 предел	limit	в пределах +g within	deck#2	due@2020-10-16 20:10:13
 стенка	wall, partition, side	g pl стенок; стенки трубки sides of a tube		
 существо	essence; being, creature	живое существо living creature		
-тишина	quiet, silence	нарушить тишину to break the silence	deck#3	due@2020-10-25 20:17:23
+тишина	quiet, silence	нарушить тишину to break the silence	deck#3	due@2021-02-21 17:49:10
 товар	commodity, article	товары широкого потребления consumer goods	deck#2	due@2020-10-07 17:16:16
 вершина	summit, peak	вершина горы mountain peak		
 взрыв	explosion	произвести взрыв to cause an explosion	deck#5	due@2021-03-12 15:19:17
 виноватый	guilty, to blame	Он не виноват It’s not his fault	deck#3	due@2020-10-25 20:03:54
 вырастать/вырасти	to grow, increase	p вырасту, вырастешь, past вырос, выросла	deck#4	due@2021-01-11 15:26:25
 гражданский	civil, civic	гражданская война civil war	deck#5	due@2021-03-12 15:03:54
-деятель (m)	agent, figure	государственный деятель statesman	deck#3	due@2020-10-21 21:19:19
-дождь (m)	rain	g sg дождя; под дождём in the rain	deck#5	due@2020-12-30 20:22:29
-называться/назваться	to be called		deck#3	due@2020-10-30 20:36:14
+деятель (m)	agent, figure	государственный деятель statesman	deck#3	due@2021-02-21 17:55:27
+дождь (m)	rain	g sg дождя; под дождём in the rain	deck#6	due@2022-02-09 17:27:33
+называться/назваться	to be called		deck#4	due@2021-03-16 17:42:48
 невозможно	impossibly; it is impossible	Его невозможно найти Не can’t be found	deck#5	due@2021-03-12 15:08:33
-обещать (i/p) (+d)	to promise (s.o.)	р also по-	deck#3	due@2020-10-17 16:24:05
+обещать (i/p) (+d)	to promise (s.o.)	р also по-	deck#4	due@2021-03-16 17:44:51
 позволять/позволить (+d)	to permit (s.o.)	i: позволяю, позволяешь; p: позволю, позволишь	deck#2	due@2020-10-06 17:19:08
 роль (f)	role	nom pl роли, g pl ролей		
-сестра	sister	nom pl сёстры, g pl сестёр, d pl сёстрам, inst pl сёстрами, pr pl сёстрах	deck#5	due@2020-12-30 20:22:53
-следовательно	consequently, therefore		deck#3	due@2020-12-19 16:08:53
+сестра	sister	nom pl сёстры, g pl сестёр, d pl сёстрам, inst pl сёстрами, pr pl сёстрах	deck#5	due@2021-05-15 18:00:35
+следовательно	consequently, therefore		deck#3	due@2021-02-21 17:27:18
 столица	capital (city)	жить в столице to live in the capital	deck#5	due@2021-03-12 15:12:49
 фигура	figure	стройная фигура shapely figure	deck#5	due@2020-12-31 19:21:16
-царь (m)	tsar	g sg царя, inst sg царём	deck#5	due@2020-12-30 20:23:10
-бедный	poor	бедные люди poor people	deck#4	due@2021-01-11 15:42:43
+царь (m)	tsar	g sg царя, inst sg царём	deck#5	due@2021-05-15 17:44:45
+бедный	poor	бедные люди poor people	deck#4	due@2021-03-16 17:51:27
 верхний	upper	верхняя полка upper berth	deck#4	due@2021-01-11 15:19:00
 вслед (за +inst)	after	вслед за ним after him	deck#2	due@2020-10-17 18:56:30
 изменение	change, alteration	внести изменения в +a to make changes in	deck#5	due@2021-03-12 15:08:20
 носить (i) (+a)	to carry (around); wear	ношу, носишь; indet of нести i	deck#3	due@2020-10-21 21:11:30
-особенность (f)	peculiarity, special feature	в особенности in particular	deck#3	due@2020-10-21 21:23:20
+особенность (f)	peculiarity, special feature	в особенности in particular	deck#3	due@2021-02-21 18:09:01
 рад	glad (short adj)	f рада, pl рады	deck#5	due@2021-03-12 15:05:22
-резко	sharply, abruptly	Погода резко изменилась There was a sharp change in the weather	deck#3	due@2020-12-23 22:47:21
+резко	sharply, abruptly	Погода резко изменилась There was a sharp change in the weather	deck#3	due@2021-02-21 18:14:16
 звонок	bell, ring; telephone call	g sg звонка	deck#5	due@2021-03-12 15:24:46
-испытание	test, trial; ordeal		deck#3	due@2020-10-21 21:17:31
+испытание	test, trial; ordeal		deck#4	due@2021-03-16 17:38:15
 необходимость (f)	necessity	no pl; В этом нет необходимости It is not essential	deck#3	due@2020-10-17 15:38:58
 обстановка	environment, situation; furniture	no pl		
-печать (f)	seal, stamp; print, printing	свобода печати freedom of the press	deck#3	due@2020-12-19 16:10:04
+печать (f)	seal, stamp; print, printing	свобода печати freedom of the press	deck#4	due@2021-03-16 18:08:37
 повод	cause, grounds	к/для for; по поводу +g concerning, apropos of		
 постоянно	constantly, perpetually	Он постоянно недоволен He is always dissatisfied	deck#2	due@2020-10-05 15:27:11
 разуметься (i)	to be meant	i: разумеется; под этим разумеется this implies; само собой разумеется it goes without saying		
-стакан	glass, tumbler	стакан чаю a glass of tea	deck#3	due@2020-10-17 16:29:34
-точный	exact, precise	точный перевод exact translation	deck#3	due@2020-10-25 19:57:57
+стакан	glass, tumbler	стакан чаю a glass of tea	deck#3	due@2021-02-21 17:51:41
+точный	exact, precise	точный перевод exact translation	deck#4	due@2021-03-16 17:38:57
 уезжать/уехать	to go away, leave (by transport)	p: уеду, уедешь	deck#5	due@2021-03-12 15:24:43
 широко	widely, broadly	широко улыбаться to smile broadly	deck#5	due@2021-03-12 15:26:50
 возможный	possible	возможные решения possible solutions	deck#5	due@2021-02-07 21:37:18
 изучение	(detailed) study (of)	no pl; изучение природы study of nature	deck#5	due@2021-03-12 15:23:15
 комиссия	commission, committee		deck#5	due@2021-03-12 15:47:15
 благодарить/по- (+a; за +a)	to thank (s.o. for sth)	i: Благодарю вас I thank you	deck#5	due@2021-03-12 15:16:50
-блестящий	shining, bright, brilliant	блестящий ум brilliant mind	deck#3	due@2020-10-22 20:11:18
+блестящий	shining, bright, brilliant	блестящий ум brilliant mind	deck#3	due@2021-02-21 17:52:10
 вес	weight	nom pl веса; вес пакета weight of a packet	deck#2	due@2020-12-17 22:46:07
-врач	doctor	g sg врача; Она любит врачей She likes doctors	deck#3	due@2020-10-17 16:29:12
+врач	doctor	g sg врача; Она любит врачей She likes doctors	deck#4	due@2021-03-16 17:43:42
 жёлтый	yellow		deck#4	due@2021-01-11 15:38:21
-крик	cry, shout	крик восторга cry of joy	deck#3	due@2020-10-17 16:22:02
+крик	cry, shout	крик восторга cry of joy	deck#4	due@2021-03-16 18:27:14
 обеспечивать/обеспечить (+a +inst)	to supply, provide (s.o. with sth); (+a) assure, guarantee	p: обеспечу, обеспечишь		
 поэт	poet			
 рот	mouth	g sg рта; pr sg во рту, о рте, nom pl рты, g pl ртов	deck#5	due@2021-03-12 15:16:26
 собака	dog		deck#5	due@2020-12-30 20:25:43
 соседний	neighbouring, next	соседняя комната next room	deck#4	due@2021-01-11 15:11:10
-туман	fog, mist		deck#3	due@2020-10-17 16:30:10
+туман	fog, mist		deck#4	due@2021-03-16 18:12:30
 капитан	captain		deck#5	due@2020-12-30 20:25:50
 философия	philosophy		deck#6	due@2021-09-26 20:25:52
 доказывать/доказать (+a)	to demonstrate, prove	p: докажу, докажешь	deck#2	due@2020-10-07 17:35:25
@@ -1168,35 +1168,35 @@
 тотчас	immediately	Он тотчас уехал Не left at once		
 гореть/за-	to burn, be alight	горю, горишь; Горел свет There was a light on		
 далёкий	distant, remote	далёкий город distant town	deck#5	due@2021-03-12 15:10:55
-канал	canal; channel	дипломатические каналы diplomatic channels	deck#5	due@2020-12-30 20:26:42
-практика	practice	разговорная практика conversation practice	deck#5	due@2020-12-30 20:26:43
-сожаление	regret	к сожалению unfortunately	deck#4	due@2021-01-11 15:24:58
+канал	canal; channel	дипломатические каналы diplomatic channels	deck#5	due@2021-05-15 18:02:41
+практика	practice	разговорная практика conversation practice	deck#5	due@2021-05-15 17:52:13
+сожаление	regret	к сожалению unfortunately	deck#3	due@2021-02-21 17:46:40
 укрепление	strengthening	укрепление обороны strengthening of defence	deck#2	due@2020-12-17 22:47:42
 быт	way of life, everyday life	pr sg в быту; служба быта consumer services	deck#3	due@2020-12-23 22:47:58
-делаться/с- (+inst)	to become; be done		deck#3	due@2020-10-21 21:15:54
+делаться/с- (+inst)	to become; be done		deck#4	due@2021-03-16 17:47:50
 крыша	roof			
 недостаток	defect; (+g or в +pr) shortage (of)	g sg недостатка		
 отрасль (f)	branch (of science, industry, government, etc.)			
 подавать/подать (+a)	to give; serve (food); present	i: подаю, подаёшь; p: подам, подашь, подаст, подадим, подадите, подадут, past подал, подала, подало; подать пример to set an example	deck#2	due@2020-10-11 16:17:48
-поиск	search	в поисках (+g) in search of	deck#4	due@2021-01-11 16:08:58
-порт	port	pr sg в порту, о порте; nom pl порты, g pl портов	deck#5	due@2020-12-30 20:27:39
-свидание	meeting, rendezvous	назначить свидание to arrange a meeting; до свидания goodbye	deck#4	due@2021-01-11 15:57:17
+поиск	search	в поисках (+g) in search of	deck#4	due@2021-03-16 17:49:13
+порт	port	pr sg в порту, о порте; nom pl порты, g pl портов	deck#6	due@2022-02-09 17:39:22
+свидание	meeting, rendezvous	назначить свидание to arrange a meeting; до свидания goodbye	deck#5	due@2021-05-15 17:36:18
 требование	demand		deck#2	due@2020-10-16 20:12:07
 штат	staff (of institution); state (of the USA, Australia)		deck#5	due@2020-12-30 20:27:53
-вздыхать/вздохнуть	to sigh	p: вздохну, вздохнёшь	deck#3	due@2020-12-23 22:46:13
-записка	note (written)	g pl записок; послать записку to send a note	deck#3	due@2020-12-19 15:05:51
+вздыхать/вздохнуть	to sigh	p: вздохну, вздохнёшь	deck#4	due@2021-03-16 17:19:54
+записка	note (written)	g pl записок; послать записку to send a note	deck#3	due@2021-02-21 17:59:28
 озеро	lake	nom pl озёра, g pl озёр	deck#5	due@2021-03-12 15:12:56
 организовать (i/p) (+a)	to organize	организую, организуешь; i in past организовывать	deck#5	due@2021-03-12 15:08:31
-сознание	consciousness	классовое сознание class consciousness	deck#4	due@2021-01-11 15:25:36
-тепло	warmly; it is warm; warmth	пять градусов тепла five degrees above zero	deck#4	due@2021-01-11 15:46:16
+сознание	consciousness	классовое сознание class consciousness	deck#4	due@2021-03-16 17:43:20
+тепло	warmly; it is warm; warmth	пять градусов тепла five degrees above zero	deck#4	due@2021-03-16 17:41:34
 прежний	former		deck#3	due@2020-10-30 20:35:57
 пространство	space, expanse	космическое пространство outer space		
 составлять/составить (+a)	to make up, compose, constitute	i: составляю, составляешь; p: составлю, составишь;	deck#3	due@2020-12-19 15:30:16
 спутник	travelling companion; satellite		deck#5	due@2020-12-30 20:28:31
-стрелять (i) (в +a or по +d)	to shoot (at)	i: стреляю, стреляешь	deck#4	due@2021-01-11 15:49:16
+стрелять (i) (в +a or по +d)	to shoot (at)	i: стреляю, стреляешь	deck#4	due@2021-03-16 18:21:17
 вдоль (+g)	along	вдоль реки along the river		
 встречаться/встретиться (с +inst)	to meet (s.o.)	p: встречусь, встретишься	deck#5	due@2021-03-12 15:30:26
-документ	document		deck#5	due@2020-12-30 20:28:47
+документ	document		deck#6	due@2022-02-09 18:09:23
 мечтать (i) (о +pr)	to (day) dream (about)		deck#5	due@2021-03-12 15:08:11
 обычно	usually		deck#5	due@2021-03-12 15:15:05
 продукт	product	продукты produce, provisions, food	deck#5	due@2020-12-31 19:04:25
@@ -1210,13 +1210,13 @@
 мёртвый	dead		deck#5	due@2021-03-12 15:09:48
 могучий	powerful	могучая армия powerful army		
 мотор	motor, engine	мотор автомобиля car engine	deck#6	due@2021-09-26 20:29:45
-независимость (f)	independence	борьба за независимость independence struggle	deck#4	due@2021-01-11 15:59:29
+независимость (f)	independence	борьба за независимость independence struggle	deck#4	due@2021-03-16 17:27:57
 представление	presentation; performance; notion, conception		deck#2	due@2020-10-11 15:53:25
 применение	application, use			
-трудность (f)	difficulty		deck#3	due@2020-10-17 16:19:32
+трудность (f)	difficulty		deck#4	due@2021-03-16 17:41:20
 удовольствие	pleasure		deck#2	due@2020-10-06 17:20:21
 узкий	narrow		deck#3	due@2020-10-21 21:22:36
-боец	fighter, soldier	g sg бойца	deck#3	due@2020-10-25 19:58:00
+боец	fighter, soldier	g sg бойца	deck#4	due@2021-03-16 17:43:43
 жалко	pitifully; it’s a pity; (+g) be sorry for	Мне его жалко I’m sorry for him		
 массовый	mass (adj)			
 меньше	less		deck#5	due@2021-03-12 15:07:24
@@ -1227,7 +1227,7 @@
 отказываться/отказаться (+inf)	to refuse (to do sth); (от +g) renounce (sth)	p: откажусь, откажешься	deck#2	due@2020-12-17 22:41:40
 полк	regiment	g sg полка, pr sg в полку		
 полностью	fully, completely			
-попытка	attempt	g pl попыток	deck#3	due@2020-10-21 21:12:12
+попытка	attempt	g pl попыток	deck#3	due@2021-02-21 18:06:01
 прошлое	the past		deck#2	due@2020-10-17 18:56:40
 рис	rice		deck#5	due@2021-03-12 15:37:56
 спокойный	calm		deck#5	due@2021-03-12 15:39:08
@@ -1236,29 +1236,29 @@
 возраст	age		deck#2	due@2020-12-17 22:47:48
 громко	loudly		deck#5	due@2021-03-12 15:36:48
 дым	smoke	pr sg в дыму, nom pl дымы	deck#5	due@2021-03-12 15:10:25
-желание	wish, desire		deck#4	due@2021-01-11 15:46:16
+желание	wish, desire		deck#4	due@2021-03-16 18:13:03
 забота	care, trouble			
 использование	utilization		deck#3	due@2020-10-17 16:33:51
-красота	beauty	nom pl красоты	deck#3	due@2020-10-21 21:16:33
+красота	beauty	nom pl красоты	deck#3	due@2021-02-21 18:25:53
 мощный	powerful		deck#2	due@2020-10-05 15:31:25
 постепенно	gradually			
-президент	president		deck#5	due@2020-12-30 20:31:36
+президент	president		deck#6	due@2022-02-09 17:43:02
 рыба	fish		deck#5	due@2021-03-12 15:05:13
 следить (i) (за +inst)	to watch, keep an eye on	i: слежу, следишь		
-хватать/схватить (+a)	to seize, grab	p: схвачу, схватишь; хватать i/схватывать i	deck#3	due@2020-10-17 16:22:18
-темнота	darkness		deck#3	due@2020-10-17 16:34:03
+хватать/схватить (+a)	to seize, grab	p: схвачу, схватишь; хватать i/схватывать i	deck#4	due@2021-03-16 17:56:03
+темнота	darkness		deck#4	due@2021-03-16 17:41:39
 трава	grass; herb	nom pl травы		
 тяжело	heavily; gravely; it is hard, painful			
-улучшение	improvement		deck#4	due@2021-01-15 22:38:59
+улучшение	improvement		deck#4	due@2021-03-16 17:57:23
 улыбка	smile	g pl улыбок	deck#5	due@2021-03-12 15:07:07
 учение	learning, study, instruction		deck#4	due@2021-01-11 15:29:27
-глупый	stupid, silly		deck#4	due@2021-01-11 15:45:00
-зато	in compensation, on the other hand	Дом далеко от центра, зато метро рядом The house is far from the centre, but (on the other hand) the metro is nearby	deck#3	due@2020-10-21 21:21:13
-немало	not a little, a good many		deck#3	due@2020-12-19 15:17:27
+глупый	stupid, silly		deck#4	due@2021-03-16 18:22:31
+зато	in compensation, on the other hand	Дом далеко от центра, зато метро рядом The house is far from the centre, but (on the other hand) the metro is nearby	deck#3	due@2021-02-21 17:28:11
+немало	not a little, a good many		deck#4	due@2021-03-16 17:24:27
 поколение	generation			
 учитель (m)	teacher	nom pl учителя	deck#5	due@2021-03-12 15:41:31
 видимо	evidently		deck#2	due@2020-10-06 17:15:10
-воевать (i)	to wage war	i: воюю, воюешь	deck#4	due@2021-01-11 15:27:15
+воевать (i)	to wage war	i: воюю, воюешь	deck#5	due@2021-05-15 17:40:59
 выступление	speech; (public) appearance		deck#2	due@2020-10-07 17:25:59
 юноша	(a) youth	g pl юношей		
 значительно	significantly, considerably			
@@ -1268,10 +1268,10 @@
 промышленный	industrial			
 слабый	weak		deck#5	due@2021-03-12 15:24:27
 стул	chair	nom pl стулья, g pl стульев	deck#5	due@2020-12-30 20:33:28
-фотография	photograph		deck#5	due@2020-12-29 08:05:55
+фотография	photograph		deck#6	due@2022-02-09 18:12:01
 восстание	uprising			
-задание	task, assignment		deck#3	due@2020-10-21 21:19:28
-наверно	probably, most likely		deck#3	due@2020-10-21 21:22:43
+задание	task, assignment		deck#3	due@2021-02-21 18:10:50
+наверно	probably, most likely		deck#3	due@2021-02-21 18:08:11
 обращаться/обратиться (к +d)	to turn to; (в +a) turn into; (c +inst) handle sth, treat s.o.	p: обращусь, обратишься		
 октябрь (m)	October	g sg октября	deck#5	due@2020-12-30 20:33:45
 отличаться/отличиться	to distinguish os; (от +g i only) differ	i: Чем отличается университет от института? What’s the difference between a university and an institute?		
@@ -1291,9 +1291,9 @@
 жалеть/по- (+a)	to pity, feel sorry for; (o +pr) regret	i жалею, жалеешь; p пожалею, пожалеешь		
 итак	so, so then	Итак, теперь всё ясно So now everything is clear	deck#3	due@2020-10-25 20:13:38
 надеяться (i)	to hope	i: надеюсь, надеешься	deck#5	due@2021-03-12 15:21:15
-настроение	mood		deck#3	due@2020-12-19 16:08:43
+настроение	mood		deck#3	due@2021-02-21 17:59:09
 облако	cloud	nom pl облака, g pl облаков	deck#5	due@2021-03-12 15:21:22
-одновременно	simultaneously		deck#4	due@2021-01-11 15:18:37
+одновременно	simultaneously		deck#4	due@2021-03-16 18:16:18
 отходить/отойти (от +g)	to move away (from); depart (train)	i отхожу, отходишь; p: отойду, отойдёшь, past отошёл, отошла; отойти от окна to move away from the window		
 понятие	concept, notion			
 рождаться/родиться	to be born	p: рожусь, родишься, past родился, родилась		
@@ -1307,11 +1307,11 @@
 заговаривать/заговорить	to start speaking			
 кстати	incidentally, by the way; opportunely		deck#2	due@2020-10-05 15:32:41
 суд	court (of law); trial	g sg суда		
-адрес	address	nom pl адреса	deck#5	due@2020-12-30 20:35:25
+адрес	address	nom pl адреса	deck#5	due@2021-05-15 17:52:14
 вверх	upwards			
 духовный	spiritual			
 иностранный	foreign		deck#5	due@2021-03-12 15:08:44
-литературный	literary		deck#5	due@2020-12-30 20:35:32
+литературный	literary		deck#6	due@2022-02-09 18:11:20
 напоминать/напомнить (+d о +pr)	to remind (s.o. of sth.)			
 осторожно	carefully, cautiously			
 побеждать/победить (+a)	to defeat, conquer	no 1st person sg, p: победишь		
@@ -1320,11 +1320,11 @@
 уверенный	confident, sure	short forms: уверен, уверена		
 болезнь (f)	illness		deck#5	due@2021-03-12 15:59:00
 впереди	ahead			
-вскоре	soon		deck#4	due@2021-01-11 15:39:23
+вскоре	soon		deck#4	due@2021-03-16 17:23:33
 железо	iron			
 навстречу (+d)	towards			
 опасный	dangerous		deck#4	due@2021-01-11 15:43:33
-считаться (i)	(+inst) to be considered; (c +inst) take into account	Он считается гением Не is considered a genius; С этим можно не считаться This can be ignored	deck#4	due@2021-01-11 15:06:12
+считаться (i)	(+inst) to be considered; (c +inst) take into account	Он считается гением Не is considered a genius; С этим можно не считаться This can be ignored	deck#4	due@2021-03-16 18:02:22
 трудовой	labour, work (adj)			
 участвовать (i) (в +pr)	to take part in	i: участвую, участвуешь		
 шея	neck			
@@ -1340,7 +1340,7 @@
 вечный	eternal		deck#2	due@2020-10-11 15:41:34
 январь (m)	January	g sg января	deck#5	due@2020-12-30 20:36:35
 обнаруживать/обнаружить (+a)	to reveal; discover			
-особенный	special, particular		deck#4	due@2021-01-11 15:48:36
+особенный	special, particular		deck#4	due@2021-03-16 18:25:40
 подготовка (к +d)	preparation (for)	no pl		
 придумывать/придумать (+a)	to think up, invent			
 редакция	editorial office; editing		deck#5	due@2021-03-12 15:49:18
@@ -1362,15 +1362,15 @@
 торопиться/по-	to hurry, be in a hurry	i: тороплюсь, торопишься		
 физический	physical		deck#5	due@2021-03-12 15:43:54
 весть (f)	piece of news	nom pl вести, g pl вестей		
-водка	vodka		deck#5	due@2020-12-30 20:37:49
+водка	vodka		deck#6	due@2022-02-09 18:07:03
 говориться (i)	to be said	i: говорится; как говорится as they say		
-девять	nine	g, d, pr девяти, inst девятью	deck#5	due@2020-12-30 20:37:55
+девять	nine	g, d, pr девяти, inst девятью	deck#6	due@2022-02-09 17:43:00
 заканчивать/закончить (+a)	to finish		deck#5	due@2021-03-12 15:48:56
 круглый	round		deck#5	due@2021-03-12 15:17:56
 мораль (f)	morals, morality; moral (of a story)	no pl		
 немножко	(coll) a little, a bit			
 обида	offence, insult			
-обыкновенный	usual; ordinary		deck#5	due@2021-02-07 21:37:36
+обыкновенный	usual; ordinary		deck#4	due@2021-03-16 18:12:12
 окончательно	finally, definitively			
 погодить (р)	to wait a little	p: погожу, погодишь; Погодите! Wait a moment!		
 по-моему	in my opinion; as I would have it			
@@ -1383,7 +1383,7 @@
 единый	single, sole; united			
 злой	evil, wicked; bad-tempered, fierce	short forms зол m, зла f		
 назначение	appointment (to a post); purpose (for which sth is intended)	назначение инструмента purpose of a tool; использовать что-нибудь по назначению to use sth for its proper purpose		
-осень (f)	autumn		deck#3	due@2020-10-17 16:30:35
+осень (f)	autumn		deck#4	due@2021-03-16 17:38:21
 пар	steam	pr sg в пару, nom pl пары		
 полевой	field (adj)			
 читать/прочесть (+a)	to read	i: Вы читали эту книгу?|Have you read this book? /p прочту, прочтёшь, past прочёл, прочла; p also прочитать	deck#4	due@2021-01-11 15:16:12
@@ -1410,16 +1410,16 @@
 во-первых	firstly, in the first place		deck#5	due@2021-03-12 15:50:22
 выражение	expression			
 горе	grief, sorrow	no pl		
-детство	childhood		deck#3	due@2020-10-17 16:33:08
+детство	childhood		deck#3	due@2021-02-21 18:05:40
 доллар	dollar		deck#6	due@2021-09-26 20:39:44
 доля	portion, share; lot, fate	nom pl доли, g pl долей		
 итог	sum, total	подвести итоги to sum up		
-коридор	corridor		deck#5	due@2020-12-30 20:39:51
+коридор	corridor		deck#5	due@2021-05-15 18:11:18
 ныне	now; today (=теперь)			
 признавать/признать	to admit; to recognize	i признаю, признаёшь		
 среда	Wednesday; environment, milieu	g sg среды, nom pl среды, a sg среду, d pl средам		
 училище	college (vocational)			
-бомба	bomb		deck#5	due@2020-12-30 20:40:01
+бомба	bomb		deck#6	due@2022-02-09 17:40:36
 бюро (indecl)	office	(indecl)		
 высший	highest, supreme			
 дедушка (m)	grandfather	g pl дедушек	deck#5	due@2021-03-12 15:17:00
@@ -1428,14 +1428,14 @@
 ключ	key; spring, source	g sg ключа	deck#5	due@2021-03-12 15:20:45
 кресло	armchair	g pl кресел		
 оставлять/оставить (+a)	to leave (sth), abandon	i: оставляю, оставляешь; p оставлю, оставишь	deck#2	due@2020-10-16 20:13:57
-останавливать/остановить (+a)	to stop (sth)	p: остановлю, остановишь	deck#3	due@2020-10-21 21:30:44
+останавливать/остановить (+a)	to stop (sth)	p: остановлю, остановишь	deck#4	due@2021-03-16 17:34:48
 отмечать/отметить (+a)	to mark, note, record, mention; to celebrate	p: отмечу, отметишь		
 погода	weather		deck#5	due@2021-03-12 15:46:25
 поступать/поступить	to act; (в +a) enter (organization)	i: поступать в университет to enter а university; p поступлю, поступишь		
 режим	regime; rules, regulations; diet			
 решительно	resolutely; definitely, absolutely			
 сравнение	comparison	по сравнению с +inst compared with		
-странно	strangely; it is strange		deck#4	due@2021-01-11 15:28:06
+странно	strangely; it is strange		deck#5	due@2021-05-15 17:25:47
 строгий	strict, severe			
 стыдно	it is shameful; (+d of person X) X is ashamed	Как вам не стыдно? You ought to be ashamed		
 танец	dance	g sg танца		
@@ -1449,9 +1449,9 @@
 нынешний	present, present-day			
 обстоятельство	circumstance			
 ох	oh, ah (expressing regret, annoyance)			
-переходить/перейти (+a or через +a)	to cross, go over	i: перехожу, переходишь; p: перейду, перейдёшь, past перешёл, перешла	deck#3	due@2020-10-17 16:18:34
+переходить/перейти (+a or через +a)	to cross, go over	i: перехожу, переходишь; p: перейду, перейдёшь, past перешёл, перешла	deck#4	due@2021-03-16 18:14:11
 привыкать/привыкнуть (к +d)	to get used to; get into the habit of	p: привыкну, привыкнешь, past привык, привыкла		
-присылать/прислать (+a)	to send	p: пришлю, пришлёшь	deck#3	due@2020-10-25 19:58:31
+присылать/прислать (+a)	to send	p: пришлю, пришлёшь	deck#4	due@2021-03-16 17:56:49
 противник	opponent, adversary			
 реальный	real; realistic		deck#5	due@2021-03-12 15:40:45
 спичка	match, match stick	g pl спичек		
@@ -1460,9 +1460,9 @@
 установка	installation; purpose			
 воздушный	air (adj)			
 всюду	everywhere			
-журналист	journalist		deck#5	due@2020-12-30 20:43:59
+журналист	journalist		deck#6	due@2022-02-09 18:15:41
 захватывать/захватить (+a)	to take, grasp; seize	p: захвачу, захватишь		
-звание	title; calling		deck#3	due@2020-10-21 21:25:06
+звание	title; calling		deck#3	due@2021-02-21 18:07:32
 звонить/по- (+d)	to ring, telephone (s.o.)			
 конкретный	concrete, specific	конкретный пример specific example		
 кричать/крикнуть	to shout			
@@ -1553,7 +1553,7 @@
 шапка	hat (without brim)	g pl шапок	deck#5	due@2021-02-07 21:37:24
 агрессия	aggression			
 благодаря (+d)	thanks to			
-зло	evil	no pl except in меньшее из двух зол lesser of two evils	deck#4	due@2021-01-11 15:19:52
+зло	evil	no pl except in меньшее из двух зол lesser of two evils	deck#4	due@2021-03-16 17:56:12
 кругом	around			
 нередко	often			
 обед	meal; dinner			
@@ -1571,7 +1571,7 @@
 карандаш	pencil	g sg карандаша		
 корова	cow			
 краска	paint	g pl красок		
-май	May		deck#5	due@2021-01-04 17:14:32
+май	May		deck#6	due@2022-02-09 18:12:00
 передача	transmission			
 ходить/по-	to walk about	p: похожу, походишь		
 походить (i) (на +a)	to resemble	no p		
@@ -1581,8 +1581,8 @@
 жаль	it’s a pity	Очень жаль, что вас не было What a pity you weren’t there		
 житель (m)	inhabitant			
 задумываться/задуматься (о +pr/над +inst)	to think deeply, become thoughtful (about)			
-изменять/изменить (+a)	to change, alter; (+d) betray	i изменяю; p: изменю, изменишь	deck#4	due@2021-01-11 15:59:07
-минутка	moment	g pl минуток; Одну минутку Just a moment	deck#4	due@2021-01-11 15:44:50
+изменять/изменить (+a)	to change, alter; (+d) betray	i изменяю; p: изменю, изменишь	deck#4	due@2021-03-16 17:46:59
+минутка	moment	g pl минуток; Одну минутку Just a moment	deck#5	due@2021-05-15 17:31:08
 некогда	there’s no time; once	Мне некогда I haven’t time; Некогда здесь было озеро There was once a lake here		
 ответственность (f)	responsibility			
 пост	post (job)	pr sg на посту, nom pl посты	deck#5	due@2021-03-12 15:08:55
@@ -1648,7 +1648,7 @@
 объявлять/объявить (+a or о +pr)	to declare, announce	i объявляю; p объявлю, объявишь		
 остаток	remainder			
 подобно (+d)	similar (to)			
-покрывать/покрыть (+a +inst)	to cover (sth with sth)	p: покрою, покроешь	deck#3	due@2020-10-21 21:27:05
+покрывать/покрыть (+a +inst)	to cover (sth with sth)	p: покрою, покроешь	deck#3	due@2021-02-21 17:52:14
 поп	priest (coll)	g sg попа	deck#3	due@2020-10-17 16:09:25
 по-прежнему	as before			
 привычка	habit	g pl привычек		
@@ -1748,7 +1748,7 @@
 частность (f)	detail	в частности in particular		
 апрель (m)	April		deck#5	due@2021-03-12 15:41:22
 атака	attack			
-европейский	European	Европейский Союз European Union	deck#5	due@2020-12-29 08:05:22
+европейский	European	Европейский Союз European Union	deck#6	due@2022-02-09 17:37:58
 менять/по- (+a)	to change	меняю, меняешь		
 насчёт (+g)	about, concerning			
 нужда	want, need	nom pl нужды		
@@ -1780,7 +1780,7 @@
 женский	female			
 изменяться/измениться	to change	i изменяюсь; p изменюсь, изменишься; Всё изменилось Everything has changed		
 искусственный	artificial			
-конференция	conference	на конференции at a conference	deck#5	due@2021-02-07 21:37:11
+конференция	conference	на конференции at a conference	deck#5	due@2021-05-15 18:14:04
 мозг	brain	pr sg в мозгу, nom pl мозги		
 нация	nation		deck#5	due@2021-03-12 15:47:19
 обнимать/обнять (+a)	to embrace	p обниму, обнимешь, past обнял, обняла, обняло		
@@ -1857,7 +1857,7 @@
 склад	warehouse, store	на складе in the warehouse		
 скучно	boring			
 согласный	in agreement; (as noun) consonant	short forms: согласен, согласна, согласно, согласны; Вы согласны? Do you agree?		
-сомневаться/усомниться (в +pr)	to doubt		deck#3	due@2020-12-23 22:45:48
+сомневаться/усомниться (в +pr)	to doubt		deck#4	due@2021-03-16 17:38:38
 сочинение	composition, essay			
 список	list			
 танцевать/по-	to dance	i танцую, танцуешь		
@@ -1884,7 +1884,7 @@
 уважать (i) (+a)	to respect			
 фирма	firm, company			
 буква	letter (of alphabet)			
-голод	hunger		deck#3	due@2020-10-17 15:52:20
+голод	hunger		deck#3	due@2021-02-21 18:07:19
 доверие	trust			
 заглядывать/заглянуть	to glance	p загляну, заглянешь		
 наблюдение	observation,supervision			
@@ -2002,7 +2002,7 @@
 любопытный	curious			
 начальство	the management, the authorities			
 нуждаться (i) (в +pr)	to need, be in need of			
-одежда	clothes		deck#4	due@2021-01-11 15:27:21
+одежда	clothes		deck#4	due@2021-03-16 18:16:47
 особо	specially; separately			
 отъезд	departure			
 практически	practically			
@@ -2119,13 +2119,13 @@
 боль (f)	pain	Боль в области живота — симптом множества заболеваний.		
 верста	verst (slightly over a kilometre)	nom pl вёрсты, g pl вёрст		
 воображение	imagination	Детское воображение не имеет границ.		
-грозный	threatening,looming,terrible		deck#3	due@2020-11-16 21:41:28
+грозный	threatening,looming,terrible		deck#3	due@2021-02-21 18:24:21
 летний	summer (adj)			
 ловить/поймать (+a)	to catch	i ловлю, ловишь; ловить рыбу		
 модель (f)	model (of sth)			
 называемый	called	так называемый so-called		
 нарочно	deliberately, on purpose			
-окончание	end, ending	Окончание войны	deck#3	due@2020-10-30 18:13:54
+окончание	end, ending	Окончание войны	deck#4	due@2021-03-16 17:59:23
 плыть/по-	to sail; swim	i плыву, плывёшь, past плыл, плыла, плыло		
 подбирать/подобрать (+a)	to pick up; select	p подберу, подберёшь, past подобрал, подобрала, подобрало; Комиссия будет подбирать кандидатуры		
 помимо (+g)	apart from	Помимо английского, он говорит на немецком		
@@ -2175,7 +2175,7 @@
 подробность (f)	detail			
 полагаться/положиться (на +a)	to rely (on)	p положусь, положишься		
 постель (f)	bedding, bed			
-приглашать/пригласить (+a)	to invite	p приглашу, пригласишь	deck#3	due@2020-12-19 15:36:34
+приглашать/пригласить (+a)	to invite	p приглашу, пригласишь	deck#4	due@2021-03-16 17:54:49
 различие	difference			
 ранить (i/p) (+a)	to wound, injure	i/p; Такие комментарии могут ранить детей		
 сохранение	preservation, conservation			
@@ -2184,7 +2184,7 @@
 тщательно	thoroughly			
 шкаф	cupboard	pr в/на шкафу	deck#5	due@2021-03-12 15:28:42
 юг	south	на юге in the south		
-японский	Japanese (adj)		deck#5	due@2020-12-29 08:08:54
+японский	Japanese (adj)		deck#6	due@2022-02-09 18:14:27
 балкон	balcony			
 вовремя	on time		deck#5	due@2021-03-12 15:08:26
 волновать/вз- (+a)	to worry, excite, disturb (s.o.)	i волнует; Меня очень волнует ситуация в России.		
@@ -2267,12 +2267,12 @@
 ближний	near			
 введение	introduction			
 владеть/о- (+inst)	to possess; have command of; to master	владею, владеешь; Она владеет пятью языками She speaks five languages		
-возрастать/возрасти	to grow, to increase, to rise	p возрасту, возрастёшь; past возрос, возросла	deck#3	due@2020-10-21 21:17:48
+возрастать/возрасти	to grow, to increase, to rise	p возрасту, возрастёшь; past возрос, возросла	deck#4	due@2021-03-16 17:40:55
 гаснуть/по-	to go out, be extinguished, fade	i гасну, гаснешь, past гас, гасла		
 данные (pl)	data; qualities	(pl)		
 дружественный	friendly			
 исследователь (m)	researcher			
-истинный	true		deck#3	due@2020-10-25 20:16:43
+истинный	true		deck#4	due@2021-03-16 17:17:21
 картинка	picture, illustration	g pl картинок		
 когда-нибудь	ever; some day			
 кошка	cat (f)	g pl кошек		
@@ -2299,7 +2299,7 @@
 честно	honestly			
 быстрота	speed			
 заботиться/по- (о +pr)	to worry about, concern os with, look after; take care of	i забочусь, заботишься		
-закуривать/закурить (+a)	to start smoking, light up (cigarette etc.)	p закурю, закуришь	deck#3	due@2020-10-25 19:58:10
+закуривать/закурить (+a)	to start smoking, light up (cigarette etc.)	p закурю, закуришь	deck#3	due@2021-02-21 17:25:54
 испытывать/испытать (+a)	to test; experience	Учёные испытали новый метод лечения рака		
 ложь (f)	lie, lies	no pl; Это не правда, это ложь		
 подходящий	suitable, appropriate	Я выбрал наиболее подходящий перевод слова.		
@@ -2322,7 +2322,7 @@
 гроза	thunderstorm	nom pl грозы		
 грустный	sad			
 забирать/забрать (+a)	to take hold of; take away	p заберу, заберёшь, past забрал, забрала, забрало		
-задавать/задать (+a +d)	to set, assign (sth to s.o.)	i задаю, задаёшь; задавать вопрос to ask а question; p задам, задашь, задаст, зададим, зададите, зададут, past задал, задала, задало	deck#3	due@2020-10-17 16:23:09
+задавать/задать (+a +d)	to set, assign (sth to s.o.)	i задаю, задаёшь; задавать вопрос to ask а question; p задам, задашь, задаст, зададим, зададите, зададут, past задал, задала, задало	deck#4	due@2021-03-16 17:25:11
 запирать/запереть (+a)	to lock	p запру, запрёшь; past запер, заперла, заперло; Я всегда запираю дверь, когда ухожу из дома.		
 издавать/издать (+a)	to publish; emit	i издаю, издаёшь; p издам, издашь, издаст; издадим, издадите, издадут, past издал, издала, издало		
 испуганно	fearfully			
@@ -2339,7 +2339,7 @@
 подымать/поднять (+a)	to raise (coll)	= поднимать i		
 положительный	positive		deck#3	due@2020-12-19 15:30:40
 преследовать (i) (+a)	to pursue; persecute	i преследую, преследуешь; Полиция преследовала преступника		
-пресса	the press		deck#5	due@2020-12-31 19:15:57
+пресса	the press		deck#6	due@2022-02-09 18:11:14
 просторный	spacious	Наш просторный ресторан предлагает несколько пакетов вкусный шведский стол.		
 разумный	sensible, reasonable	Это было разумное предложение		
 расширение	expansion	На следующий год компания планирует расширение.		
@@ -2357,7 +2357,7 @@
 закономерность (f)	regularity, law			
 квадратный	square (adj)			
 ласковый	tender, affectionate, gentle	Моя жена всегда была ласкова со мной.		
-мягко	softly, gently		deck#3	due@2020-10-21 21:10:13
+мягко	softly, gently		deck#3	due@2021-02-21 18:10:29
 недалеко	not far	Почта недалеко The post office is not far		
 поражение	defeat	Они не признают своё поражение.		
 предоставлять/предоставить (+a +d)	to give, grant (sth to s.o.)	i предоставляю; p предоставлю, предоставишь		
@@ -2386,7 +2386,7 @@
 закрытый	closed			
 мужество	courage	У него не хватило мужества сказать ей правду		
 наверху	above; upstairs			
-необыкновенный	unusual		deck#3	due@2020-10-17 16:27:40
+необыкновенный	unusual		deck#4	due@2021-03-16 17:17:47
 овца	sheep	nom pl овцы, g pl овец, d pl овцам		
 относить/отнести (+a)	to take (somewhere)	p отнесу, отнесёшь; past отнёс, отнесла		
 падение	fall			
@@ -2415,7 +2415,7 @@
 наивный	naive			
 налево	to the left			
 обман	deceit, deception	В жизни честного человека нет места обману		
-переживать/пережить (+a)	to live through; experience; outlive; suffer	p переживу, переживёшь, past пережил, пережила, пережило	deck#3	due@2020-10-25 19:57:06
+переживать/пережить (+a)	to live through; experience; outlive; suffer	p переживу, переживёшь, past пережил, пережила, пережило	deck#4	due@2021-03-16 18:00:32
 печатать/на- (+a)	to print			
 пешком	on foot			
 повар	cook	nom pl повара		
@@ -2489,7 +2489,7 @@
 выше	higher, above			
 видение	vision			
 грешный	sinful			
-компьютер	computer		deck#5	due@2020-12-29 18:24:27
+компьютер	computer		deck#6	due@2022-02-09 18:06:23
 сражение	battle			
 вор	thief	nom pl во́ры, g pl воро́в		
 загадочный	mysterious			
