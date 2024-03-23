@@ -2,14 +2,14 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	爱	aì	love		deck#5	due@2024-03-21 13:26:56
 1+	爱人	aìrén	partner		deck#4	due@2024-01-21 22:00:35
 1+	爱好	aìhǎo	hobby		deck#3	due@2024-01-06 20:02:10
-3	可爱	kěài	adorable		deck#5	due@2024-03-18 19:53:10
+3	可爱	kěài	adorable		deck#5	due@2024-06-21 18:25:39
 5	恋爱	liànài	love (v)			due@2023-12-22 13:03:59
 1	八	bā	eight		deck#4	due@2024-01-21 22:03:39
 1	爸爸	bàbà	father		deck#3	due@2024-01-13 23:33:02
 3	爷爷	yéyé	grandfather		deck#3	due@2023-12-28 11:01:16
 1	不	bù	no/not		deck#6	due@2024-12-15 11:04:25
 1	不客气	búkèqi	you're welcome		deck#4	due@2024-02-27 16:01:56
-1	本	běn	book (n), original (a)		deck#5	due@2024-03-21 13:37:01
+1	本	běn	book (n), original (a)		deck#5	due@2024-06-21 18:25:02
 4	本来	běnlài	at first (adv), original (a)		deck#3	due@2023-12-30 14:30:13
 5	根本	gēnběn	at all (adv)			due@2023-12-22 13:41:09
 5	基本	jīběn	basic/basically/essential			due@2023-12-22 22:04:18
@@ -48,7 +48,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	公里	gōnglǐ	kilometer			
 3	办公室	bànggōngshì	office		deck#3	due@2023-12-28 11:33:15
 3	办法	bànfǎ	method/way		deck#3	due@2024-01-06 20:32:02
-4	法律	fǎlǜ	law		deck#2	due@2024-01-07 11:24:02
+4	法律	fǎlǜ	law		deck#2	due@2024-03-24 18:23:47
 5	法院	fǎyuàn	court			due@2023-12-22 21:54:05
 5	合法	héfǎ	legal			
 6	非法	fēifǎ	illegal		deck#3	due@2024-01-06 20:08:41
@@ -86,7 +86,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	夕	xī	dusk			due@2023-12-22 22:05:59
 2	外	wài	outside/out/foreign			
 1	多	duō	many		deck#6	due@2024-12-15 11:05:57
-1	多少	duōshǎo	how much/many?		deck#4	due@2024-01-21 22:00:07
+1	多少	duōshǎo	how much/many?		deck#5	due@2024-06-21 18:24:36
 4	许多	xǔduō	many	城市有许多商店。	许=promise/praise/allow	deck#3	due@2024-01-13 11:16:24
 4	够	gòu	enough			
 1	岁	suì	age/years		deck#5	due@2024-03-20 11:36:21
@@ -520,7 +520,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	喂	wéi	hello (on phone)			
 1	五	wǔ	five		deck#6	due@2024-12-15 11:05:24
 1	喜欢	xǐhuan	to like			
-1	下	xià	down/under/last		deck#4	due@2024-01-21 22:12:18
+1	下	xià	down/under/last		deck#5	due@2024-06-21 18:24:11
 1	下午	xiàwǔ	afternoon		deck#3	due@2023-12-30 13:57:23
 1	下雨	xiàyǔ	rain (v)		deck#4	due@2024-01-29 19:43:37
 2	一下	yíxià	at once		deck#3	due@2023-12-28 11:07:04
@@ -698,7 +698,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	轻	qīng	light/gently			due@2023-12-22 21:58:52
 3	年轻	niánqīng	young		deck#3	due@2024-01-13 23:30:33
 4	停	tíng	stop/park	他们就是让我们停	deck#4	due@2024-01-20 11:06:16
-2	从	cóng	from		deck#3	due@2023-12-29 22:04:45
+2	从	cóng	from		deck#4	due@2024-04-22 18:25:07
 4	从来	cónglái	always/never			due@2023-12-22 21:44:06
 2	最	zuì	most (superlative marker)		deck#4	due@2024-02-05 23:34:03
 3	最近	zuìjìn	recently		deck#4	due@2024-01-18 19:37:31
@@ -763,7 +763,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	美元	měiyuán	US dollar		deck#3	due@2024-01-06 20:02:36
 2	送	sòng	to send / to see sb off	你可以送我一封信吗？	deck#4	due@2024-01-20 11:03:46
 2	长	cháng/zhǎng	long/length;to grow		deck#3	due@2023-12-30 14:31:52
-3	张	zhāng	to open/stretch/extend (MW for sheets/paper/furniture)		deck#3	due@2024-01-06 19:42:15
+3	张	zhāng	to open/stretch/extend (MW for sheets/paper/furniture)		deck#3	due@2024-03-30 18:25:46
 3	矮	ǎi	short, low		deck#3	due@2023-12-30 14:35:34
 3	低	dī	low		deck#3	due@2023-12-30 13:59:16
 3	短	duǎn	short/owe		deck#2	due@2023-12-25 15:28:41
@@ -879,7 +879,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 !	员	yuán	member		deck#3	due@2023-12-31 15:27:21
 5	圆	yuán	round		deck#3	due@2023-12-28 11:35:25
 2	便宜	piányi	cheap	我们的衣服真的很便宜。	(宜=suitable)	deck#4	due@2024-01-20 11:01:41
-3	见面	jiànmiàn	meeting/to meet		deck#4	due@2024-01-20 11:05:22
+3	见面	jiànmiàn	meeting/to meet		deck#3	due@2024-03-30 18:24:02
 4	质量	zhìliàng	quality			due@2023-12-22 22:03:18
 3	习惯	xíguàn	be used to/habit	我习惯早起。	(SYN: 惯于)	deck#3	due@2024-02-04 16:08:06
 &	田	tián	field		deck#4	due@2024-01-21 13:26:38
@@ -981,7 +981,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	当	dāng	should (aux v)		deck#3	due@2023-12-31 15:28:12
 4	当时	dāngshī	at that time, then			
 3	当然	dāngrán	of course		deck#3	due@2023-12-31 15:32:48
-5	当心	dāngxīn	be careful	你如果不当心, 会受伤的	deck#2	due@2024-01-07 11:14:48
+5	当心	dāngxīn	be careful	你如果不当心, 会受伤的	deck#3	due@2024-03-30 18:25:33
 &	风	fēng	wind		deck#4	due@2024-02-05 23:32:07
 4	刚	gāng	just	我刚才吃饭了。	deck#3	due@2024-01-13 11:18:40
 &	网	wǎng	net		deck#4	due@2024-02-05 23:29:45
@@ -1017,7 +1017,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	沙滩	shātān	beach			due@2023-12-22 21:58:54
 3	香蕉	xiāngjiāo	banana			due@2023-12-22 22:06:51
 2	西瓜	xīguā	melon			
-3	被	bèi	passive marker		deck#2	due@2023-12-31 20:04:27
+3	被	bèi	passive marker		deck#2	due@2024-03-24 18:24:29
 4	支持	zhīchí	support			due@2023-12-22 13:04:19
 4	皮肤	pífū	skin			due@2023-12-22 21:59:32
 6+	波浪	bōlàng	wave		deck#2	due@2024-01-07 11:26:30
