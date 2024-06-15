@@ -235,6 +235,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	其实	qíshí	actually	其实没有发生。	
 3	其他/其它	qítā	other/else/the rest	她不像其他女孩一样	deck#4	due@2024-07-08 21:39:22
 4	尤其	yóuqí	especially	尤其是要注意你吃的和喝的东西。	
+4	其中	qízhōng	amongst/among these/included	我们班有四个学生。其中三个中国人。
 1	太	tài	too/so/such		deck#6	due@2025-06-03 21:24:40
 3	太阳	tàiyáng	sun	太阳下山了。	deck#4	due@2024-07-08 21:35:34
 6	太空	tàikōng	space		deck#4	due@2024-07-08 21:38:51
@@ -253,10 +254,12 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	严重	yǎnzhòng	serious	这个问题很严重。	
 4	严格	yǎngé	strict	他对自己的孩子很严格。	deck#2	due@2024-06-14 18:28:17
 4	窗户	chuānghu	window	别忘记关窗户。	deck#4	due@2024-07-08 21:38:34
+4	护士	hùshi	nurse
 3	邻居	línjū	neighbour	我讨厌我的邻居。		
 1	开	kāi	to open		deck#5	due@2024-09-06 21:19:50
 2	开始	kāishǐ	to begin/to start, beginning (n)	我开始记起来了。	deck#5	due@2024-09-06 21:14:08
 ？	开车	kāichē	to drive		deck#4	due@2024-07-08 21:36:31
+4	开刀	kāidāo	to operate/surgery
 4	开心	kāixīn	happy		deck#4	due@2024-07-08 21:39:31
 3	结束	jiéshù	to end/to finish		deck#2	due@2024-06-14 18:13:49
 3	结婚	jiéhūn	to get married	她决定和他结婚。	结=tie,婚=marriage	deck#4	due@2024-07-08 21:40:46
@@ -319,6 +322,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	表扬	biǎoyáng	praise			due@2023-12-22 22:03:08
 1	了	le	past particle/change marker	天气冷了。	deck#6	due@2024-12-13 19:05:52
 1	冷	lěng	cold	天气冷了。	deck#5	due@2024-09-06 21:15:04
+4	冷静	lěngjìng	calm/cool-headed/sober	我们只须保持冷静。
 1	水	shǔi	water		deck#5	due@2024-09-06 21:31:48
 2+	冰	bīng	ice		deck#4	due@2024-07-08 21:49:48
 3+	冰箱	bīngxiāng	refrigerator		deck#4	due@2024-07-08 21:51:53
@@ -405,8 +409,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4+	共产党	gōngchǎndǎng	the Communist Party	他自愿加入中国共产党。		due@2023-12-22 21:53:08
 !	女	nǚ	woman/female		deck#5	due@2024-06-21 19:10:27
 1	女儿	nǚér	daughter		deck#5	due@2024-09-06 21:32:55
-3	安静	ānjìng	quiet/peaceful	房间是安静和干净。	(安=peace/quiet/calm)	deck#3	due@2024-06-20 18:10:41
-4	安全	ānquán	safe/secure/security	安全是重要的。	(syn: 平安， píngān, 5)	deck#4	due@2024-07-08 21:41:31
+3	安静	ānjìng	quiet/peaceful	房间是安静和干净。	deck#3	due@2024-06-20 18:10:41
+4	安全	ānquán	safe/secure/security	安全是重要的。	deck#4	due@2024-07-08 21:41:31
 4+	按	àn	according to			due@2023-12-22 13:21:18
 1	朋友	péngyou	friend		deck#5	due@2024-09-06 21:53:29
 3	明白	míngbai	to understand		deck#4	due@2024-07-08 21:50:56
@@ -692,6 +696,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	河	hé	river	他坐在河边。	deck#4	due@2024-07-08 21:21:14
 &	湖	hú	lake	这片湖是日本最深的。	deck#4	due@2024-07-08 21:12:49
 &	胡子	húzi	moustache/beard			
+3	根据	gēnjù	according to/based on	根据我所知，这本书还没被翻译成日语。
+4	剧院	jùyuàn	theatre (building)	这家剧院的节目很好。
 2	别	bié	other  / don't ..!		deck#5	due@2024-09-06 21:47:43
 &	别的	biéde	other,others (pron), otherwise	他不想要别的东西了。	deck#5	due@2024-09-06 21:38:46
 3	特别	tèbié	peculiar/exceptional (a, adv), especially		deck#4	due@2024-07-08 21:14:10
@@ -719,8 +725,11 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	炊	chuī	to cook		deck#2	due@2024-06-14 18:30:37
 3	饮料	yǐnliào	drink (n)		deck#2	due@2024-06-14 18:23:53
 &	欧州	oūzhōu	Europe		deck#4	due@2024-07-08 21:53:14
+1	欢迎	huānyíng	welcome
 3	又	yòu	again, also, both, another	今天他又来了。/ 我现在有累锇	deck#5	due@2024-09-06 21:15:11
 3	双	shuāng	two/double/ MW for pairs		deck#4	due@2024-07-08 21:53:47
+4	观众	guānzhòng	spectator/audience	观众鼓了掌。
+5	观点	guāndiǎn	point of view/standpoint	她持有与我不同的观点。
 4	反对	fǎnduì	to oppose			due@2023-12-22 22:05:54
 5	反应	fǎnyìng	to react/respond			due@2023-12-22 13:30:01
 5	反正	fǎnzhèng	anyway			due@2023-12-22 13:21:23
@@ -839,7 +848,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	运动	yùndòng	(physical) exercise,sports,movement		deck#4	due@2024-07-08 21:47:38
 &	运气	yùnqì	luck (good or bad)			due@2024-06-13 18:31:05
 3	层	céng	MW:layer/floor/step	这幢大楼有3层。	deck#4	due@2024-07-08 21:16:48
-4	活动	huódòng	activity		deck#4	due@2024-07-08 21:12:08
+4	活动	huódòng	activity (n) / to move (v)	他想参加活动。	deck#4	due@2024-07-08 21:12:08
 4	感动	gǎndòng	moved/touched (emotionally)			due@2023-12-22 22:03:49
 3	动物	dòngwù	animal		deck#4	due@2024-07-08 21:18:24
 4	植物	zhíwù	plant			due@2023-12-22 21:51:19
@@ -849,9 +858,9 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	饱	bǎo	full			
 2	报纸	bàozhǐ	newspaper		deck#3	due@2024-06-20 18:01:54
 &	纸	zhǐ	paper		deck#3	due@2024-06-20 18:09:23
-5	报告	bàogào	report (v/n)			due@2023-12-22 13:44:46
-5	报道	bàodao	report (v/n)		deck#2	due@2024-06-14 18:27:30
-4	报名	bàomíng	register/sign up/registration			due@2023-12-22 13:50:13
+5	报告	bàogào	report (v/n)	这份报告完全错误。		due@2023-12-22 13:44:46
+5	报道	bàodao	report (v/n)	他写了非常有深的报道。	deck#2	due@2024-06-14 18:27:30
+4	报名	bàomíng	register/sign up/registration	我昨天就包了名。		due@2023-12-22 13:50:13
 2	路	lù	road/path	路两边有许多树。	deck#4	due@2024-07-08 21:14:04
 2	跑步	pǎobù	to run		deck#4	due@2024-07-08 21:30:55
 &	跳	tiào	jump/beat(heart)/bounce		deck#2	due@2024-06-14 18:20:46
@@ -863,9 +872,9 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	绿(色)	lǘ(sè)	green	你们喝绿茶吗？	deck#5	due@2024-09-06 21:45:42
 2	黄(色)	huáng(sè)	yellow		deck#4	due@2024-07-08 21:24:10
 5	紫(色)	zǐ(sè)	purple			due@2024-06-13 18:19:53
-3	脸	liǎn	face		deck#4	due@2024-07-08 21:24:16
-3	检查	jiǎnchá	examine/inspect			
-3+	查	chá	inspect/investigate		deck#2	due@2024-06-14 18:11:30
+3	脸	liǎn	face	洗脸吧。	deck#4	due@2024-07-08 21:24:16
+3	检查	jiǎnchá	examine/inspect	他进去检查过了。		
+3+	查	chá	inspect/investigate	他查看了地方。	deck#2	due@2024-06-14 18:11:30
 2	姓	xìng	family name/surname		deck#4	due@2024-07-08 21:26:16
 &	雨	yǔ	rain		deck#5	due@2024-09-06 21:48:02
 &	雨伞	yǔsǎn	umbrella		deck#4	due@2024-07-08 21:43:13
@@ -913,10 +922,10 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	掉	diù	fall/lose			
 3	鼻子	bízi	nose		deck#4	due@2024-07-13 18:30:12
 2	鱼	yú	fish		deck#5	due@2024-09-06 21:41:19
-4	演员	yǎnyuán	actor		deck#2	due@2024-06-14 18:26:19
-4	演出	yǎnchū	perform/act/performance			
+4	演员	yǎnyuán	actor	他不是歌手，但是个演员。	deck#2	due@2024-06-14 18:26:19
+4	演出	yǎnchū	perform/act/performance	演出真的很有意思， 你应去看看的。		
 2	游泳	yǒuyǒng	to swim	小鸭游泳得不好	deck#4	due@2024-07-08 21:23:08
-3	游戏	yóuxì	game		deck#3	due@2024-06-20 18:04:07
+3	游戏	yóuxì	game	我觉得我不太喜欢这游戏。	deck#3	due@2024-06-20 18:04:07
 &	游人	yóurén	tourist		deck#3	due@2024-06-15 21:19:27
 &	游客	yóukè	tourist			due@2023-12-22 13:30:13
 4	永远	yǒngyuǎn	eternal/always/ever		deck#2	due@2024-06-14 18:31:19
@@ -981,6 +990,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	解决	jiějué	solve	我知道怎么解决这个问题。	due@2023-12-22 22:12:40
 4	解释	jiěshì	explain	让我解释。			
 3	了解	liǎojiě	understand	她对我什么都不了解。	deck#3	due@2024-06-20 18:02:39
+4	理解	lǐjiě	to understand/understanding (sense,motivation,opinon)	这个意思，我理解。
+4	理想	lǐxiǎng	ideal/objective/wish (n)	不同的人有不同的理想
 6	解放	jiěfàng	liberate			
 3	更	gèng	more/even more/further	您比我更高。	deck#5	due@2024-09-06 21:39:05
 3	历史	lìshǐ	history	我对亚洲的历史很感兴趣	deck#3	due@2024-06-15 21:26:53
@@ -1050,10 +1061,10 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3+	加	jiā	add/increase		deck#5	due@2024-09-06 21:40:08
 3+	架	jià	to construct/to support/frame		deck#2	due@2024-06-14 18:27:39
 3	参加	cānjiā	participate/take part in	我必须参加考试。	deck#5	due@2024-09-06 21:20:06
-4	翻译	fānyì	translate/translator		deck#4	due@2024-07-08 21:51:29
+4	翻译	fānyì	translate/translator	根据我所知，这本书还没被翻译成日语。	deck#4	due@2024-07-08 21:51:29
 4	保护	bǎohù	protect/defend			due@2023-12-22 21:35:41
-4	保证	bǎozhèng	ensure/guarantee			due@2023-12-22 13:30:19
-5	保持	bǎochí	maintain/hold			due@2023-12-21 11:35:13
+4	保证	bǎozhèng	ensure/guarantee/promise	我保证我会做的。		due@2023-12-22 13:30:19
+5	保持	bǎochí	maintain/hold	我们只须保持冷静		due@2023-12-21 11:35:13
 5	尽快	jǐnkuài	as soon as possible			due@2024-06-13 18:25:29
 4	尽管	jǐnguǎn	even though..			due@2023-12-22 21:55:35
 5	尽力	jǐnlì	try one’s hardest (努力)			due@2023-12-22 13:35:56
