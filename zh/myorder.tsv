@@ -76,7 +76,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	电视	diànshì	television	他把电视关掉	deck#5	due@2024-09-06 21:53:56
 1	电影	diànyǐng	film	我要跟我朋友去看电影	deck#4	due@2024-07-08 21:50:21
 1+	电话	diànhuà	telephone		deck#5	due@2024-09-06 21:11:26
-3+	视频	shìpín	video	我真的很喜欢看你的视频。	deck#2	due@2024-06-14 18:16:02
+3+	视频	shìpín	video	我真的很喜欢看你的视频。	deck#2	due@2024-06-17 22:19:49
 1	四	sì	four		deck#5	due@2024-09-14 18:20:42
 3	西	xī	west		deck#6	due@2025-06-03 21:49:01
 1	东西	dōngxi	thing		deck#4	due@2024-07-08 21:47:48
@@ -144,7 +144,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	狼	láng	wolf		deck#2	due@2024-06-14 18:06:11
 5	狮子	shīzi	lion		deck#5	due@2024-09-06 21:44:08
 4	帅	shuài	handsome			
-5	猴子	hóuzi	monkey			due@2023-12-22 21:49:15
+5	猴子	hóuzi	monkey			due@2024-06-16 22:17:29
 4	老虎	lǎohǔ	tiger		deck#2	due@2024-06-17 18:18:07
 3	熊猫	xióngmāo	panda			
 3+	熊	xióng	bear		deck#4	due@2024-07-08 21:29:56
@@ -181,7 +181,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	远	yuǎn	far			
 2	近	jìn	close	公园离商店很近。	deck#4	due@2024-07-08 21:46:13
 2	进	jìn	to enter/come in		deck#3	due@2024-06-15 21:50:26
-2	进入	jìnrù	to enter/come in	(入=enter/join)		
+2	进入	jìnrù	to enter/come in	(入=enter/join)	deck#3	due@2024-06-23 22:20:58
 3	讲	jiǎng	to speak/explain/discuss		deck#3	due@2024-06-20 18:09:18
 5	进步	jìnbù	improve/progress/advanced			due@2023-12-22 13:30:32
 2	到	dào	to arrive/go		deck#5	due@2024-09-06 21:52:30
@@ -249,7 +249,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	切	qiē	to cut	我切这个蛋糕。		
 4	一切	yíqiè	all/everything	我们一切都好，谢谢。	deck#3	due@2024-06-15 21:16:34
 5	伤害	shānghài	injure/hurt	他伤害了他的左手。	deck#2	due@2023-12-22 22:00:11
-4	伤心	shāngxīn	sad/saddened	这个消息让她很伤心。		due@2023-12-22 21:44:43
+4	伤心	shāngxīn	sad/saddened	这个消息让她很伤心。	deck#2	due@2024-06-17 22:20:52
 1	家	jiā	family, home		deck#5	due@2024-06-21 18:59:38
 3	国家	guójiā	state		deck#4	due@2024-07-08 21:53:05
 5	家庭	jiātíng	family	我有一个大家庭。	deck#4	due@2024-07-08 21:18:00
@@ -426,7 +426,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3+	课文	kèwén	text	我读课文。	deck#4	due@2024-07-08 21:35:16
 4	辣	là	spicy/hot	我们爱辣的。		due@2023-12-22 22:05:22
 3	关	guān	to close, to turn off		deck#4	due@2024-07-08 21:30:13
-3	关系	guānxi	relation/reason/impact			
+3	关系	guānxi	relation/reason/impact		deck#3	due@2024-06-23 22:20:33
 1	没关系	méiguānxi	it doesn't matter		deck#4	due@2024-07-08 21:37:56
 4	联系	liánxì	contact/link/connect (v/n)	请联系医生。		
 3	关心	guānxīn	to concern/to worry		deck#3	due@2024-06-15 21:47:16
@@ -892,7 +892,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 6	攻克	gōngkè	capture/conquer	我可以攻克英语!		
 3	才	cái	just,really (adv), not until now/only, ability (n),			
 6	才干	cáigàn	ability	我们相信他的才干。 (SYN: 才能)		due@2024-06-16 18:10:19
-&	龙	lóng	dragon	龙年结束了。		
+&	龙	lóng	dragon	龙年结束了。	deck#3	due@2024-06-23 22:19:08
 4	优秀	yōuxiù	excellent/outstanding	她是优秀生。		
 4	优点	yōudiǎn	advantage/strength/merit/benefit/strong point	这方法有什么优点和缺点？		
 4	允许	yǔnxǔ	to permit/permission/allow	这里允许拍照吗？		
@@ -1371,7 +1371,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 6	财富	cáifù	wealth	健康胜于财富。		
 6	财政	cáizhèng	finance			due@2023-12-22 13:49:04
 4	警察	jǐngchá	police/policeman	门口有有一位警察。		
-6	警告	jǐnggào	warn	我警告过你别来这里。		due@2023-12-22 22:02:41
+6	警告	jǐnggào	warn	我警告过你别来这里。	deck#2	due@2024-06-17 22:21:19
 5	威胁	wēixié	threaten			
 6	威力	wēilì	power			due@2024-06-16 17:36:35
 4+	军	jūn	army/military		deck#3	due@2024-06-20 18:02:22
