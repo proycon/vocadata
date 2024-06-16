@@ -166,7 +166,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	限制	xiànzhǐ	limit (v/n)	有速度限制吗?		
 4	浪漫	làngmàn	romantic	太浪漫了！	deck#2	due@2024-06-17 18:07:11
 1	后面/边	hòumiàn/bian	behind, later (adv)		deck#5	due@2024-09-14 17:36:12
-&	友	yǒu	friend			
+&	友	yǒu	friend		deck#2	due@2024-06-17 20:21:39
 4	友好	yǒuhǎo	friendly	这儿的人们都很友好。		
 2	右	yòu	right		deck#5	due@2024-09-06 21:50:36
 2	左	zuǒ	left		deck#4	due@2024-07-08 21:35:00
@@ -317,7 +317,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	结果	jiéguǒ	outcome/result/conclusion/in the end	我不想看到这样的结果。	deck#3	due@2024-06-20 18:04:47
 4	效果	xiàoguǒ	result/effect	吃这个药的效果很好。	deck#2	due@2024-06-17 18:20:40
 1	看	kàn	to look		deck#6	due@2024-12-15 11:01:00
-1	看见	kànjiàn	to see			
+1	看见	kànjiàn	to see		deck#5	due@2024-09-14 20:21:44
 2+	看书	kànshū	to read (a book)/study		deck#5	due@2024-09-06 21:37:00
 2+	看到	kàndão	to see/to notice		deck#4	due@2024-07-08 21:19:13
 2+	看来	kànlái	to seem, view (n)			
@@ -521,7 +521,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	情况	qíngkuàng	situation	情况可能有变。		
 4	精彩	jīngcǎi	wonderful/brilliant			due@2024-06-16 18:09:46
 4	猜	cāi	guess	我猜出来了，她有没有孩子。		due@2024-06-13 18:28:54
-3	故事	gùshi	story	给我讲个好故事	deck#2	due@2024-06-14 18:14:32
+3	故事	gùshi	story	给我讲个好故事	deck#3	due@2024-06-23 21:29:25
 4	建议	jiànyì	propose	他提建议：他建议不这样做。	deck#2	due@2024-06-17 17:41:44
 5	建设	jiànshè	build			due@2023-12-22 13:36:01
 1	热	rè	hot/warm	今天天气很热。	deck#4	due@2024-07-08 21:36:54
@@ -770,7 +770,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	村子	cūnzi	village	我住在一个村子。		
 3	讨厌	tǎoyàn	to hate/dislike/disgusting	我讨厌我的邻居。	deck#2	due@2024-06-14 18:22:56
 3	讨论	tǎolùn	discuss/discussion	这问题正在被讨论。	deck#2	due@2024-06-14 18:01:49
-6	评论	pínglùn	comment/review			
+6	评论	pínglùn	comment/review			due@2024-06-16 21:29:35
 5	议论	yìlùn	discuss/talk			due@2023-12-22 21:38:18
 &	付	fù	hand over/pay		deck#4	due@2024-07-08 21:46:01
 4	付钱	fùqián	to pay			due@2023-12-22 13:14:39
@@ -1066,7 +1066,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	跑步	pǎobù	to run		deck#4	due@2024-07-08 21:30:55
 &	跳	tiào	jump/beat(heart)/bounce		deck#2	due@2024-06-14 18:20:46
 2	跳舞	tiàowǔ	dance	她喜欢跳舞。	deck#2	due@2024-06-14 18:22:06
-4	杂志	zázhì	magazine			due@2023-12-22 13:26:14
+4	杂志	zázhì	magazine		deck#2	due@2024-06-17 21:30:07
 4	复杂	fùzá	complicated	我的作业很复杂。		
 4	复印	fùyìn	to copy	请把每一页复印三份。		
 2	颜色	yánsè	color		deck#3	due@2024-06-15 21:37:21
@@ -1083,7 +1083,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 6	检验	jiǎnyàn	to inspect/examine/test			
 4	经验	jīngyàn	experience	我什么经验都没有。		due@2024-06-16 17:47:51
 4	危险	wěixiàn	danger/dangerous	危险还没有度过。		
-5	危害	wěihài	endanger/harm/jeapardize	有些药品会对身体产生危害。		
+5	危害	wěihài	endanger/harm/jeapardize	有些药品会对身体产生危害。		due@2024-06-16 21:29:52
 4	可怜	kělián	pitiful/poor/pathetic; to have pity	请可怜我吧！		
 2	姓	xìng	family name/surname		deck#4	due@2024-07-08 21:26:16
 4	性格	xìnggé	personality/nature			
@@ -1186,7 +1186,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	超过	cháoguò	surpass/leave behind		deck#2	due@2024-06-14 18:28:38
 3	遇到	yùdào	to meet/encounter	昨天我遇到你父母了。		
 3	或者	huǒzhè	or		deck#4	due@2024-07-08 21:25:58
-4	感谢	gǎnxiè	thank/gratitude			
+4	感谢	gǎnxiè	thank/gratitude		deck#3	due@2024-06-23 20:20:55
 4	减	jiǎn	to reduce/to decrease/to substract			
 4	减少	jiǎnshǎo	to reduce/to decrease	人口的减少会给让我们带来问题。		
 &	打	dā	to hit/play/hold/open/do/send		deck#4	due@2024-07-08 21:12:45
@@ -1398,7 +1398,7 @@ G	没有···那么/这么···	méiyǒu..nàme..	is not as .. as ..	今天的
 4G	对...来说	duì...láishūo	from .... perspective			
 4G	不仅...而且...	bùjǐn..ěrqiě	not only... but also			
 4G	先..., 才...	xiān...,cái....	first..., only then...			
-4G	这样一来...	zhèyàngyilái	in this case ...	这样一来，孩子就是很高兴。		
+4G	这样一来...	zhèyàngyilái	in this case ...	这样一来，孩子就是很高兴。		due@2024-06-16 20:20:47
 #METADATA:
 #METADATA:
 #METADATA:
