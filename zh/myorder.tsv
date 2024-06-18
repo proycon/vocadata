@@ -12,6 +12,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	爷爷	yéyé	grandfather	我的爷爷是大夫。	deck#4	due@2024-07-08 21:25:30
 1	不	bù	no/not	我不知道。	deck#6	due@2024-12-15 11:04:25
 1	不客气	búkèqi	you're welcome	不客气，没有问题。	deck#5	due@2024-09-06 21:47:20
+4	不得不	bùdébù	to have to/to have no choice but	由于身体的原因，我不得不改变工作。
 1	本	běn	book (n), original (a)	我读一本书。	deck#5	due@2024-06-21 18:25:02
 4	本来	běnlài	at first (adv), original (a), originally	本来的意思是什么？	deck#4	due@2024-07-08 21:35:13
 5	根本	gēnběn	at all (adv)	我根本不累。		due@2024-06-16 17:37:01
@@ -311,7 +312,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	开刀	kāidāo	to operate/surgery			
 4	开心	kāixīn	happy	我很开心。	deck#4	due@2024-07-08 21:39:31
 4	并不	bìngbù	not at all	他并不帅。		
-4	并且	bìngqiě	and/besides/moreover/furthermore/in addition			
+4	并且	bìngqiě	and/besides/moreover/furthermore/in addition	他们结婚了，并且生了两个女儿。		
 3	饼干	bǐnggān	cookie/cracker	谁吃了全部饼干？		
 4	拼音	pīnyīn	Pinyin	我能读拼音。		
 4	瓶子	píngzi	bottle	那个空瓶子是他的。		
@@ -754,6 +755,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	改变	gǎibiàn	to change/transform	我们改变了世界。		
 3	花	huā	flower/spent(v)	我买了花。花了二十元。	deck#4	due@2024-07-08 21:35:22
 3+	华	huá	magnificent,prosperous,grey,Chinese		deck#4	due@2024-07-08 21:41:49
+4	毕业	bìyè	to graduate/graduation	毕业后，我打算留在国内读博士。
 4	货	huò	goods/wares	现代很多的货物都由飞机运送。		
 1	坐	zuò	to sit	你在这把椅子坐吧。		
 4	座	zuò	seat/MW for bridges, buildings and cities	这座大楼是我的房子。		
@@ -825,6 +827,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	声调	shēngdiào	tone	她声调突然变了。		due@2023-12-22 22:01:35
 3	音乐	yīnyuè	music	他很喜欢音乐。		
 4	普遍	pǔbiàn	common/commonly	法国人普遍很热情。	deck#2	due@2024-06-14 18:21:26
+4	遍	biàn	a time/a turn/everywhere/MW for times and turns
 4	篇	piān	MW for texts	一篇文章。		
 4+	普通	pǔtōng	common/ordinary	我儿子是个普通的孩子。	deck#3	due@2024-06-20 18:11:38
 3	普通话	pǔtōnghuà	Mandarin	你会说普通话吗？	deck#5	due@2024-09-06 21:40:24
@@ -879,7 +882,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	砍	kǎn	chop/cut	她在后院砍伐了一棵树。		due@2024-06-13 18:22:43
 &	炊	chuī	to cook/steam		deck#2	due@2024-06-17 18:17:03
 3	饮料	yǐnliào	drink (n)	果汁是饮料。	deck#2	due@2024-06-14 18:23:53
-4	材料	cáiliào	materials/resources	她在为一本书收集材料。		
+4	材料	cáiliào	materials/resources/data	她在为一本书收集材料。		
 4.	饮食	yǐnshí	food			
 1	欢迎	huānyíng	welcome			
 3	又	yòu	again, also, both, another	今天他又来了。/ 我现在有累锇	deck#5	due@2024-09-06 21:15:11
@@ -1106,6 +1109,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	零	líng	zero	我很冷，现在是零下十度。	deck#4	due@2024-07-08 21:19:49
 5	杀	shā	to kill/murder	我爸会杀了我的。		
 !	示	shì	show		deck#2	due@2024-06-18 21:43:03
+4	标准	biāozhǔn	standard	虽然他在中国长大，但是他的普通话并不标准。
 3	表示	biǎoshì	show/express/indicate/attitude		deck#4	due@2024-07-08 21:54:28
 3	除了	chúle	except/apart from	除了我没有人		
 3G	除了···以外	chúle...yiwai	except/apart from	除了钢琴以外，还会玩什么乐器吗？		due@2023-12-22 21:55:37
@@ -1392,6 +1396,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	着陆	zhuólù	to land/landing	飞机什么时候着陆？	deck#2	due@2024-06-18 21:42:16
 5	集合	jíhé	to gather/a gathering	他们已经集合了。		
 5	遵守	zūnshǒu	to comply with/abide by/respect	司机应该遵守交通规则。		
+4	博士	bóshì	doctor/PhD (academic)	毕业后，我打算读博士。
 G	一···就	yī...jiú	as soon as	他一到城市就给我打了电话。		due@2023-12-22 21:55:50
 G	连···都	lián...dōu	even	连小孩子都会做。		due@2023-12-22 22:03:30
 G	不是···就是···	bùshi...jiùshi	If it's not..then it's...	我做的蛋糕不是被你吃了，就是被你妹妹吃了。		due@2023-12-22 22:04:48
@@ -1400,7 +1405,8 @@ G	从···起，···	cóng...qǐ	from (time)	从上周三起，她一直缺�
 G	只有···，才···	zhǐyǒu...cái	only if..., then...	只有得了签证才可以来中国。	deck#2	due@2024-06-14 18:22:18
 4G	既然···，就/也/那	jìrán...jiù/yě/nà	since (reason)/as..., then..	既然雨已经停了, 我们就可以回家了.		due@2024-06-13 18:24:51
 G	先···，再···	xiān...zài	First..., then...		deck#3	due@2024-06-23 17:49:15
-G	不管···，都/也	bùguǎn..dōu/yě	No matter.., (result)	不管谁来，都别开门。	deck#2	due@2024-06-14 18:25:20
+4G	不管···，都/也	bùguǎn..dōu/yě	No matter.., (result)	不管谁来，都别开门。	deck#2	due@2024-06-14 18:25:20
+4G	....,不过...	buguò	but/yet	我没看过这部电影，不过我知道它很受欢迎。
 5G	趁···，···	chén...	Since (reason), (opportunity)	应该趁年轻多读点书。		
 G	没有···那么/这么···	méiyǒu..nàme..	is not as .. as ..	今天的天气没有昨天的那么好。	deck#4	due@2024-07-08 21:42:03
 5G	与其···，不如···	yǔqí...bùrú....	Rather than ...., it's better to ...	与其说他诚实，不如说他聪明。		due@2023-12-22 13:36:49
