@@ -1,71 +1,70 @@
 LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
-1	爱	aì	love		deck#6	due@2025-06-03 21:50:30
-1+	爱人	aìrén	partner		deck#5	due@2024-06-21 18:59:36
+1	爱	aì	love	我爱你。	deck#6	due@2025-06-03 21:50:30
+1+	爱人	aìrén	partner	我爱我的爱人。	deck#5	due@2024-06-21 18:59:36
 1+	爱好	aìhǎo	hobby		deck#4	due@2024-07-08 21:22:25
-3	可爱	kěài	adorable		deck#5	due@2024-06-21 18:25:39
+3	可爱	kěài	adorable	我的狗很可爱。	deck#5	due@2024-06-21 18:25:39
 5	恋爱	liànài	love (v)			due@2023-12-22 13:03:59
 4	受到	shòudào	to receive (influence,restriction),be subject to			
 4	受不了	shòubuliǎo	can't stand	天气太热，我真受不了！		
 4	受得了	shòudeliǎo	to endure	她受得了长途旅行吗？		
 1	八	bā	eight		deck#5	due@2024-09-06 21:22:36
-1	爸爸	bàbà	father		deck#5	due@2024-09-06 21:25:15
-3	爷爷	yéyé	grandfather		deck#4	due@2024-07-08 21:25:30
-1	不	bù	no/not		deck#6	due@2024-12-15 11:04:25
-1	不客气	búkèqi	you're welcome		deck#5	due@2024-09-06 21:47:20
-1	本	běn	book (n), original (a)		deck#5	due@2024-06-21 18:25:02
+1	爸爸	bàbà	father	我的爸爸是老师。	deck#5	due@2024-09-06 21:25:15
+3	爷爷	yéyé	grandfather	我的爷爷是大夫。	deck#4	due@2024-07-08 21:25:30
+1	不	bù	no/not	我不知道。	deck#6	due@2024-12-15 11:04:25
+1	不客气	búkèqi	you're welcome	不客气，没有问题。	deck#5	due@2024-09-06 21:47:20
+1	本	běn	book (n), original (a)	我读一本书。	deck#5	due@2024-06-21 18:25:02
 4	本来	běnlài	at first (adv), original (a), originally	本来的意思是什么？	deck#4	due@2024-07-08 21:35:13
-5	根本	gēnběn	at all (adv)			due@2024-06-16 17:37:01
-5	基本	jīběn	basic/basically/essential			due@2023-12-22 22:04:18
+5	根本	gēnběn	at all (adv)	我根本不累。		due@2024-06-16 17:37:01
+5	基本	jīběn	basic/basically/essential	工人拿不到基本工资。		due@2023-12-22 22:04:18
 4	笨	běn	stupid/foolish/dumb/silly	那个办法很笨了。		
-3	体育	tǐyù	sport		deck#4	due@2024-07-08 21:14:56
-2	休息	xiūxi	rest (v)		deck#4	due@2024-07-08 21:41:38
-3+	休假	xiūjiǎ	vacation/holiday/leave from duty			
+3	体育	tǐyù	sport	他对体育感兴趣。	deck#4	due@2024-07-08 21:14:56
+2	休息	xiūxi	rest (v)	我们一下休息吧。	deck#4	due@2024-07-08 21:41:38
+3+	休假	xiūjiǎ	vacation/holiday/leave from duty	我在休假。		
 3	米	mǐ	rice		deck#4	due@2024-07-08 21:54:35
-1	米饭	mǐfàn	cooked rice			
-1	菜	cài	vegetable/dish		deck#4	due@2024-07-08 21:17:39
-3	菜单	càidān	menu		deck#4	due@2024-07-08 21:39:10
-1	茶	chá	tea		deck#5	due@2024-09-06 21:31:22
+1	米饭	mǐfàn	cooked rice	我吃米饭。		
+1	菜	cài	vegetable/dish	她准备菜。	deck#4	due@2024-07-08 21:17:39
+3	菜单	càidān	menu	请给我们菜单。	deck#4	due@2024-07-08 21:39:10
+1	茶	chá	tea	我喝茶。	deck#5	due@2024-09-06 21:31:22
 2	咖啡	kāfēi	coffee	你想喝茶还是咖啡？	deck#6	due@2025-06-03 21:20:27
-3	条	tiáo	item/article			
-2	面条	miàntiáo	noodles		deck#3	due@2024-06-15 21:27:02
-3	面包	miànbāo	bread		deck#4	due@2024-07-08 21:32:31
+3	条	tiáo	item/article	我买一条衬衫。		
+2	面条	miàntiáo	noodles	我吃面条。	deck#3	due@2024-06-15 21:27:02
+3	面包	miànbāo	bread	我吃面包。	deck#4	due@2024-07-08 21:32:31
 4	面子	miànzi	reputation/honour/face/prestige			
 4	条件	tiáojiàn	condition/prerequisite/circumstances	在这种条件下，我不同意。		
 4	继续	jìxù	continue	她继续工作。	deck#2	due@2024-06-18 21:42:59
 5	不断	búduàn	uninterrupted	经过不断的教育，他学习汉语。		
-1	吃	chī	to eat		deck#6	due@2025-06-03 21:44:51
-1+	吃饭	chīfàn	eat (a meal)		deck#4	due@2024-07-08 21:46:17
+1	吃	chī	to eat	猫吃鱼。	deck#6	due@2025-06-03 21:44:51
+1+	吃饭	chīfàn	eat (a meal)	我吃饭。	deck#4	due@2024-07-08 21:46:17
 1*	吃饱	chībǎo	eat till full	我吃饱了。	deck#4	due@2024-07-08 21:34:26
-1	饭店	fàndiàn	restaurant,hotel		deck#4	due@2024-07-08 21:51:21
-1+	晚饭	wǎnfàn	dinner		deck#4	due@2024-07-08 21:41:23
-1	商店	shāngdiàn	shop/store			
+1	饭店	fàndiàn	restaurant,hotel	我住在饭店。	deck#4	due@2024-07-08 21:51:21
+1+	晚饭	wǎnfàn	dinner	吃好晚饭讲个故事。	deck#4	due@2024-07-08 21:41:23
+1	商店	shāngdiàn	shop/store	我们去商店。		
 !	业	yè	business/industry/job		deck#5	due@2024-09-06 21:54:16
 5	商业	shāngyè	commerce		deck#4	due@2024-07-08 21:20:39
-3+	学业	xuéyè		studies		
+3+	学业	xuéyè	studies		
 3	作业	zuòyè	homework	我有很多作业要做。	deck#5	due@2024-09-06 21:31:05
-5	工业	gōngyè	industry		deck#5	due@2024-09-06 21:43:24
+5	工业	gōngyè	industry	许多人在工业城市工作。	deck#5	due@2024-09-06 21:43:24
 4	职业	zhíyè	occupation/profession	他的职业是老师。	deck#2	due@2024-06-14 18:29:26
 6	事业	shìyè	activity/undertaking/career			due@2023-12-22 22:08:36
 !	亚	yà	Asia		deck#3	due@2024-06-15 21:14:17
-5	碰	pèng	hit/bump into/take a chance			
+5	碰	pèng	hit/bump into/touch/take a chance	他碰了我的手。		
 4	湿润	shīrùn	moist/humid	这里的空气很湿润。		
 5	显示	xiǎnshì	to show/illustrate/display	错误是如何显示出来的？		
 5	显示器	xiǎnshìqì	monitor (n)	我有一台很大的显示器。		
-3+	工艺	gōngyì	technology		deck#2	due@2024-06-14 18:18:29
 4	艺术	yìshù	art	音乐是一门艺术。	deck#2	due@2024-06-14 18:31:33
-2	公司	gōngsī	company		deck#4	due@2024-07-08 21:36:28
-2	公斤	gōngjīn	kilogram		deck#5	due@2024-09-06 21:23:21
-4	公里	gōnglǐ	kilometer			
-3	办公室	bànggōngshì	office		deck#4	due@2024-07-08 21:36:22
-3	办法	bànfǎ	method/way		deck#4	due@2024-07-08 21:25:10
+2	公司	gōngsī	company	我在美国的公司工作。	deck#4	due@2024-07-08 21:36:28
+2	公斤	gōngjīn	kilogram	以公斤苹果多少钱？	deck#5	due@2024-09-06 21:23:21
+4	公里	gōnglǐ	kilometer	今天我走了十公里。		
+3	办公室	bàngōngshì	office	我的办公室在这里。	deck#4	due@2024-07-08 21:36:22
+3	办法	bànfǎ	method/way	我不知道办法。	deck#4	due@2024-07-08 21:25:10
 4	方法	fāngfá	method/way	我喜欢这个学习方法。		
 4	法律	fǎlǜ	law	法律之前人人平等	deck#3	due@2024-06-20 18:10:01
-5	法院	fǎyuàn	court			due@2023-12-22 21:54:05
-5	合法	héfǎ	legal			
+5	法院	fǎyuàn	court	犯人在法院进去。		due@2023-12-22 21:54:05
+5	合法	héfǎ	legal	我找合法的办法。		
 6	非法	fēifǎ	illegal	我没有做过非法的事。	deck#3	due@2024-06-15 21:42:38
 1	大	dà	big		deck#6	due@2025-06-03 21:32:17
-2	大家	dàjiā	everybody		deck#5	due@2024-09-06 21:36:25
-2+	大学	dàxué	university		deck#6	due@2024-12-15 10:54:20
+2	大家	dàjiā	everybody	大家都知道。	deck#5	due@2024-09-06 21:36:25
+2+	大学	dàxué	university	我在大学学习数学。	deck#6	due@2024-12-15 10:54:20
 !	犬	quǎn	dog (radical)			
 &	占	zhàn;zhān	occupy;divine			due@2024-06-16 17:36:38
 1	点	diàn	a little/o'clock	六点四十五了。	deck#4	due@2024-07-08 21:18:03
@@ -75,11 +74,11 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	电脑	diànnǎo	computer	我恨我的电脑。		
 1	电视	diànshì	television	他把电视关掉	deck#5	due@2024-09-06 21:53:56
 1	电影	diànyǐng	film	我要跟我朋友去看电影	deck#4	due@2024-07-08 21:50:21
-1+	电话	diànhuà	telephone		deck#5	due@2024-09-06 21:11:26
+1+	电话	diànhuà	telephone	我一下打电话。	deck#5	due@2024-09-06 21:11:26
 3+	视频	shìpín	video	我真的很喜欢看你的视频。	deck#2	due@2024-06-17 22:19:49
 1	四	sì	four		deck#5	due@2024-09-14 18:20:42
 3	西	xī	west		deck#6	due@2025-06-03 21:49:01
-1	东西	dōngxi	thing		deck#4	due@2024-07-08 21:47:48
+1	东西	dōngxi	thing	你想吃什么东西吗？	deck#4	due@2024-07-08 21:47:48
 3+	酒	jiǔ	wine/alcohol		deck#5	due@2024-09-06 21:39:27
 3+	啤酒	píjiǔ	beer	他每天喝啤酒。	deck#4	due@2024-07-08 21:33:57
 4	脾气	píqì	mood/temper/temperament/disposition	你的脾气很坏。		
@@ -89,19 +88,19 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	方	fāng	direction		deck#4	due@2024-07-08 21:39:01
 3	南	nán	south			
 3	北	běi	north		deck#5	due@2024-09-06 21:48:49
-1	北京	běijīng	Beijing		deck#6	due@2025-06-12 21:54:45
+1	北京	běijīng	Beijing	北京是中国的首都。	deck#6	due@2025-06-12 21:54:45
 1	都	dōu	all/even/already		deck#5	due@2024-09-06 21:53:57
 3+	都会	dūhuì	big city,community		deck#2	due@2024-06-14 18:18:37
-3+	首都	shǒudū	capital		deck#3	due@2024-06-20 18:04:59
-&	头	tóu	head/hair		deck#3	due@2024-06-15 21:12:34
+3+	首都	shǒudū	capital	北京是中国的首都。	deck#3	due@2024-06-20 18:04:59
+&	头	tóu	head/hair	我的头疼。	deck#3	due@2024-06-15 21:12:34
 &	实	shí	solid/true/reality/honest	她说的每句话都是事实。	deck#2	due@2024-06-14 18:19:20
 4	实际	shíjì	actual/reality/practice	实际的情况不是这样的。		
 1	买	mǎi	to buy	我买了一本书。	deck#4	due@2024-07-08 21:41:34
 2	卖	mài	to sell	只有一家商店卖这本书。	deck#4	due@2024-07-08 21:51:59
 1	读	dú	to read	我读错了。	deck#3	due@2024-06-15 21:13:27
-4	阅读	yuèdú	to read			
+4	阅读	yuèdú	to read	我的爱好是阅读。		
 &	头发	tóufa	hair (head)		deck#5	due@2024-09-06 21:29:41
-1	对不起	duìbuqǐ	sorry		deck#4	due@2024-07-08 21:46:28
+1	对不起	duìbuqǐ	sorry	对不起，是我的错。	deck#4	due@2024-07-08 21:46:28
 4	对话	duìhuà	conversation/dialogue	这个对话太难理解了。		
 &	夕	xī	dusk			due@2023-12-22 22:05:59
 2	外	wài	outside/out/foreign			
@@ -126,26 +125,26 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	完	wán	whole/complete		deck#3	due@2024-06-15 21:25:50
 3	完成	wánchéng	to finish/complete		deck#4	due@2024-07-08 21:45:53
 4	完全	wánquán	complete/whole/totally	她完全不了解我。		
-2	玩	wán	to play		deck#4	due@2024-07-08 21:34:39
-2	高	gāo	high/all		deck#5	due@2024-09-06 21:46:14
+2	玩	wán	to play	孩子在小学玩玩。	deck#4	due@2024-07-08 21:34:39
+2	高	gāo	high/all	他比我高。	deck#5	due@2024-09-06 21:46:14
 1	高兴	gāoxìng	happy,enjoy (v)	我们的孩子玩得很高兴。	deck#4	due@2024-07-08 21:28:54
-3	提高	tígāo	to raise/improve		deck#4	due@2024-07-08 21:24:05
+3	提高	tígāo	to raise/improve	我提高我的汉语水平。	deck#4	due@2024-07-08 21:24:05
 4	提供	tígōng	to provide/supply	他们给我提供了很多帮助。		
 4	提出	tíchū	to raise an issue/to suggest/to post	他常常提出一个问题。		
-3	总（是）	zǒng(shì)	always		deck#4	due@2024-07-08 21:41:52
+3	总（是）	zǒng(shì)	always	他总是很聪明。	deck#4	due@2024-07-08 21:41:52
 4	总结	zǒngjié	summary/summarise			
-&	聪明	cōngmíng	clever		deck#4	due@2024-07-16 18:20:26
+&	聪明	cōngmíng	clever	他总是很聪明。	deck#4	due@2024-07-16 18:20:26
 1	个	ge	generic measure word			
 4	个子	gèzi	height/stature/build			
-1	工作	gōngzuò	work (n)		deck#5	due@2024-09-06 21:25:23
-1	狗	gǒu	dog			
+1	工作	gōngzuò	work (n)	我在一家德国公司工作。	deck#5	due@2024-09-06 21:25:23
+1	狗	gǒu	dog	我的够很可爱。		
 5	猪	zhū	pig		deck#3	due@2024-06-20 18:02:49
-1	猫	māo	cat		deck#5	due@2024-09-06 21:28:08
-&	狼	láng	wolf		deck#2	due@2024-06-14 18:06:11
+1	猫	māo	cat	我的猫很可爱。	deck#5	due@2024-09-06 21:28:08
+&	狼	láng	wolf	狼吓到了我。	deck#2	due@2024-06-14 18:06:11
 5	狮子	shīzi	lion		deck#5	due@2024-09-06 21:44:08
 4	帅	shuài	handsome			
 5	猴子	hóuzi	monkey			due@2024-06-16 22:17:29
-4	老虎	lǎohǔ	tiger		deck#2	due@2024-06-17 18:18:07
+4	老虎	lǎohǔ	tiger	老虎吓到了我。	deck#2	due@2024-06-17 18:18:07
 3	熊猫	xióngmāo	panda			
 3+	熊	xióng	bear		deck#4	due@2024-07-08 21:29:56
 4	逛	guàng	stroll			
