@@ -141,7 +141,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	狗	gǒu	dog	我的够很可爱。		
 5	猪	zhū	pig		deck#3	due@2024-06-28 19:34:13
 1	猫	māo	cat	我的猫很可爱。	deck#5	due@2024-09-06 21:28:08
-&	狼	láng	wolf	狼吓到了我。	deck#2	due@2024-06-14 18:06:11
+&	狼	láng	wolf	狼吓到了我。	deck#3	due@2024-06-29 09:32:25
 5	狮子	shīzi	lion	狮子是非洲的王。	deck#5	due@2024-09-06 21:44:08
 4	帅	shuài	handsome	他很帅。	deck#3	due@2024-06-28 15:22:31
 5	猴子	hóuzi	monkey	猴子爬上了树。	deck#2	due@2024-06-22 15:16:48
@@ -687,7 +687,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	意外	yìwaì	unexpected	军队意外地被攻击了。		
 3	愿意	yuànyì	be willing/ready/want to	你愿意和我跳舞吗？		
 5	自愿	zìyuàn	voluntary	他自愿加入中国共产党。	deck#2	due@2024-06-22 19:00:44
-5	思考	sīkǎo	think (cognitive process)	我现在几乎不能够思考。	deck#3	due@2024-06-20 18:12:31
+5	思考	sīkǎo	think (cognitive process)	我现在几乎不能够思考。	deck#3	due@2024-06-29 09:31:59
 4	考虑	kǎolǚ	consider	她考虑去旅行。		
 3	注意	zhùyì	be careful/pay attention	我知道他在注意我。	deck#4	due@2024-07-08 21:48:54
 4	主意	zhǔyi	plan/idea/decision	这是一个好主意。	deck#2	due@2024-06-21 20:23:27
@@ -1083,7 +1083,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	杂志	zázhì	magazine	她读完了杂志。	deck#2	due@2024-06-22 14:26:05
 4	复杂	fùzá	complicated	我的作业很复杂。		
 4	复印	fùyìn	to copy	请把每一页复印三份。		
-2	颜色	yánsè	color	你的眼睛是什么颜色？	deck#3	due@2024-06-15 21:37:21
+2	颜色	yánsè	color	你的眼睛是什么颜色？	deck#3	due@2024-06-29 09:32:18
 2	红(色)	hóng(sè)	red	血是红色的。	deck#4	due@2024-07-08 21:48:26
 2	蓝(色)	lán(sè)	blue	天空是蓝色的。	deck#4	due@2024-07-08 21:47:01
 2	绿(色)	lǘ(sè)	green	你们喝绿茶吗？	deck#5	due@2024-09-06 21:45:42
@@ -1112,7 +1112,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	标准	biāozhǔn	standard	虽然他在中国长大，但是他的普通话并不标准。		
 3	表示	biǎoshì	show/express/indicate/attitude		deck#4	due@2024-07-08 21:54:28
 3	除了	chúle	except/apart from	除了我没有人		
-3G	除了···以外	chúle...yiwai	except/apart from	除了钢琴以外，还会玩什么乐器吗？		due@2023-12-22 21:55:37
+3G	除了···以外	chúle...yiwai	except/apart from	除了钢琴以外，还会玩什么乐器吗？	deck#3	due@2024-06-29 09:31:45
 4	国际	guójì	international		deck#2	due@2024-06-14 18:05:11
 2	肉	ròu	meat/flesh	猫喜欢鱼多过肉。	deck#5	due@2024-09-06 21:22:12
 4	内	nèi	inside		deck#4	due@2024-07-08 21:50:29
@@ -1258,7 +1258,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	历史	lìshǐ	history	我对亚洲的历史很感兴趣	deck#3	due@2024-06-15 21:26:53
 4	厉害	lìhài	awesome/cool/terrible (a)	我头疼得特别厉害		
 4	而	ér	and/but	听而不闻	deck#4	due@2024-07-21 14:23:18
-3	而且	érqiě	moreover	他结婚了，而且有三个孩子	deck#3	due@2024-06-20 18:15:15
+3	而且	érqiě	moreover	他结婚了，而且有三个孩子	deck#4	due@2024-07-22 09:32:30
 6	而已	éryǐ	nothing more/that's all	我只是想看她而已。	deck#2	due@2024-06-21 19:36:50
 4	血	xuè	blood	血是红的色。	deck#4	due@2024-07-21 14:51:48
 4	当	dāng	should (aux v), work/act as	他儿子想当律师。	deck#4	due@2024-07-08 21:48:35
