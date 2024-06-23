@@ -871,7 +871,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 	轻	qīng	light/gently		deck#2	due@2024-06-17 17:56:00
 3	年轻	niánqīng	young		deck#4	due@2024-07-16 17:38:01
 4	年龄	niánlíng	age	她有多大年龄？		
-4	景色	jǐngs	scenery	我喜欢海边的景色。	deck#2	due@2024-06-22 15:22:03
+4	景色	jǐngse	scenery	我喜欢海边的景色。	deck#2	due@2024-06-22 15:22:03
 4	停	tíng	stop/park	他们就是让我们停	deck#4	due@2024-07-08 21:37:40
 4	厚	hòu	thick (inanimate)	那本书很厚。		
 2	从	cóng	from		deck#5	due@2024-09-06 21:30:09
@@ -1095,6 +1095,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	绿(色)	lǘ(sè)	green	你们喝绿茶吗？	deck#5	due@2024-09-06 21:45:42
 2	黄(色)	huáng(sè)	yellow	太阳是黄色的。	deck#4	due@2024-07-08 21:24:10
 5	紫(色)	zǐ(sè)	purple	这朵花的颜色是紫色。	deck#2	due@2024-06-22 19:06:54
+4	拒绝	jùjué	to refuse/decline/reject	我拒绝回答你的问题。
 3	脸	liǎn	face	洗脸吧。	deck#4	due@2024-07-08 21:24:16
 3	检查	jiǎnchá	examine/inspect	他进去检查过了。	deck#2	due@2024-06-17 17:38:32
 3+	查	chá	inspect/investigate	他查看了地方。	deck#3	due@2024-06-28 19:02:48
