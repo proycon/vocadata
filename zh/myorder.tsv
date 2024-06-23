@@ -984,7 +984,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	每天	měitiān	daily	我每天洗澡。	deck#4	due@2024-07-08 21:47:22
 2+	海	hǎi	sea/ocean		deck#4	due@2024-07-21 14:28:07
 4	海洋	hǎiyáng	ocean	海洋上的风很大。		
-4	后悔	hòuhuǐ	to regret/repent	我很后悔没有帮助你。	deck#2	due@2024-06-22 15:09:30
+4	后悔	hòuhuǐ	to regret/repent	我很后悔没有帮助你。	deck#2	due@2024-06-24 20:14:09
 2	帮助	bāngzhú	to help/help	我需要你的帮助。	deck#3	due@2024-06-27 18:59:25
 2	帮忙	bāngmáng	to help	我帮忙妈妈做菜。	deck#3	due@2024-06-23 17:44:55
 2	忙	máng	busy	我忙得不能来。	deck#5	due@2024-09-06 21:33:26
@@ -1185,7 +1185,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	牛奶	niùnǎi	cow-milk	茶比牛奶贵吗？	deck#2	due@2024-06-17 18:18:35
 3	奶奶	nǎinǎi	grandmother	我奶奶丢去了记忆。		
 4	旅行	lǚxíng	to travel	我坐飞机去旅行。	deck#3	due@2024-06-15 21:49:55
-2	旅游	lǚyóu	tour/trip/journey	日本人喜欢去旅游。	deck#2	due@2024-06-21 19:00:33
+2	旅游	lǚyóu	tour/trip/journey	日本人喜欢去旅游。	deck#3	due@2024-06-30 20:09:31
 &	旅馆	lǚguǎn	hotel	他住进了一家很便宜的旅馆。		due@2023-12-22 21:59:15
 2	宾馆	bīnguǎn	hotel	这里是三星级宾馆。	deck#3	due@2024-06-23 17:57:42
 &	食堂	shítáng	canteen/diner	我是在食堂吃的饭。	deck#5	due@2024-09-06 21:51:32
@@ -1223,7 +1223,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	战争	zhànzhēng	war	他写了一本关于美国南北战争的书。	deck#3	due@2024-06-15 21:43:55
 4	竞争	jìngzhēng	to compete/competition/rivalry	我们是竞争者。		due@2024-06-21 19:11:44
 &	斗	dòu	fight/struggle/combat			
-6	斗争	dòuzhēng	combat/fight/struggle	斗争结束了。		due@2023-12-22 22:03:05
+6	斗争	dòuzhēng	combat/fight/struggle	斗争结束了。	deck#2	due@2024-06-24 20:11:55
 4	科学	kēxué	science	科学改变了我们的生活。		
 3	树	shù	tree	这棵树停止生长了。	deck#3	due@2024-06-15 21:41:08
 3	练习	liànxí	to practise/exercise	你需要每天练习。	deck#4	due@2024-07-08 21:40:05
@@ -1351,7 +1351,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	抬	tái	to lift/raise/carry up	他帮助我抬了一下椅子。		
 6	台风	táifēng	typhoon/hurricane			
 5	治疗	zhìliáo	cure (n/v)			due@2023-12-22 22:02:18
-6	治安	zhì'ān	security		deck#2	due@2024-06-22 15:24:50
+6	治安	zhì'ān	security		deck#2	due@2024-06-24 20:14:27
 *	台湾	táiwān	Taiwan	台湾是自由的国家。		
 3	舒服	shūfú	comfortable		deck#3	due@2024-06-20 18:10:19
 2	服务员	fúwùyuán	waiter	这家饭店的服务员很干净。	deck#3	due@2024-06-15 21:19:39
@@ -1365,7 +1365,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	保险	bǎoxiǎn	safe/be sure/insurance			
 5	尽快	jǐnkuài	as soon as possible	请尽快回来。		due@2024-06-13 18:25:29
 4	尽管	jǐnguǎn	even though..	尽管天下着雨，他还是来的。		due@2023-12-22 21:55:35
-5	尽力	jǐnlì	try one’s hardest (努力)			due@2023-12-22 13:35:56
+5	尽力	jǐnlì	try one’s hardest (努力)		deck#2	due@2024-06-24 20:09:52
 5	尽量	jǐnliàng	to the best of one's ability			due@2024-06-23 19:54:31
 4	取	qǔ	take/obtain/adopt/choose	请给我取一张票。	deck#3	due@2024-06-23 17:31:52
 3	取消	qǔxiāo	cancel	我不能取消它。		
