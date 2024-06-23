@@ -80,6 +80,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	四	sì	four		deck#5	due@2024-09-14 18:20:42
 3	西	xī	west		deck#6	due@2025-06-03 21:49:01
 1	东西	dōngxi	thing	你想吃什么东西吗？	deck#4	due@2024-07-08 21:47:48
+4	西红柿	xīhóngshì	tomato	他们喜欢吃西红柿。
 3+	酒	jiǔ	wine/alcohol		deck#5	due@2024-09-06 21:39:27
 3+	啤酒	píjiǔ	beer	他每天喝啤酒。	deck#4	due@2024-07-08 21:33:57
 4	脾气	píqì	mood/temper/temperament/disposition	你的脾气很坏。		
@@ -289,7 +290,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 6	太空	tàikōng	space	你去过太空吗？	deck#4	due@2024-07-08 21:38:51
 5	直	zhí	straight/simply			due@2023-12-22 22:08:08
 3	一直	yīzhí	always/constantly/straight	他一直都忙。	deck#3	due@2024-06-20 18:30:44
-4	直接	zhíjiē	directly/immediately	我下了班，直接去飞机场。		
+4	直接	zhíjiē	directly/immediately	我下了班，直接去飞机场接你。		
 5+	谈话	tánhuà	chat	请跟你妈妈谈话。		due@2024-06-13 18:28:04
 1	飞机	fēijī	airplane	那飞机真大！	deck#5	due@2024-06-21 18:35:25
 	飞机场	fēijīchǎng	airport	到飞机场多远？		
@@ -434,7 +435,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	关系	guānxi	relation/reason/impact	没有关系，你选择。	deck#3	due@2024-06-23 22:20:33
 5	关闭	guānbì	to close/shut/turn off	请关闭电视机。		
 1	没关系	méiguānxi	it doesn't matter		deck#4	due@2024-07-08 21:37:56
-4	联系	liánxì	contact/link/connect (v/n)	请联系医生。		
+4	联系	liánxì	contact/link/connect (v/n)	请联系医生。/ 你为什么没有保持联系吗？		
 3	关心	guānxīn	to concern/to worry	他不关心财富.	deck#3	due@2024-06-27 19:37:26
 3	关于	guānyú	about/regarding	他写了很多关于中国的书。	deck#4	due@2024-07-08 21:45:00
 1	没有	méiyǒu	not have	我没有车。		
@@ -592,6 +593,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	起床	qǐchuáng	to get out of bed		deck#4	due@2024-07-08 21:36:07
 3	起飞	qǐfēi	take off (flying)	飞机十分钟后起飞。	deck#4	due@2024-07-16 17:40:11
 1	对不起	duìbùqǐ	sorry	对不起，我错了。	deck#5	due@2024-09-06 21:36:55
+3	越	yuè	even more; the more; exceed	你看的书越多，你知道的越多。
+4	挺	tǐng	rather/pretty/very/straighten up	写汉字是挺复杂的。
 !	立	lì	stand/upright/immediately	起立！	deck#4	due@2024-07-08 21:51:24
 3	站	zhàn	to stand/station	请你站在我后面。	deck#5	due@2024-09-06 21:33:30
 3	位	wèi	MW for people	我喜欢这位歌手。	deck#4	due@2024-07-08 21:45:03
@@ -632,6 +635,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	地方	dìfang	place,location,room		deck#5	due@2024-09-06 21:33:21
 3	地图	dìtú	map	这张地图很大。	deck#4	due@2024-07-08 21:47:56
 5	地区	dìqū	district/area		deck#3	due@2024-06-15 21:52:42
+4	地址	dìzhǐ	address	我下了班，给你我我的地址。
 1	听	tīng	to listen	我听人们唱歌。	deck#5	due@2024-09-06 21:32:15
 1	听到	tīngdào	to hear	我听到有人在唱歌。	deck#5	due@2024-09-06 21:32:15
 4	厅	tīng	hall			
@@ -766,7 +770,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	要	yào	want/should/need		deck#5	due@2024-09-06 21:32:44
 3	需要	xūyào	need	他不需要女朋友。他需要找到男朋友。	deck#4	due@2024-07-08 21:27:49
 3	要求	yàoqiú	to demand,request	我要求你们先在就走。		
-4	只要	zhǐyào	so long as/provided that		deck#2	due@2024-06-22 19:09:13
+4	只要	zhǐyào	so long as/provided that	你只要问他，他就会告诉你。	deck#2	due@2024-06-22 19:09:13
 4	要是	yàoshì	if		deck#4	due@2024-07-08 21:35:09
 2	知道	zhīdào	to know	我真的不知道	deck#5	due@2024-09-06 21:49:26
 4	知识	zhīshi	knowledge	我关于日语的知识掌握得还不是很好。	deck#3	due@2024-06-28 19:12:27
@@ -846,6 +850,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	前进	qiánjìn	advance/make progress	我准备再前进一点。		due@2023-12-22 22:11:42
 5	偷	tōu	steal	昨天我的手表被偷了。	deck#2	due@2024-06-22 14:23:54
 3	河	hé	river	他坐在河边。	deck#4	due@2024-07-08 21:21:14
+4	甜	tián	sweet	我喜欢甜食。	
 &	湖	hú	lake	这片湖是日本最深的。	deck#4	due@2024-07-08 21:12:49
 &	胡子	húzi	moustache/beard	我每天早上刮胡子。		
 3	根据	gēnjù	according to/based on	根据我所知，这本书还没被翻译成日语。	deck#2	due@2024-06-22 19:46:36
@@ -990,7 +995,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	流	liú	to flow	她的鼻子流血了。		
 4	流行	liúxíng	popular/prevalent/to spread	这种音乐现在很流行。	deck#2	due@2024-06-17 17:50:25
 4	流利	liúlì	fluent	他的英语多流利啊！		
-4	光	guāng	light (abstract), just (adv)	这儿没有光。	deck#2	due@2024-06-18 21:30:37
+4	光	guāng	light (abstract), just (adv), used up	这儿没有光。/ 她吃光了。/ 光你一个人离开，没有用。	deck#2	due@2024-06-18 21:30:37
 2	妻子	qīzi	wife	别告诉我的妻子！	deck#5	due@2024-06-21 18:54:44
 2	丈夫	zhàngfu	husband	别告诉我的丈夫！	deck#2	due@2024-06-22 15:25:07
 &	父母	fùmǔ	parents	别告诉我的父母！	deck#5	due@2024-09-06 21:54:39
@@ -1086,6 +1091,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	颜色	yánsè	color	你的眼睛是什么颜色？	deck#3	due@2024-06-29 09:32:18
 2	红(色)	hóng(sè)	red	血是红色的。	deck#4	due@2024-07-08 21:48:26
 2	蓝(色)	lán(sè)	blue	天空是蓝色的。	deck#4	due@2024-07-08 21:47:01
+4	盐	yán	salt	盐吃多了，其实对身体健康不好。
 2	绿(色)	lǘ(sè)	green	你们喝绿茶吗？	deck#5	due@2024-09-06 21:45:42
 2	黄(色)	huáng(sè)	yellow	太阳是黄色的。	deck#4	due@2024-07-08 21:24:10
 5	紫(色)	zǐ(sè)	purple	这朵花的颜色是紫色。	deck#2	due@2024-06-22 19:06:54
@@ -1201,6 +1207,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	超过	cháoguò	surpass/leave behind	他的体重超过八十公斤。	deck#2	due@2024-06-14 18:28:38
 3	遇到	yùdào	to meet/encounter	昨天我遇到你父母了。		
 3	或者	huǒzhè	or	你喝咖啡或者茶吗？	deck#4	due@2024-07-08 21:25:58
+4	咸	xián	salty/salted	海水是咸的或者甜的吗？
 4	感谢	gǎnxiè	thank/gratitude	非常感谢你的到来。	deck#3	due@2024-06-23 20:20:55
 4	减	jiǎn	to reduce/to decrease/to substract			
 4	减少	jiǎnshǎo	to reduce/to decrease	人口的减少会给让我们带来问题。		
