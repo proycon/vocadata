@@ -13,7 +13,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	不	bù	no/not	我不知道。	deck#6	due@2024-12-15 11:04:25
 1	不客气	búkèqi	you're welcome	不客气，没有问题。	deck#5	due@2024-09-06 21:47:20
 4	不得不	bùdébù	to have to/to have no choice but	由于身体的原因，我不得不改变工作。		
-1	本	běn	book (n), original (a)	我读一本书。	deck#5	due@2024-06-21 18:25:02
+1	本	běn	book (n), original (a)	我读一本书。	deck#5	due@2024-09-23 14:16:19
 4	本来	běnlài	at first (adv), original (a), originally	本来的意思是什么？	deck#4	due@2024-07-08 21:35:13
 5	根本	gēnběn	at all (adv)	我根本不累。		due@2024-06-23 19:58:04
 5	基本	jīběn	basic/basically/essential	工人拿不到基本工资。		due@2023-12-22 22:04:18
@@ -425,7 +425,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	如何	rúhé	how/what	他的汉语水平如何？	deck#4	due@2024-07-21 15:22:57
 4	比如	bǐrú	for example/such as			
 4	例如	lìrú	for example		deck#2	due@2024-06-21 20:03:21
-4&	例子	lìzi	example (n)
+4&	例子	lìzi	example (n)			
 1	苹果	píngguǒ	apple	我买一点儿苹果。	deck#4	due@2024-07-08 21:15:20
 3	果汁	guǒzhī	juice	他喜欢喝果汁。	deck#3	due@2024-06-23 17:49:22
 4	果然	guǒrán	as expected	果然，天下雨了。		
@@ -532,7 +532,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	故事	gùshi	story	给我讲个好故事	deck#3	due@2024-06-23 21:29:25
 4	建议	jiànyì	propose	他提建议：他建议不这样做。	deck#3	due@2024-06-24 21:30:31
 5	建设	jiànshè	build	他们建设新的剧院。		due@2023-12-22 13:36:01
-5	建筑	jiànzhù	build/construct/building/architecture	我很好奇那个建筑物是什么时候建造的。	
+5	建筑	jiànzhù	build/construct/building/architecture	我很好奇那个建筑物是什么时候建造的。		
 1	热	rè	hot/warm	今天天气很热。	deck#4	due@2024-07-08 21:36:54
 3	热情	rèqíng	passion (n), kind/warm (a), enthousiastic (a)	你真是太热情了。	deck#4	due@2024-07-08 21:49:45
 4	热闹	rènao	lively/bustling	这个城市很热闹		
@@ -571,7 +571,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	准时	zhǔnshí	on time	火车准时到了。		due@2023-12-22 13:41:37
 4	准确	zhǔnquè	precise/accurate	他很准确地说		
 5	唯一	wéiyī	only/sole	这是我们唯一的机会。	deck#2	due@2024-06-22 14:47:10
-4	正确	zhèngquè	correct/proper	你的回答是正确的。	deck#2	due@2024-06-17 17:57:34
+4	正确	zhèngquè	correct/proper	你的回答是正确的。	deck#3	due@2024-07-02 14:16:28
 2	往	wǎng	to go (in a direction); towards; in the past	请往前走。/ 他不往右转了。	deck#3	due@2024-06-24 21:28:10
 1	什么	shénme	what/something/anything	你现在做什么？		
 2	为什么	wèishénme	why	为什么你不爱我？	deck#5	due@2024-09-06 21:34:47
