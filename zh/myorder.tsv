@@ -733,7 +733,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3+	球	qiú	ball/sphere	球是圆的。	deck#4	due@2024-07-08 21:48:22
 4+	足球	zúqiú	football			
 4+	篮球	lánqiú	basketball		deck#4	due@2024-07-08 21:43:34
-1	椅子	yǐzi	chair	她拿了一把椅子。	deck#5	due@2024-09-06 21:15:38
+5	录	lù	to record/dairy/to hit/copy/write down	这是三月了份录的。
+5	记录	jìlù	to record/to take notes	她把每一样买了的东西都记录起来。	
 1	桌子	zhuōzi	table	桌子下面有一只猫。		
 1	有	yǒu	to have	我有一个妹妹。	deck#6	due@2025-06-03 21:53:52
 1	月	yuè	moon/month		deck#6	due@2025-03-18 18:54:30
@@ -1306,6 +1307,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	积极	jījí	active/positive/energetic	他很积极地工作。		
 4	寄	jì	to send (by mail)	他寄了信。	deck#2	due@2024-06-22 14:25:25
 3	奇怪	qíguài	strange/odd		deck#3	due@2024-06-15 21:22:49
+1	椅子	yǐzi	chair	她拿了一把椅子。	deck#5	due@2024-09-06 21:15:38
 3	骑	qí	ride			
 4	转	zhuàn	turn	天突然转阴了。	deck#2	due@2024-06-18 21:39:12
 5	转变	zhuǎnbiàn	transform/change/convert	他转变了话题。		due@2023-12-22 22:01:43
