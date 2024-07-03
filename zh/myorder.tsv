@@ -431,7 +431,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	果然	guǒrán	as expected	果然，天下雨了。		
 2	课	kè	subject/class/lesson		deck#5	due@2024-09-06 21:40:19
 3+	课文	kèwén	text	我读课文。	deck#4	due@2024-07-08 21:35:16
-4	辣	là	spicy/hot	我们爱辣的。		due@2023-12-22 22:05:22
+4	辣	là	spicy/hot	我们爱辣的。	deck#4	due@2024-08-02 20:55:27
 3	关	guān	to close, to turn off		deck#4	due@2024-07-08 21:30:13
 3	关系	guānxi	relation/reason/impact	没有关系，你选择。	deck#3	due@2024-06-23 22:20:33
 5	关闭	guānbì	to close/shut/turn off	请关闭电视机。		
@@ -525,7 +525,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2+	情	qíng	feeling,kindness,passion,love		deck#3	due@2024-06-15 21:32:50
 4	爱情	aìqíng	love	她不喜欢爱情故事。	deck#4	due@2024-07-13 18:25:06
 4	心情	xīnqíng	mood/frame of mind	大家的心情都很好。	deck#2	due@2024-06-22 14:49:11
-2	事情	shìqíng	matter/event/business/thing	安全是最重要的事情。		
+2	事情	shìqíng	matter/event/business/thing	安全是最重要的事情。	deck#5	due@2024-10-01 20:55:37
 4	感情	gǎnqíng	feeling/emotion	我不能表示我的感情。		
 4	邀请	yāoqíng	to invite	我邀请你。		due@2024-06-21 15:28:12
 4	情况	qíngkuàng	situation	情况可能有变。		
@@ -775,7 +775,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	就是	jiùshì	exactly, really, only, even if		deck#3	due@2024-06-27 20:03:36
 2	要	yào	want/should/need		deck#5	due@2024-09-06 21:32:44
 3	需要	xūyào	need	他不需要女朋友。他需要找到男朋友。	deck#4	due@2024-07-08 21:27:49
-3	要求	yàoqiú	to demand,request	我要求你们先在就走。		
+3	要求	yàoqiú	to demand,request	我要求你们先在就走。	deck#4	due@2024-08-02 20:56:37
 4	只要	zhǐyào	so long as/provided that	你只要问他，他就会告诉你。	deck#2	due@2024-06-22 19:09:13
 4	要是	yàoshì	if		deck#4	due@2024-07-08 21:35:09
 2	知道	zhīdào	to know	我真的不知道	deck#5	due@2024-09-06 21:49:26
@@ -1043,7 +1043,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	自然	zìrán	nature (n)/natural/naturally	病自然会好。		
 4	自信	zìxìn	self-confident	他对自己没有自信。		
 5	自豪	zìháo	proud	我为我的哥哥感到自豪。		due@2024-06-13 18:23:05
-5	自从	zìcóng	since	自从我认识她的时候，我就恨她。	deck#2	due@2024-06-21 20:21:02
+5	自从	zìcóng	since	自从我认识她的时候，我就恨她。	deck#3	due@2024-07-10 20:56:15
 5	自由	zìyóu	free/freedom	中国是不自由的国家。	deck#4	due@2024-07-08 21:14:14
 5	闻	wén	hear/smell/news	新闻使他不安。	deck#3	due@2024-06-30 20:21:40
 ！	市	shì	city/market			
@@ -1304,7 +1304,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5+	欧元	ōuyuán	Euro (money)	我花了大约三十欧元。	deck#2	due@2024-06-22 14:48:23
 6	凶手	xiōngshǒu	murdered/assassin	凶手承认了自己的犯罪。		
 6	凶杀	xiōngshā	to murder			
-3	马上	mǎshàng	immediately	我马上就认出了他		
+3	马上	mǎshàng	immediately	我马上就认出了他	deck#4	due@2024-08-02 20:56:42
 5	立刻	lìkè	immediately/as soon as	医生立刻就到了。		
 3	应该	yīnggāi	should	你应该去看病	deck#4	due@2024-07-08 21:34:33
 5	答应	dāyìng	answer/agree/promise	我答应他跟他吃饭。		due@2023-12-22 22:04:23
@@ -1348,7 +1348,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	支持	zhīchí	support （n/v)	经理很支持我的工作。	deck#2	due@2024-07-03 22:38:55
 4	皮肤	pífū	skin		deck#2	due@2024-07-03 19:38:16
 6+	波浪	bōlàng	wave		deck#3	due@2024-07-09 22:27:59
-4	破坏	póhuài	to break/to destroy/destruction	我们破坏自然环境。		
+4	破坏	póhuài	to break/to destroy/destruction	我们破坏自然环境。	deck#2	due@2024-07-04 20:55:03
 5	玻璃	bōli	glass (adj)	玻璃杯打碎了。	deck#2	due@2024-06-18 21:30:06
 4	敲	qiāo	to knock	他们又来敲门了。	deck#2	due@2024-06-22 14:44:03
 4	技术	jìshù	technology/skill	现代科学技术让我们的生活更加舒适。	deck#2	due@2024-06-18 21:47:57
