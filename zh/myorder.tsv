@@ -731,7 +731,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	穿	chuān	to wear/to dress/put on		deck#4	due@2024-07-08 21:46:32
 6	袭击	xíjī	attack			due@2024-06-23 20:03:32
 !	求	qiú	request/demand		deck#3	due@2024-06-27 18:56:46
-4	要求	qiú	request/demand	他要求我马上付钱。		due@2023-12-22 21:55:33
+4	要求	yāoqiú	request/demand	他要求我马上付钱。		due@2023-12-22 21:55:33
 3+	球	qiú	ball/sphere	球是圆的。	deck#4	due@2024-07-08 21:48:22
 4+	足球	zúqiú	football			
 4+	篮球	lánqiú	basketball		deck#4	due@2024-07-08 21:43:34
@@ -775,7 +775,6 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	就是	jiùshì	exactly, really, only, even if		deck#3	due@2024-06-27 20:03:36
 2	要	yào	want/should/need		deck#5	due@2024-09-06 21:32:44
 3	需要	xūyào	need	他不需要女朋友。他需要找到男朋友。	deck#4	due@2024-07-08 21:27:49
-3	要求	yàoqiú	to demand,request	我要求你们先在就走。	deck#4	due@2024-08-02 20:56:37
 4	只要	zhǐyào	so long as/provided that	你只要问他，他就会告诉你。	deck#2	due@2024-06-22 19:09:13
 4	要是	yàoshì	if		deck#4	due@2024-07-08 21:35:09
 2	知道	zhīdào	to know	我真的不知道	deck#5	due@2024-09-06 21:49:26
