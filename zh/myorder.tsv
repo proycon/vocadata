@@ -194,7 +194,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	好处	hǎochù	advantage/benefit	这么做有很多好处。	deck#2	due@2024-07-20 21:38:06
 4	坏处	huàichù	disadvantage	这么做没有坏处。		
 3	迟到	chídào	be late	对不起，我迟到了。	deck#3	due@2024-07-21 21:16:01
-5	迟早	chízǎo	sooner or later	她迟早会回来的。	deck#2	due@2024-07-03 19:20:24
+5	迟早	chízǎo	sooner or later	她迟早会回来的。	deck#2	due@2024-07-22 20:09:39
 3	班	bān	class/team/squad/shift	他们应该上班。	deck#4	due@2024-08-18 21:09:20
 2	孩子	háizi	child	孩子在小学玩玩。	deck#5	due@2024-09-06 21:13:30
 3	刻	kè	quarter (time)		deck#4	due@2024-08-12 19:55:10
@@ -423,7 +423,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	果	guǒ	fruit	他把水果放进冰箱里	deck#5	due@2024-10-17 21:22:06
 3	如果	rúguǒ	if	如果你需要笔的话，我借你一支。	deck#5	due@2024-10-11 16:44:24
 5	如何	rúhé	how/what	他的汉语水平如何？	deck#4	due@2024-07-21 15:22:57
-4	比如	bǐrú	for example/such as			
+4	比如	bǐrú	for example/such as		deck#4	due@2024-08-20 20:08:49
 4	例如	lìrú	for example		deck#4	due@2024-08-12 16:38:21
 4&	例子	lìzi	example (n)		deck#3	due@2024-07-20 19:57:09
 1	苹果	píngguǒ	apple	我买一点儿苹果。	deck#5	due@2024-10-11 16:59:03
@@ -1042,7 +1042,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	自(己)	zì(jǐ)	(one)self/own	他决定自己试试看。	deck#5	due@2024-09-06 21:49:59
 4	自然	zìrán	nature (n)/natural/naturally	病自然会好。	deck#3	due@2024-07-26 22:02:13
 4	自信	zìxìn	self-confident	他对自己没有自信。		
-5	自豪	zìháo	proud	我为我的哥哥感到自豪。		due@2024-07-19 22:12:12
+5	自豪	zìháo	proud	我为我的哥哥感到自豪。		due@2024-07-21 20:09:47
 5	自从	zìcóng	since	自从我认识她的时候，我就恨她。	deck#2	due@2024-07-14 16:45:35
 5	自由	zìyóu	free/freedom	中国是不自由的国家。	deck#4	due@2024-08-13 21:05:44
 5	闻	wén	hear/smell/news	新闻使他不安。	deck#4	due@2024-08-12 12:03:15
@@ -1091,7 +1091,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	纸	zhǐ	paper		deck#3	due@2024-07-26 22:11:00
 5	报告	bàogào	report (v/n)	这份报告完全错误。	deck#2	due@2024-07-20 22:36:21
 5	报道	bàodao	report (v/n)	他写了非常有深的报道。	deck#2	due@2024-07-20 22:05:02
-4	报名	bàomíng	register/sign up/registration	我昨天就包了名。		due@2024-07-20 21:16:31
+4	报名	bàomíng	register/sign up/registration	我昨天就报了名。		due@2024-07-20 21:16:31
 2	路	lù	road/path	路两边有许多树。	deck#4	due@2024-08-13 20:34:53
 2	跑步	pǎobù	to run	我妈妈每天都在公园中跑步。	deck#4	due@2024-08-12 20:22:13
 &	跳	tiào	jump/beat(heart)/bounce	小孩子感兴地跳了起来。	deck#2	due@2024-06-14 18:20:46
@@ -1199,7 +1199,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	奶奶	nǎinǎi	grandmother	我奶奶丢去了记忆。	deck#4	due@2024-08-19 20:48:06
 4	旅行	lǚxíng	to travel	我坐飞机去旅行。	deck#4	due@2024-08-12 19:10:37
 2	旅游	lǚyóu	tour/trip/journey	日本人喜欢去旅游。	deck#4	due@2024-08-12 16:44:36
-&	旅馆	lǚguǎn	hotel	他住进了一家很便宜的旅馆。	deck#2	due@2024-07-20 22:23:46
+&	旅馆	lǚguǎn	hotel	他住进了一家很便宜的旅馆。	deck#2	due@2024-07-22 20:11:33
 2	宾馆	bīnguǎn	hotel	这里是三星级宾馆。	deck#4	due@2024-08-12 12:05:39
 &	食堂	shítáng	canteen/diner	我是在食堂吃的饭。	deck#5	due@2024-09-06 21:51:32
 3	图书馆	túshūguǎn	library	他们在图书馆里学习。	deck#5	due@2024-09-06 21:45:56
@@ -1355,7 +1355,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	类型	lèixíng	type			due@2024-07-20 21:22:14
 6	类似	lèisì	similar			due@2024-07-19 22:23:20
 3	脚	jiǎo	foot		deck#4	due@2024-08-18 22:32:48
-3	腿	tuǐ	leg		deck#2	due@2024-07-14 12:14:51
+3	腿	tuǐ	leg		deck#3	due@2024-07-28 20:11:38
 4	胳膊	gēbo	arm			due@2024-06-13 18:30:07
 5+	肚	dǔ	belly			due@2023-12-22 21:46:03
 4	肚子	dùzi	belly		deck#3	due@2024-07-20 12:23:13
