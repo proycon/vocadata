@@ -3,7 +3,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1+	爱人	aìrén	partner	我爱我的爱人。	deck#6	due@2025-07-09 21:53:04
 1+	爱好	aìhǎo	hobby	你有没有爱好？	deck#4	due@2024-08-13 21:28:35
 3	可爱	kěài	adorable	我的狗很可爱。	deck#5	due@2024-09-19 19:31:34
-5	恋爱	liànài	love (v)	她从没恋爱过。	deck#3	due@2024-07-28 21:46:50
+5	恋爱	liànài	love (v)	她从没恋爱过。	deck#3	due@2024-08-05 14:54:25
 4	受到	shòudào	to receive (influence,restriction),be subject to	他们受到了热情的欢迎。'		
 4	受不了	shòubuliǎo	can't stand	天气太热，我真受不了！	deck#2	due@2024-07-20 22:36:11
 4	受得了	shòudeliǎo	to endure	她受得了长途旅行吗？		
@@ -356,7 +356,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	老	lǎo	old	他太老了，没有在工作了。	deck#6	due@2025-07-14 21:22:34
 1	老师	lǎoshī	teacher	他是我的汉语老师。	deck#6	due@2025-06-03 21:53:16
 5	老板	lǎobǎn	boss	我把我老板睡了。	deck#5	due@2024-10-11 12:25:46
-4	律师	lǜshì	lawyer	他儿子想当律师。	deck#3	due@2024-07-28 20:25:48
+4	律师	lǜshì	lawyer	他儿子想当律师。	deck#3	due@2024-08-05 14:59:47
 2	新	xīn	new	我买了一辆新车。	deck#5	due@2024-09-06 21:38:24
 3	新闻	xīnwén	news	我每天早上都会看新闻。	deck#5	due@2024-09-06 21:48:46
 3	新鲜	xīnxiān	fresh (food etc)/new/novel	面包不新鲜。	deck#3	due@2024-08-04 13:34:19
@@ -537,7 +537,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	建筑	jiànzhù	build/construct/building/architecture	我很好奇那个建筑物是什么时候建造的。		due@2024-07-13 20:14:02
 1	热	rè	hot/warm	今天天气很热。	deck#5	due@2024-10-12 20:57:21
 3	热情	rèqíng	passion (n), kind/warm (a), enthousiastic (a)	你真是太热情了。	deck#4	due@2024-08-13 21:48:12
-4	热闹	rènao	lively/bustling	这个城市很热闹	deck#3	due@2024-07-28 20:34:08
+4	热闹	rènao	lively/bustling	这个城市很热闹	deck#4	due@2024-08-28 14:53:48
 1	去	qù	to go / past (a)	去年我去了中国。	deck#5	due@2024-09-06 21:31:18
 4	丢	diù	to lose/throw away	我钥匙丢了。	deck#4	due@2024-08-12 12:25:41
 4	却	què	but/yet/however	我同意了，她却不同意了。	deck#4	due@2024-08-27 13:40:03
@@ -894,14 +894,14 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	炊	chuī	to cook/steam		deck#2	due@2024-07-20 21:57:04
 3	饮料	yǐnliào	drink (n)	果汁是饮料。	deck#2	due@2024-07-22 20:34:51
 4	材料	cáiliào	materials/resources/data	她在为一本书收集材料。	deck#2	due@2024-07-14 12:17:13
-4.	饮食	yǐnshí	food		deck#3	due@2024-07-28 20:24:00
+4.	饮食	yǐnshí	food		deck#3	due@2024-08-05 14:54:02
 5	软件	ruǎnjiàn	software	我的软件全都是开源的。	deck#3	due@2024-08-04 13:36:34
 1	欢迎	huānyíng	welcome		deck#5	due@2024-10-11 12:23:22
 3	又	yòu	again, also, both, another	今天他又来了。/ 我现在有累锇	deck#5	due@2024-09-06 21:15:11
 3	双	shuāng	two/double/ MW for pairs		deck#4	due@2024-08-12 12:06:40
 4	观众	guānzhòng	spectator/audience	观众鼓了掌。	deck#2	due@2024-07-03 19:30:48
 5	观点	guāndiǎn	point of view/standpoint	她持有与我不同的观点。	deck#2	due@2024-07-14 12:05:26
-4	反对	fǎnduì	to oppose/protest (n/v)	他们表示反对。	deck#3	due@2024-07-28 20:34:16
+4	反对	fǎnduì	to oppose/protest (n/v)	他们表示反对。	deck#3	due@2024-08-05 14:54:36
 5	反应	fǎnyìng	to react/respond			due@2024-07-19 22:31:46
 5	反正	fǎnzhèng	anyway	反正已经太晚了。		due@2024-07-20 21:01:25
 1+	饭	fàn	rice/meal	我们吃饭。	deck#5	due@2024-09-18 18:58:27
@@ -1208,7 +1208,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	管理	guǎnlǐ	manage/supervise/management	管理一个国家不容易	deck#2	due@2024-06-17 18:21:16
 &	馆子	guǎnzi	restaurant		deck#3	due@2024-08-04 13:25:45
 &	馆舍	guǎnshe	hotel/inn		deck#2	due@2024-07-21 21:15:05
-5	宿舍	sùshè	dormitory	宿舍有很多张床	deck#3	due@2024-07-28 20:33:38
+5	宿舍	sùshè	dormitory	宿舍有很多张床	deck#3	due@2024-08-05 14:59:36
 2	阴	yīn	yin (yang), the moon, cloudy weather		deck#5	due@2024-10-12 20:55:59
 3	城市	chéngshì	city	我们的城市恨大。	deck#5	due@2024-09-06 21:52:17
 5	成人	chéngrén	adult	只有成人可以看那种电影。	deck#4	due@2024-08-02 21:10:42
