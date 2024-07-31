@@ -104,7 +104,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	头发	tóufa	hair (head)		deck#5	due@2024-09-06 21:29:41
 1	对不起	duìbuqǐ	sorry	对不起，是我的错。	deck#5	due@2024-10-12 21:50:51
 4	对话	duìhuà	conversation/dialogue	这个对话太难理解了。	deck#3	due@2024-08-05 15:07:37
-&	夕	xī	dusk		deck#2	due@2024-07-30 15:29:58
+&	夕	xī	dusk		deck#3	due@2024-08-07 17:34:47
 2	外	wài	outside/out/foreign		deck#5	due@2024-10-19 20:29:33
 1	多	duō	many		deck#6	due@2024-12-15 11:05:57
 1	多少	duōshǎo	how much/many?		deck#5	due@2024-09-19 19:03:33
@@ -137,7 +137,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	总结	zǒngjié	summary/summarise			
 &	聪明	cōngmíng	clever	他总是很聪明。	deck#4	due@2024-08-18 21:19:37
 1	个	ge	generic measure word		deck#6	due@2025-06-28 21:09:15
-4	个子	gèzi	height/stature/build		deck#2	due@2024-07-30 15:36:56
+4	个子	gèzi	height/stature/build		deck#3	due@2024-08-07 17:34:50
 1	工作	gōngzuò	work (n)	我在一家德国公司工作。	deck#5	due@2024-09-06 21:25:23
 1	狗	gǒu	dog	我的够很可爱。	deck#5	due@2024-09-30 19:48:47
 5	猪	zhū	pig		deck#3	due@2024-08-04 13:44:05
@@ -261,7 +261,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 6	人家	rénjiā	household,family	他是有钱人家的儿子。	deck#3	due@2024-08-04 13:45:02
 1	叫	jiào	shout,call,order	你叫什么？	deck#5	due@2024-10-12 20:33:18
 4	收	shōu	receive/accept/collect	你收到我送给的礼物？	deck#3	due@2024-08-05 17:39:23
-4	收拾	shōushi	to tidy up/to put in order	他把房间收拾了一下。	deck#2	due@2024-07-30 17:30:37
+4	收拾	shōushi	to tidy up/to put in order	他把房间收拾了一下。	deck#2	due@2024-08-01 17:35:42
 4	收入	shōurù	income	他的收入不够。	deck#3	due@2024-08-05 17:41:02
 2	笑	xiào	to laugh/smile	她笑了。	deck#5	due@2024-10-12 21:33:01
 3	哭	kū	to cry	大家都哭了，就我没哭。	deck#5	due@2024-09-06 21:25:04
@@ -389,7 +389,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	发现	fāxiàn	discover	他发现了一个新油田	deck#5	due@2024-09-06 21:16:03
 4	出现	chūxiàn	appear	一个男的突然出现在门口。	deck#4	due@2024-08-12 19:40:44
 5	表现	biǎoxiàn	act (v/n)/show/perform/performance	他表现得像个疯子。	deck#3	due@2024-08-05 15:09:52
-4	表扬	biǎoyáng	praise (n/v)	我们要经常表扬孩子。	deck#2	due@2024-07-20 21:37:49
+4	表扬	biǎoyáng	praise (n/v)	我们要经常表扬孩子。	deck#2	due@2024-08-01 17:34:15
 4	表格	biǎogé	form/table	他填写了表格。	deck#2	due@2024-07-20 22:07:37
 1	了	le	past particle/change marker	天气冷了。	deck#6	due@2024-12-13 19:05:52
 4	了不起	liǎobuqǐ	incredible/extraordinary/great/amazing	你真了不起！	deck#3	due@2024-08-05 15:35:38
@@ -492,7 +492,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	公共汽车	gōnggóngqìchē	public bus	他坐公共汽车去上学。	deck#5	due@2024-10-18 20:55:03
 3	自行车	zìxíngchē	bike	我想骑自行车。	deck#5	due@2024-10-17 21:09:17
 3+	公共	gōnggòng	public	我不喜歡在公共場合唱歌。	deck#5	due@2024-10-11 19:29:35
-4	共同	gōngtóng	common/together	共同的经理	deck#2	due@2024-07-30 17:41:29
+4	共同	gōngtóng	common/together	共同的经理	deck#2	due@2024-08-01 17:33:42
 3	一共	yīgòng	altogether	一共要多少钱？	deck#4	due@2024-08-13 21:27:59
 4+	共产党	gōngchǎndǎng	the Communist Party	他自愿加入中国共产党。	deck#4	due@2024-08-27 13:31:10
 !	女	nǚ	woman/female		deck#6	due@2025-07-09 20:33:03
@@ -987,7 +987,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	度	dù	degree/measure		deck#4	due@2024-08-20 20:37:26
 4	速度	sùdù	speed	有速度限制吗?	deck#4	due@2024-08-01 22:23:15
 4	温度	wēndù	temperature	明天的最高温度是多少？		
-4	态度	tàidù	manner/bearing/attitude	我希望改进自己的工作态度。	deck#2	due@2024-07-30 17:24:15
+4	态度	tàidù	manner/bearing/attitude	我希望改进自己的工作态度。	deck#2	due@2024-08-01 17:33:06
 5	制度	zhìdù	system/institution	他们改变了制度。	deck#2	due@2024-07-30 17:38:50
 6	过渡	guòdù	excessive			due@2024-07-21 20:19:12
 &	母	mǔ	mother		deck#4	due@2024-08-01 22:23:35
@@ -1037,7 +1037,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	百	bǎi	hundred	我女儿现在数数能数到一百了。	deck#4	due@2024-08-12 19:52:58
 2	日	rì	sun/day/date		deck#6	due@2024-12-15 11:04:24
 ！	目	mù	eye/item		deck#5	due@2024-09-30 22:25:58
-4	目的	mùdi	goal/purpose/aim	找到爱情是我的目的	deck#2	due@2024-07-30 17:25:37
+4	目的	mùdi	goal/purpose/aim	找到爱情是我的目的	deck#3	due@2024-08-07 17:33:26
 3	耳(朵)	ěr(duo)	ear	我们用耳朵听。	deck#5	due@2024-09-06 21:47:42
 3	自(己)	zì(jǐ)	(one)self/own	他决定自己试试看。	deck#5	due@2024-09-06 21:49:59
 4	自然	zìrán	nature (n)/natural/naturally	病自然会好。	deck#4	due@2024-08-27 13:24:05
@@ -1115,7 +1115,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4+	签名	qiánmíng	to sign/signature	请在这儿签名。		due@2024-07-20 21:23:58
 4	边检	biānjiǎn	border control	我们过了边检。	deck#3	due@2024-08-05 17:40:23
 6	检验	jiǎnyàn	to inspect/examine/test			due@2024-07-20 21:20:54
-4	经验	jīngyàn	experience	我什么经验都没有。	deck#2	due@2024-07-30 15:31:57
+4	经验	jīngyàn	experience	我什么经验都没有。	deck#2	due@2024-08-01 17:34:33
 4	危险	wěixiàn	danger/dangerous	危险还没有度过。		due@2024-06-17 21:54:39
 5	危害	wěihài	endanger/harm/jeapardize	有些药品会对身体产生危害。		due@2024-06-16 21:29:52
 4	可怜	kělián	pitiful/poor/pathetic; to have pity	请可怜我吧！		due@2024-07-20 21:18:47
@@ -1287,7 +1287,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	当时	dāngshī	at that time, then	他当时一个人。	deck#3	due@2024-08-04 13:28:37
 3	当然	dāngrán	of course	他当然是无辜的。	deck#5	due@2024-10-17 21:15:17
 5	当心	dāngxīn	be careful	你如果不当心, 会受伤的	deck#4	due@2024-08-28 15:02:46
-4	粗心	cūxìn	careless/negligent	他做事很粗心。	deck#2	due@2024-07-30 15:34:59
+4	粗心	cūxìn	careless/negligent	他做事很粗心。	deck#2	due@2024-08-01 17:33:20
 &	风	fēng	wind	刮了很大风。	deck#5	due@2024-09-06 21:52:13
 4	刚	gāng	just	我刚才吃饭了。	deck#4	due@2024-08-12 16:58:41
 5	疯狂	fēngkuáng	madness/insane/craziness	梦想能让我疯狂。	deck#2	due@2024-07-30 15:32:49
@@ -1383,7 +1383,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	尽力	jǐnlì	try one’s hardest (努力)		deck#2	due@2024-07-21 21:12:18
 5	尽量	jǐnliàng	to the best of one's ability			due@2024-07-13 16:42:11
 4	取	qǔ	take/obtain/adopt/choose	请给我取一张票。	deck#4	due@2024-08-13 20:56:45
-3	取消	qǔxiāo	cancel	我不能取消它。	deck#2	due@2024-07-30 15:59:26
+3	取消	qǔxiāo	cancel	我不能取消它。	deck#2	due@2024-08-01 17:34:59
 5+	取得	qǔdé	to reach/get/acquire/attain	这几年，科学取得了显著的进步。	deck#4	due@2024-08-27 13:50:34
 6	取缔	qǔdì	ban	首都的新闻报道受到了严格限制。		due@2024-07-13 19:34:11
 3	敢	gǎn	dare	我不敢杀動物。	deck#4	due@2024-08-18 21:16:47
@@ -1413,7 +1413,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	威胁	wēixié	threaten	我一点也不怕他威胁。		due@2024-07-02 19:26:39
 6	威力	wēilì	power			due@2024-07-20 21:05:31
 4+	军	jūn	army/military		deck#4	due@2024-08-13 20:41:21
-6	军队	jūnduì	army/troops	军队意外地被攻击了。	deck#2	due@2024-07-30 17:24:27
+6	军队	jūnduì	army/troops	军队意外地被攻击了。	deck#3	due@2024-08-07 17:34:44
 4+	牌子	páizi	sign/brand			due@2024-07-19 22:31:09
 5	陆	lù	land/continent	非洲是一块非常大的大陆。	deck#2	due@2024-07-30 15:24:31
 4	着陆	zhuólù	to land/landing	飞机什么时候着陆？		due@2024-07-21 20:15:22
@@ -1439,7 +1439,7 @@ G	没有···那么/这么···	méiyǒu..nàme..	is not as .. as ..	今天的
 4G	对...来说	duì...láishūo	from .... perspective	这个对他来说很困难。	deck#4	due@2024-08-27 13:26:17
 4G	不仅...而且...	bùjǐn..ěrqiě	not only... but also	她不仅漂亮，而且对每个人都很好。	deck#2	due@2024-07-20 22:10:33
 4G	先..., 才...	xiān...,cái....	first..., only then...		deck#3	due@2024-08-04 13:43:34
-4G	这样一来...	zhèyàngyilái	in this case ...	这样一来，孩子就是很高兴。	deck#2	due@2024-07-20 22:13:16
+4G	这样一来...	zhèyàngyilái	in this case ...	这样一来，孩子就是很高兴。	deck#2	due@2024-08-01 17:35:27
 #METADATA:
 #METADATA:
 #METADATA:
