@@ -131,7 +131,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	高	gāo	high/all	他比我高。	deck#5	due@2024-09-06 21:46:14
 1	高兴	gāoxìng	happy,enjoy (v)	我们的孩子玩得很高兴。	deck#5	due@2024-10-11 20:21:55
 3	提高	tígāo	to raise/improve	我提高我的汉语水平。	deck#4	due@2024-08-18 21:22:13
-4	提供	tígōng	to provide/supply	他们给我提供了很多帮助。	deck#2	due@2024-07-30 16:01:34
+4	提供	tígōng	to provide/supply	他们给我提供了很多帮助。	deck#3	due@2024-08-07 17:28:04
 4	提出	tíchū	to raise an issue/to suggest/to post	他常常提出一个问题。	deck#4	due@2024-08-20 20:13:43
 3	总（是）	zǒng(shì)	always	他总是很聪明。	deck#4	due@2024-08-18 21:19:54
 4	总结	zǒngjié	summary/summarise			
@@ -155,7 +155,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	号	hào	number		deck#5	due@2024-10-12 21:02:32
 4	号码	hàomǎ	number	请给我你的电话号码。	deck#5	due@2024-10-12 20:46:14
 4	密码	mìmǎ	password	我忘记了我的密码。		
-4	污染	wūrǎn	to pollute/contaminate/pollution/contamination	别这样做，会污染环境！	deck#2	due@2024-07-20 21:40:22
+4	污染	wūrǎn	to pollute/contaminate/pollution/contamination	别这样做，会污染环境！	deck#2	due@2024-08-01 17:28:57
 1	喝	hē	to drink	我喝茶。	deck#5	due@2024-10-17 21:12:26
 3	渴	kě	thirsty	你为什么总觉得很渴？	deck#5	due@2024-09-06 21:13:04
 1	很	hěn	very	他很大。	deck#5	due@2024-09-06 21:18:56
@@ -194,7 +194,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	好处	hǎochù	advantage/benefit	这么做有很多好处。	deck#3	due@2024-08-05 17:37:32
 4	坏处	huàichù	disadvantage	这么做没有坏处。		
 3	迟到	chídào	be late	对不起，我迟到了。	deck#4	due@2024-08-27 13:26:00
-5	迟早	chízǎo	sooner or later	她迟早会回来的。	deck#2	due@2024-07-30 15:37:05
+5	迟早	chízǎo	sooner or later	她迟早会回来的。	deck#2	due@2024-08-01 17:29:30
 3	班	bān	class/team/squad/shift	他们应该上班。	deck#4	due@2024-08-18 21:09:20
 2	孩子	háizi	child	孩子在小学玩玩。	deck#5	due@2024-09-06 21:13:30
 3	刻	kè	quarter (time)		deck#4	due@2024-08-12 19:55:10
@@ -238,7 +238,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	尝	cháng	taste/ever	你尝过米饭了吗？	deck#2	due@2024-07-30 15:56:48
 4	合适	héshì	appropriate/suitable/fit	你觉得说这种话合适吗？	deck#2	due@2024-06-22 19:47:15
 5	合作	hézuò	cooperate/cooperation	我需要你们的合作。	deck#3	due@2024-08-05 15:54:45
-4	盒子	hézi	box/case	我打开盒子的时候，它是空的。	deck#2	due@2024-07-30 17:40:30
+4	盒子	hézi	box/case	我打开盒子的时候，它是空的。	deck#2	due@2024-08-01 17:30:09
 4	答案	dá'àn	solution/answer	这个答案是对的。	deck#2	due@2024-07-30 17:28:29
 1	几	jǐ	how much/many/a few	现在几点？	deck#5	due@2024-10-17 21:12:54
 3	几乎	jīhǔ	almost	他几乎跟他爸爸一样高。	deck#3	due@2024-08-05 15:15:40
@@ -385,7 +385,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	现在	xiànzài	now	现在几点？	deck#6	due@2025-07-08 12:02:46
 4	现金	xiànjīn	cash	我想付现金。	deck#3	due@2024-08-04 13:48:23
 4	现代	xiàndài	modern	现代科学技术让我们的生活更加舒服。	deck#4	due@2024-08-18 21:55:28
-4	现象	xiànxiàng	phenomenon/appearance	那种现象很普通。	deck#2	due@2024-07-22 20:15:11
+4	现象	xiànxiàng	phenomenon/appearance	那种现象很普通。	deck#2	due@2024-08-01 17:30:21
 3	发现	fāxiàn	discover	他发现了一个新油田	deck#5	due@2024-09-06 21:16:03
 4	出现	chūxiàn	appear	一个男的突然出现在门口。	deck#4	due@2024-08-12 19:40:44
 5	表现	biǎoxiàn	act (v/n)/show/perform/performance	他表现得像个疯子。	deck#3	due@2024-08-05 15:09:52
@@ -754,7 +754,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	句子	jùzi	sentence	如果我不明白一个句子，我不能翻译。	deck#5	due@2024-10-12 20:44:56
 4	语言	yǔyán	language	他会讲十门语言。	deck#6	due@2025-07-09 20:52:44
 ？	信	xìn	letter (n), to believe (v)		deck#5	due@2024-10-17 21:20:07
-4	信任	xìnrèn	to trust somebody/trust	我很信任我的朋友。	deck#2	due@2024-07-14 19:45:27
+4	信任	xìnrèn	to trust somebody/trust	我很信任我的朋友。	deck#3	due@2024-08-07 17:30:03
 4	信心	xìnxīn	confidence/faith	我对自己很有信心。		
 3+	英语	yīngyǔ	English	他说英语。	deck#5	due@2024-09-06 21:44:32
 5	英雄	yīngxióng	hero	他梦想着成为一名英雄。		due@2024-07-19 22:11:12
@@ -787,7 +787,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	爬上	páshàng	climb	猴子爬上了树。	deck#5	due@2024-10-12 20:58:04
 2	对	duì	correct, towards，yes		deck#6	due@2025-06-03 21:43:25
 4	村子	cūnzi	village	我住在一个村子。	deck#4	due@2024-08-18 21:52:18
-3	讨厌	tǎoyàn	to hate/dislike/disgusting	我讨厌我的邻居。	deck#2	due@2024-07-30 15:35:30
+3	讨厌	tǎoyàn	to hate/dislike/disgusting	我讨厌我的邻居。	deck#2	due@2024-08-01 17:30:49
 3	讨论	tǎolùn	discuss/discussion	这问题正在被讨论。	deck#4	due@2024-08-27 13:49:07
 6	评论	pínglùn	comment/review			due@2024-07-20 20:58:59
 5	议论	yìlùn	discuss/talk		deck#2	due@2024-07-03 22:32:11
@@ -796,7 +796,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	付款	fùkuǎn	to pay		deck#2	due@2024-07-20 21:55:41
 2	过	guò	past/completion participle		deck#6	due@2025-07-08 19:10:59
 3	过去	guòqù	the past		deck#5	due@2024-09-06 21:51:41
-4	衬衫	chènshān	shirt	他把衬衫脱了。	deck#2	due@2024-07-21 20:56:10
+4	衬衫	chènshān	shirt	他把衬衫脱了。	deck#3	due@2024-08-07 17:29:39
 &	计	jì	calculate		deck#5	due@2024-10-17 21:10:55
 5	计算	jìsuàn	calculate/plan/scheme		deck#4	due@2024-08-01 22:28:09
 4+	计算机	jìsuànjī	computer	我对计算机很感兴趣.	deck#4	due@2024-08-18 21:09:10
@@ -1058,7 +1058,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	消失	xiāoshī	to disappear/vanish	漂亮的阳光消失了。	deck#4	due@2024-08-28 15:15:07
 4	失望	shīwàng	dissappointed	我们对将来感觉失望。	deck#2	due@2024-07-30 17:27:58
 4	失败	shībài	to be defeated/to fail/to lose/failure/defeat	不害怕失败！		due@2024-07-13 20:05:31
-5	失去	shīqù	to lose	我对你失去信心。/ 他失去他的爷爷。	deck#2	due@2024-07-21 21:09:26
+5	失去	shīqù	to lose	我对你失去信心。/ 他失去他的爷爷。	deck#2	due@2024-08-01 17:29:17
 1	和	hé	and	我想喝咖啡和茶。	deck#5	due@2024-09-06 21:38:44
 4	租	zū	rent/rent out		deck#3	due@2024-08-05 15:59:32
 5	组合	zǔhé	to assemble/combine/combination	这里你可以看到漂亮的颜色组合。	deck#2	due@2024-07-30 15:55:53
@@ -1243,7 +1243,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	练习	liànxí	to practise/exercise	你需要每天练习。	deck#4	due@2024-08-12 12:25:55
 5	训练	xùnliàn	to train/training	和他们一起训练不是游戏。		
 3	裙子	qúnzi	skirt	我买了一条裙子。	deck#4	due@2024-08-18 21:19:02
-4	群	qún	MW for groups of people/animals	一群羊	deck#2	due@2024-07-15 19:39:51
+4	群	qún	MW for groups of people/animals	一群羊	deck#3	due@2024-08-07 17:30:28
 4	紧张	jǐnzhāng	nervous/intense	你看起来很紧张。	deck#4	due@2024-08-13 21:12:36
 5	紧急	jǐnjí	urgent	有紧急情况时，必须通过这个出口跑出房子。		due@2024-06-21 14:53:24
 3	借	jiè	lend/borrow/excuse	能借给我你的刀吗？	deck#3	due@2024-08-05 15:50:10
@@ -1298,7 +1298,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	风景	fēngjǐng	scenery		deck#2	due@2024-07-30 15:26:01
 5	风险	fēngxiǎn	risk	风险太大。我很担心。	deck#2	due@2024-07-30 17:35:10
 5	疯狂	fēngkuáng	crazy/fierce/mad	他真的很疯狂。	deck#2	due@2024-07-20 22:09:05
-4	区别	qūbié	difference/to differ/to distinguish	咱们的想法有区别。	deck#2	due@2024-07-30 15:36:51
+4	区别	qūbié	difference/to differ/to distinguish	咱们的想法有区别。	deck#3	due@2024-08-07 17:29:51
 4	郊区	jiāoqū	suburbs	我们住在郊区。		due@2024-07-20 21:15:39
 5	欧州	oūzhōu	Europe	这条河是欧洲最宽的。	deck#4	due@2024-08-18 21:19:20
 5+	欧元	ōuyuán	Euro (money)	我花了大约三十欧元。	deck#3	due@2024-08-04 13:42:33
