@@ -149,7 +149,6 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	老虎	lǎohǔ	tiger	老虎吓到了我。	deck#2	due@2024-06-17 18:18:07
 3	熊猫	xióngmāo	panda	熊猫住在中国。		
 3+	熊	xióng	bear		deck#4	due@2024-08-12 20:21:35
-4	逛	guàng	stroll/wander/shopping	母亲去了逛到。		
 1	汉语	hànyǔ	Chinese	我会说汉语。	deck#6	due@2024-09-01 15:16:37
 1	好	hǎo	good		deck#6	due@2025-07-14 22:23:22
 1	号	hào	number		deck#5	due@2024-10-12 21:02:32
@@ -483,7 +482,10 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	胖	pàng	fat	他太胖了。	deck#3	due@2024-08-04 13:42:05
 4	脏	zāng	dirty	衬衫太脏了。	deck#2	due@2024-07-20 21:40:43
 3	瘦	shòu	thin	她太瘦了。/ 瘦了五公斤。	deck#3	due@2024-08-05 15:04:15
+4	弄	nòng	do/manage/handle/make/mock	我没弄明白这个笑话。/ 他弄丢了电影票。
 4	养	yǎng	to raise/to bring up/adopt/keep/support	我想养一只够。		
+4	挂	guà	connect/hang (up)	地图挂在墙上。	deck#3	due@2024-08-04 13:37:08
+4	逛	guàng	stroll/wander/shopping	母亲去了逛到。		
 4	棒	bàng	great/fantastic/excellent/stick/club	听起来好棒。	deck#3	due@2024-08-05 17:21:29
 1	出租车	chūzūchē	taxi	我们坐出租车吧。	deck#5	due@2024-10-17 21:20:11
 1+	汽车	qìchē	car	他有一辆绿色的汽车。	deck#5	due@2024-09-06 21:44:30
@@ -1231,7 +1233,6 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	打电话	dǎdiànhuà	to make a phonecall	我一下打电话。	deck#5	due@2024-09-14 18:04:40
 3	打算	dǎsuàn	to plan/to intend	你打算做什么？	deck#4	due@2024-08-01 19:41:18
 4	打印	dǎyìn	to print/seal/stamp	我昨天买了这个打印机。	deck#3	due@2024-08-05 15:09:32
-4	挂	guà	connect/hang (up)	地图挂在墙上。	deck#3	due@2024-08-04 13:37:08
 5	争取	zhēngqǔ	strive for	我争取明天回答。		
 5	争论	zhēnglùn	argue/argument	你为什么要和经理争论？	deck#3	due@2024-08-07 19:21:04
 5	战争	zhànzhēng	war	他写了一本关于美国南北战争的书。	deck#3	due@2024-08-04 13:51:29
