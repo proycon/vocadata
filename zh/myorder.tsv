@@ -590,6 +590,9 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	准时	zhǔnshí	on time	火车准时到了。		due@2023-12-22 13:41:37
 4	准确	zhǔnquè	precise/accurate	他很准确地说	deck#4	due@2024-09-05 19:13:16
 5	唯一	wéiyī	only/sole	这是我们唯一的机会。	deck#3	due@2024-08-13 22:17:55
+4+	推	tuī	to push/shove/refuse
+4	推迟	tuīchí	to postpone/put off	我们推迟了会议。
+5	推广	tuīguǎng	to extend/spread/popularize/promote	他们正在推广一项环保运动。	
 4	正确	zhèngquè	correct/proper	你的回答是正确的。	deck#3	due@2024-08-16 21:54:34
 2	往	wǎng	to go (in a direction); towards; in the past	请往前走。/ 他不往右转了。	deck#4	due@2024-08-18 21:11:57
 1	什么	shénme	what/something/anything	你现在做什么？	deck#6	due@2025-07-14 22:35:51
@@ -619,7 +622,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 !	立	lì	stand/upright/immediately	起立！	deck#5	due@2024-10-11 19:29:07
 3	站	zhàn	to stand/station	请你站在我后面。	deck#5	due@2024-09-06 21:33:30
 3	位	wèi	MW for people	我喜欢这位歌手。	deck#5	due@2024-11-10 21:31:39
-4	拉	lā	pull/transport/help	他拉开了门。		
+4	拉	lā	pull/drag/transport/help/play (string instruments)	他拉开了门。		
+4	垃圾	lājī	garbage	夏天气温高，应该每天倒垃圾。
 3	接	jiē	receive/connect/catch/pick up	我会去接他们。	deck#3	due@2024-08-19 21:37:22
 4	倍	bèi	double/times	他的工资是我的两倍。	deck#3	due@2024-08-19 15:51:49
 4	陪	péi	go with/accompany/assist	我陪她散步。	deck#2	due@2024-08-13 21:51:05
@@ -1169,6 +1173,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	内容	nèiróng	contents	信的内容是什么？	deck#4	due@2024-08-27 13:43:04
 &	贝	bèi	shell(fish)		deck#4	due@2024-09-05 12:47:08
 4	页	yè	page	有一页缺了。		
+5	项目	xiàngmù	project/program	你的项目进展得怎么样？
 4	顺序	shùnxù	order/sequence	那个顺序不对。		due@2024-07-20 20:54:21
 4	顺便	shùnbiàn	conveniently/without much effort/by the way/in passing	顺便问一句，你今晚有空吗？	deck#2	due@2024-08-13 22:03:40
 4	顺利	shùnlì	smoothly/without a hitch	一切都很顺利。	deck#3	due@2024-08-19 22:01:33
@@ -1194,6 +1199,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4&	油	yóu	oil/gas	我们的国家有很多石油。	deck#5	due@2024-11-02 12:30:45
 4&	邮件	yóujiàn	mail/post	你收到了我发的邮件了吗？
 4	邮局	yóujú	post office	她去了邮局寄包裹。
+4	抽烟	chōuyān	to smoke	这儿禁止抽烟。
 !	甲	jiǎ	helmet/armour/first/nail	我的指甲断了。	deck#3	due@2024-08-20 20:35:00
 !	申	shēn	to explain (radical)		deck#3	due@2024-08-20 20:55:59
 &	神	shén	God	我不信神。	deck#3	due@2024-08-19 15:57:47
