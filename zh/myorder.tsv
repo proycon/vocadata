@@ -822,10 +822,11 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	讨厌	tǎoyàn	to hate/dislike/disgusting	我讨厌我的邻居。	deck#2	due@2024-08-14 20:55:53
 3	讨论	tǎolùn	discuss/discussion	这问题正在被讨论。	deck#4	due@2024-08-27 13:49:07
 6	评论	pínglùn	comment/review	欢迎作任何评论。		due@2024-07-20 20:58:59
+5	评价	píngjià	evaluate/assess/evaluation/assessment	老板对你的工作有很高的评价。
 5	议论	yìlùn	discuss/talk		deck#2	due@2024-08-13 21:37:04
 &	付	fù	hand over/pay	我想付现金。	deck#5	due@2024-10-17 21:10:52
 4	付钱	fùqián	to pay	他付了钱。	deck#4	due@2024-08-18 21:07:45
-4	付款	fùkuǎn	to pay		deck#2	due@2024-08-14 21:06:01
+4	付款	fùkuǎn	to pay	我想用信用卡付款。	deck#2	due@2024-08-14 21:06:01
 2	过	guò	past/completion participle		deck#6	due@2025-07-08 19:10:59
 3	过去	guòqù	the past		deck#5	due@2024-09-06 21:51:41
 4	衬衫	chènshān	shirt	他把衬衫脱了。	deck#3	due@2024-08-16 21:55:39
@@ -974,15 +975,17 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	著名	zhùmíng	famous	他是一位著名的演员。	deck#3	due@2024-08-13 22:38:52
 2	等	děng	wait	我们需要等他妈？	deck#5	due@2024-10-11 12:17:48
 &	等等	děngděng	and so on		deck#5	due@2024-11-02 12:31:00
-&	堂	táng	hall		deck#4	due@2024-08-28 15:06:57
+&	堂	táng	hall	食堂，教堂，天堂	deck#4	due@2024-08-28 15:06:57
 &	党	dǎng	party (political etc)	我自愿加入中国共产党。	deck#4	due@2024-09-05 19:07:15
-&	常	cháng	often		deck#5	due@2024-09-18 19:00:36
+&	常	cháng	often	我常常在共产党的食堂尝热汤和鼓掌。	deck#5	due@2024-09-18 19:00:36
 2	非常	fēicháng	very/exceptionally/extremely	她非常聪明。	deck#5	due@2024-10-11 16:45:04
 &	常常	chángcháng	often	他常常去游泳。	deck#5	due@2024-10-12 21:39:45
 3	经常	jīngcháng	often,daily	她经常读书。	deck#5	due@2024-10-12 20:31:22
 5&	掌	zhǎng	to be in charge of, palm of hand, sole of foot, paw		deck#3	due@2024-08-16 21:55:05
 5	掌握	zhǎngwò	to grap/control/seize/master/know well	我关于日语的知识掌握得还不是很好。		due@2024-07-20 21:12:48
 5	鼓掌	gǔzhǎng	to applaude to clap	观众鼓了掌。	deck#3	due@2024-08-20 21:07:52
+5	握手	wòshǒu	to shake hands	我和她握了手。
+5	把握	bǎwǒ	to grasp/seize/hold (n/v)	好好把握这个机会！
 4	躺	tǎng	to lie down (on one's back or side)	我爱躺着看书。	deck#3	due@2024-08-16 21:52:13
 !	非	fēi	wrong/blame/not be		deck#4	due@2024-08-18 21:12:35
 &	排	pái	row/MW for sortable things/put in order		deck#3	due@2024-08-13 22:25:25
@@ -1057,6 +1060,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	留	liú	to stay/retain/leave (a message)	我想留在哪里。	deck#4	due@2024-09-11 21:12:13
 3	留学	liúxué	to study abroad	他离开父母去国外留学。	deck#4	due@2024-08-18 21:31:17
 3	难	nán	difficult/hard	学荷兰语不难。	deck#5	due@2024-10-19 20:24:17
+3	难过	nánguò	be sad/be grieved/have a hard time	
 4	难道	nán dào	could it be that?	难道他不回来吗？		due@2024-07-13 12:21:25
 2	慢	mán	slow	爷爷慢慢地走。	deck#4	due@2024-08-18 21:24:08
 3	容易	róngyì	easy	学德语不容易。	deck#5	due@2024-09-06 21:31:31
