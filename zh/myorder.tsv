@@ -227,9 +227,10 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	同时	tóngshí	at the same time, besides	他们同时到了。		
 1	同学	tóngxué	classmate/fellow student	她是我的同学。我们是同学们。	deck#5	due@2024-09-06 21:30:15
 3	同事	tóngshì	colleague	我和同事一起工作。	deck#5	due@2024-10-17 21:16:03
-3	词典	cídiǎn	dictionary	你用完词典了吗？	deck#4	due@2024-09-11 21:19:19
-3	字典	zìdiǎn	dictionary		deck#5	due@2024-10-17 21:13:04
-5	经典	jīngdiǎn	classics			
+4	同情	tóngqíng	compassion/sympathy/sympathize	每个人都对囚犯表示同情。	
+3	词典	cídiǎn	dictionary (words)	你用完词典了吗？	deck#4	due@2024-09-11 21:19:19
+3	字典	zìdiǎn	dictionary (characters)		deck#5	due@2024-10-17 21:13:04
+5	经典	jīngdiǎn	classics/classical			
 1	会	huì	to be able to, to assemble	我会说汉语。	deck#6	due@2024-12-15 11:07:06
 	会见	huìjiàn	to meet	我今天下午会见你。	deck#5	due@2024-09-06 21:50:53
 3	会议	huìyì	meeting	会议还没结束。	deck#5	due@2024-10-12 20:56:29
@@ -250,6 +251,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	呼吸	hūxī	to breathe	用你的鼻子呼吸。		due@2024-07-20 21:22:32
 1	九	jiǔ	nine		deck#5	due@2024-10-17 21:18:45
 1	力	lì	force (n),strength (n), power (n)		deck#5	due@2024-09-06 21:27:05
+5	力量	lìlìang	power/force/strength	这个国家的军事力量很先进。
 4	刀	dāo	knife	我需要一把刀。	deck#5	due@2024-09-06 21:24:35
 3	万	wàn	ten thousand	他有2万元.	deck#3	due@2024-08-19 15:51:05
 4	能力	nénglì	ability		deck#5	due@2024-09-06 21:25:27
@@ -325,6 +327,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	瓶子	píngzi	bottle	那个空瓶子是他的。	deck#4	due@2024-08-18 22:23:51
 3	结束	jiéshù	to end/to finish	冬天结束了。	deck#4	due@2024-09-03 20:12:03
 3	结婚	jiéhūn	to get married	她决定和他结婚。	deck#4	due@2024-08-18 21:16:01
+4	离婚	líhūn	to divorce	她打算离婚。
 4	结果	jiéguǒ	outcome/result/conclusion/in the end	我不想看到这样的结果。	deck#4	due@2024-08-19 21:19:48
 4	效果	xiàoguǒ	result/effect	吃这个药的效果很好。	deck#2	due@2024-08-13 22:06:55
 1	看	kàn	to look		deck#6	due@2024-12-15 11:01:00
@@ -367,6 +370,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	重新	chóngxīn	again	我们可以重新再来。	deck#4	due@2024-08-27 13:31:57
 3	重要	zhòngyào	important	对我，他很重要。	deck#5	due@2024-09-06 21:51:45
 4	重视	zhòngshì	value (n/v)/attach importance/take seriously	父母很重视孩子的教育。	deck#2	due@2024-08-07 22:13:29
+5	重量	zhòngliàng	weight	
 4	严重	yánzhòng	serious	这个问题很严重。	deck#3	due@2024-08-20 20:38:54
 3	懂	dǒng	understand	你看得懂这本书吗？	deck#5	due@2024-11-11 20:36:35
 1	睡觉	shuìjiào	sleep	我困了，想睡觉。	deck#5	due@2024-09-06 21:33:51
@@ -518,6 +522,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	漂亮	piàoliang	good-looking,pretty	你的字写得真漂亮！	deck#5	due@2024-10-17 21:18:25
 !	戈	gē	weapon/axe		deck#2	due@2024-08-14 20:58:36
 5	代表	dàibiǎo	to represent/representative/signifies	绿色代表希望。
+5	代替	dàitì	to replace/substitute/instead	电视代替了收音机。
 5	现代	xiàndài	modern/in modern times	现代的人想法不同。
 1	我	wǒ	I,me	我不是中国人。	deck#6	due@2025-06-03 21:53:17
 1	钱	qián	money	那是公司的钱。	deck#5	due@2024-09-06 21:35:19
@@ -925,6 +930,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1+	饭	fàn	rice/meal	我们吃饭。	deck#5	due@2024-09-18 18:58:27
 5	数	shǔ	to count	她数着楼层。	deck#4	due@2024-09-03 20:09:03
 3	数学	shǔxué	math	他在大学学习数学。	deck#4	due@2024-09-03 12:30:51
+4	数量	shǔliàng	amount/quantity
 3	放	fàng	put/release/let go/send out	请把它放在桌上。	deck#4	due@2024-08-18 22:08:51
 3	放心	fàngxīn	relax/to be relieved	放心，没事的。	deck#4	due@2024-09-11 21:30:15
 4	放松	fàngsōng	relax	好的音乐可以让人放松。	deck#4	due@2024-09-05 19:07:36
@@ -994,6 +1000,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	美	měi	beautiful	这幅画太美了。	deck#5	due@2024-09-19 19:25:44
 &	美国	měiguó	USA		deck#6	due@2025-06-16 14:55:19
 &	美元	měiyuán	US dollar		deck#5	due@2024-10-12 21:48:49
+4	美丽	měilì	beautiful	他们喜欢美丽的星星和月亮。
 2	送	sòng	to send / to see sb off	你可以送我一封信吗？	deck#4	due@2024-09-11 15:46:59
 2	长	cháng/zhǎng	long/length;to grow		deck#5	due@2024-10-12 20:30:24
 3	张	zhāng	to open/stretch/extend (MW for sheets/paper/furniture)		deck#4	due@2024-09-12 20:46:24
@@ -1460,6 +1467,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	集合	jíhé	to gather/a gathering	他们已经集合了。		
 5	遵守	zūnshǒu	to comply with/abide by/respect	司机应该遵守交通规则。		due@2024-07-13 19:42:46
 4	博士	bóshì	doctor/PhD (academic)	毕业后，我打算读博士。	deck#2	due@2024-08-07 22:14:14
+4	赢	yíng	to win/beat/profit/gain	哪个队赢得比赛并不重要。
 5	夜	yè	night/dark/by night	这是个冷的冬夜。	deck#4	due@2024-08-20 20:25:00
 G	一···就	yī...jiú	as soon as	他一到城市就给我打了电话。	deck#4	due@2024-09-11 15:49:46
 G	连···都	lián...dōu	even	连小孩子都会做。	deck#3	due@2024-08-20 21:04:05
