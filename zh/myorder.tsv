@@ -968,8 +968,10 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	错	cuò	mistake/error/incorrect	对不起，是我的错。	deck#5	due@2024-10-12 21:11:51
 4	错误	cuòwù	mistake	借你的刀是我的错误。	deck#5	due@2024-10-17 21:07:28
 4	误会	wùhuì	misunderstand/misunderstanding	我误会了你。		due@2024-07-19 22:24:34
-4	错过	cuòguò	to miss	我错过了公共汽车。	deck#4	due@2024-09-03 12:28:25
+4	错过	cuòguò	to miss (train etc)	我错过了公共汽车。	deck#4	due@2024-09-03 12:28:25
+4+	错失	cuòshī	to miss (a chance)
 3	借	jiè	borrow/lend	借你的刀是我的错误。		
+4	可惜	kěxī	it's a pity/too bad/regrettable	可惜她不能来。
 &	音	yīn	sound		deck#4	due@2024-08-18 21:09:37
 4+	者	zhě	that which, he who, those who	死者，作者，记者，后者	deck#4	due@2024-08-27 13:50:15
 4	著名	zhùmíng	famous	他是一位著名的演员。	deck#3	due@2024-08-13 22:38:52
