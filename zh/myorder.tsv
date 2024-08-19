@@ -778,7 +778,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	在	zài	at	我在家。	deck#6	due@2024-12-13 19:41:39
 1	住	zhù	live	我住在这里。	deck#5	due@2024-09-06 21:47:09
 !	主	zhǔ	master/main/owner/host		deck#4	due@2024-09-03 12:28:05
-3	主要	zhùyào	major/main (a)		deck#4	due@2024-08-27 13:26:52
+3	主要	zhǔyào	major/main (a)		deck#4	due@2024-08-27 13:26:52
+4	主意	zhǔyì	idea/plan/decision
 1	怎么	zěnme	how	他们是怎么认识的？	deck#5	due@2024-09-06 21:16:50
 1	怎么样	zěnmeyang	how	生活怎么样？	deck#6	due@2025-07-15 21:01:10
 1	字	zì	character		deck#5	due@2024-09-06 21:46:51
@@ -1080,6 +1081,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	增长	zēngzhǎng	to grow/to increase/growth	我的收入增长了。	deck#3	due@2024-08-13 22:28:18
 4	增加	zēngjiā	to raise/to increase	我大黑狗增加了体重。		
 5	曾经	céngjīng	once/already/former/previously/ever	你曾经看过黑人？	deck#2	due@2024-08-14 20:48:51
+5	沉默	chénmò	silent/uncommunicative/silence	麻烦的时候，最好就是沉默。
+4	幽默	yōumò	humour	你很有幽默感。
 2	白	bái	white,bright	这个够是白色的。	deck#5	due@2024-10-12 20:56:25
 2	百	bǎi	hundred	我女儿现在数数能数到一百了。	deck#5	due@2024-11-10 21:17:57
 2	日	rì	sun/day/date		deck#6	due@2024-12-15 11:04:24
