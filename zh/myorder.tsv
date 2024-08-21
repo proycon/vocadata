@@ -96,6 +96,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	南	nán	south		deck#5	due@2024-10-18 21:08:19
 3	北	běi	north		deck#5	due@2024-09-06 21:48:49
 1	北京	běijīng	Beijing	北京是中国的首都。	deck#6	due@2025-06-12 21:54:45
+5+	背	bèi	back/back side/behind	我拍拍狗的背。
+5	背景	bèijǐng	background/backdrop	图片的背景是一座城市。
 1	都	dōu	all/even/already		deck#5	due@2024-09-06 21:53:57
 3+	都会	dūhuì	big city,community		deck#4	due@2024-08-28 15:06:09
 3+	首都	shǒudū	capital	北京是中国的首都。	deck#4	due@2024-09-11 15:46:36
@@ -358,8 +360,9 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	旧	jiù	old	(inanimate)	deck#6	due@2025-07-14 21:18:19
 1+	但	dàn	but/only		deck#4	due@2024-08-18 21:21:26
 2	但是	dànshì	but	我在工作，但是我妻子在家。	deck#5	due@2024-10-17 21:18:15
-2+	怕	pà	fear/afraid	我们没怕。	deck#5	due@2024-09-06 21:54:31
 3	担心	dānxīn	worry	大家都担心。	deck#4	due@2024-08-13 21:22:52
+5	拍	pāi	to clap/pat/heat/hit/slap/take a picture	我拍了一张照片。/ 我拍拍狗的背。	
+2+	怕	pà	fear/afraid	我们没怕。	deck#5	due@2024-09-06 21:54:31
 3	害怕	hàipà	to be afraid	你害怕睡着吗？	deck#4	due@2024-09-11 21:34:23
 4	恐怕	kǒngpà	I'm afraid that..	我恐怕他不来了。	deck#3	due@2024-08-20 20:43:08
 4	害羞	hàixiū	to be shy	我很害羞。	deck#4	due@2024-09-03 20:01:43
