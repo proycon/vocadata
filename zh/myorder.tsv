@@ -8,7 +8,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	受不了	shòubuliǎo	can't stand	天气太热，我真受不了！	deck#2	due@2024-08-14 20:53:06
 4	受得了	shòudeliǎo	to endure	她受得了长途旅行吗？		
 1	八	bā	eight		deck#5	due@2024-09-06 21:22:36
-1	爸爸	bàbà	father	我的爸爸是老师。	deck#5	due@2024-09-06 21:25:15
+1	爸爸	bàbà	father	我的爸爸是老师。	deck#5	due@2024-12-25 19:47:45
 3	爷爷	yéyé	grandfather	我的爷爷是大夫。	deck#4	due@2024-09-29 17:43:48
 1	不	bù	no/not	我不知道。	deck#6	due@2024-12-15 11:04:25
 1	不客气	búkèqi	you're welcome	不客气，没有问题。	deck#5	due@2024-09-06 21:47:20
@@ -23,7 +23,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3+	休假	xiūjià	vacation/holiday/leave from duty	我在休假。	deck#3	due@2024-09-06 14:45:12
 3	米	mǐ	rice		deck#5	due@2024-10-17 21:17:49
 1	米饭	mǐfàn	cooked rice	我吃米饭。	deck#4	due@2024-09-12 20:34:43
-1	来	lái	to come	他不来。	deck#5	due@2024-09-06 21:38:54
+1	来	lái	to come	他不来。	deck#6	due@2025-09-21 19:51:42
 4	将来	jiānglái	future	你对将来有什么打算？		due@2024-07-19 22:16:44
 5	未来	weìlái	future	你对未来有什么打算？		
 1	菜	cài	vegetable/dish	她准备菜。	deck#5	due@2024-11-28 17:45:25
@@ -73,7 +73,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	大家	dàjiā	everybody	大家都知道。	deck#5	due@2024-09-06 21:36:25
 2+	大学	dàxué	university	我在大学学习数学。	deck#6	due@2024-12-15 10:54:20
 !	犬	quǎn	dog (radical)		deck#5	due@2024-11-28 14:52:29
-&	占	zhàn;zhān	occupy;divine		deck#3	due@2024-09-06 14:40:11
+&	占	zhàn;zhān	occupy;divine		deck#3	due@2024-10-03 20:04:20
 1	点	diǎn	a little/o'clock	六点四十五了。	deck#5	due@2024-10-17 21:14:45
 &	古	gǔ	ancient		deck#4	due@2024-09-03 12:30:36
 4	苦	kǔ	bitter/suffer from		deck#4	due@2024-09-29 14:43:52
@@ -82,7 +82,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	估计	gūjì	to estimate/appraise/estimate	我估计他不会来了。	deck#2	due@2024-08-13 21:45:18
 5	固定	gùdìng	fixed/set/regular	我在找一些固定工作。/ 行星围着固定不动的恒星转。		
 1	电脑	diànnǎo	computer	我恨我的电脑。	deck#5	due@2024-10-19 20:36:23
-1	电视	diànshì	television	他把电视关掉	deck#5	due@2024-09-06 21:53:56
+1	电视	diànshì	television	他把电视关掉	deck#6	due@2025-09-21 20:05:56
 1	电影	diànyǐng	film	我要跟我朋友去看电影	deck#5	due@2024-10-12 21:13:51
 1+	电话	diànhuà	telephone	我一下打电话。	deck#5	due@2024-09-06 21:11:26
 3+	视频	shìpín	video	我真的很喜欢看你的视频。	deck#4	due@2024-09-03 20:27:44
@@ -92,7 +92,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	西红柿	xīhóngshì	tomato	他们喜欢吃西红柿。	deck#4	due@2024-09-29 14:43:24
 3+	酒	jiǔ	wine/alcohol		deck#5	due@2024-09-06 21:39:27
 3+	啤酒	píjiǔ	beer	他每天喝啤酒。	deck#5	due@2024-10-12 21:00:52
-4	脾气	píqì	mood/temper/temperament/disposition	你的脾气很坏。	deck#3	due@2024-09-06 17:53:06
+4	脾气	píqì	mood/temper/temperament/disposition	你的脾气很坏。	deck#4	due@2024-10-26 19:56:43
 4	尊重	zūnzhòng	to respect/to esteem/to honour/to value	我尊重我的父母。	deck#3	due@2024-09-06 14:38:45
 3	东	dōng	east		deck#5	due@2024-09-06 21:52:38
 4	东方	dōngfāng	oriental, the Orient/east		deck#5	due@2024-09-06 21:34:08
@@ -180,7 +180,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	银行	yínháng	bank	我很喜欢跟你去银行。		
 4	限制	xiànzhǐ	limit (v/n)	有速度限制吗?		due@2024-07-19 22:28:19
 4	浪漫	làngmàn	romantic	太浪漫了！	deck#3	due@2024-09-06 17:45:00
-1	后面/边	hòumiàn/bian	behind, later (adv)		deck#5	due@2024-09-14 17:36:12
+1	后面/边	hòumiàn/bian	behind, later (adv)		deck#6	due@2025-09-21 20:01:52
 &	友	yǒu	friend		deck#4	due@2024-09-03 20:28:06
 4	友好	yǒuhǎo	friendly	这儿的人们都很友好。	deck#4	due@2024-09-29 16:53:22
 2	右	yòu	right	图书馆是在右手边。	deck#5	due@2024-09-06 21:50:36
@@ -231,7 +231,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	时间	shíjiān	time	我今天没有时间。	deck#5	due@2024-09-06 21:35:52
 3	中间	zhōngjiān	centre/middle	他坐在你们的中间。	deck#4	due@2024-09-29 14:37:15
 2	间	jiān	place/space/between/among/MW for rooms and houses			
-1	时候	shíhou	time	回来家的时候，他很饿了。	deck#5	due@2024-09-06 21:43:28
+1	时候	shíhou	time	回来家的时候，他很饿了。	deck#6	due@2025-09-21 19:49:40
 1	的	de	(posessive particle)	我的爱人。	deck#6	due@2024-09-01 14:54:41
 3+	同	tóng	same/with/together/as..as		deck#5	due@2024-12-24 20:42:36
 4	同时	tóngshí	at the same time, besides	他们同时到了。		
@@ -349,7 +349,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	着	zhe	continuous/ongoing aspect particle		deck#5	due@2024-11-28 17:51:54
 3	着急	zháojí	worried/worry	你不要着急。	deck#3	due@2024-09-06 16:53:42
 3	春	chún	spring	春天来了。	deck#4	due@2024-09-29 14:51:07
-3	夏	xià	summer	这里夏天非常炎热。	deck#5	due@2024-09-06 21:52:56
+3	夏	xià	summer	这里夏天非常炎热。	deck#4	due@2024-10-26 20:02:15
 4	省	shěng	province	中国有很多省。	deck#3	due@2024-09-06 14:57:50
 3	差	chà;chā;chāi	mistaken/poor;difference;send		deck#4	due@2024-09-29 14:55:19
 4	差不多	chàbuduǒ	about the same/almost/approximately	我跟我妹妹差不多一样高。	deck#5	due@2024-09-30 22:38:09
@@ -449,7 +449,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	果汁	guǒzhī	juice	他喜欢喝果汁。	deck#4	due@2024-09-11 21:10:28
 4	果然	guǒrán	as expected	果然，天下雨了。		
 2	课	kè	subject/class/lesson		deck#5	due@2024-12-24 20:17:32
-3+	课文	kèwén	text	我读课文。	deck#4	due@2024-08-18 21:11:36
+3+	课文	kèwén	text	我读课文。	deck#4	due@2024-10-26 19:51:39
 4	辣	là	spicy/hot	我们爱辣的。	deck#4	due@2024-09-03 12:29:17
 3	关	guān	to close, to turn off		deck#4	due@2024-09-11 21:34:27
 3	关系	guānxi	relation/reason/impact	没有关系，你选择。	deck#4	due@2024-09-12 21:06:29
@@ -468,12 +468,12 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	这	zhè	this		deck#6	due@2025-06-03 21:29:32
 1+	这儿	zhè'er	here		deck#6	due@2025-06-03 21:12:15
 1	呢	ne	a particle used for emphasis in a question		deck#5	due@2024-10-11 12:24:03
-1	能	néng	be able to, capable (a), ability (n)	我能帮助你。	deck#5	due@2024-09-19 15:14:10
+1	能	néng	be able to, capable (a), ability (n)	我能帮助你。	deck#6	due@2025-09-21 19:53:22
 2	可能	kěnéng	possible, possibility, maybe/possibly		deck#6	due@2025-06-28 20:58:31
 1	你	nǐ	you		deck#6	due@2025-03-18 18:43:42
 3	口	kǒu	mouth		deck#5	due@2024-09-06 21:44:26
 4	入口	rùkǒu	entrance	这是唯一的入口。	deck#6	due@2025-06-03 21:35:55
-5	人口	rénkǒu	population	人口正在增长。	deck#4	due@2024-09-11 15:53:50
+5	人口	rénkǒu	population	人口正在增长。	deck#4	due@2024-10-26 19:55:06
 5	出口	chūkǒu	exit		deck#6	due@2025-09-20 20:40:58
 2	门(口)	ménkǒu	door/gate		deck#6	due@2025-06-03 21:24:48
 3	只	zhǐ	only, MW for one of a pair	我只认识他。	deck#5	due@2024-09-06 21:27:26
@@ -524,7 +524,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4+	按	àn	according to		deck#3	due@2024-09-06 15:06:52
 4	按照	ànzhào	according to/in accordance with	每人做按照自已的性格。		
 4	按时	ànshí	on time/on schedule	火车应该按时地离开。	deck#4	due@2024-09-29 17:56:32
-1	朋友	péngyou	friend	你是我的朋友。	deck#5	due@2024-09-06 21:53:29
+1	朋友	péngyou	friend	你是我的朋友。	deck#6	due@2025-09-21 19:59:39
 3	明白	míngbai	to understand	我不明白你说什么。	deck#5	due@2024-10-17 21:16:59
 4	咱们	zánmen	we/us (inclusive)	咱们去吃饭吧。		
 3	用	yòng	to use/ need	用杯子喝啤酒 ; 我不会用汉语说这句话	deck#6	due@2024-12-15 11:05:37
@@ -582,7 +582,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	客人	kèrén	guest, customer	你有没有客人？	deck#5	due@2024-10-11 16:50:38
 4	客厅	kètīng	living room	新家的客厅很大。	deck#4	due@2024-09-29 14:38:15
 6	客户	kèhù	customer	银行有很多客户。	deck#3	due@2024-09-06 14:42:35
-5+	客气	kèqi	polite	不客气，没有问题。	deck#4	due@2024-09-03 12:30:31
+5+	客气	kèqi	polite	不客气，没有问题。	deck#5	due@2024-12-25 19:50:07
 4+	旅客	lǚkè	traveller/tourist		deck#3	due@2024-08-19 15:55:18
 4	乘客	chéngkè	passenger	三十个乘客死了。	deck#4	due@2024-10-25 20:22:10
 4	乘坐	chéngzuǒ	to ride a vehicle	我喜欢乘坐火车。	deck#3	due@2024-09-06 15:02:05
@@ -643,7 +643,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	接受	jiēshòu	accept/receive	你会接受这份工作吗？	deck#3	due@2024-08-19 15:44:58
 !	文	wén	writing		deck#5	due@2024-10-12 21:39:43
 1	书	shū	book (n), letter (n)	我买了一本书。	deck#5	due@2024-09-06 21:22:21
-1	说	shuō	to say/speak	我会说英语。	deck#5	due@2024-09-06 21:38:47
+1	说	shuō	to say/speak	我会说英语。	deck#6	due@2025-09-21 19:58:10
 2	说话	shuōhuà	to talk/to chat	我跟你说话。	deck#5	due@2024-09-06 21:22:32
 4	说明	shuōmíng	to describe/show/illustrate/explain/explanation	图的下面有说明。	deck#4	due@2024-09-05 19:21:38
 4	脱	tuō	to take off/escape	他把衬衫脱了。	deck#2	due@2024-08-07 22:17:23
@@ -652,7 +652,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 !	活	huó	live/life	我知道我们活着。	deck#4	due@2024-08-13 21:52:10
 !	话	huà	speech/talk/words	他从来不说话。	deck#5	due@2024-09-06 21:46:49
 4	适合	shìhé	to suit/to fit	她很适合当护士。	deck#4	due@2024-09-03 20:26:02
-4	合适	héshì	suitable	她很合适的护士。	deck#4	due@2024-09-03 20:28:44
+4	合适	héshì	suitable	她很合适的护士。	deck#4	due@2024-10-26 19:53:20
 4	适应	shìyìng	to adapt/to suit/to get accustomed	他对新房子适应了。		due@2024-07-20 21:06:33
 3+	刮	guā	shave/scrape/blow (wind)	我刮胡子的时候，刮了很大风。	deck#4	due@2024-09-11 15:46:26
 3	刮风	guāfēng	wind blows	今天刮风。	deck#5	due@2024-11-10 21:27:29
@@ -670,13 +670,13 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	它	tā	it		deck#5	due@2024-09-06 21:38:56
 3	地	de	particle			
 3	地	dì	place,land,earth,location		deck#5	due@2024-10-11 12:18:30
-3	地方	dìfang	place,location,room	那是个好地方吗？	deck#5	due@2024-09-06 21:33:21
+3	地方	dìfang	place,location,room	那是个好地方吗？	deck#5	due@2024-12-25 20:04:06
 3	地图	dìtú	map	这张地图很大。	deck#4	due@2024-09-12 20:35:07
 5	地区	dìqū	district/area	这是一个产苹果的地区。	deck#4	due@2024-09-29 17:45:34
 4	地址	dìzhǐ	address	我下了班，给你我我的地址。		due@2024-07-19 22:17:08
 5	地震	dìzhèn	earthquake	地震随时都可能发生。		
 1	听	tīng	to listen	我听人们唱歌。	deck#5	due@2024-09-06 21:32:15
-1	听到	tīngdào	to hear	我听到有人在唱歌。	deck#5	due@2024-09-06 21:32:15
+1	听到	tīngdào	to hear	我听到有人在唱歌。	deck#6	due@2025-09-21 20:04:01
 4	厅	tīng	hall	这个大厅可以容纳5000个人。	deck#4	due@2024-09-05 12:42:28
 4	所有	suǒyǒu	all/to possess/to have	所有的人	deck#5	due@2024-11-28 14:47:02
 1	喂	wéi	hello (on phone)		deck#4	due@2024-08-20 20:36:54
@@ -694,7 +694,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	先生	xiānsheng	mister		deck#5	due@2024-09-06 21:14:49
 6	先进	xiānjìn	advanced	这个国家的经济很先进。	deck#4	due@2024-09-29 14:47:59
 6	先前	xiānqián	before/in the past		deck#3	due@2024-09-06 17:43:12
-3	选择	xuǎnzé	to choose/choice	你自己选择了这份工作，是吗？	deck#4	due@2024-09-12 20:39:06
+3	选择	xuǎnzé	to choose/choice	你自己选择了这份工作，是吗？	deck#4	due@2024-10-26 19:58:15
 1	学生	xuésheng	student	他是很好的学生。	deck#6	due@2025-09-20 20:29:17
 2	生日	shēngrì	birthday	生日快乐！	deck#6	due@2024-12-15 11:01:44
 4	生活	shēnghuó	life/live	我有一个忙得生活。	deck#5	due@2024-10-11 16:42:29
@@ -716,7 +716,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	大约	dàyuē	approximately/probably	我走了大约一公里。	deck#4	due@2024-09-29 14:58:59
 4	节约	jièyuē	to save (money etc)/frugal	买贵药品不节约。		
 4	约	yuē	to make an appointment		deck#3	due@2024-10-02 20:41:26
-4	约会	yuēhuì	appointment/date	我在四点和她有个约会。	deck#3	due@2024-08-13 22:22:44
+4	约会	yuēhuì	appointment/date	我在四点和她有个约会。	deck#4	due@2024-10-26 20:02:06
 2	因为	yīnwèi	because	因为她病了，她不在。	deck#5	due@2024-10-17 22:02:01
 4	因此	yīncǐ	therefore/thus/as a result	她经常去看牙医，因此很少牙疼。		
 3+	困	kùn	sleepy	因为我不睡了觉，所以我很困。	deck#3	due@2024-09-06 14:46:56
@@ -767,7 +767,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	范围	fànwéi	scope/range/limits/extent	这份工作在我能力范围之外.		
 5	围巾	weíjīn	scarf/shawl	你为什么戴那条围巾？		
 1	一	yī	one		deck#6	due@2025-06-16 14:51:53
-1	一点儿	yìdiǎnr	a little bit/some	我会说一点儿汉语。	deck#5	due@2024-09-19 18:57:57
+1	一点儿	yìdiǎnr	a little bit/some	我会说一点儿汉语。	deck#6	due@2025-09-21 20:01:46
 2	第一	dìyī	first	我第一次明白你说什么。	deck#5	due@2024-09-06 21:37:01
 5+	牙	yá	tooth	农民的牙疼。	deck#3	due@2024-08-19 15:50:02
 1	衣服	yīfu	clothes	她穿漂亮的衣服。	deck#5	due@2024-10-11 12:06:51
@@ -826,10 +826,10 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	要是	yàoshì	if		deck#4	due@2024-09-29 14:51:53
 2	知道	zhīdào	to know	我真的不知道	deck#5	due@2024-09-06 21:49:26
 4	知识	zhīshi	knowledge	我关于日语的知识掌握得还不是很好。	deck#5	due@2024-12-24 20:32:11
-3	街道	jiēdào	street	那街道非常吵。	deck#4	due@2024-09-03 20:24:12
+3	街道	jiēdào	street	那街道非常吵。	deck#4	due@2024-10-26 19:47:59
 4	道歉	dàoqiàn	apologize	我为昨天发生的事道歉。	deck#2	due@2024-08-14 21:00:34
 3	楼	lóu	building		deck#4	due@2024-09-11 15:32:13
-2	吧	ba	suggestion particle	我们去商店吧。	deck#5	due@2024-09-06 21:34:15
+2	吧	ba	suggestion particle	我们去商店吧。	deck#6	due@2025-09-21 19:53:24
 3	把	bǎ	hold/take (also shifts obj before verb)	我把面包吃完了。		
 3	爬上	páshàng	climb	猴子爬上了树。	deck#5	due@2024-10-12 20:58:04
 4	导游	dǎoyóu	guide	我为你充当导游。		
@@ -1046,7 +1046,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	农民	nóngmín	peasant	农民穿着奇怪的衣服,而且有奇怪的牙。	deck#4	due@2024-09-29 14:40:19
 3	低	dī	low/to lower		deck#5	due@2024-10-12 20:46:08
 4	底	dǐ	bottom/background/base/end	厨房在底楼。	deck#3	due@2024-09-06 17:48:41
-4	到底	dàodǐ	after all/in the end (in question)	他到底来不来？	deck#4	due@2024-09-05 19:09:02
+4	到底	dàodǐ	after all/in the end (in question)	他到底来不来？	deck#4	due@2024-10-26 19:53:57
 3	短	duǎn	short/owe	我在读短篇小说	deck#4	due@2024-09-29 16:52:59
 4	度	dù	degree/measure		deck#4	due@2024-09-29 14:58:27
 4	速度	sùdù	speed	有速度限制吗?	deck#4	due@2024-09-03 12:30:16
@@ -1271,7 +1271,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	牛奶	niúnǎi	cow-milk	茶比牛奶贵吗？	deck#4	due@2024-09-29 17:56:03
 3	奶奶	nǎinǎi	grandmother	我奶奶丢去了记忆。	deck#5	due@2024-11-28 15:01:39
 4	旅行	lǚxíng	to travel	我坐飞机去旅行。	deck#5	due@2024-12-24 20:31:37
-2	旅游	lǚyóu	tour/trip/journey	日本人喜欢去旅游。	deck#4	due@2024-09-11 21:09:39
+2	旅游	lǚyóu	tour/trip/journey	日本人喜欢去旅游。	deck#4	due@2024-10-26 19:58:07
 &	旅馆	lǚguǎn	hotel	他住进了一家很便宜的旅馆。	deck#3	due@2024-09-06 15:06:04
 2	宾馆	bīnguǎn	hotel	这里是三星级宾馆。	deck#4	due@2024-09-11 15:56:56
 &	食堂	shítáng	canteen/diner	我是在食堂吃的饭。	deck#5	due@2024-09-06 21:51:32
@@ -1296,7 +1296,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	超市	chāoshì	supermarket	这里附近有超市吗？	deck#5	due@2024-10-12 20:44:29
 4	超过	chāoguò	surpass/leave behind	他的体重超过八十公斤。	deck#4	due@2024-09-29 14:51:40
 3	或者	huǒzhè	or	你喝咖啡或者茶吗？	deck#5	due@2024-10-12 21:00:30
-4	咸	xián	salty/salted	海水是咸的或者甜的吗？	deck#4	due@2024-08-27 13:42:43
+4	咸	xián	salty/salted	海水是咸的或者甜的吗？	deck#4	due@2024-10-26 20:01:43
 4	感谢	gǎnxiè	thank/gratitude	非常感谢你的到来。	deck#4	due@2024-09-03 12:27:45
 4	减	jiǎn	to reduce/to decrease/to substract			due@2024-07-20 20:45:25
 4	减少	jiǎnshǎo	to reduce/to decrease	人口的减少会给让我们带来问题。		due@2024-07-19 22:26:45
@@ -1398,7 +1398,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	积极	jījí	active/positive/energetic	他很积极地工作。	deck#2	due@2024-08-13 21:42:18
 4	寄	jì	to send (by mail)	他寄了信。	deck#4	due@2024-09-29 14:41:08
 3	奇怪	qíguài	strange/odd	奇怪的声音从门后去来。	deck#4	due@2024-09-12 20:44:58
-1	椅子	yǐzi	chair	她拿了一把椅子。	deck#5	due@2024-09-06 21:15:38
+1	椅子	yǐzi	chair	她拿了一把椅子。	deck#5	due@2024-12-25 19:59:36
 3	骑	qí	ride	我是骑自行车来的。	deck#4	due@2024-09-03 12:27:31
 4	专业	zhuānyè	field of study/profession/major		deck#3	due@2024-09-06 14:33:31
 5	专家	zhuānjiā	specialist/expert	他是个数学专家。	deck#4	due@2024-09-29 16:54:29
@@ -1472,7 +1472,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	尽管	jǐnguǎn	even though..	尽管天下着雨，他还是来的。	deck#3	due@2024-08-16 21:57:58
 5	尽力	jǐnlì	try one’s hardest (努力)		deck#2	due@2024-08-14 20:59:29
 5	尽量	jǐnliàng	to the best of one's ability	她会尽量按时赶来的。		due@2024-07-13 16:42:11
-4	取	qǔ	take/obtain/adopt/choose	请给我取一张票。	deck#4	due@2024-09-12 21:02:43
+4	取	qǔ	take/obtain/adopt/choose	请给我取一张票。	deck#4	due@2024-10-26 19:47:00
 3	取消	qǔxiāo	cancel	我不能取消它。	deck#2	due@2024-08-14 20:48:27
 5+	取得	qǔdé	to reach/get/acquire/attain	这几年，科学取得了显著的进步。	deck#4	due@2024-09-29 16:53:18
 6	取缔	qǔdì	ban	首都的新闻报道受到了严格限制。		due@2024-07-13 19:34:11
