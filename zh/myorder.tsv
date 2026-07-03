@@ -68,7 +68,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	法律	fǎlǜ	law	法律之前人人平等	deck#4	due@2024-10-29 21:42:25
 5	法院	fǎyuàn	court	犯人在法院进去。	deck#4	due@2026-07-16 19:09:15
 5	合法	héfǎ	legal	我找合法的办法。	deck#4	due@2026-07-11 08:05:58
-6	非法	fēifǎ	illegal	我没有做过非法的事。	deck#5	due@2025-09-28 21:14:01
+6	非法	fēifǎ	illegal	我没有做过非法的事。	deck#5	due@2026-10-01 21:41:39
 1	大	dà	big	他很大。	deck#6	due@2026-07-03 11:03:47
 2	大家	dàjiā	everybody	大家都知道。	deck#6	due@2027-06-11 18:20:34
 2+	大学	dàxué	university	我在大学学习数学。	deck#6	due@2026-08-14 21:22:44
@@ -471,7 +471,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	能	néng	be able to, capable (a), ability (n)	我能帮助你。	deck#6	due@2027-06-11 17:22:02
 2	可能	kěnéng	possible, possibility, maybe/possibly		deck#6	due@2026-06-25 21:12:39
 1	你	nǐ	you		deck#6	due@2026-07-03 17:34:01
-3	口	kǒu	mouth		deck#6	due@2026-07-03 10:56:03
+3	口	kǒu	mouth		deck#6	due@2027-06-28 21:41:03
 4	入口	rùkǒu	entrance	这是唯一的入口。	deck#6	due@2026-07-03 10:57:56
 5	人口	rénkǒu	population	人口正在增长。	deck#4	due@2024-10-26 19:55:06
 5	出口	chūkǒu	exit		deck#6	due@2027-06-11 19:17:28
@@ -701,7 +701,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 2	生病	shēngbìng	get ill/sick	因为她生病了，所以她会去医院。	deck#6	due@2026-08-14 21:16:25
 3	生气	shēngqì	get angry	塔生气了。	deck#5	due@2026-09-14 16:59:18
 4	生意	shēngyì	business/trade	他有一笔生意	deck#2	due@2024-08-14 21:03:02
-4	出生	chūshēng	to be born	你是在哪儿出生的？	deck#6	due@2026-07-03 10:53:21
+4	出生	chūshēng	to be born	你是在哪儿出生的？	deck#6	due@2027-06-28 21:41:09
 1	医生	yīshēng	doctor	医生在医院工作。	deck#6	due@2027-06-11 18:48:04
 1	医院	yīyuàn	hospital	医生在医院工作。	deck#6	due@2026-07-03 10:45:33
 4	任何	rènhé	any/whatever	没有任何干净的盘子。	deck#4	due@2026-07-16 19:54:57
@@ -853,7 +853,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	计划	jìhuà	plan/project/program (n/v)	这是谁做的计划？	deck#4	due@2026-07-16 16:57:57
 4	叶子	yèzi	leaf	一片叶子正在掉下来。	deck#5	due@2026-09-14 17:07:43
 4	森林	sēnlín	forest	森林里的动物很多。	deck#4	due@2026-07-16 17:15:56
-1	杯子	bēizi	cup/glass	哪个杯子是你的？ 桌子上有两各杯子。	deck#6	due@2026-07-03 10:56:49
+1	杯子	bēizi	cup/glass	哪个杯子是你的？ 桌子上有两各杯子。	deck#6	due@2027-06-28 21:41:27
 4	怀疑	huáiyí	doubt/suspect	我怀疑你的于是。我怀疑他知道多一点儿。		due@2024-07-21 20:15:35
 5	怀孕	huáiyùn	be pregnant	我怀孕了！		due@2024-07-21 20:16:17
 2	还	hái	still/yet	我还在看。	deck#6	due@2027-06-11 19:58:13
@@ -1078,7 +1078,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	离开	líkāi	leave/depart	我不想离开。	deck#6	due@2027-06-11 18:31:40
 4	距离	jùlí	distance	这距离很远。	deck#2	due@2024-08-01 19:18:44
 4	留	liú	to stay/retain/leave (a message)	我想留在哪里。	deck#4	due@2026-07-16 19:24:37
-3	留学	liúxué	to study abroad	他离开父母去国外留学。	deck#4	due@2024-10-25 20:28:20
+3	留学	liúxué	to study abroad	他离开父母去国外留学。	deck#5	due@2026-10-01 21:40:46
 3	难	nán	difficult/hard	学荷兰语不难。	deck#6	due@2025-11-06 19:14:38
 3	难过	nánguò	be sad/be grieved/have a hard time			
 4	难道	nán dào	could it be that?	难道他不回来吗？		due@2024-07-13 12:21:25
@@ -1132,7 +1132,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	组织	zǔzhī	organise/organisation	你很有组织能力。		due@2024-07-20 21:15:13
 3	相同	xiāngtóng	same/identical	他们有相同的想法。	deck#4	due@2024-10-30 22:04:25
 3	相信	xiāngxìn	believe (v)	我不相信你说的话。	deck#6	due@2026-08-14 21:09:11
-3+	相比	xiāngbǐ	compared to	和以前相比，已经进步了很多。	deck#4	due@2026-02-09 21:59:34
+3+	相比	xiāngbǐ	compared to	和以前相比，已经进步了很多。	deck#4	due@2026-08-02 21:43:10
 4	相反	xiāngfǎn	opposite	我的看法相反。		due@2024-06-17 21:51:17
 5	相当	xiāngdāng	quite/match/appropriate/relatively	她说话相当快.		due@2023-12-22 22:05:39
 4	互相	hùxiāng	eachother/mutually	我们应该互相学习	deck#3	due@2024-09-06 14:55:11
@@ -1161,7 +1161,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	报名	bàomíng	register/sign up/registration	我昨天就报了名。		due@2024-07-20 21:16:31
 2	路	lù	road/path	路两边有许多树。	deck#4	due@2026-07-14 17:36:46
 2	跑步	pǎobù	to run	我妈妈每天都在公园中跑步。	deck#4	due@2024-09-11 21:23:20
-&	跳	tiào	jump/beat(heart)/bounce	小孩子感兴地跳了起来。	deck#5	due@2025-10-06 11:07:04
+&	跳	tiào	jump/beat(heart)/bounce	小孩子感兴地跳了起来。	deck#4	due@2026-08-02 21:42:36
 2	跳舞	tiàowǔ	dance	她喜欢跳舞。	deck#4	due@2026-07-16 17:19:31
 4	杂志	zázhì	magazine	她读完了杂志。	deck#4	due@2026-07-16 17:17:31
 4	复杂	fùzá	complicated	我的作业很复杂。		
@@ -1315,7 +1315,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	斗	dòu	fight/struggle/combat		deck#5	due@2026-09-14 16:59:08
 6	斗争	dòuzhēng	combat/fight/struggle	斗争结束了。	deck#4	due@2026-07-16 19:35:12
 4	科学	kēxué	science	科学改变了我们的生活。	deck#3	due@2024-08-19 15:46:02
-3	树	shù	tree	这棵树停止生长了。	deck#5	due@2026-04-10 21:46:51
+3	树	shù	tree	这棵树停止生长了。	deck#5	due@2026-10-01 21:41:45
 3	练习	liànxí	to practise/exercise	你需要每天练习。	deck#4	due@2026-07-14 17:37:35
 5	训练	xùnliàn	to train/training	和他们一起训练不是游戏。		
 3	裙子	qúnzi	skirt	我买了一条裙子。	deck#5	due@2025-10-06 11:05:05
