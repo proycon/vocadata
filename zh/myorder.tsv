@@ -65,6 +65,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	办公室	bàngōngshì	office	我的办公室在这里。	deck#5	due@2026-11-29 20:30:21
 3	办法	bànfǎ	method/way	我不知道办法。	deck#5	due@2026-09-14 16:55:02
 4	方法	fāngfǎ	method/way	我喜欢这个学习方法。	deck#4	due@2026-09-28 19:48:17
+3	方便	fāngbiàn	convenient	这个超市很方便。
 4	法律	fǎlǜ	law	法律之前人人平等	deck#4	due@2026-09-28 14:56:13
 5	法院	fǎyuàn	court	犯人在法院进去。	deck#5	due@2026-11-27 19:39:54
 5	合法	héfǎ	legal	我找合法的办法。	deck#5	due@2026-11-27 19:13:23
@@ -72,6 +73,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	大	dà	big	他很大。	deck#6	due@2027-08-24 19:35:17
 2	大家	dàjiā	everybody	大家都知道。	deck#6	due@2027-06-11 18:20:34
 2+	大学	dàxué	university	我在大学学习数学。	deck#6	due@2027-08-26 20:21:45
+3N	大小	dàxiǎo	size/dimension	这个房间的大小很合适
 !	犬	quǎn	dog (radical)		deck#5	due@2026-09-14 17:06:17
 &	占	zhàn;zhān	occupy;divine		deck#3	due@2026-09-08 21:20:03
 1	点	diǎn	a little/o'clock	六点四十五了。	deck#6	due@2027-06-30 21:04:57
@@ -85,6 +87,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	电视	diànshì	television	他把电视关掉	deck#6	due@2026-12-09 13:13:27
 1	电影	diànyǐng	film	我要跟我朋友去看电影	deck#6	due@2027-08-26 19:07:24
 1+	电话	diànhuà	telephone	我一下打电话。	deck#6	due@2027-06-11 19:46:39
+3	电梯	diàntī	elevator/lift	电梯坏了。
 3+	视频	shìpín	video	我真的很喜欢看你的视频。	deck#4	due@2026-09-28 22:07:59
 1	四	sì	four		deck#6	due@2027-06-11 16:59:35
 3	西	xī	west		deck#6	due@2027-06-30 21:10:20
@@ -134,6 +137,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	份	fèn	part/portion(MW)		deck#3	due@2026-09-07 21:12:08
 1	分钟	fēnzhōng	minute	我十分钟后有空。	deck#5	due@2026-11-29 19:33:56
 4	部分	bùfèn	part (n)	我只可以看一部分的人。	deck#3	due@2026-09-07 21:07:23
+3N	分开	fēnkāi	to separate
 4	十分	shífēn	very/fully/100%	在这儿生活十分安全。	deck#5	due@2026-11-27 22:31:08
 5	分析	fēnxī	to analyse/analysis	我来帮你分析以下吧！		
 4	全部	quánbù	whole (adj/n)	谁吃了全部饼干？	deck#5	due@2026-11-27 19:19:51
@@ -458,6 +462,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	联系	liánxì	contact/link/connect (v/n)	请联系医生。/ 你为什么没有保持联系吗？	deck#2	due@2026-09-02 21:15:01
 3	关心	guānxīn	to concern/to worry	他不关心财富.	deck#5	due@2026-11-27 20:00:59
 3	关于	guānyú	about/regarding	他写了很多关于中国的书。	deck#5	due@2026-11-29 20:19:24
+3N	关注	guānzhù	to pay attention to	
 1	没有	méiyǒu	not have	我没有车。	deck#6	due@2027-08-24 20:24:07
 1	名字	míngzi	name	你叫什么名字？	deck#6	due@2027-06-06 07:48:14
 3	有名	yǒumíng	famous	我的哥哥有名。	deck#6	due@2027-08-26 19:38:54
@@ -590,7 +595,10 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	价值	jiàzhí	worth/value	我们不能高估健康的价值。		
 2	介绍	jièshào	to introduce	我给你介绍我的朋友。	deck#6	due@2027-08-24 20:14:37
 4	桥	qiáo	bridge	那座桥不够宽。	deck#4	due@2026-09-30 19:27:38
+3N	段	duàn	paragraph/segment/section (MW)
+3N	锻炼	duànliàn	to exercise/work out	我每天锻炼身体。
 4	假	jiǎ;jià	false/artificial/if/borrow;vacation	他的报告是假的。/ 下周我去度假。	deck#4	due@2026-09-30 20:16:11
+4	放假	fàngjià	to have a holiday/vacation	我们大学下个月放假。
 4	骄傲	jiāo'ào	pride/proud/arrogance	我们的孩子是我们的骄傲。		due@2024-07-20 20:47:16
 1	三	sān	three	一，二，三	deck#6	due@2027-01-05 21:50:35
 1	上	shàng	go up/on/last		deck#6	due@2027-08-26 20:04:13
@@ -654,6 +662,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	适合	shìhé	to suit/to fit	她很适合当护士。	deck#5	due@2026-11-27 21:50:49
 4	合适	héshì	suitable	她很合适的护士。	deck#5	due@2026-11-26 15:28:23
 4	适应	shìyìng	to adapt/to suit/to get accustomed	他对新房子适应了。		due@2024-07-20 21:06:33
+3N	的话	dehuà	if (after conditional clause)	你去北京的话,你做什么？
 3+	刮	guā	shave/scrape/blow (wind)	我刮胡子的时候，刮了很大风。	deck#5	due@2026-11-27 20:04:35
 3	刮风	guāfēng	wind blows	今天刮风。	deck#5	due@2026-09-14 19:51:41
 1	岁	suì	years old	我32岁	deck#6	due@2027-08-26 19:47:10
@@ -675,6 +684,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	地区	dìqū	district/area	这是一个产苹果的地区。	deck#3	due@2026-09-08 21:05:57
 4	地址	dìzhǐ	address	我下了班，给你我我的地址。		due@2024-07-19 22:17:08
 5	地震	dìzhèn	earthquake	地震随时都可能发生。		
+4	地点	dìdiǎn	location	请告诉我会议的地点在哪里。
 1	听	tīng	to listen	我听人们唱歌。	deck#6	due@2027-08-24 19:30:30
 1	听到	tīngdào	to hear	我听到有人在唱歌。	deck#6	due@2027-06-30 21:11:00
 4	厅	tīng	hall	这个大厅可以容纳5000个人。	deck#3	due@2026-09-08 21:43:34
@@ -826,6 +836,8 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	要是	yàoshì	if		deck#5	due@2026-10-03 21:05:02
 2	知道	zhīdào	to know	我真的不知道	deck#6	due@2027-08-24 18:51:18
 4	知识	zhīshi	knowledge	我关于日语的知识掌握得还不是很好。	deck#5	due@2026-09-14 17:06:37
+3N	封	fēng	to seal	请把这封信封好。
+3N	街	jiē	street
 3	街道	jiēdào	street	那街道非常吵。	deck#5	due@2026-11-27 19:59:23
 4	道歉	dàoqiàn	apologize	我为昨天发生的事道歉。	deck#2	due@2026-09-02 17:15:31
 3	楼	lóu	building		deck#5	due@2026-09-14 19:16:26
@@ -844,6 +856,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	付	fù	hand over/pay	我想付现金。	deck#6	due@2027-08-24 22:11:40
 4	付钱	fùqián	to pay	他付了钱。	deck#6	due@2027-08-23 15:21:29
 4	付款	fùkuǎn	to pay	我想用信用卡付款。	deck#2	due@2026-09-02 21:26:56
+3N	附近	fùjìn	nearby	附近的人。/ 我家附近有一个公园。
 2	过	guò	past/completion participle		deck#6	due@2027-08-24 19:40:34
 3	过去	guòqù	the past		deck#6	due@2027-06-30 21:15:38
 4	衬衫	chènshān	shirt	他把衬衫脱了。	deck#3	due@2026-09-07 21:47:23
@@ -1298,6 +1311,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	或者	huǒzhè	or	你喝咖啡或者茶吗？	deck#6	due@2027-01-05 21:27:40
 4	咸	xián	salty/salted	海水是咸的或者甜的吗？	deck#4	due@2026-09-28 20:26:12
 4	感谢	gǎnxiè	thank/gratitude	非常感谢你的到来。	deck#6	due@2027-08-24 20:27:15
+3N	感到	gǎndào	to feel/sense/perceive	听到这个消息，我感到很高兴。
 4	减	jiǎn	to reduce/to decrease/to substract			due@2024-07-20 20:45:25
 4	减少	jiǎnshǎo	to reduce/to decrease	人口的减少会给让我们带来问题。		due@2024-07-19 22:26:45
 4	减肥	jiǎnféi	to lose weight	我不吃晚餐因为我想减肥。		
@@ -1457,7 +1471,9 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 6	治安	zhì'ān	security		deck#2	due@2026-09-02 21:31:17
 *	台湾	táiwān	Taiwan	台湾是自由的国家。	deck#4	due@2026-09-30 19:25:20
 3	舒服	shūfú	comfortable		deck#4	due@2026-09-28 22:02:47
+3N	服务	fúwù	to serve	请坐，我马上为你服务。
 2	服务员	fúwùyuán	waiter	这家饭店的服务员很干净。	deck#5	due@2026-11-27 19:09:14
+7N	服务器	fúwùqì	(computer) server
 3+	加	jiā	add/increase		deck#6	due@2027-06-11 20:01:37
 3+	架	jià	to construct/to support/frame		deck#3	due@2026-09-08 17:23:41
 3	参加	cānjiā	participate/take part in	我必须参加考试。	deck#6	due@2027-08-24 19:22:18
@@ -1516,6 +1532,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	赢	yíng	to win/beat/profit/gain	哪个队赢得比赛并不重要。		
 5	夜	yè	night/dark/by night	这是个冷的冬夜。	deck#3	due@2026-09-08 21:31:31
 4	熟悉	shúxī	to be familiar with/know well	我熟悉熊猫。		
+4	大概	dàgài	maybe/probably
 G	一···就	yī...jiú	as soon as	他一到城市就给我打了电话。	deck#5	due@2026-11-29 19:52:38
 G	连···都	lián...dōu	even	连小孩子都会做。	deck#2	due@2026-09-02 19:32:10
 G	不是···就是···	bùshi...jiùshi	If it's not..then it's...	我做的蛋糕不是被你吃了，就是被你妹妹吃了。	deck#5	due@2026-11-29 19:44:38
