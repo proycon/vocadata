@@ -87,7 +87,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	电视	diànshì	television	他把电视关掉	deck#6	due@2026-12-09 13:13:27
 1	电影	diànyǐng	film	我要跟我朋友去看电影	deck#6	due@2027-08-26 19:07:24
 1+	电话	diànhuà	telephone	我一下打电话。	deck#6	due@2027-06-11 19:46:39
-3	电梯	diàntī	elevator/lift	电梯坏了。		
+3N	电梯	diàntī	elevator/lift	电梯坏了,我们走楼梯吧。		
 3+	视频	shìpín	video	我真的很喜欢看你的视频。	deck#4	due@2026-09-28 22:07:59
 1	四	sì	four		deck#6	due@2027-06-11 16:59:35
 3	西	xī	west		deck#6	due@2027-06-30 21:10:20
@@ -103,6 +103,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	南	nán	south		deck#5	due@2026-11-29 19:39:38
 3	北	běi	north		deck#6	due@2027-08-24 19:30:28
 1	北京	běijīng	Beijing	北京是中国的首都。	deck#6	due@2027-08-24 22:30:50
+4	凉快	liángkuài	cool	打开窗户后，房间立刻变得凉快多了。
 5+	背	bèi	back/back side/behind	我拍拍狗的背。		
 5	背景	bèijǐng	background/backdrop	图片的背景是一座城市。		
 1	都	dōu	all/even/already		deck#6	due@2026-12-09 11:12:32
@@ -299,6 +300,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	气候	qìhòu	climate	这样树更适合在南的气候。	deck#4	due@2026-09-28 19:18:22
 4	空	kōng	empty (a), sky (n)	盒子是空的。	deck#6	due@2027-08-26 20:22:31
 4	空气	kōngqì	air	我需要鲜空气。	deck#6	due@2027-01-05 21:51:11
+3N	空调	kōngtiào	air conditioning	夏天很热，我们开空挑吧。
 5	天空	tiānkōng	sky	天空很晴朗。	deck#4	due@2026-09-30 20:04:24
 4	深	shēn	deep/profound	这片湖是日本最深的。	deck#5	due@2026-09-14 17:21:29
 4	窄	zhǎi	narrow	那座桥太窄。	deck#2	due@2026-09-02 21:16:59
@@ -572,6 +574,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 1	去	qù	to go / past (a)	去年我去了中国。	deck#6	due@2027-08-26 20:07:41
 4	丢	diù	to lose/throw away	我钥匙丢了。	deck#4	due@2026-09-27 15:15:23
 4	却	què	but/yet/however	我同意了，她却不同意了。	deck#4	due@2026-09-30 20:10:15
+3	聊天	liáotiān	to chat	我喜欢跟朋友聊天。
 2	出	chū	to exit / go out		deck#6	due@2027-08-26 19:11:03
 3	山	shān	mountain	上周末我爬山去了。		
 5	击	jī	strike/hit/beat/attack/fight/blow	停止射击! / 攻击！/ 不要点击那个链接。		
@@ -599,6 +602,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3N	锻炼	duànliàn	to exercise/work out	我每天锻炼身体。		
 4	假	jiǎ;jià	false/artificial/if/borrow;vacation	他的报告是假的。/ 下周我去度假。	deck#4	due@2026-09-30 20:16:11
 4	放假	fàngjià	to have a holiday/vacation	我们大学下个月放假。		
+3N	假期	jiàqī	vacation	这个假期我打算去沙滩。
 4	骄傲	jiāo'ào	pride/proud/arrogance	我们的孩子是我们的骄傲。		due@2024-07-20 20:47:16
 1	三	sān	three	一，二，三	deck#6	due@2027-01-05 21:50:35
 1	上	shàng	go up/on/last		deck#6	due@2027-08-26 20:04:13
@@ -841,6 +845,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 3	街道	jiēdào	street	那街道非常吵。	deck#5	due@2026-11-27 19:59:23
 4	道歉	dàoqiàn	apologize	我为昨天发生的事道歉。	deck#2	due@2026-09-03 21:11:43
 3	楼	lóu	building		deck#5	due@2026-09-14 19:16:26
+3N	楼梯	loútī	stairs	电梯坏了，我们走楼梯吧。
 2	吧	ba	suggestion particle	我们去商店吧。	deck#6	due@2027-08-24 20:16:13
 3	把	bǎ	hold/take (also shifts obj before verb)	我把面包吃完了。		
 3	爬上	páshàng	climb	猴子爬上了树。	deck#6	due@2027-08-26 20:22:50
@@ -1265,6 +1270,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 &	弹钢琴	tángāngqín	to play the piano	我经常弹钢琴。	deck#4	due@2026-09-30 19:26:54
 3	电子邮件	diànzǐyóujiàn	e-mail	我只想查一下我的电子邮件。	deck#5	due@2026-09-14 17:20:19
 3	画	huà	paint/draw/drawing/painting	那幅画是黑白的。	deck#5	due@2026-11-29 19:36:25
+3N	画家	huàjiā	painter	这位画家画了很多美丽的风景画。
 4	富	fù	wealthy	这儿没有富人	deck#4	due@2026-09-30 20:22:35
 4	丰富	fēngfù	to enrich/plentiful/abundant	中国有着丰富的文化。		due@2024-07-13 12:07:08
 &	福	fú	good fortune		deck#5	due@2026-09-14 17:02:01
@@ -1336,6 +1342,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 4	群	qún	MW for groups of people/animals	一群羊	deck#3	due@2026-09-07 20:34:42
 4	紧张	jǐnzhāng	nervous/intense	你看起来很紧张。	deck#4	due@2026-09-28 22:02:39
 5	紧急	jǐnjí	urgent	有紧急情况时，必须通过这个出口跑出房子。		due@2024-06-21 14:53:24
+3N	急	jí	urgent	你有什么急事要做吗？
 3	借	jiè	lend/borrow/excuse	能借给我你的刀吗？	deck#3	due@2026-09-08 21:28:55
 2	洗	xǐ	to wash	我每天都洗头发。	deck#6	due@2027-06-30 21:08:41
 3	洗手间	xǐshǒujiān	toilet	洗手间在哪里？	deck#6	due@2027-06-30 21:07:24
@@ -1533,6 +1540,7 @@ LEVEL	HANZI	PINYIN	MEANING	EXAMPLE
 5	夜	yè	night/dark/by night	这是个冷的冬夜。	deck#3	due@2026-09-08 21:31:31
 4	熟悉	shúxī	to be familiar with/know well	我熟悉熊猫。		
 4	大概	dàgài	maybe/probably			
+4	坚持	jiānchí	persist/persevere	我每天坚持跑步半小时。
 G	一···就	yī...jiú	as soon as	他一到城市就给我打了电话。	deck#5	due@2026-11-29 19:52:38
 G	连···都	lián...dōu	even	连小孩子都会做。	deck#3	due@2026-09-09 21:06:21
 G	不是···就是···	bùshi...jiùshi	If it's not..then it's...	我做的蛋糕不是被你吃了，就是被你妹妹吃了。	deck#5	due@2026-11-29 19:44:38
